@@ -1,0 +1,9 @@
+services:
+  book:
+    build: .
+    ports:
+      - "4200:4200"
+    volumes:
+      # Live mount — edits on your machine are reflected instantly in the preview
+      - .:/book
+    command: quarto preview --host 0.0.0.0 --port 4200 --no-browser

@@ -1,0 +1,31 @@
+/* Long-form reading typography */
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.05rem;
+  line-height: 1.85;
+}
+
+/* Keep headings in a clean sans-serif for contrast */
+h1, h2, h3, h4 {
+  font-family: system-ui, sans-serif;
+}
+
+/* Prevent images from overflowing on narrow screens */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+/* Give tables room to breathe */
+table {
+  width: 100%;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+/* Comfortable max reading width */
+.quarto-container {
+  max-width: 860px;
+}

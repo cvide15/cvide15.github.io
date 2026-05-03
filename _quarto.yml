@@ -1,0 +1,58 @@
+project:
+  type: book
+  output-dir: docs        # GitHub Pages serves from master/docs
+
+book:
+  title: "Nobel Physics: Core Concepts"   # final title TBD
+  author: "Author Name"                   # update before publishing
+  date: last-modified
+  search: true
+
+  # Uncomment and set once you have a domain — enables sitemap.xml and
+  # canonical URLs, both important for SEO
+  # site-url: https://yourdomain.com
+
+  # Uncomment to add Google Analytics once the site is live
+  # google-analytics: "G-XXXXXXXXXX"
+
+  # Sidebar / table of contents structure.
+  # Add new chapters here as they are written.
+  chapters:
+    - index.qmd
+    - part: "Part I: Quantum Phenomena"
+      chapters:
+        - chapters/10-entanglement.md
+
+  # Shown in the page footer
+  page-footer:
+    left: "© Author Name"
+    right:
+      - icon: github
+        href: https://github.com/your-repo   # update or remove
+
+format:
+  html:
+    theme:
+      - cosmo              # clean, widely-used base theme
+      - assets/custom.css  # our typography overrides
+    toc: true
+    toc-depth: 3
+    number-sections: false   # chapters already carry their own numbering (10.1 …)
+    html-math-method: mathjax  # renders physics equations — works without any config in the .md files
+    link-external-newwindow: true
+    fig-align: center
+
+  # PDF output from the same source — useful for readers who want to download
+  pdf:
+    documentclass: book
+    geometry:
+      - top=30mm
+      - left=25mm
+      - right=25mm
+      - bottom=30mm
+    include-in-header:
+      text: |
+        \usepackage{amsmath}
+
+# Place academic citations here as the book grows
+bibliography: references.bib

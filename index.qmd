@@ -1,0 +1,15 @@
+---
+title: "Preface"
+---
+
+*This preface will introduce the book, its goals, and the author.*
+
+## About this book
+
+This open work explores the core concepts behind Nobel Prize–winning discoveries
+in physics, written for a broad audience. Each chapter is published independently
+as the work progresses.
+
+## About the author
+
+*Author bio goes here.*
