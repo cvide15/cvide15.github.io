@@ -32,9 +32,8 @@ book:
 
 format:
   html:
-    theme:
-      - cosmo              # clean, widely-used base theme
-      - assets/custom.css  # our typography overrides
+    theme: cosmo             # clean, widely-used base theme
+    css: assets/custom.css   # typography overrides applied on top
     toc: true
     toc-depth: 3
     number-sections: false   # chapters already carry their own numbering (10.1 …)
