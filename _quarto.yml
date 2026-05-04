@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: docs        # GitHub Pages serves from master/docs
+  output-dir: _site       # build output; never committed to the repo
 
 book:
   title: "Nobel Physics: Core Concepts"   # final title TBD
