@@ -41,17 +41,6 @@ format:
     link-external-newwindow: true
     fig-align: center
 
-  # PDF output from the same source — useful for readers who want to download
-  pdf:
-    documentclass: book
-    geometry:
-      - top=30mm
-      - left=25mm
-      - right=25mm
-      - bottom=30mm
-    include-in-header:
-      text: |
-        \usepackage{amsmath}
 
 # Place academic citations here as the book grows
 bibliography: references.bib
