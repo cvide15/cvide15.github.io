@@ -19,10 +19,7 @@ book:
   # Add new chapters here as they are written.
   chapters:
     - index.qmd
-    - part: "Part I: Quantum Phenomena"
-      chapters:
-        - chapters/10-entanglement.md
-    - part: "Part II: Ultrafast Electron Dynamics"
+        - part: "Parte I"
       chapters:
         - chapters/5-dinamica.md
 
