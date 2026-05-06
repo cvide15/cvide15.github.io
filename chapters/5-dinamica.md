@@ -1,4 +1,6 @@
-**5. DINÁMICA ULTRARRÁPIDA DEL ELECTRÓN**
+---
+title: "5. Dinámica Ultrarrápida del Electrón"
+---
 
 <img src="../media/ch5/image1.png"
 style="width:6.13257in;height:2.92188in" />
