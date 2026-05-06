@@ -1,15 +1,31 @@
 ---
-title: "Preface"
+title: "Prefacio"
 ---
 
-*This preface will introduce the book, its goals, and the author.*
+Este libro es una obra abierta que explora los conceptos fundamentales detrás de los
+descubrimientos galardonados con el Premio Nobel de Física, escrita para un público amplio.
+Cada capítulo se publica de forma independiente conforme avanza la obra.
 
-## About this book
+## Acerca del autor
 
-This open work explores the core concepts behind Nobel Prize–winning discoveries
-in physics, written for a broad audience. Each chapter is published independently
-as the work progresses.
+El **Dr. Jorge Rafael Barojas-Weber** es físico egresado de la Facultad de Ciencias de la
+Universidad Nacional Autónoma de México (UNAM), donde obtuvo su licenciatura en 1966, y
+Doctor en Física por la Facultad de Ciencias de la Universidad de París (1970).
 
-## About the author
+Su trayectoria académica comenzó en 1961 como profesor en la Escuela Nacional Preparatoria
+de la UNAM. Posteriormente se integró a la Facultad de Ciencias, y de 1975 a 1994 fue
+Investigador del Departamento de Física de la Universidad Autónoma Metropolitana-Iztapalapa,
+donde encabezó el Área de Física Molecular.
 
-*Author bio goes here.*
+Fue el primer Coordinador de la Maestría en Docencia para la Educación Media Superior
+(MADEMS) de la UNAM, programa del que es también fundador. Se desempeñó como Coordinador
+del Laboratorio de Cognición, Cibernética y Aprendizaje de las Ciencias en el Centro de
+Instrumentos de la UNAM.
+
+A lo largo de su carrera ocupó cargos de relevancia internacional: fue *Senior Education
+Fellow* del American Institute of Physics y Secretario de la Comisión Internacional de
+Educación en Física. Fundó y dirigió la revista **CONTACTOS**, dedicada a la educación en
+ciencias básicas e ingeniería.
+
+Su obra escrita abarca libros de texto, artículos de investigación en didáctica de la física
+y contribuciones a la divulgación científica para el público general.

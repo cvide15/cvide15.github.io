@@ -3,9 +3,10 @@ project:
   output-dir: _site       # build output; never committed to the repo
 
 book:
-  title: "Nobel Physics: Core Concepts"   # final title TBD
-  author: "Author Name"                   # update before publishing
+  title: "Física Moderna explorando premios Nobel"
+  author: "Dr. Jorge Barojas-Weber"
   date: last-modified
+  language: es                            # translates UI elements (search, navigation, etc.)
   search: true
 
   # Uncomment and set once you have a domain — enables sitemap.xml and
@@ -25,7 +26,7 @@ book:
 
   # Shown in the page footer
   page-footer:
-    left: "© Author Name"
+    left: "© Dr. Jorge Barojas-Weber"
     right:
       - icon: github
         href: https://github.com/your-repo   # update or remove
