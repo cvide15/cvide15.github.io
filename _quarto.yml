@@ -24,6 +24,7 @@ book:
       chapters:
         - chapters/5-dinamica.md
         - chapters/10-la-naturaleza-está-fundamentalmente-indeterminada.md
+        - chapters/5-nacimiento-fisica-attosegundos.md
 
   # Shown in the page footer
   page-footer:
