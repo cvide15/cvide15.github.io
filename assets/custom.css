@@ -25,7 +25,3 @@ table {
   font-size: 0.95rem;
 }
 
-/* Comfortable max reading width */
-.quarto-container {
-  max-width: 860px;
-}

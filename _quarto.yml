@@ -19,7 +19,7 @@ book:
   # Add new chapters here as they are written.
   chapters:
     - index.qmd
-        - part: "Parte I"
+    - part: "Parte I"
       chapters:
         - chapters/5-dinamica.md
 
@@ -40,6 +40,10 @@ format:
     html-math-method: mathjax  # renders physics equations — works without any config in the .md files
     link-external-newwindow: true
     fig-align: center
+    grid:
+      sidebar-width: 260px
+      body-width: 900px
+      margin-width: 200px
 
 
 # Place academic citations here as the book grows
