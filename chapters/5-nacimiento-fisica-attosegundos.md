@@ -94,7 +94,7 @@ attosegundos en una herramienta de medición directa del tiempo. A
 continuación, describimos las contribuciones de L´Huillier, Agostini y
 Krausz.
 
-<img src="../media/ch5/image1.png"
+<img src="../media/ch5.2/image1.png"
 style="width:6.03889in;height:3.00585in" />
 
 **Contribuciones de Anne L´Huillier y colaboradores**
@@ -114,7 +114,7 @@ clara del fenómeno de High Harmonic Generation (HHG) y mostró que un
 electrón individual funcionaba como antena cuántica que convertía un
 campo óptico (IR) en radiación XUV coherente.
 
-<img src="../media/ch5/image2.png"
+<img src="../media/ch5.2/image2.png"
 style="width:6.03286in;height:2.80702in" />
 
 Las etapas del experimento de Generación de Armónicos de Alto Orden
@@ -125,7 +125,7 @@ de frecuencias de femtosegundos se hace pasar por un gas noble (Ar, Ne,
 Xe), de manera que el campo eléctrico del láser sea comparable al campo
 coulombiano del átomo.
 
-<img src="../media/ch5/image3.png"
+<img src="../media/ch5.2/image3.png"
 style="width:6.03472in;height:2.73438in" />
 
 2\. Ionización por efecto túnel: el campo del láser distorsiona el
@@ -158,7 +158,7 @@ intensidades casi constantes y termina en un corte abrupto (cutoff) que
 indica la máxima energía alcanzable. El espectro HHG es un mapa
 interferométrico de trayectorias electrónicas en el tiempo.
 
-<img src="../media/ch5/image4.png"
+<img src="../media/ch5.2/image4.png"
 style="width:6.03889in;height:3.6875in" />
 
 El mecanismo de formación del espectro HHG puede explicarse en términos
@@ -166,7 +166,7 @@ del modelo semiclásico de Maciej Lewenstein que comprende tres pasos:
 Ionización, Aceleración en el campo láser y Recombinación y emisión de
 radiación.
 
-<img src="../media/ch5/image5.png"
+<img src="../media/ch5.2/image5.png"
 style="width:6.03776in;height:2.57895in" />
 
 Sin embargo, el avance en la identificación y prueba de pulsos de
@@ -179,7 +179,7 @@ y luego se realizaron experimentos de bombeo-sonda para crear “imágenes"
 en tiempo real para estudiar la dinámica electrónica en átomos y
 moléculas.
 
-<img src="../media/ch5/image6.png"
+<img src="../media/ch5.2/image6.png"
 style="width:6.0383in;height:3.16146in" />
 
 **Contribuciones de Pierre Agostini y colaboradores**
@@ -200,10 +200,10 @@ partir de fases interferométricas. En lugar de “ver” directamente el
 tiempo, se mide una oscilación interferométrica que codifica la
 información temporal.
 
-<img src="../media/ch5/image7.png"
+<img src="../media/ch5.2/image7.png"
 style="width:6.03472in;height:2.33918in" />
 
-<img src="../media/ch5/image8.png"
+<img src="../media/ch5.2/image8.png"
 style="width:6.03889in;height:3.80729in" />
 
 La combinación de un tren de pulsos de attosegundos (generados mediante
@@ -244,7 +244,7 @@ el camino A y el camino B. Como resultado aparecen picos principales que
 son armónicos XUV impares y niveles intermedios llamados sidebands
 (bandas laterales) producidos por la interferencia.
 
-<img src="../media/ch5/image9.png"
+<img src="../media/ch5.2/image9.png"
 style="width:6.0375in;height:2.41146in" />
 
 5\. Interferencia cuántica entre los dos caminos: Los dos caminos
@@ -287,7 +287,7 @@ campo de la cronoscopía electrónica. En la siguiente sección 5.3
 abordaremos algunos desarrollos tecnológicos obtenidos como aplicación
 directa de este método.
 
-<img src="../media/ch5/image10.png"
+<img src="../media/ch5.2/image10.png"
 style="width:6.03581in;height:1.92982in" />
 
 Etapas del método de barrido temporal en attosegundos (attosecond
@@ -297,7 +297,7 @@ streaking)
 necesita generar armónicos de alto orden con el método HHG y pulsos
 ultracortos en el rango de attosegundo (XUV).
 
-<img src="../media/ch5/image11.png"
+<img src="../media/ch5.2/image11.png"
 style="width:6.03889in;height:2.175in" />2. Esquema de doble pulso
 (bomba-sonda: pump–probe): el pulso XUV en attosegundos es la bomba que
 ioniza el átomo y el pulso infrarrojo (IR) en femtosegundos es la sonda
@@ -323,7 +323,7 @@ liberación del electrón. Esto produce un espectrograma de barrido
 (streaking spectrogram) que relaciona la energía del electrón con el
 retardo temporal entre los dos pulsos.
 
-<img src="../media/ch5/image12.png"
+<img src="../media/ch5.2/image12.png"
 style="width:6.03594in;height:2.55556in" />
 
 6\. Detección del tiempo de vuelo de los electrones (time-of-flight):
@@ -365,7 +365,7 @@ absoluto”. Los tres métodos implementan una misma idea: el tiempo
 ultrarrápido no se mide directamente: se traduce en observables (fase o
 energía) alcanzables mediante la interacción luz–materia.
 
-<img src="../media/ch5/image13.png"
+<img src="../media/ch5.2/image13.png"
 style="width:6.03889in;height:2.61458in" />
 
 Esta Metodología opera a tres niveles interconectados:
@@ -384,7 +384,7 @@ Esta Metodología opera a tres niveles interconectados:
   interferencia que determina la fase y el método Streaking como
   dinámica directa que determina el tiempo.
 
-<img src="../media/ch5/image14.png"
+<img src="../media/ch5.2/image14.png"
 style="width:6.03681in;height:1.9375in" />
 
 Las aplicaciones de esta metodología se han centrado en la respuesta
@@ -396,7 +396,7 @@ L´Huillier cuando estudiaba la interacción de un láser intenso con gases
 nobles y observó que la radiación emitida contenía armónicos de la
 radiación láser de orden alto.
 
-<img src="../media/ch5/image15.png"
+<img src="../media/ch5.2/image15.png"
 style="width:6.03805in;height:2.65625in" />
 
 \(2\) La metrología que determina la medición y el uso de dichos pulsos
@@ -406,7 +406,7 @@ RABBITT y Attosecond Streaking. Con RABBITT se realizaron experimentos
 de interferencia para medir diferencias de tiempo y con Streaking se
 determinó la dinámica electrónica para medir tiempos absolutos.
 
-<img src="../media/ch5/image16.png"
+<img src="../media/ch5.2/image16.png"
 style="width:6.03889in;height:2.99415in" />
 
 Los respectivos mecanismos de operación corresponden a lo siguiente:
@@ -456,8 +456,8 @@ observables.
 | Requiere IR auxiliar                                   | No                               | Sí                               | Sí                                |
 | Salida                                                 | Peine de armónicos               | Oscilaciones en bandas laterales | Espectro desplazado de electrones |
 
-<img src="../media/ch5/image17.png"
+<img src="../media/ch5.2/image17.png"
 style="width:6.03809in;height:3.67836in" />
 
-<img src="../media/ch5/image18.png"
+<img src="../media/ch5.2/image18.png"
 style="width:6.03889in;height:3.57895in" />
