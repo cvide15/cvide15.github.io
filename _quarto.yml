@@ -22,6 +22,9 @@ book:
     - part: "Part I: Quantum Phenomena"
       chapters:
         - chapters/10-entanglement.md
+    - part: "Part II: Ultrafast Electron Dynamics"
+      chapters:
+        - chapters/5-dinamica.md
 
   # Shown in the page footer
   page-footer:

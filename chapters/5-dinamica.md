@@ -1,17 +1,17 @@
 **5. DINÁMICA ULTRARRÁPIDA DEL ELECTRÓN**
 
-<img src="/root/output/SEC5.1-abr2_media/media/image1.png"
+<img src="../media/ch5/image1.png"
 style="width:6.13257in;height:2.92188in" />
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
 
-<img src="/root/output/SEC5.1-abr2_media/media/image2.png"
+<img src="../media/ch5/image2.png"
 style="width:6.12724in;height:2.44643in" />
 
-<img src="/root/output/SEC5.1-abr2_media/media/image3.png"
+<img src="../media/ch5/image3.png"
 style="width:6.03826in;height:2.80357in" />
 
-<img src="/root/output/SEC5.1-abr2_media/media/image4.png"
+<img src="../media/ch5/image4.png"
 style="width:6.1375in;height:3.42431in" />
 
 | Tabla 5.1. Fenómenos físicos descritos con diferentes unidades de tiempo |                                                                           |
@@ -44,7 +44,7 @@ veces. Para percibir claramente estos movimientos, necesitamos registrar
 imágenes con una velocidad que sea mayor que la velocidad de vibración
 de las alas.
 
-<img src="/root/output/SEC5.1-abr2_media/media/image5.png"
+<img src="../media/ch5/image5.png"
 style="width:6.1375in;height:3.14352in" />
 
 **Medición del tiempo y definición del segundo**
@@ -105,7 +105,7 @@ pasaban mientras corría la arena.
 </colgroup>
 <thead>
 <tr class="header">
-<th><p><img src="/root/output/SEC5.1-abr2_media/media/image6.png"
+<th><p><img src="../media/ch5/image6.png"
 style="width:6.12708in;height:2.46296in" /></p>
 <p>El valor del segundo como unidad de tiempo se derivó primero de
 referencias astronómicas y evolucionó después a definiciones basadas en
@@ -117,7 +117,7 @@ Sistema Internacional de Unidades (SI), la duración del segundo
 corresponde a una vibración de 9.192.631.770 Hz, que es la frecuencia de
 transición hiperfina del estado fundamental no perturbada del átomo de
 cesio-133.</p>
-<p><img src="/root/output/SEC5.1-abr2_media/media/image7.png"
+<p><img src="../media/ch5/image7.png"
 style="width:6.12601in;height:2.84524in" /></p></th>
 <th></th>
 <th></th>
@@ -136,7 +136,7 @@ magnitud que los segundos que tiene de vida el universo:
 lo infinitesimalmente pequeño (el attosegundo) y lo inmensamente grande
 (el tiempo que ha pasado desde que el universo existe).
 
-<img src="/root/output/SEC5.1-abr2_media/media/image8.png"
+<img src="../media/ch5/image8.png"
 style="width:6.13587in;height:2.65556in" />
 
 **Tipos de relojes**
@@ -149,7 +149,7 @@ temporal medida en ciertas unidades. En general, los relojes de más uso
 miden intervalos de tiempo más cortos que las unidades naturales como el
 día, el mes lunar y el año.
 
-<img src="/root/output/SEC5.1-abr2_media/media/image9.png"
+<img src="../media/ch5/image9.png"
 style="width:6.13611in;height:3.24074in" />
 
 Para medir el tiempo hay que encontrar un evento periódico que se repita
@@ -161,7 +161,7 @@ eventos en la cadena de su evolución temporal, así como cuantificar su
 duración en términos del número de segundos que han transcurrido desde
 que el evento comenzó hasta que terminó.
 
-<img src="/root/output/SEC5.1-abr2_media/media/image10.png"
+<img src="../media/ch5/image10.png"
 style="width:6.13249in;height:2.44444in" />
 
 En lo que sigue haremos un breve recorrido histórico de la evolución de
@@ -171,7 +171,7 @@ relojes mecánicos, relojes digitales y relojes atómicos. En los relojes
 modernos se mide el tiempo aprovechando procesos mecánicos, eléctricos o
 atómicos que se repiten en intervalos regulares y predecibles.
 
-<img src="/root/output/SEC5.1-abr2_media/media/image11.png"
+<img src="../media/ch5/image11.png"
 style="width:6.1375in;height:3.7037in" />
 
 <u>Relojes primitivos</u>
@@ -205,7 +205,7 @@ tiempo transcurrido. Los relojes de arena también aparecieron hacia el
 siglo XIII hace unos 1200 años**.** En este caso el recurso no se
 consumía como en la vela, sino que se reutilizaba.
 
-<img src="/root/output/SEC5.1-abr2_media/media/image12.png"
+<img src="../media/ch5/image12.png"
 style="width:6.13581in;height:2.55729in" />
 
 <u>Relojes mecánicos</u>
@@ -218,7 +218,7 @@ oscila periódicamente. A medida que giran los engranajes se mueven las
 manecillas del reloj y el paso del tiempo se exhibe en horas, minutos y
 segundos. Se mide el tiempo contando oscilaciones.
 
-<img src="/root/output/SEC5.1-abr2_media/media/image13.png"
+<img src="../media/ch5/image13.png"
 style="width:6.13611in;height:2.94643in" />
 
 El primer reloj de engranajes conocido fue inventado por Arquímedes
@@ -233,7 +233,7 @@ propio pulso para medir intervalos de tiempo regulares, encontró que
 para pequeñas oscilaciones el tiempo de cada oscilación permanecía
 prácticamente constante.
 
-<img src="/root/output/SEC5.1-abr2_media/media/image14.png"
+<img src="../media/ch5/image14.png"
 style="width:6.13401in;height:3.13021in" />
 
 <u>Relojes digitales</u>
@@ -260,7 +260,7 @@ directas entre energía mecánica y energía eléctrica: al deformarse el
 cristal se separan cargas y se genera un voltaje, mientras que al
 aplicar voltaje las cargas se reorganizan y el material se deforma.
 
-<img src="/root/output/SEC5.1-abr2_media/media/image15.png"
+<img src="../media/ch5/image15.png"
 style="width:6.13264in;height:2.85714in" />
 
 Cuando se aplica una corriente eléctrica a un cristal de cuarzo, este
@@ -299,7 +299,7 @@ conformados por redes sincronizadas de relojes a bordo de satélites,
 como las que se usan en sistemas de posicionamiento global (Global
 Positioning System) cuyas precisiones son del orden de los nanosegundos.
 
-<img src="/root/output/SEC5.1-abr2_media/media/image16.png"
+<img src="../media/ch5/image16.png"
 style="width:6.13183in;height:2.89881in" />
 
 <u>Semejanzas y diferencias en los relojes modernos</u>
@@ -359,7 +359,7 @@ energética definida, la cual no es visible. La solución consiste en usar
 un láser para acoplarse a esa frecuencia y hacerla medible. Para
 entender este proceso habrá que revisar qué es un láser y cómo funciona.
 
-<img src="/root/output/SEC5.1-abr2_media/media/image17.png"
+<img src="../media/ch5/image17.png"
 style="width:6.13351in;height:3.48809in" />
 
 Mediante el proceso cuántico de emisión estimulada, el láser (Light
@@ -379,7 +379,7 @@ población según la cual hay más átomos en estados excitados que en el
 estado fundamental, y una cavidad resonante conformada por dos espejos
 enfrentados, uno completamente transparente y otro solo parcialmente.
 
-<img src="/root/output/SEC5.1-abr2_media/media/image18.png"
+<img src="../media/ch5/image18.png"
 style="width:6.13403in;height:3.02976in" />
 
 El funcionamiento del láser comprende las siguientes etapas:
@@ -414,7 +414,7 @@ mantiene estabilizada su frecuencia. En tales condiciones, una fracción
 de la luz amplificada puede escapar a través del espejo parcialmente
 reflectante como salida final del láser.
 
-<img src="/root/output/SEC5.1-abr2_media/media/image19.png"
+<img src="../media/ch5/image19.png"
 style="width:6.13357in;height:2.67262in" />
 
 El láser cumple tres funciones simultáneas en los relojes atómicos: (1)
@@ -426,5 +426,5 @@ interviene en el funcionamiento de un reloj atómico en cada una de las
 siguientes etapas: Preparación, Interacción átomo-laser, Detección,
 Realimentación y Medición del tiempo.
 
-<img src="/root/output/SEC5.1-abr2_media/media/image20.png"
+<img src="../media/ch5/image20.png"
 style="width:6.13452in;height:2.125in" />
