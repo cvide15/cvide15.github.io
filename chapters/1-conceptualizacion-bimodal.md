@@ -66,7 +66,7 @@ antigua</em></th>
 </tr>
 <tr class="even">
 <td colspan="2"><ol type="1">
-<li><p>Surgimiento: (1000 – 480) a.C.</p></li>
+<li><p><center>Surgimiento: (1000 – 480) a.C.</center></p></li>
 </ol></td>
 </tr>
 <tr class="odd">
