@@ -32,10 +32,8 @@ style="width:6.22953in;height:3.30882in" />
 
 Explicar cómo las conceptualizaciones dictatoriales o democráticos pueden aplicarse a espacios cognitivos con fines de interpretación en matemáticas, de ordenamiento en química y de clasificación en física. 
 
-Espacio de interpretación de la ecuación de la circunferencia
-
-Espacio de ordenamiento de la tabla periódica de los elementos químicos 
-
+Espacio de interpretación de la ecuación de la circunferencia <BR>
+Espacio de ordenamiento de la tabla periódica de los elementos químicos<BR>
 Espacio de clasificación de las partículas según la física estadística
 
 <img src="../media/ch1/image4.png"
