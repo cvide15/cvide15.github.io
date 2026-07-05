@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 1. Conceptualización bimodal de los espacios"
+"Capítulo 1. Conceptualización bimodal de los espacios"
 ---
 
 1.  **Conceptualización bimodal de los espacios**
