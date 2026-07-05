@@ -149,19 +149,11 @@ la Tierra</em></p>
 <img src="../media/ch1/image6.png"
 style="width:6.13472in;height:2.94444in" />
 
-1.  **Espacios sociopolíticos, urbanos y astronómicos en la antigua
-    Grecia**
+**1.1  Espacios sociopolíticos, urbanos y astronómicos en la antigua  Grecia**
 
-El movimiento es el resultado de interacciones, disruptivas o
-equilibradas, entre las fuerzas impulsivas que evolucionan en el tiempo
-y las formas organizadas de las trayectorias que se recorren en
-determinados espacios. El movimiento de los objetos geométricos se da en
-espacios matemáticos. El movimiento de los cuerpos celestes se da en
-espacios astronómicos. El movimiento de las ideas y las teorías se da en
-espacios cognitivos. El movimiento de las sociedades se da en espacios
-sociopolíticos. El movimiento y localización de los seres humanos se da
-en espacios urbanos. El movimiento de las máquinas, la materia y la
-energía se da en el espacio arquimediano.
+El movimiento es el resultado de interacciones, disruptivas o equilibradas, entre las fuerzas impulsivas que evolucionan en el tiempo
+y las formas organizadas de las trayectorias que se recorren en determinados espacios. El movimiento de los objetos geométricos se da en
+espacios matemáticos. El movimiento de los cuerpos celestes se da en espacios astronómicos. El movimiento de las ideas y las teorías se da en espacios cognitivos. El movimiento de las sociedades se da en espacios sociopolíticos. El movimiento y localización de los seres humanos se da en espacios urbanos. El movimiento de las máquinas, la materia y la energía se da en el espacio arquimediano.
 
 <img src="../media/ch1/image7.png"
 style="width:6.13611in;height:3.42188in" />
