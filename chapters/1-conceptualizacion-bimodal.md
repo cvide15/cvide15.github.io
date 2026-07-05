@@ -463,7 +463,7 @@ al nivel macro de la cosmología esférica.
 <img src="../media/ch1/image24.png"
 style="width:6.1375in;height:3.71569in" />
 
-2.  **Espacios cognitivos en matemáticas, química y física**
+**1.2.  Espacios cognitivos en matemáticas, química y física**
 
 La conceptualización bimodal característica de los enfoques democráticos
 y dictatoriales distingue y confronta lo que es válido para todos y lo
