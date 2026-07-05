@@ -16,7 +16,7 @@ Proponemos una conceptualización bimodal de estos espacios que opera en términ
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
 
- 1.1. Espacios sociopolíticos, urbanos y astronómicos en la antigua Grecia
+ **1.1. Espacios sociopolíticos, urbanos y astronómicos en la antigua Grecia**
   
 Describir la manera como en la antigua Grecia se conceptualizaron la creación y evolución de los espacios sociopolíticos, urbanos y astronómicos. Considerar en todos los casos los puntos de vista democrático y dictatorial.
  
@@ -28,7 +28,7 @@ Dos conceptualizaciones opuestas del espacio astronómico
 <img src="../media/ch1/image3.png"
 style="width:6.22953in;height:3.30882in" />
 
-1.2. Espacios cognitivos en matemáticas, química y física
+**1.2. Espacios cognitivos en matemáticas, química y física**
 
 Explicar cómo las conceptualizaciones dictatoriales o democráticos pueden aplicarse a espacios cognitivos con fines de interpretación en matemáticas, de ordenamiento en química y de clasificación en física. 
 
@@ -37,7 +37,7 @@ Espacio de interpretación de la ecuación de la circunferencia <BR>Espacio de o
 <img src="../media/ch1/image4.png"
 style="width:6.1375in;height:3.0049in" />
 
-1.3. Espacios arquimedianos en matemáticas, física e ingeniería
+**1.3. Espacios arquimedianos en matemáticas, física e ingeniería**
 
 Describir las siguientes aportaciones de Arquímedes: libros publicados, método de exhaución, ley de la palanca, determinación del centro de gravedad, principio de flotación, ingeniería aplicada (tornillo hidráulico, polipastos), tecnología militar (catapultas, garras, espejos ustorios) e instrumentos de precisión (balanza hidrostática).   
 
