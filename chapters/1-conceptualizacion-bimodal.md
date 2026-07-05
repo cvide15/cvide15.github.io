@@ -1,5 +1,4 @@
 ---
-Capítulo 1. Conceptualización bimodal de los espacios
 ---
 
 **1.  Conceptualización bimodal de los espacios**
