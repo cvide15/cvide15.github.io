@@ -1,11 +1,13 @@
 ---
-"Capítulo 1. Conceptualización bimodal de los espacios"
+Capítulo 1. Conceptualización bimodal de los espacios
 ---
 
 1.  **Conceptualización bimodal de los espacios**
 
 <img src="../media/ch1/image2.png"
 style="width:6.13582in;height:4.12745in" />
+
+ 
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
 
