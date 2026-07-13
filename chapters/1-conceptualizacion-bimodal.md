@@ -38,26 +38,24 @@ Dos conceptualizaciones opuestas del espacio astronómico
 </tr>
 </table>
 
-
-
-
- **1.1. Espacios sociopolíticos, urbanos y astronómicos en la antigua Grecia**
-  
-Describir la manera como en la antigua Grecia se conceptualizaron la creación y evolución de los espacios sociopolíticos, urbanos y astronómicos. Considerar en todos los casos los puntos de vista democrático y dictatorial.
- 
-Enfoques dictatoriales y democráticos en la interpretación de espacios
-Construcción de espacios sociopolíticos en la vida de la familia y la comunidad
-Diseño y construcción de espacios urbanos 
-Dos conceptualizaciones opuestas del espacio astronómico 
-
 <img src="../media/ch1/image3.png"
 style="width:6.22953in;height:3.30882in" />
 
+<table>
+<tr>
+<td>
+
 **1.2. Espacios cognitivos en matemáticas, química y física**
 
-Explicar cómo las conceptualizaciones dictatoriales o democráticos pueden aplicarse a espacios cognitivos con fines de interpretación en matemáticas, de ordenamiento en química y de clasificación en física. 
+Explicar cómo las conceptualizaciones dictatoriales o democráticos pueden aplicarse a espacios cognitivos con fines de interpretación en matemáticas, de ordenamiento en química y de clasificación en física.
 
-Espacio de interpretación de la ecuación de la circunferencia <BR>Espacio de ordenamiento de la tabla periódica de los elementos químicos<BR>Espacio de clasificación de las partículas según la física estadística
+Espacio de interpretación de la ecuación de la circunferencia
+Espacio de ordenamiento de la tabla periódica de los elementos químicos
+Espacio de clasificación de las partículas según la física estadística
+
+</td>
+</tr>
+</table>
 
 <img src="../media/ch1/image4.png"
 style="width:6.1375in;height:3.0049in" />
