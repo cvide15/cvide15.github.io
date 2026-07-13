@@ -794,11 +794,7 @@ style="width:6.13704in;height:3.19802in" />
 <img src="../media/ch1/image49.png"
 style="width:6.13606in;height:3.18317in" />
 
-<img src="../media/ch1/image50.png"
-style="width:6.13542in;height:3.33663in" />
-
-<img src="../media/ch1/image51.png"
-style="width:6.13472in;height:3.69307in" />
+Heisenberg propuso una ruptura metodológica al eliminar las órbitas inobservables y renunciar a pensar en trayectorias intuitivas, en lugar de manejar cantidades estrictamente medibles.  Por su parte, Schroedinger, en lugar de pensar en los electrones como partículas las manejó como distribuciones probabilísticas de densidad continua y demostró la equivalencia matemática completa de la mecánica matricial y la mecánica ondulatoria.
 
 <img src="../media/ch1/image52.png"
 style="width:6.1375in;height:2.53513in" />
