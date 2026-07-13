@@ -737,8 +737,7 @@ Nobel AB 2023. Sáb. 25 feb
 <img src="../media/ch1/image37.png"
 style="width:6.13681in;height:3.14216in" />
 
-<img src="../media/ch1/image39.png"
-style="width:6.13474in;height:2.77723in" />
+Al proponer Bohr su modelo atómico dejó atrás la visión de la física clásica en relación con el espectro continuo de la energía y abrió el camino a su tratamiento cuantizado. Así explicó cómo están organizadas las capas electrónicas y dio fundamento a la tabla periódica de los elementos químicos.
 
 <img src="../media/ch1/image40.png"
 style="width:6.13717in;height:3.41622in" />
