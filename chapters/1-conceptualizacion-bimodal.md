@@ -750,9 +750,6 @@ style="width:6.13613in;height:3.10891in" />
 <img src="../media/ch1/image42.png"
 style="width:6.13662in;height:2.88542in" />
 
-<img src="../media/ch1/image43.png"
-style="width:6.13611in;height:3.26563in" />
-
 <img src="../media/ch1/image44.png"
 style="width:6.13706in;height:2.76757in" />
 
