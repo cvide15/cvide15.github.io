@@ -737,9 +737,6 @@ Nobel AB 2023. Sáb. 25 feb
 <img src="../media/ch1/image37.png"
 style="width:6.13681in;height:3.14216in" />
 
-<img src="../media/ch1/image38.png"
-style="width:6.13633in;height:2.77838in" />
-
 <img src="../media/ch1/image39.png"
 style="width:6.13474in;height:2.77723in" />
 
