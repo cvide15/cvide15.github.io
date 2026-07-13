@@ -1,6 +1,6 @@
 # Capítulo 1. Conceptualización bimodal de los espacios
 
-<img src="../media/ch1/image2.png"
+<img src="../media/ch1/imag1.1.png"
 style="width:6.13582in;height:4.12745in" />
 
 <table>
