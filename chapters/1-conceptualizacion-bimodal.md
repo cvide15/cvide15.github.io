@@ -174,7 +174,7 @@ la Tierra</em></p>
 </tbody>
 </table>
 
-<img src="../media/ch1/image6.png"
+<img src="../media/ch1/imag1.5.png"
 style="width:6.13472in;height:2.94444in" />
 
 **1.1  Espacios sociopolíticos, urbanos y astronómicos en la antigua  Grecia**
