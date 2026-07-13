@@ -73,7 +73,7 @@ Conceptualizaciones en la solución del problema de la corona de oro
 </tr>
 </table>
 
-<img src="../media/ch1/image5.png"
+<img src="../media/ch1/imag1.4.png"
 style="width:6.1356in;height:3.03431in" />
 
 <table>
