@@ -54,7 +54,7 @@ Espacio de clasificación de las partículas según la física estadística
 </tr>
 </table>
 
-<img src="../media/ch1/image4.png"
+<img src="../media/ch1/imag1.3.png"
 style="width:6.1375in;height:3.0049in" />
 
 <table>
