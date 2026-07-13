@@ -35,7 +35,7 @@ Dos conceptualizaciones opuestas del espacio astronómico
 </tr>
 </table>
 
-<img src="../media/ch1/image3.png"
+<img src="../media/ch1/imag1.2.png"
 style="width:6.22953in;height:3.30882in" />
 
 <table>
