@@ -60,13 +60,21 @@ Espacio de clasificación de las partículas según la física estadística
 <img src="../media/ch1/image4.png"
 style="width:6.1375in;height:3.0049in" />
 
+<table>
+<tr>
+<td>
+
 **1.3. Espacios arquimedianos en matemáticas, física e ingeniería**
 
-Describir las siguientes aportaciones de Arquímedes: libros publicados, método de exhaución, ley de la palanca, determinación del centro de gravedad, principio de flotación, ingeniería aplicada (tornillo hidráulico, polipastos), tecnología militar (catapultas, garras, espejos ustorios) e instrumentos de precisión (balanza hidrostática).   
+Describir las siguientes aportaciones de Arquímedes: libros publicados, método de exhaución, ley de la palanca, determinación del centro de gravedad, principio de flotación, ingeniería aplicada (tornillo hidráulico, polipastos), tecnología militar (catapultas, garras, espejos ustorios) e instrumentos de precisión (balanza hidrostática).
 
-Conceptualizaciones democráticas en matemáticas y física 
-Conceptualizaciones dictatoriales en la solución de problemas prácticos 
+Conceptualizaciones democráticas en matemáticas y física
+Conceptualizaciones dictatoriales en la solución de problemas prácticos
 Conceptualizaciones en la solución del problema de la corona de oro
+
+</td>
+</tr>
+</table>
 
 <img src="../media/ch1/image5.png"
 style="width:6.1356in;height:3.03431in" />
