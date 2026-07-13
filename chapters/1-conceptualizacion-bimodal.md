@@ -6,11 +6,19 @@
 <img src="../media/ch1/image2.png"
 style="width:6.13582in;height:4.12745in" />
 
-> Conceptualizar significa crear conceptos. Toda conceptualización corresponde a un estilo o manera de concebir, organizar y comunicar conceptos y relaciones conceptuales que expresan y transmiten información y conocimientos. Son maneras de visualizar posibilidades de comprensión y explicación acerca de la estructura y el funcionamiento de sistemas que se desarrollan y describen en determinados espacios.
->
-> Existen diferentes tipos de espacios donde lo que se mueve y cambia corresponde a diversas categorías de seres, objetos, circunstancias y procesos. Aquí nos referiremos a los siguientes tipos de espacios: el geométrico, el astronómico, el cognitivo, el sociopolítico, el urbano y el arquimediano.
->
-> Proponemos una conceptualización bimodal de estos espacios que opera en términos de dos enfoques o puntos de vista opuestos y con frecuencia conflictivos: el democrático que es válido para todo y todos con el fin de demostrar y ayudar a comprender y el dictatorial que es sólo para algunos cuantos privilegiados con el propósito de que asimilen y transformen. Aplicamos dicha conceptualización bimodal en tres contextos: el comunitario en relación con la Grecia antigua, el cognitivo que trata de matemáticas, química y física, y el individual conectado con la obra de Arquímedes de Siracusa.
+<table>
+<tr>
+<td>
+
+Conceptualizar significa crear conceptos. Toda conceptualización corresponde a un estilo o manera de concebir, organizar y comunicar conceptos y relaciones conceptuales que expresan y transmiten información y conocimientos. Son maneras de visualizar posibilidades de comprensión y explicación acerca de la estructura y el funcionamiento de sistemas que se desarrollan y describen en determinados espacios.
+
+Existen diferentes tipos de espacios donde lo que se mueve y cambia corresponde a diversas categorías de seres, objetos, circunstancias y procesos. Aquí nos referiremos a los siguientes tipos de espacios: el geométrico, el astronómico, el cognitivo, el sociopolítico, el urbano y el arquimediano.
+
+Proponemos una conceptualización bimodal de estos espacios que opera en términos de dos enfoques o puntos de vista opuestos y con frecuencia conflictivos: el democrático que es válido para todo y todos con el fin de demostrar y ayudar a comprender y el dictatorial que es sólo para algunos cuantos privilegiados con el propósito de que asimilen y transformen. Aplicamos dicha conceptualización bimodal en tres contextos: el comunitario en relación con la Grecia antigua, el cognitivo que trata de matemáticas, química y física, y el individual conectado con la obra de Arquímedes de Siracusa.
+
+</td>
+</tr>
+</table>
 
 
 
