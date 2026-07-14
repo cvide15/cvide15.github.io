@@ -74,9 +74,9 @@ style="width:6.1356in;height:3.03431in" />
       </tr>
     </thead>
     <tbody>
-      <tr style="background-color: #fdfdfd;">
+      <tr>
         <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
-          1. Surgimiento: (1000 – 480) a.C. 
+          1. Surgimiento: (1000 – 480) a.C.
         </td>
       </tr>
       <tr>
@@ -92,7 +92,7 @@ style="width:6.1356in;height:3.03431in" />
           • Parménides de Elea (514-470): <em>De la naturaleza</em> (crítica al movimiento)
         </td>
       </tr>
-      <tr style="background-color: #fdfdfd;">
+      <tr>
         <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
           2. Edad de oro: (480 – 400) a.C.
         </td>
@@ -111,7 +111,7 @@ style="width:6.1356in;height:3.03431in" />
           • Demócrito de Abdera, Tracia (460-357): <em>Pequeño orden del cosmos</em>
         </td>
       </tr>
-      <tr style="background-color: #fdfdfd;">
+      <tr>
         <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
           3. Declinación y caída: (400-146) a.C.
         </td>
