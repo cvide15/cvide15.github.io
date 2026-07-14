@@ -65,7 +65,7 @@ style="width:6.1356in;height:3.03431in" />
     <thead>
       <tr style="background-color: #f6f8fa;">
         <th colspan="2" style="text-align: center; padding: 12px; font-size: 16px; border: 1px solid #d0d7de;">
-          <strong>Tabla 1.1. <em>Eventos y publicaciones en la Grecia antigua</em>></strong>
+          <strong>Tabla 1.1. <em>Eventos y publicaciones en la Grecia antigua</em></strong>
         </th>
       </tr>
       <tr style="background-color: #f0f2f5; font-weight: bold; text-align: center;">
