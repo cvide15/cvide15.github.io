@@ -58,7 +58,7 @@ style="width:6.1356in;height:3.03431in" />
           • Pitágoras de Samos (529-475): funda su escuela en Crotona en 530
         </td>
         <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top; line-height: 1.5;">
-          • Tales de Mileto (624-546): Astrología náutica<br>
+          • Tales de Mileto (624-546): <em>Astrología náutica</em><br>
           • Anaximandro de Mileto (610-546): <em>Sobre la naturaleza</em> (El ápeiron, Cosmología)<br>
           • Parménides de Elea (514-470): <em>De la naturaleza</em> (crítica al movimiento)
         </td>
@@ -73,14 +73,14 @@ style="width:6.1356in;height:3.03431in" />
         <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top; line-height: 1.5;">
           • Pericles de Atenas (495-429): reformas políticas y sociales (461-429)<br>
           • Sócrates de Atenas (470-399): (no escribió)<br>
-          • Jenofonte de Atenas (431-354): <em>Anábasis o la Expedición de los diez mil</em> (385-368)<br>
+          • Jenofonte de Atenas (431-354): <em>Anábasis</em> o la <em>Expedición de los diez mil</em> (385-368)<br>
           • Empédocles de Agrigento, Sicilia (494-434): <em>Sobre la naturaleza</em> (poemas filosóficos)
         </td>
         <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top; line-height: 1.5;">
           • Anaxágoras de Clazómenas, Jonia (500-428): <em>Sobre la naturaleza</em> (el Sol es fuego)<br>
           • Filolao de Crotona (470-380): <em>Sobre la naturaleza</em> (Sol, Tierra y Luna cubiertos de fuego)<br>
-          • Leucipo de Mileto (siglo V) Gran orden del cosmos<br>
-          • Demócrito de Abdera, Tracia (460-357): Pequeño orden del cosmos
+          • Leucipo de Mileto (siglo V) <em>Gran orden del cosmos</em><br>
+          • Demócrito de Abdera, Tracia (460-357): <em>Pequeño orden del cosmos</em>
         </td>
       </tr>
       <!-- Sección: Declinación y caída -->
@@ -91,9 +91,9 @@ style="width:6.1356in;height:3.03431in" />
       </tr>
       <tr>
         <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top; line-height: 1.5;">
-          • Platón de Atenas (427-374): crea la Academia en 386-7<br>
-          • Aristóteles de Estagira (384-322) crea el Liceo en 334<br>
-          • Epicuro de Samos (341-270) crea la escuela de filosofía <em>El Jardín (Ho Kepos)</em>: Cartas, Máximas capitales<br>
+          • Platón de Atenas (427-374): crea la <em>Academia</em> en 386-7<br>
+          • Aristóteles de Estagira (384-322) crea el <em>Liceo</em> en 334<br>
+          • Epicuro de Samos (341-270) crea la escuela de filosofía <em>El Jardín (Ho Kepos)</em>: <em>Cartas</em>, <em>Máximas capitales</em><br>
           • Imperio de Alejandro Magno (336–323)
         </td>
         <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top; line-height: 1.5;">
