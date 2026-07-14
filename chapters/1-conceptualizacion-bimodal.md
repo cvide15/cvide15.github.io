@@ -14,23 +14,48 @@ Proponemos una conceptualización bimodal de estos espacios que opera en términ
 style="width:6.13582in;height:4.12745in" />
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
-| |
-| :--- |
-| **1.1. Espacios sociopolíticos, urbanos y astronómicos en la antigua Grecia**<br><br>Describir la manera como en la antigua Grecia se conceptualizaron la creación y evolución de los espacios sociopolíticos, urbanos y astronómicos. Considerar en todos los casos los puntos de vista democrático y dictatorial.<br><br>• Enfoques dictatoriales y democráticos en la interpretación de espacios<br>• Construcción de espacios sociopolíticos en la vida de la familia y la comunidad<br>• Diseño y construcción de espacios urbanos<br>• Dos conceptualizaciones opuestas del espacio astronómico |
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+
+**1.1. Espacios sociopolíticos, urbanos y astronómicos en la antigua Grecia**
+
+Describir la manera como en la antigua Grecia se conceptualizaron la creación y evolución de los espacios sociopolíticos, urbanos y astronómicos. Considerar en todos los casos los puntos de vista democrático y dictatorial.
+
+* Enfoques dictatoriales y democráticos en la interpretación de espacios
+* Construcción de espacios sociopolíticos en la vida de la familia y la comunidad
+* Diseño y construcción de espacios urbanos
+* Dos conceptualizaciones opuestas del espacio astronómico
+
+</div>
 
 <img src="../media/ch1/imag1.2.png"
 style="width:6.22953in;height:3.30882in" />
 
-| |
-| :--- |
-| **1.2. Espacios cognitivos en matemáticas, química y física**<br><br>Explicar cómo las conceptualizaciones dictatoriales o democráticos pueden aplicarse a espacios cognitivos con fines de interpretación en matemáticas, de ordenamiento en química y de clasificación en física.<br><br>• Espacio de interpretación de la ecuación de la circunferencia<br>• Espacio de ordenamiento de la tabla periódica de los elementos químicos<br>• Espacio de clasificación de las partículas según la física estadística |
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+
+**1.2. Espacios cognitivos en matemáticas, química y física**
+
+Explicar cómo las conceptualizaciones dictatoriales o democráticos pueden aplicarse a espacios cognitivos con fines de interpretación en matemáticas, de ordenamiento en química y de clasificación en física.
+
+* Espacio de interpretación de la ecuación de la circunferencia
+* Espacio de ordenamiento de la tabla periódica de los elementos químicos
+* Espacio de clasificación de las partículas según la física estadística
+
+</div>
 
 <img src="../media/ch1/imag1.3.png"
 style="width:6.1375in;height:3.0049in" />
 
-| |
-| :--- |
-| **1.3. Espacios arquimedianos en matemáticas, física e ingeniería**<br><br>Describir las siguientes aportaciones de Arquímedes: libros publicados, método de exhaución, ley de la palanca, determinación del centro de gravedad, principio de flotación, ingeniería aplicada (tornillo hidráulico, polipastos), tecnología militar (catapultas, garras, espejos ustorios) e instrumentos de precisión (balanza hidrostática).<br><br>• Conceptualizaciones democráticas en matemáticas y física<br>• Conceptualizaciones dictatoriales en la solución de problemas prácticos<br>• Conceptualizaciones en la solución del problema de la corona de oro |
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+
+**1.3. Espacios arquimedianos en matemáticas, física e ingeniería**
+
+Describir las siguientes aportaciones de Arquímedes: libros publicados, método de exhaución, ley de la palanca, determinación del centro de gravedad, principio de flotación, ingeniería aplicada (tornillo hidráulico, polipastos), tecnología militar (catapultas, garras, espejos ustorios) e instrumentos de precisión (balanza hidrostática).
+
+* Conceptualizaciones democráticas en matemáticas y física
+* Conceptualizaciones dictatoriales en la solución de problemas prácticos
+* Conceptualizaciones en la solución del problema de la corona de oro
+
+</div>
 
 <img src="../media/ch1/imag1.4.png"
 style="width:6.1356in;height:3.03431in" />
@@ -109,105 +134,6 @@ style="width:6.1356in;height:3.03431in" />
     </tbody>
   </table>
 </div>
-
-
-<table>
-<colgroup>
-<col style="width: 48%" />
-<col style="width: 51%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="2">Tabla 1.1. <em>Eventos y publicaciones en la Grecia
-antigua</em></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Filosofía y Literatura</td>
-<td>Matemáticas, Astronomía y Física</td>
-</tr>
-<tr class="even">
-<td colspan="2"><ol type="1">
-<li><p><center>Surgimiento: (1000 – 480) a.C.</center></p></li>
-</ol></td>
-</tr>
-<tr class="odd">
-<td><p>Homero: <em>La Ilíada y La Odisea</em> (840)</p>
-<p>Hesiodo: <em>Teogonía</em> (entre 700 y 800)</p>
-<p>Solón de Atenas: reformas políticas y sociales (638-558)</p>
-<p>Pitágoras de Samos (529-475): funda su escuela en Crotona en
-530</p></td>
-<td><p>Tales de Mileto (624-546): <em>Astrología náutica</em></p>
-<p>Anaximandro de Mileto (610-546): <em>Sobre la naturaleza (El ápeiron,
-Cosmología)</em></p>
-<p>Parménides de Elea (514-470): <em>De la naturaleza</em> (crítica al
-movimiento)</p></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="2"><ol start="2" type="1">
-<li><p>Edad de oro: (480 – 400) a.C.</p></li>
-</ol></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Pericles de Atenas (495-429): reformas políticas y sociales
-(461-429)</p>
-<p>Sócrates de Atenas (470-399): (no escribió)</p>
-<p>Jenofonte de Atenas (431-354): <em>Anábasis o la Expedición de los
-diez mil</em> (385-368)</p>
-<p>Empédocles de Agrigento, Sicilia (494-434): <em>Sobre la
-naturaleza</em> (poemas filosóficos)</p></td>
-<td><p>Anaxágoras de Clazómenas, Jonia (500-428): <em>Sobre la
-naturaleza</em> (el Sol es fuego)</p>
-<p>Filolao de Crotona (470-380): <em>Sobre la naturaleza</em> (Sol,
-Tierra y Luna cubiertos de fuego)</p>
-<p>Leucipo de Mileto (siglo V): <em>Gran orden del cosmos.</em>
-Demócrito de Abdera, Tracia (460-357): <em>Pequeño orden del
-cosmos</em></p></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="2"><ol start="3" type="1">
-<li><p>Declinación y caída: (400-146) a.C.</p></li>
-</ol></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Platón de Atenas (427-374): crea la Academia en 386-7</p>
-<p>Aristóteles de Estagira (384-322) crea el Liceo en 334</p>
-<p>Epicuro de Samos (341-270) crea la escuela de filosofía El Jardín (Ho
-Kepos): <em>Cartas, Máximas capitales</em></p>
-<p>Imperio de Alejandro Magno (336–323)</p></td>
-<td><p>Euclides de Alejandría (325-265?): <em>Elementos</em></p>
-<p>Aristarco de Samos (280-264): <em>Acerca de los tamaños y distancias
-al Sol y a la Luna</em></p>
-<p>Eratóstenes de Cirena (276-194): <em>Geografía, Sobre la medición de
-la Tierra</em></p>
-<p>Apolonio de Perga (240-190): Las <em>Cónicas</em></p>
-<p>Arquímedes de Siracusa (287-212): 10 libros</p></td>
-</tr>
-</tbody>
-</table>
 
 <img src="../media/ch1/imag1.5.png"
 style="width:6.13472in;height:2.94444in" />
