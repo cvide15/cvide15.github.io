@@ -47,7 +47,7 @@ style="width:6.1356in;height:3.03431in" />
       <!-- Sección: Surgimiento -->
       <tr style="background-color: #fdfdfd;">
         <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
-          Surgimiento: (1000 – 480) a.C.
+          1. Surgimiento: (1000 – 480) a.C.
         </td>
       </tr>
       <tr>
@@ -66,7 +66,7 @@ style="width:6.1356in;height:3.03431in" />
       <!-- Sección: Edad de oro -->
       <tr style="background-color: #fdfdfd;">
         <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
-          Edad de oro: (480 – 400) a.C.
+          2. Edad de oro: (480 – 400) a.C.
         </td>
       </tr>
       <tr>
@@ -86,7 +86,7 @@ style="width:6.1356in;height:3.03431in" />
       <!-- Sección: Declinación y caída -->
       <tr style="background-color: #fdfdfd;">
         <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
-          Declinación y caída: (400-146) a.C.
+          3. Declinación y caída: (400-146) a.C.
         </td>
       </tr>
       <tr>
