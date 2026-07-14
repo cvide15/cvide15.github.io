@@ -65,18 +65,22 @@ style="width:6.1356in;height:3.03431in" />
     <thead>
       <tr style="background-color: #f6f8fa;">
         <th colspan="2" style="text-align: center; padding: 12px; font-size: 16px; border: 1px solid #d0d7de;">
-          <strong>Tabla 1.1. <em>Eventos y publicaciones en la Grecia antigua</em></strong>
+          <strong>Tabla 1.1. Eventos y publicaciones en la Grecia antigua</strong>
         </th>
       </tr>
       <tr style="background-color: #f0f2f5; font-weight: bold; text-align: center;">
-        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%; text-align: center;">Filosofía y Literatura</th>
-        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%; text-align: center;">Matemáticas, Astronomía y Física</th>
+        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%; text-align: center;">
+          <span style="display: inline-block; text-align: left;">Filosofía y Literatura</span>
+        </th>
+        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%; text-align: center;">
+          <span style="display: inline-block; text-align: left;">Matemáticas, Astronomía y Física</span>
+        </th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
-          1. Surgimiento: (1000 – 480) a.C.
+          <span style="display: inline-block; text-align: left;">1. Surgimiento: (1000 – 480) a.C.</span>
         </td>
       </tr>
       <tr>
@@ -94,7 +98,7 @@ style="width:6.1356in;height:3.03431in" />
       </tr>
       <tr>
         <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
-          2. Edad de oro: (480 – 400) a.C.
+          <span style="display: inline-block; text-align: left;">2. Edad de oro: (480 – 400) a.C.</span>
         </td>
       </tr>
       <tr>
@@ -113,7 +117,7 @@ style="width:6.1356in;height:3.03431in" />
       </tr>
       <tr>
         <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
-          3. Declinación y caída: (400-146) a.C.
+          <span style="display: inline-block; text-align: left;">3. Declinación y caída: (400-146) a.C.</span>
         </td>
       </tr>
       <tr>
