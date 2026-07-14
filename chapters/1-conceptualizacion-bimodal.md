@@ -69,8 +69,8 @@ style="width:6.1356in;height:3.03431in" />
         </th>
       </tr>
       <tr style="background-color: #f0f2f5; font-weight: bold; text-align: center;">
-        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%; text-align: center;">1. Filosofía y Literatura</th>
-        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%; text-align: center;">2. Matemáticas, Astronomía y Física</th>
+        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%; text-align: center;">Filosofía y Literatura</th>
+        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%; text-align: center;">Matemáticas, Astronomía y Física</th>
       </tr>
     </thead>
     <tbody>
