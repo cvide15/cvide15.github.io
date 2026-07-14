@@ -37,20 +37,18 @@ style="width:6.1356in;height:3.03431in" />
 
 <div align="center">
   <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-    <!-- Título de la tabla -->
     <thead>
       <tr style="background-color: #f6f8fa;">
         <th colspan="2" style="text-align: center; padding: 12px; font-size: 16px; border: 1px solid #d0d7de;">
-          <strong>Tabla 1.1. <em>Eventos y publicaciones en la Grecia antigua</em></strong>
+          <strong>Tabla 1.1. Eventos y publicaciones en la Grecia antigua</strong>
         </th>
       </tr>
-      <tr style="background-color: #f0f2f5; font-weight: bold; text-align: left;">
-        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%;">Filosofía y Literatura</th>
-        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%;">Matemáticas, Astronomía y Física</th>
+      <tr style="background-color: #f0f2f5; font-weight: bold; text-align: center;">
+        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%; text-align: center;">1. Filosofía y Literatura</th>
+        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%; text-align: center;">2. Matemáticas, Astronomía y Física</th>
       </tr>
     </thead>
     <tbody>
-      <!-- Sección: Surgimiento -->
       <tr style="background-color: #fdfdfd;">
         <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
           1. Surgimiento: (1000 – 480) a.C.
@@ -69,7 +67,6 @@ style="width:6.1356in;height:3.03431in" />
           • Parménides de Elea (514-470): <em>De la naturaleza</em> (crítica al movimiento)
         </td>
       </tr>
-      <!-- Sección: Edad de oro -->
       <tr style="background-color: #fdfdfd;">
         <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
           2. Edad de oro: (480 – 400) a.C.
@@ -89,7 +86,6 @@ style="width:6.1356in;height:3.03431in" />
           • Demócrito de Abdera, Tracia (460-357): <em>Pequeño orden del cosmos</em>
         </td>
       </tr>
-      <!-- Sección: Declinación y caída -->
       <tr style="background-color: #fdfdfd;">
         <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
           3. Declinación y caída: (400-146) a.C.
@@ -113,7 +109,6 @@ style="width:6.1356in;height:3.03431in" />
     </tbody>
   </table>
 </div>
-
 
 
 <table>
