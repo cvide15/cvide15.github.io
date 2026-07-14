@@ -75,8 +75,8 @@ style="width:6.1356in;height:3.03431in" />
     </thead>
     <tbody>
       <tr style="background-color: #fdfdfd;">
-        <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
-          1. Surgimiento: (1000 – 480) a.C.
+        <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;"><div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+          1. Surgimiento: (1000 – 480) a.C. </div>
         </td>
       </tr>
       <tr>
