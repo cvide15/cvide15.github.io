@@ -8,60 +8,23 @@
 style="width:6.13582in;height:4.12745in" />
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
-<table>
-<tr>
-<td>
-
-**1.1. Espacios sociopolíticos, urbanos y astronómicos en la antigua Grecia**
-
-Describir la manera como en la antigua Grecia se conceptualizaron la creación y evolución de los espacios sociopolíticos, urbanos y astronómicos. Considerar en todos los casos los puntos de vista democrático y dictatorial.
-
-Enfoques dictatoriales y democráticos en la interpretación de espacios
-Construcción de espacios sociopolíticos en la vida de la familia y la comunidad
-Diseño y construcción de espacios urbanos
-Dos conceptualizaciones opuestas del espacio astronómico
-
-</td>
-</tr>
-</table>
+| |
+| :--- |
+| **1.1. Espacios sociopolíticos, urbanos y astronómicos en la antigua Grecia**<br><br>Describir la manera como en la antigua Grecia se conceptualizaron la creación y evolución de los espacios sociopolíticos, urbanos y astronómicos. Considerar en todos los casos los puntos de vista democrático y dictatorial.<br><br>• Enfoques dictatoriales y democráticos en la interpretación de espacios<br>• Construcción de espacios sociopolíticos en la vida de la familia y la comunidad<br>• Diseño y construcción de espacios urbanos<br>• Dos conceptualizaciones opuestas del espacio astronómico |
 
 <img src="../media/ch1/imag1.2.png"
 style="width:6.22953in;height:3.30882in" />
 
-<table>
-<tr>
-<td>
-
-**1.2. Espacios cognitivos en matemáticas, química y física**
-
-Explicar cómo las conceptualizaciones dictatoriales o democráticos pueden aplicarse a espacios cognitivos con fines de interpretación en matemáticas, de ordenamiento en química y de clasificación en física.
-
-Espacio de interpretación de la ecuación de la circunferencia
-Espacio de ordenamiento de la tabla periódica de los elementos químicos
-Espacio de clasificación de las partículas según la física estadística
-
-</td>
-</tr>
-</table>
+| |
+| :--- |
+| **1.2. Espacios cognitivos en matemáticas, química y física**<br><br>Explicar cómo las conceptualizaciones dictatoriales o democráticos pueden aplicarse a espacios cognitivos con fines de interpretación en matemáticas, de ordenamiento en química y de clasificación en física.<br><br>• Espacio de interpretación de la ecuación de la circunferencia<br>• Espacio de ordenamiento de la tabla periódica de los elementos químicos<br>• Espacio de clasificación de las partículas según la física estadística |
 
 <img src="../media/ch1/imag1.3.png"
 style="width:6.1375in;height:3.0049in" />
 
-<table>
-<tr>
-<td>
-
-**1.3. Espacios arquimedianos en matemáticas, física e ingeniería**
-
-Describir las siguientes aportaciones de Arquímedes: libros publicados, método de exhaución, ley de la palanca, determinación del centro de gravedad, principio de flotación, ingeniería aplicada (tornillo hidráulico, polipastos), tecnología militar (catapultas, garras, espejos ustorios) e instrumentos de precisión (balanza hidrostática).
-
-Conceptualizaciones democráticas en matemáticas y física
-Conceptualizaciones dictatoriales en la solución de problemas prácticos
-Conceptualizaciones en la solución del problema de la corona de oro
-
-</td>
-</tr>
-</table>
+| |
+| :--- |
+| **1.3. Espacios arquimedianos en matemáticas, física e ingeniería**<br><br>Describir las siguientes aportaciones de Arquímedes: libros publicados, método de exhaución, ley de la palanca, determinación del centro de gravedad, principio de flotación, ingeniería aplicada (tornillo hidráulico, polipastos), tecnología militar (catapultas, garras, espejos ustorios) e instrumentos de precisión (balanza hidrostática).<br><br>• Conceptualizaciones democráticas en matemáticas y física<br>• Conceptualizaciones dictatoriales en la solución de problemas prácticos<br>• Conceptualizaciones en la solución del problema de la corona de oro |
 
 <img src="../media/ch1/imag1.4.png"
 style="width:6.1356in;height:3.03431in" />
