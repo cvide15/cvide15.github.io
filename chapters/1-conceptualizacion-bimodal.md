@@ -457,3 +457,5 @@ al nivel macro de la cosmología esférica.
 
 <img src="../media/ch1/image24.png"
 style="width:6.1375in;height:3.71569in" />
+
+[1.2. Espacios cognitivos en matemáticas, química y física](chapters/1-conceptualizacion-bimodal-2.md)
