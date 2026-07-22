@@ -22,9 +22,6 @@ book:
     - index.qmd
     - part: "Parte I"
       chapters:
-        - chapters/5-dinamica.md
-        - chapters/10-la-naturaleza-está-fundamentalmente-indeterminada.md
-        - chapters/5-nacimiento-fisica-attosegundos.md
         - chapters/1-conceptualizacion-bimodal.md
 
   # Shown in the page footer
