@@ -23,9 +23,6 @@ dictatorial o democrático.
 <img src="../media/ch1/image4.png"
 style="width:6.1375in;height:3.08333in" />
 
-<img src="../media/ch1/image25.png"
-style="width:6.1375in;height:3.08333in" />
-
 **Espacio de interpretación de la ecuación de la circunferencia**
 
 La dualidad conceptual en la conceptualización de espacios matemáticos
