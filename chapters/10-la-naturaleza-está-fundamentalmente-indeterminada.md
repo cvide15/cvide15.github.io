@@ -1,5 +1,6 @@
-
-# 10.2. La Naturaleza está Fundamentalmente Indeterminada
+---
+title: "10.2. La Naturaleza está Fundamentalmente Indeterminada"
+---
 
 
 En 1935 Albert Einstein, Boris Podolsky y Nathan Rosen publican el
