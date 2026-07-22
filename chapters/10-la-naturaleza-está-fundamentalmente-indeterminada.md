@@ -1,6 +1,6 @@
----
-title: "10.2. La Naturaleza está Fundamentalmente Indeterminada"
----
+
+# 10.2. La Naturaleza está Fundamentalmente Indeterminada
+
 
 En 1935 Albert Einstein, Boris Podolsky y Nathan Rosen publican el
 artículo: *Can Quantum-Mechanical Description of Physical Reality Be
