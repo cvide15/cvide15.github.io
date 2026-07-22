@@ -822,8 +822,10 @@ km es la longitud de cada brazo del interferómetro.</p></th>
 <img src="../media/ch10/image41.png"
 style="width:6.13449in;height:2.18129in" />
 
-| <img src="../media/ch10/image42.png" 
- style="width:6.13148in;height:2.73099in" />                    |     |     |     |
+<img src="../media/ch10/image42.png" 
+style="width:6.13148in;height:2.73099in" />
+
+|     |     |     |
 |---------------------------------------------------------------|-----|-----|-----|
 
 **El entrelazamiento cuántico en el desarrollo de la Segunda Revolución
