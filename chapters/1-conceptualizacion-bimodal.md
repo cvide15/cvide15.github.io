@@ -63,7 +63,7 @@ Describir las siguientes aportaciones de Arquímedes: libros publicados, método
 style="width:6.1356in;height:3.03431in" />
 
 <div align="center">
-  <table border="5" cellpadding="10" cellspacing="0" style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; margin: 20px 0;">
+  <table border="3" cellpadding="10" cellspacing="0" style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; margin: 20px 0;">
     <thead>
       <tr style="background-color: #f6f8fa;">
         <th colspan="2" style="text-align: center; padding: 12px; font-size: 16px;">
