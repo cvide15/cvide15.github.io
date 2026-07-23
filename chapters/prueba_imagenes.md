@@ -1,5 +1,5 @@
 
-# Capítulo 1. Conceptualización bimodal de los espacios
+# PRUEBA IMÁGENES 1. Conceptualización bimodal de los espacios
 
 
 <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
