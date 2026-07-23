@@ -63,54 +63,54 @@ Describir las siguientes aportaciones de Arquímedes: libros publicados, método
 style="width:6.1356in;height:3.03431in" />
 
 <div align="center">
-  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <thead>
       <tr style="background-color: #f6f8fa;">
-        <th colspan="2" style="text-align: center; padding: 12px; font-size: 16px; border: 1px solid #d0d7de;">
+        <th colspan="2" style="text-align: center; padding: 12px; font-size: 16px; border: 2px solid #333333;">
           <strong>Tabla 1.1. <em>Eventos y publicaciones en la Grecia antigua</em></strong>
         </th>
       </tr>
       <tr style="background-color: #f0f2f5; font-weight: bold; text-align: center;">
-        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%; text-align: center;">
+        <th style="padding: 10px; border: 2px solid #333333; width: 50%; text-align: center;">
           <span style="display: inline-block; text-align: left;">Filosofía y Literatura</span>
         </th>
-        <th style="padding: 10px; border: 1px solid #d0d7de; width: 50%; text-align: center;">
+        <th style="padding: 10px; border: 2px solid #333333; width: 50%; text-align: center;">
           <span style="display: inline-block; text-align: left;">Matemáticas, Astronomía y Física</span>
         </th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
+        <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 2px solid #333333; background-color: #eaeef2;">
           <span style="display: inline-block; text-align: left;">1. Surgimiento: (1000 – 480) a.C.</span>
         </td>
       </tr>
       <tr>
-        <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top; line-height: 1.5;">
+        <td style="padding: 10px; border: 2px solid #333333; vertical-align: top; line-height: 1.5;">
           • Homero: <em>La Ilíada</em> y <em>La Odisea</em> (840)<br>
           • Hesiodo: <em>Teogonía</em> (entre 700 y 800)<br>
           • Solón de Atenas: reformas políticas y sociales (638-558)<br>
           • Pitágoras de Samos (529-475): funda su escuela en Crotona en 530
         </td>
-        <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top; line-height: 1.5;">
+        <td style="padding: 10px; border: 2px solid #333333; vertical-align: top; line-height: 1.5;">
           • Tales de Mileto (624-546): <em>Astrología náutica</em><br>
           • Anaximandro de Mileto (610-546): <em>Sobre la naturaleza</em> (El ápeiron, Cosmología)<br>
           • Parménides de Elea (514-470): <em>De la naturaleza</em> (crítica al movimiento)
         </td>
       </tr>
       <tr>
-        <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
+        <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 2px solid #333333; background-color: #eaeef2;">
           <span style="display: inline-block; text-align: left;">2. Edad de oro: (480 – 400) a.C.</span>
         </td>
       </tr>
       <tr>
-        <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top; line-height: 1.5;">
+        <td style="padding: 10px; border: 2px solid #333333; vertical-align: top; line-height: 1.5;">
           • Pericles de Atenas (495-429): reformas políticas y sociales (461-429)<br>
           • Sócrates de Atenas (470-399): (no escribió)<br>
           • Jenofonte de Atenas (431-354): <em>Anábasis</em> o la <em>Expedición de los diez mil</em> (385-368)<br>
           • Empédocles de Agrigento, Sicilia (494-434): <em>Sobre la naturaleza</em> (poemas filosóficos)
         </td>
-        <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top; line-height: 1.5;">
+        <td style="padding: 10px; border: 2px solid #333333; vertical-align: top; line-height: 1.5;">
           • Anaxágoras de Clazómenas, Jonia (500-428): <em>Sobre la naturaleza</em> (el Sol es fuego)<br>
           • Filolao de Crotona (470-380): <em>Sobre la naturaleza</em> (Sol, Tierra y Luna cubiertos de fuego)<br>
           • Leucipo de Mileto (siglo V) <em>Gran orden del cosmos</em><br>
@@ -118,18 +118,18 @@ style="width:6.1356in;height:3.03431in" />
         </td>
       </tr>
       <tr>
-        <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 1px solid #d0d7de; background-color: #eaeef2;">
+        <td colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border: 2px solid #333333; background-color: #eaeef2;">
           <span style="display: inline-block; text-align: left;">3. Declinación y caída: (400-146) a.C.</span>
         </td>
       </tr>
       <tr>
-        <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top; line-height: 1.5;">
+        <td style="padding: 10px; border: 2px solid #333333; vertical-align: top; line-height: 1.5;">
           • Platón de Atenas (427-374): crea la <em>Academia</em> en 386-7<br>
           • Aristóteles de Estagira (384-322) crea el <em>Liceo</em> en 334<br>
           • Epicuro de Samos (341-270) crea la escuela de filosofía <em>El Jardín (Ho Kepos)</em>: <em>Cartas</em>, <em>Máximas capitales</em><br>
           • Imperio de Alejandro Magno (336–323)
         </td>
-        <td style="padding: 10px; border: 1px solid #d0d7de; vertical-align: top; line-height: 1.5;">
+        <td style="padding: 10px; border: 2px solid #333333; vertical-align: top; line-height: 1.5;">
           • Euclides de Alejandría (325-265?): <em>Elementos</em><br>
           • Aristarco de Samos (280-264): <em>Acerca de los tamaños y distancias al Sol y a la Luna</em><br>
           • Eratóstenes de Cirena (276-194): <em>Geografía</em>, <em>Sobre la medición de la Tierra</em><br>
