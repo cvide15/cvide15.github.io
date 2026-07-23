@@ -12,8 +12,8 @@ Proponemos una conceptualización bimodal de estos espacios que opera en términ
 
 </div>
 
-<img src="../media/ch1/imag1.1.png"
-style="width:6.13582in;height:4.12745in" />
+<img src="../media/ch1/image26.png"
+style="width:6.1367in;height:3.17647in" />
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
 <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
@@ -29,8 +29,8 @@ Describir la manera como en la antigua Grecia se conceptualizaron la creación y
 
 </div>
 
-<img src="../media/ch1/imag1.2.png"
-style="width:6.22953in;height:3.30882in" />
+<img src="../media/ch1/image27.png"
+style="width:6.1375in;height:3.18137in" />
 
 <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
@@ -44,8 +44,8 @@ Explicar cómo las conceptualizaciones dictatoriales o democráticos pueden apli
 
 </div>
 
-<img src="../media/ch1/imag1.3.png"
-style="width:6.1375in;height:3.0049in" />
+<img src="../media/ch1/image28.png"
+style="width:6.13458in;height:2.74479in" />
 
 <div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
@@ -59,8 +59,8 @@ Describir las siguientes aportaciones de Arquímedes: libros publicados, método
 
 </div>
 
-<img src="../media/ch1/imag1.4.png"
-style="width:6.1356in;height:3.03431in" />
+<img src="../media/ch1/image29.png"
+style="width:6.1375in;height:3.15104in" />
 
 <div align="center">
   <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
@@ -145,8 +145,8 @@ style="width:6.1356in;height:3.03431in" />
   </table>
 </div>
 
-<img src="../media/ch1/imag1.5.png"
-style="width:6.13472in;height:2.94444in" />
+<img src="../media/ch1/image30.png"
+style="width:6.1375in;height:3.63542in" />
 
 **1.1  Espacios sociopolíticos, urbanos y astronómicos en la antigua  Grecia**
 
@@ -154,8 +154,8 @@ El movimiento es el resultado de interacciones, disruptivas o equilibradas, entr
 y las formas organizadas de las trayectorias que se recorren en determinados espacios. El movimiento de los objetos geométricos se da en
 espacios matemáticos. El movimiento de los cuerpos celestes se da en espacios astronómicos. El movimiento de las ideas y las teorías se da en espacios cognitivos. El movimiento de las sociedades se da en espacios sociopolíticos. El movimiento y localización de los seres humanos se da en espacios urbanos. El movimiento de las máquinas, la materia y la energía se da en el espacio arquimediano.
 
-<img src="../media/ch1/image7.png"
-style="width:6.13611in;height:3.42188in" />
+<img src="../media/ch1/image31.png"
+style="width:6.13611in;height:3.10417in" />
 
 **Grecia en la antigüedad**
 
@@ -168,11 +168,11 @@ cosmos. Se basaron en la idea de que el mundo está racionalmente
 ordenado y que la sociedad humana puede y debe estructurarse sobre
 principios de razón y equilibrio.
 
-<img src="../media/ch1/image8.png"
-style="width:6.1375in;height:3.42292in" />
+<img src="../media/ch1/image32.png"
+style="width:6.13125in;height:2.60784in" />
 
-<img src="../media/ch1/image9.png"
-style="width:6.1375in;height:3.42292in" />
+<img src="../media/ch1/image33.png"
+style="width:6.13689in;height:3.02604in" />
 
 Los logros intelectuales y culturales de la antigua Grecia no estaban
 compartimentalizados. La conceptualización de sus espacios pasó de ser
@@ -183,8 +183,8 @@ eran los mismos que emplearon para construir sus ciudades-estado y
 organizar sus vidas públicas. Este cambio social ocurrió en paralelo con
 una "nueva imagen" de los espacios astronómicos y geométricos.
 
-<img src="../media/ch1/image10.png"
-style="width:6.1368in;height:3.16667in" />
+<img src="../media/ch1/image34.png"
+style="width:6.1375in;height:3.42292in" />
 
 **Enfoques dictatoriales y democráticos en la interpretación de
 espacios**
@@ -194,8 +194,8 @@ sphérique dans la première cosmologie grecque* de Jean-Pierre Vernant,
 donde presenta dos esquemas interpretativos de las formas de evolución e
 interdependencia: la visión dictatorial y la democrática.
 
-<img src="../media/ch1/image11.png"
-style="width:6.13264in;height:3.18229in" />
+<img src="../media/ch1/image35.png"
+style="width:6.13472in;height:3.15196in" />
 
 Un enfoque dictatorial interpreta el espacio mediante reglas impuestas y
 restricciones que se aplican del centro a periferia, mientras que un
@@ -209,8 +209,8 @@ de la conceptualización democrática. La conceptualización bimodal de los
 espacios es una herramienta conceptual que funciona a la vez como
 esquema interpretativo, método de análisis y lenguaje de comunicación.
 
-<img src="../media/ch1/image12.png"
-style="width:6.13542in;height:2.94271in" />
+<img src="../media/ch1/image36.png"
+style="width:6.13611in;height:3.05208in" />
 
 **Construcción del espacio sociopolítico en Grecia**
 
@@ -224,11 +224,11 @@ uno de los cuales fue la escritura; el otro fue la creación de la polis
 griega o ciudad-estado en cuyo centro se encontraba el espacio público
 llamado ágora.
 
-<img src="../media/ch1/image13.png"
-style="width:6.13675in;height:2.99479in" />
+<img src="../media/ch1/image37.png"
+style="width:6.13681in;height:3.14216in" />
 
-<img src="../media/ch1/image14.png"
-style="width:6.13542in;height:3.11111in" />
+<img src="../media/ch1/image40.png"
+style="width:6.13717in;height:3.41622in" />
 
 En el canto II de La Odisea, Homero narra que Telémaco, hijo de Ulises y
 Penélope, convoca una asamblea pública en Ítaca donde denuncia el
@@ -237,8 +237,8 @@ madre; les acusa que están consumiendo la riqueza de su casa, expresa su
 dolor por la ausencia de su padre y pide a los soldados que protejan a
 su madre formando un ágora (palabra griega para asamblea).
 
-<img src="../media/ch1/image15.png"
-style="width:6.1375in;height:3.08889in" />
+<img src="../media/ch1/image41.png"
+style="width:6.13613in;height:3.10891in" />
 
 **Creadores de cultura**
 
@@ -250,8 +250,8 @@ historiador y geógrafo Heródoto de Halicarnaso (484 a.C. - 425 a.C.), el
 poeta Homero (siglo VIII a.C.) y el arquitecto Hipódamo de Mileto \[(498
 – 408) a.C.\].
 
-<img src="../media/ch1/image16.png"
-style="width:6.13333in;height:3.24444in" />
+<img src="../media/ch1/image42.png"
+style="width:6.13662in;height:2.88542in" />
 
 El filósofo presocrático Ferocides de Siros (Ferécides o Pherecydes) (c.
 580–520 a.C.) desempeñó un papel crucial al ser el primer escritor en
@@ -306,8 +306,8 @@ rectas, con un ágora como centro organizador de la vida comunitaria,
 acogedor escenario del discurso público. Aquí urbanismo es orden,
 simetría y equilibrio.
 
-<img src="../media/ch1/image17.png"
-style="width:6.1375in;height:3.05729in" />
+<img src="../media/ch1/image44.png"
+style="width:6.13706in;height:2.76757in" />
 
 A continuación, comparamos el espacio urbano de la ciudad de Mileto con
 los espacios de dos construcciones mesoamericanas, la pirámide de
@@ -319,8 +319,8 @@ cosmológica-monumental mexica símbolo de un poder sagrado y en Machu
 Picchu es la visión orgánica-adaptativa peruana que expresa equilibrio
 entre construcción y medio ambiente.
 
-<img src="../media/ch1/image18.png"
-style="width:6.1375in;height:3.39062in" />
+<img src="../media/ch1/image45.png"
+style="width:6.13681in;height:2.84324in" />
 
 El diseño urbano del Ágora de Mileto coloca esta construcción en el
 centro de un espacio abierto, rectangular y regular rodeado de edificios
@@ -367,8 +367,8 @@ la conceptualización dictatorial de la cosmogonía jerárquica de Hesíodo
 de Askra, hacia la conceptualización democrática de la cosmología
 simétrica de Anaximandro de Mileto.
 
-<img src="../media/ch1/image19.png"
-style="width:6.1375in;height:3.11979in" />
+<img src="../media/ch1/image46.png"
+style="width:6.13721in;height:2.68637in" />
 
 **La cosmogonía de Hesíodo**
 
@@ -394,8 +394,8 @@ rígidamente jerarquizado verticalmente: en el nivel superior la
 autoridad de Zeus y luego en orden descendiente, los dioses inmortales,
 los seres humanos y hasta abajo los muertos y los dioses del inframundo.
 
-<img src="../media/ch1/image20.png"
-style="width:6.1375in;height:3.42292in" />
+<img src="../media/ch1/image47.png"
+style="width:6.1375in;height:3.03646in" />
 
 **La cosmología de Anaximandro**
 
@@ -433,8 +433,8 @@ aberturas en esos anillos. Además, la Tierra flota libremente en el
 espacio, cumple con un propósito cercano a un principio de simetría como
 explicación física: es toda una visión democrática acerca del universo.
 
-<img src="../media/ch1/image21.png"
-style="width:6.1375in;height:3.0297in" />
+<img src="../media/ch1/image48.png"
+style="width:6.13704in;height:3.19802in" />
 
 **Evolución del espacio griego**
 
@@ -446,11 +446,11 @@ equilibrio y reestructuraron físicamente sus ciudades alrededor del
 ágora como centro de equilibrio político y social, cuna de la
 democracia.
 
-<img src="../media/ch1/image22.png"
-style="width:6.1375in;height:3.34444in" />
+<img src="../media/ch1/image49.png"
+style="width:6.13606in;height:3.18317in" />
 
-<img src="../media/ch1/image23.png"
-style="width:6.1375in;height:3.65686in" />
+<img src="../media/ch1/image52.png"
+style="width:6.1375in;height:2.53513in" />
 
 La evolución sociopolítica y científico tecnológica de la Grecia muestra
 que resolvieron el diseño de la sociedad humana, la arquitectura urbana
@@ -459,6 +459,6 @@ inició en un primer nivel micro de la vida familiar y de la comunidad,
 pasó por el nivel meso del ágora y la ciudad- estado y finalmente llegó
 al nivel macro de la cosmología esférica.
 
-<img src="../media/ch1/image24.png"
-style="width:6.1375in;height:3.71569in" />
+<img src="../media/ch1/image53.png"
+style="width:6.1334in;height:3.26733in" />
 
