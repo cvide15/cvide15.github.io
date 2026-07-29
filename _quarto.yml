@@ -23,6 +23,7 @@ book:
     - part: "Volumen  I.Movimiento"
       chapters:
         - chapters/1-conceptualizacion-bimodal.md
+        - chapters/1-conceptualizacion-bimodal-1.md
         - chapters/1-conceptualizacion-bimodal-2.md
         - chapters/1-conceptualizacion-bimodal-3.md
 
