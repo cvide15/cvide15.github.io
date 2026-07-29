@@ -1,10 +1,6 @@
 
 <font face="Arial" size="6">Capítulo 1. Conceptualización bimodal de los espacios</font>
 
-<h1 style="font-family: Arial, sans-serif; font-size: 20pt;">
-  Capítulo 1. Conceptualización bimodal de los espacios
-</h1>
-
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
 Conceptualizar significa crear conceptos. Toda conceptualización corresponde a un estilo o manera de concebir, organizar y comunicar conceptos y relaciones conceptuales que expresan y transmiten información y conocimientos. Son maneras de visualizar posibilidades de comprensión y explicación acerca de la estructura y el funcionamiento de sistemas que se desarrollan y describen en determinados espacios.
