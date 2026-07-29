@@ -1,5 +1,5 @@
 
-<font face="Arial" size="6">Capítulo 1. Conceptualización bimodal de los espacios</font>
+<font face="Arial" size="6"><b>Capítulo 1. Conceptualización bimodal de los espacios</b></font>
 
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
