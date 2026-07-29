@@ -1,7 +1,6 @@
 
-<h1 style="font-family: Arial, sans-serif; font-size: 20pt;">
-  Capítulo 1. Conceptualización bimodal de los espacios
-</h1>
+## Capítulo 1. Conceptualización bimodal de los espacios
+
 
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
