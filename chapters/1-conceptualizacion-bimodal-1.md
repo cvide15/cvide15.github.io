@@ -1,4 +1,4 @@
-**1.1  Espacios sociopolíticos, urbanos y astronómicos en la antigua  Grecia**
+# 1.1  Espacios sociopolíticos, urbanos y astronómicos en la antigua  Grecia
 
 El movimiento es el resultado de interacciones, disruptivas o equilibradas, entre las fuerzas impulsivas que evolucionan en el tiempo
 y las formas organizadas de las trayectorias que se recorren en determinados espacios. El movimiento de los objetos geométricos se da en
