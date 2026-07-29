@@ -3,7 +3,7 @@ project:
   output-dir: _site       # build output; never committed to the repo
 
 book:
-  title: "Física Moderna explorando premios Nobel"
+  title: "Temas de Física Moderna"
   author: "Dr. Jorge Barojas-Weber"
   date: last-modified
   language: es                            # translates UI elements (search, navigation, etc.)
