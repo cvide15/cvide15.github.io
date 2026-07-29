@@ -2,7 +2,7 @@
 # Capítulo 1. Conceptualización bimodal de los espacios
 
 
-<div style="border: 6px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
 Conceptualizar significa crear conceptos. Toda conceptualización corresponde a un estilo o manera de concebir, organizar y comunicar conceptos y relaciones conceptuales que expresan y transmiten información y conocimientos. Son maneras de visualizar posibilidades de comprensión y explicación acerca de la estructura y el funcionamiento de sistemas que se desarrollan y describen en determinados espacios.
 
@@ -16,7 +16,7 @@ Proponemos una conceptualización bimodal de estos espacios que opera en términ
 style="width:6.13582in;height:4.12745in" />
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
-<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
 **1.1. Espacios sociopolíticos, urbanos y astronómicos en la antigua Grecia**
 
@@ -32,7 +32,7 @@ Describir la manera como en la antigua Grecia se conceptualizaron la creación y
 <img src="../media/ch1/imag1.2.png"
 style="width:6.22953in;height:3.30882in" />
 
-<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
 **1.2. Espacios cognitivos en matemáticas, química y física**
 
