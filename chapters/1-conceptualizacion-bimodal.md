@@ -47,7 +47,7 @@ Explicar cómo las conceptualizaciones dictatoriales o democráticos pueden apli
 <img src="../media/ch1/imag1.3.png"
 style="width:6.1375in;height:3.0049in" />
 
-<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
 **1.3. Espacios arquimedianos en matemáticas, física e ingeniería**
 
