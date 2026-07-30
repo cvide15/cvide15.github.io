@@ -225,6 +225,16 @@ style="width:6.1375in;height:3.42292in" />
 
 **REFERENCIAS**
 
+Bernal, J. D. (1954). Science in history. MIT Press.
+
+Durant, W. (1966). The story of civilization: Vol. 2. The life of Greece. Simon and Schuster.
+
+Hellemans, A., & Bunch, B. (1988). The timetables of science: A chronology of the most important people and events in the history of science. Simon and Schuster.
+
+Klein, M. (1972). El pensamiento matemático de la antigüedad a nuestros días (Vol. 1). Alianza Editorial.
+
+Vernant, J.-P. (1963). Géométrie et astronomie sphérique dans la première cosmologie grecque. La Pensée, (109), 82.
+
 <span class="smallcaps">Bernal, J. D</span>., *Science in History*.
 Cambridge, Massachusetts, MIT Press, (1954).
 
