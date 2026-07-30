@@ -1,4 +1,4 @@
-# 1.1  Espacios sociopolíticos, urbanos y astronómicos en la antigua  Grecia
+## 1.1  Espacios sociopolíticos, urbanos y astronómicos en la antigua  Grecia
 
 El movimiento es el resultado de interacciones, disruptivas o equilibradas, entre las fuerzas impulsivas que evolucionan en el tiempo
 y las formas organizadas de las trayectorias que se recorren en determinados espacios. El movimiento de los objetos geométricos se da en
@@ -7,7 +7,7 @@ espacios matemáticos. El movimiento de los cuerpos celestes se da en espacios a
 <img src="../media/ch1/image7.png"
 style="width:6.13611in;height:3.42188in" />
 
-**Grecia en la antigüedad**
+### Grecia en la antigüedad
 
 Los griegos establecieron un paradigma en el que la ciencia racional,
 los principios matemáticos y la filosofía política dejaron de ser
@@ -36,8 +36,7 @@ una "nueva imagen" de los espacios astronómicos y geométricos.
 <img src="../media/ch1/image10.png"
 style="width:6.1368in;height:3.16667in" />
 
-**Enfoques dictatoriales y democráticos en la interpretación de
-espacios**
+### Enfoques dictatoriales y democráticos en la interpretación de espacios
 
 Esta sección se basa en la conferencia *Géométrie et astronomie
 sphérique dans la première cosmologie grecque* de Jean-Pierre Vernant,
@@ -62,7 +61,7 @@ esquema interpretativo, método de análisis y lenguaje de comunicación.
 <img src="../media/ch1/image12.png"
 style="width:6.13542in;height:2.94271in" />
 
-**Construcción del espacio sociopolítico en Grecia**
+### Construcción del espacio sociopolítico en Grecia
 
 Antes de que se establecieran instituciones políticas en Grecia, la
 sociedad tenía una estructura jerárquica: el nivel más alto de la
@@ -90,7 +89,7 @@ su madre formando un ágora (palabra griega para asamblea).
 <img src="../media/ch1/image15.png"
 style="width:6.1375in;height:3.08889in" />
 
-**Creadores de cultura**
+#### Creadores de cultura
 
 Para caracterizar el proceso de construcción del espacio sociopolítico
 Vernant propone considerar la participación de cuatro personajes claves
@@ -141,7 +140,7 @@ sociedad en tres clases (artesanos, agricultores y guerreros) y
 distinguir tres tipos de territorios (el sagrado, el público y el
 privado).
 
-**Diseño y construcción de espacios urbanos**
+### Diseño y construcción de espacios urbanos
 
 La ciudad democrática en la Grecia antigua reflejaba equilibrio y
 concordancia entre el diseño socio político y el urbano: había sido
@@ -196,7 +195,7 @@ administrativos y ceremoniales. Muestra una lógica espacial que integra
 lo ecológico con lo simbólico y manifiesta armonía, adaptación y
 equilibrio.
 
-**Dos conceptualizaciones del espacio astronómico**
+### Dos conceptualizaciones del espacio astronómico
 
 Según Vernant, la nueva imagen de la sociedad democrática griega iba en
 paralelo con una nueva imagen de los espacios astronómicos: implicó
@@ -220,7 +219,7 @@ simétrica de Anaximandro de Mileto.
 <img src="../media/ch1/image19.png"
 style="width:6.1375in;height:3.11979in" />
 
-**La cosmogonía de Hesíodo**
+#### La cosmogonía de Hesíodo
 
 Hesíodo de Askra, Tebas (cerca del 800 a.C.) fue un poeta de la época
 arcaica que introdujo en sus obras una visión moral y práctica de la
@@ -247,7 +246,7 @@ los seres humanos y hasta abajo los muertos y los dioses del inframundo.
 <img src="../media/ch1/image20.png"
 style="width:6.1375in;height:3.42292in" />
 
-**La cosmología de Anaximandro**
+#### La cosmología de Anaximandro
 
 Anaximandro de Mileto, Jonia (619 – 546) a.C., fue un pensador
 originario de Mileto que propuso que el origen de todo (*arché*) no es
@@ -286,7 +285,7 @@ explicación física: es toda una visión democrática acerca del universo.
 <img src="../media/ch1/image21.png"
 style="width:6.1375in;height:3.0297in" />
 
-**Evolución del espacio griego**
+### Evolución del espacio griego
 
 Las herramientas intelectuales de equilibrio y simetría, forjadas para
 crear un cosmos democrático, fueron las mismas herramientas que los
