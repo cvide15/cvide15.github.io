@@ -1,4 +1,4 @@
-# 1.3. Espacios arquimedianos en matemáticas, física e ingeniería
+## 1.3. Espacios arquimedianos en matemáticas, física e ingeniería
 
 La dicotomía entre las conceptualizaciones dictatoriales (imposiciones
 que privilegian a unos cuantos) y las democráticas (acceso libre para
@@ -40,9 +40,9 @@ objetos.
 <img src="../media/ch1/image61.png"
 style="width:6.1375in;height:3.42292in" />
 
-**Conceptualizaciones democráticas en matemáticas y física**
+### Conceptualizaciones democráticas en matemáticas y física
 
-<u>Contribuciones en matemáticas</u>
+#### <u>Contribuciones en matemáticas</u>
 
 En lo que sigue indicamos los títulos de los diez libros que han
 sobrevivido, según Durant (1966): *El método*, *Una colección de Lemas,
@@ -56,7 +56,7 @@ style="width:6.1375in;height:3.42292in" />
 <img src="../media/ch1/image63.png"
 style="width:6.13472in;height:3.37624in" />
 
-<u>Contribuciones relacionadas con el desarrollo de la física</u>
+#### <u>Contribuciones relacionadas con el desarrollo de la física</u>
 
 Para Arquímedes, la ciencia era un esfuerzo unificado para entender el
 mundo y para cambiarlo mediante inventos y descubrimientos. Arquímedes
@@ -89,8 +89,7 @@ igual al peso del volumen desplazado (V<sub>desp</sub>).
 <img src="../media/ch1/image66.png"
 style="width:6.13403in;height:3.06863in" />
 
-**Conceptualizaciones dictatoriales en la solución de problemas
-prácticos**
+### Conceptualizaciones dictatoriales en la solución de problemas prácticos
 
 Arquímedes no se limitó a contemplar las formas del mundo: las midió,
 probó y manipuló, demostrando una profunda capacidad para traducir y
@@ -127,7 +126,7 @@ volumen del fluido desalojado, en este caso el volumen total del cuerpo
 <img src="../media/ch1/image69.png"
 style="width:6.1375in;height:3.79703in" />
 
-**Conceptualizaciones en la solución del problema de la corona de oro**
+### Conceptualizaciones en la solución del problema de la corona de oro
 
 Cuentan que el rey Hierón de Siracusa entregó a un joyero un bloque de
 oro para que le hiciera una corona, pero cuando la recibió sospechó que
