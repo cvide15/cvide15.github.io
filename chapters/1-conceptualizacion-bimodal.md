@@ -18,7 +18,7 @@ style="width:6.13582in;height:4.12745in" />
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
-**1.1. Espacios sociopolíticos, urbanos y astronómicos en la antigua Grecia**
+### 1.1. Espacios sociopolíticos, urbanos y astronómicos en la antigua Grecia
 
 Describir la manera como en la antigua Grecia se conceptualizaron la creación y evolución de los espacios sociopolíticos, urbanos y astronómicos. Considerar en todos los casos los puntos de vista democrático y dictatorial.
 
