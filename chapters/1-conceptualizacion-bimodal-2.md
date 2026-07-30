@@ -1,4 +1,4 @@
-# 1.2.  Espacios cognitivos en matemáticas, química y física
+## 1.2.  Espacios cognitivos en matemáticas, química y física
 
 La conceptualización bimodal característica de los enfoques democráticos
 y dictatoriales distingue y confronta lo que es válido para todos y lo
@@ -23,7 +23,7 @@ dictatorial o democrático.
 <img src="../media/ch1/image4.png"
 style="width:6.1375in;height:3.08333in" />
 
-**Espacio de interpretación de la ecuación de la circunferencia**
+### Espacio de interpretación de la ecuación de la circunferencia
 
 La dualidad conceptual en la conceptualización de espacios matemáticos
 puede ilustrarse si se analizan las condiciones en que una colección de
@@ -36,8 +36,8 @@ matemática a través de una lente democrática o dictatorial.
 <img src="../media/ch1/image26.png"
 style="width:6.1367in;height:3.17647in" />
 
-**Espacio de ordenamiento de la tabla periódica de los elementos
-químicos**
+### Espacio de ordenamiento de la tabla periódica de los elementos
+químicos
 
 La manera de interpretar cómo se ordenan los elementos químicos de
 acuerdo con la estructura de la tabla periódica puede corresponder a
@@ -112,8 +112,7 @@ cómo se forman enlaces iónicos, covalentes o metálicos.
 <img src="../media/ch1/image30.png"
 style="width:6.1375in;height:3.63542in" />
 
-**Espacio de clasificación de las partículas según la física
-estadística**
+### Espacio de clasificación de las partículas según la física estadística
 
 La conceptualización bimodal del espacio de las partículas elementales
 bajo la dicotomía dictatorial o democrática indica que los fermiones
@@ -190,8 +189,6 @@ como una sola entidad cuántica.
 <img src="../media/ch1/image34.png"
 style="width:6.1375in;height:3.42292in" />
 
-**Las contribuciones de Wolfgang Pauli y Max Born**
-
 <img src="../media/ch1/image35.png"
 style="width:6.13472in;height:3.15196in" />
 
@@ -208,7 +205,7 @@ presenta las principales aportaciones de cada autor y termina con
 algunas consideraciones acerca de las investigaciones que sabrán de
 continuar.
 
-<u>Premio Nobel de Física otorgado a Wolfgang Pauli (1900-1958)</u>
+#### <u>Premio Nobel de Física otorgado a Wolfgang Pauli (1900-1958)</u>
 
 HECHOS: "En el modelo del átomo de Niels Bohr, los electrones se mueven
 en órbitas fijas alrededor de un núcleo. A medida que este modelo se
@@ -234,7 +231,7 @@ Wolfgang Pauli – Conferencia Nobel. NobelPrize.org. Alcance del Premio
 Nobel AB 2023. Sáb. 25 feb
 2023. <https://www.nobelprize.org/prizes/physics/1945/pauli/lecture/>
 
-**Descripción de la problemática**
+#### Descripción de la problemática
 
 <img src="../media/ch1/image37.png"
 style="width:6.13681in;height:3.14216in" />
@@ -247,7 +244,7 @@ style="width:6.13717in;height:3.41622in" />
 <img src="../media/ch1/image41.png"
 style="width:6.13613in;height:3.10891in" />
 
-**Aportaciones de Pauli**
+#### Aportaciones de Pauli
 
 <img src="../media/ch1/image42.png"
 style="width:6.13662in;height:2.88542in" />
@@ -261,7 +258,7 @@ style="width:6.13681in;height:2.84324in" />
 <img src="../media/ch1/image46.png"
 style="width:6.13721in;height:2.68637in" />
 
-<u>Premio Nobel de Física de otorgado a Max Born (1882-1970)</u>
+#### <u>Premio Nobel de Física de otorgado a Max Born (1882-1970)</u>
 
 HECHOS: "En la teoría del átomo de Niels Bohr, los electrones absorben y
 emiten radiación de longitudes de onda fijas al saltar entre órbitas
@@ -288,7 +285,7 @@ Max Born – Conferencia Nobel. NobelPrize.org. Alcance del Premio Nobel
 AB 2023. Sáb. 25 feb
 2023. https://www.nobelprize.org/prizes/physics/1954/born/lecture/
 
-**Descripción de la problemática**
+#### Descripción de la problemática
 
 <img src="../media/ch1/image48.png"
 style="width:6.13704in;height:3.19802in" />
@@ -301,7 +298,7 @@ Heisenberg propuso una ruptura metodológica al eliminar las órbitas inobservab
 <img src="../media/ch1/image52.png"
 style="width:6.1375in;height:2.53513in" />
 
-**Aportaciones de Born**
+#### Aportaciones de Born
 
 <img src="../media/ch1/image53.png"
 style="width:6.1334in;height:3.26733in" />
