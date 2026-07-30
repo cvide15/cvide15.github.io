@@ -204,7 +204,7 @@ presenta las principales aportaciones de cada autor y termina con
 algunas consideraciones acerca de las investigaciones que sabrán de
 continuar.
 
-#### <u>Premio Nobel de Física otorgado a Wolfgang Pauli (1900-1958)</u>
+#### Premio Nobel de Física otorgado a Wolfgang Pauli (1900-1958)
 
 HECHOS: "En el modelo del átomo de Niels Bohr, los electrones se mueven
 en órbitas fijas alrededor de un núcleo. A medida que este modelo se
@@ -230,7 +230,7 @@ Wolfgang Pauli – Conferencia Nobel. NobelPrize.org. Alcance del Premio
 Nobel AB 2023. Sáb. 25 feb
 2023. <https://www.nobelprize.org/prizes/physics/1945/pauli/lecture/>
 
-#### <u>Conferencia de Pauli<u/>: Descripción de la problemática
+#### <u>Conferencia de Pauli</u>: Descripción de la problemática
 
 <img src="../media/ch1/image37.png"
 style="width:6.13681in;height:3.14216in" />
@@ -243,7 +243,7 @@ style="width:6.13717in;height:3.41622in" />
 <img src="../media/ch1/image41.png"
 style="width:6.13613in;height:3.10891in" />
 
-#### Aportaciones de Pauli
+#### <u>Conferencia de Pauli</u>: Aportaciones de Pauli
 
 <img src="../media/ch1/image42.png"
 style="width:6.13662in;height:2.88542in" />
@@ -257,7 +257,7 @@ style="width:6.13681in;height:2.84324in" />
 <img src="../media/ch1/image46.png"
 style="width:6.13721in;height:2.68637in" />
 
-#### <u>Premio Nobel de Física de otorgado a Max Born (1882-1970)</u>
+#### Premio Nobel de Física de otorgado a Max Born (1882-1970)
 
 HECHOS: "En la teoría del átomo de Niels Bohr, los electrones absorben y
 emiten radiación de longitudes de onda fijas al saltar entre órbitas
@@ -284,7 +284,7 @@ Max Born – Conferencia Nobel. NobelPrize.org. Alcance del Premio Nobel
 AB 2023. Sáb. 25 feb
 2023. https://www.nobelprize.org/prizes/physics/1954/born/lecture/
 
-#### Descripción de la problemática
+#### <u>Conferencia de Born</u>: Descripción de la problemática
 
 <img src="../media/ch1/image48.png"
 style="width:6.13704in;height:3.19802in" />
@@ -297,7 +297,7 @@ Heisenberg propuso una ruptura metodológica al eliminar las órbitas inobservab
 <img src="../media/ch1/image52.png"
 style="width:6.1375in;height:2.53513in" />
 
-#### Aportaciones de Born
+#### <u>Conferencia de Born</u>: Aportaciones de Born
 
 <img src="../media/ch1/image53.png"
 style="width:6.1334in;height:3.26733in" />
