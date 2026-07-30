@@ -225,31 +225,12 @@ style="width:6.1375in;height:3.42292in" />
 
 **REFERENCIAS**
 
-Bernal, J. D. (1954). Science in history. MIT Press.
+<span class="smallcaps">Bernal, J. D.</span> (1954). *Science in history*. MIT Press.
 
-Durant, W. (1966). The story of civilization: Vol. 2. The life of Greece. Simon and Schuster.
+<span class="smallcaps">Durant, W.</span> (1966). *The story of civilization: Vol. 2. The life of Greece.* Simon and Schuster.
 
-Hellemans, A., & Bunch, B. (1988). The timetables of science: A chronology of the most important people and events in the history of science. Simon and Schuster.
+Hellemans, A., & Bunch, B. (1988). *The timetables of science: A chronology of the most important people and events in the history of science.* Simon and Schuster.
 
-Klein, M. (1972). El pensamiento matemático de la antigüedad a nuestros días (Vol. 1). Alianza Editorial.
+Klein, M. (1972). *El pensamiento matemático de la antigüedad a nuestros días* (Vol. 1). Alianza Editorial.
 
-Vernant, J.-P. (1963). Géométrie et astronomie sphérique dans la première cosmologie grecque. La Pensée, (109), 82.
-
-<span class="smallcaps">Bernal, J. D</span>., *Science in History*.
-Cambridge, Massachusetts, MIT Press, (1954).
-
-<span class="smallcaps">Durant, W</span>., *The story of civilization.
-Vol. 2 The Life of Greece*, New York, Simon and Schuster, (1966).
-
-HELLEMANS, A. y BUNCH, B*. The Timetables of SCIENCE. A Chronology of
-the Most Important People and Events in the History of Science*, New
-York, Simon and Schuster, (1988).
-
-KLEIN, M., *El pensamiento matemático de la antigüedad a nuestros días*.
-Vol.1. Madrid: Alianza Editorial. (1972).
-
-[VERNANT, Jean-Pierre. *Géométrie et astronomie sphérique dans la
-première cosmologie
-grecque*](https://gallica.bnf.fr/ark:/12148/bpt6k58160321/f3.item). La
-Pensée (1963),109, p.82.
-
+[Vernant, J.-P. (1963). *Géométrie et astronomie sphérique dans la première cosmologie grecque.*](https://gallica.bnf.fr/ark:/12148/bpt6k58160321/f3.item) La Pensée, (109), 82.
