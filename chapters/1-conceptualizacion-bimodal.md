@@ -34,7 +34,7 @@ style="width:6.22953in;height:3.30882in" />
 
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
-**1.2. Espacios cognitivos en matemáticas, química y física**
+### 1.2. Espacios cognitivos en matemáticas, química y física
 
 Explicar cómo las conceptualizaciones dictatoriales o democráticos pueden aplicarse a espacios cognitivos con fines de interpretación en matemáticas, de ordenamiento en química y de clasificación en física.
 
@@ -49,7 +49,7 @@ style="width:6.1375in;height:3.0049in" />
 
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
-**1.3. Espacios arquimedianos en matemáticas, física e ingeniería**
+### 1.3. Espacios arquimedianos en matemáticas, física e ingeniería
 
 Describir las siguientes aportaciones de Arquímedes: libros publicados, método de exhaución, ley de la palanca, determinación del centro de gravedad, principio de flotación, ingeniería aplicada (tornillo hidráulico, polipastos), tecnología militar (catapultas, garras, espejos ustorios) e instrumentos de precisión (balanza hidrostática).
 
