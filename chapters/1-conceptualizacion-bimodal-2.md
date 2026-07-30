@@ -230,7 +230,7 @@ Wolfgang Pauli – Conferencia Nobel. NobelPrize.org. Alcance del Premio
 Nobel AB 2023. Sáb. 25 feb
 2023. <https://www.nobelprize.org/prizes/physics/1945/pauli/lecture/>
 
-#### Descripción de la problemática
+#### <u>Conferencia de Pauli<u/>: Descripción de la problemática
 
 <img src="../media/ch1/image37.png"
 style="width:6.13681in;height:3.14216in" />
