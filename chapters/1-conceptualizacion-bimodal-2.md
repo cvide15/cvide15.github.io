@@ -36,8 +36,7 @@ matemática a través de una lente democrática o dictatorial.
 <img src="../media/ch1/image26.png"
 style="width:6.1367in;height:3.17647in" />
 
-### Espacio de ordenamiento de la tabla periódica de los elementos
-químicos
+### Espacio de ordenamiento de la tabla periódica de los elementos químicos
 
 La manera de interpretar cómo se ordenan los elementos químicos de
 acuerdo con la estructura de la tabla periódica puede corresponder a
