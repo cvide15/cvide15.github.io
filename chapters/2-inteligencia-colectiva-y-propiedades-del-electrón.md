@@ -1,5 +1,5 @@
 ---
-title: "Inteligencia Colectiva y Propiedades del Electrón"
+title: "Capítulo 2: Inteligencia Colectiva y Propiedades del Electrón"
 ---
 
 <img src="../media/ch2/image2.png"

@@ -1,5 +1,5 @@
 ---
-title: "Detección de señales en el ojo y creación de mapas en el cerebro"
+title: "Capítulo 3: Detección de señales en el ojo y creación de mapas en el cerebro"
 ---
 
 <img src="../media/ch3/image1.png"
