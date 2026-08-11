@@ -160,7 +160,8 @@ $V = \frac{m_{o}}{\rho_{oro}} + \frac{m_{p}}{\rho_{plata}}$
 
 Resolviendo el par de ecuaciones anteriores se obtiene que
 $m_{p} = \frac{V - \frac{m}{\rho_{oro}}}{\frac{1}{\rho_{plata}} - \frac{1}{\rho_{oro}}}$
-Esto significa que si $V = \frac{m}{\rho_{oro}}$ la corona es de oro
+Esto significa que si 
+$V = \frac{m}{\rho_{oro}}$ la corona es de oro
 puro y si tal numerador es mayor que cero entonces la corona contiene
 plata.
 
