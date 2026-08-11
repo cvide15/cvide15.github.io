@@ -135,9 +135,7 @@ estructuras jerárquicas impuestas por ordenamientos externos.
 style="width:6.13611in;height:3.10417in" />
 
 Por el contrario, en el caso de los bosones la conceptualización
-democrática del espacio
-
-indica que el orden no se impone desde arriba, sino que surge de la
+democrática del espacio indica que el orden no se impone desde arriba, sino que surge de la
 participación colectiva que propicia la condensación, según la cual
 múltiples partículas comparten el mismo estado cuántico. Los bosones son
 sociables y colaborativos, funcionan como una colectividad descrita por
