@@ -1,3 +1,5 @@
+<div align="justify">
+
 ## 1.3. Espacios arquimedianos en matemáticas, física e ingeniería
 
 La dicotomía entre las conceptualizaciones dictatoriales (imposiciones
