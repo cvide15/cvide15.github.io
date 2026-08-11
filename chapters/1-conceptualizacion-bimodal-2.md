@@ -156,7 +156,7 @@ nueva función no cambia de signo respecto de la función anterior (la
 función es simétrica) o sí cambia de signo (la función es
 antisimétrica):
 
-$\psi\left( x_{1},\ x_{2},\ \ldots.\ x_{j},\ x_{k},\ldots\ x_{N} \right)  =   \ ( \pm )\psi\left( x_{1},\ x_{2},\ \ldots.\ x_{k},\ x_{j},\ldots\ x_{N} \right)\ $
+$\psi\left( x_{1},\ x_{2},\ \ldots.\ x_{j},\ x_{k},\ldots\ x_{N} \right)    =     \ ( \pm )\psi\left( x_{1},\ x_{2},\ \ldots.\ x_{k},\ x_{j},\ldots\ x_{N} \right)\ $
 
 La función antisimétrica representa a la familia de los fermiones
 (electrones, protones, neutrones) que obedecen el Principio de exclusión
