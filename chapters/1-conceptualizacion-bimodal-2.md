@@ -16,8 +16,7 @@ circunferencia; el segundo ejemplo es en química y se refiere al método
 de ordenación de los elementos en su tabla periódica; el tercer ejemplo
 es en física y describe el lenguaje de clasificación propio de la física
 estadística que indica si las partículas son bosones o son fermiones. En
-los dos primeros ejemplos les cuestión de interpretación decidir qué
-tipo de conceptualización se aplica. En el tercer ejemplo la
+los dos primeros ejemplos se trata de decidir qué tipo de conceptualización se aplica. En el tercer ejemplo la
 conceptualización bimodal va más lejos porque cada familia de partículas
 (los fermiones y los bosones) tiene características que son de tipo
 dictatorial o democrático.
