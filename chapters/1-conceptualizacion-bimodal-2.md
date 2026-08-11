@@ -164,7 +164,7 @@ $$
 
 </div>
 
-<div style="overflow-x: auto; font-size: 0.9em;">
+<div style="overflow-x: auto; font-size: 0.5em;">
 
 $$
 \psi\left( x_{1},\ x_{2},\ \ldots.\ x_{j},\ x_{k},\ldots\ x_{N} \right)= \ ( \pm )\psi\left( x_{1},\ x_{2},\ \ldots.\ x_{k},\ x_{j},\ldots\ x_{N} \right)\
