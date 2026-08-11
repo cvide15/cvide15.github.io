@@ -1,3 +1,5 @@
+<div align="justify">
+
 ## 1.2.  Espacios cognitivos en matemáticas, química y física
 
 La conceptualización bimodal característica de los enfoques democráticos
