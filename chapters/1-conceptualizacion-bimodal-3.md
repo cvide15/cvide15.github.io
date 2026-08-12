@@ -183,8 +183,10 @@ El uso de la balanza convierte un problema geométrico (determinación de
 volúmenes) en uno dinámico (cálculo de fuerzas: los pesos aparentes en
 el aire y en el agua):
 
+<div style="overflow-x: auto; font-size: 0.9em;">
 $$\Delta W = (W_{aire} - W_{agua})_{corona} - (W_{aire} - W_{agua})_{oro}
 $$
+</div>
 
 Lo anterior transforma la sospecha cualitativa incierta de Hierón en la
 medición cuantitativa precisa de Arquímedes.
