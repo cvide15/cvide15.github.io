@@ -187,6 +187,7 @@ el aire y en el agua):
   
 $$\Delta W = (W_{aire} - W_{agua})_{corona} - (W_{aire} - W_{agua})_{oro}
 $$
+
 $$
 </div>
 
