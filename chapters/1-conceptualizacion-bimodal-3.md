@@ -188,7 +188,7 @@ el aire y en el agua):
 $$\Delta W = (W_{aire} - W_{agua})_{corona} - (W_{aire} - W_{agua})_{oro}
 $$
 
-$$
+
 </div>
 
 Lo anterior transforma la sospecha cualitativa incierta de Hierón en la
