@@ -193,6 +193,8 @@ como una sola entidad cuántica.
 <img src="../media/ch1/image34.png"
 style="width:6.1375in;height:3.42292in" />
 
+### Los Premios Nobel de Física a Wolfgang Pauli y Max Born
+
 <img src="../media/ch1/image35.png"
 style="width:6.13472in;height:3.15196in" />
 
