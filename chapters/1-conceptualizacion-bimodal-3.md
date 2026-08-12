@@ -152,7 +152,7 @@ style="width:6.1375in;height:3.42153in" />
 <img src="../media/ch1/image72.png"
 style="width:6.1375in;height:3.42153in" />
 
-Lo anterior se puede concretar al hacer la siguiente consideración: si la densidad de la corona está dada por la expresión $\rho_{corona} = \ $*m/V*, y además contiene una masa de oro $m_{o}$ y de plata $m_{p}$ $m_p$, de modo que $m = m_{o} + m_{p}$$m = m_o + m_p$, entonces se deduce que el volumen total de la corona es
+Lo anterior se puede concretar al hacer la siguiente consideración: si la densidad de la corona está dada por la expresión $\rho_{corona} = \ $*m/V*, y además contiene una masa de oro $m_{o}$ y de plata $m_{p}$ $m_p$-}. Tomando en cuenta que la masa total se define como $m = m_{o} + m_{p}$$m = m_o + m_p$, entonces se deduce que el volumen total de la corona es
 $V = \frac{m_{o}}{\rho_{oro}} + \frac{m_{p}}{\rho_{plata}}$
 
 Al resolver el sistema de ecuaciones presentado anteriormente, se logra despejar y determinar el valor de la masa de plata, resultando en 
