@@ -309,7 +309,7 @@ style="width:6.1375in;height:2.53513in" />
 <img src="../media/ch1/image53.png"
 style="width:6.1334in;height:3.26733in" />
 
-Inspirado en la realidad fotónica de Einstein, Born demostró que la función de onda es una densidad de probabilidad de localización, de manera que la propagación ondulatoria coincide con la observación corpuscular en un universo dde probabilidades regidas por reglas precisas, pero resultados inciertos.
+Inspirado en la realidad fotónica de Einstein, Born demostró que la función de onda es una densidad de probabilidad de localización, de manera que la propagación ondulatoria coincide con la observación corpuscular en un universo de probabilidades regidas por reglas precisas, pero resultados inciertos.
 
 <img src="../media/ch1/image56.png"
 style="width:6.13546in;height:3.51485in" />
