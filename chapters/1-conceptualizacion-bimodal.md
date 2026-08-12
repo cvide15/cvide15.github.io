@@ -56,6 +56,8 @@ style="width:6.1375in;height:3.0049in" />
 Describir las siguientes aportaciones de Arquímedes: libros publicados, método de exhaución, ley de la palanca, determinación del centro de gravedad, principio de flotación, ingeniería aplicada (tornillo hidráulico, polipastos), tecnología militar (catapultas, garras, espejos ustorios) e instrumentos de precisión (balanza hidrostática).
 
 * Conceptualizaciones democráticas en matemáticas y física
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Contribuciones en matemáticas
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Contribuciones relacionadas con el desarrollo de la física
 * Conceptualizaciones dictatoriales en la solución de problemas prácticos
 * Conceptualizaciones en la solución del problema de la corona de oro
 
