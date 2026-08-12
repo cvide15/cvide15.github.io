@@ -121,7 +121,7 @@ masa *m* en dos condiciones: cuando el objeto está suspendido en el aire
 (su peso es *W<sub>aire</sub> = mg*) y cuando el mismo objeto está
 totalmente sumergido en un fluido, circunstancia que está sujeta al
 principio de flotación: en tal caso su nuevo peso es *W<sub>agua</sub> =
-W<sub>aire</sub> - E*, donde el empuje *E* que es igual al peso del
+W<sub>aire</sub> - E* donde el empuje *E* que es igual al peso del
 volumen del fluido desalojado, en este caso el volumen total del cuerpo
 (*V<sub>des =</sub> V<sub>total</sub>*).
 
