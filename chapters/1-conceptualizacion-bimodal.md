@@ -42,7 +42,7 @@ Explicar cómo las conceptualizaciones dictatoriales o democráticos pueden apli
 * Espacio de interpretación de la ecuación de la circunferencia
 * Espacio de ordenamiento de la tabla periódica de los elementos químicos
 * Espacio de clasificación de las partículas según la física estadística
-<br>&nbsp;&nbsp;&nbsp;Los Premios Nobel de Física a Wolfgang Pauli y Max Born
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Los Premios Nobel de Física a Wolfgang Pauli y Max Born
 
 </div>
 
