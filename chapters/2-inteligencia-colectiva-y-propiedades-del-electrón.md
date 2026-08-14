@@ -85,7 +85,7 @@ style="width:6.1375in;height:3.42569in" />
       <!-- Título principal -->
       <tr style="background-color: #f6f8fa;">
         <th colspan="3" style="text-align: center; padding: 12px; font-size: 16px; border-bottom: 2px solid #333333;">
-          <strong>Tabla 2.1. <em>Actividades experimentales en cuatro espacios antropológicos</em></strong>
+          <strong>Tabla 2.1. Actividades experimentales en cuatro espacios antropológicos</strong>
         </th>
       </tr>
       <!-- Subtítulo de sección -->
