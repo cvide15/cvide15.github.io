@@ -244,7 +244,7 @@ style="width:6.1375in;height:3.42569in" />
       <!-- Subtítulo / Título de la tabla -->
       <tr style="background-color: #eaeef2;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 15px; border-bottom: 2px solid #333333;">
-          <strong>Las Mercancías: Innovación económica - Mercado y producción</strong>
+          <strong>El Conocimiento: Inteligencia distribuida - Redes y colaboración</strong>
         </th>
       </tr>
       <!-- Encabezados de columnas -->
@@ -265,23 +265,23 @@ style="width:6.1375in;height:3.42569in" />
       <tr>
         <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
-            <li style="margin-bottom: 6px;">registro digital con telescopios</li>
-            <li style="margin-bottom: 6px;">imágenes diagnósticas en medicina</li>
-            <li style="margin-bottom: 0;">procesos industriales automatizados</li>
+            <li style="margin-bottom: 6px;">en astronomía colaborativa global</li>
+            <li style="margin-bottom: 6px;">en tratamientos médicos</li>
+            <li style="margin-bottom: 0;">en contaminación ambiental</li>
           </ul>
         </td>
         <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
-            <li style="margin-bottom: 6px;">composición química con espectroscopios</li>
-            <li style="margin-bottom: 6px;">tamaños y distancias con instrumentos de alta precisión</li>
-            <li style="margin-bottom: 0;">posicionamientos y orientaciones con satélites</li>
+            <li style="margin-bottom: 6px;">cambio climático</li>
+            <li style="margin-bottom: 6px;">secuencias genéticas</li>
+            <li style="margin-bottom: 0;">comunicaciones en tiempo real</li>
           </ul>
         </td>
         <td style="padding: 12px; vertical-align: top; line-height: 1.4; height: 100%;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
-            <li style="margin-bottom: 6px;">en física nuclear</li>
-            <li style="margin-bottom: 6px;">en manipulación genética y molecular</li>
-            <li style="margin-bottom: 0;">en computación e inteligencia artificial</li>
+            <li style="margin-bottom: 6px;">en genética colaborativa</li>
+            <li style="margin-bottom: 6px;">en estudios computacionales del clima</li>
+            <li style="margin-bottom: 0;">en ambientes virtuales y comunidades de aprendizaje</li>
           </ul>
         </td>
       </tr>
