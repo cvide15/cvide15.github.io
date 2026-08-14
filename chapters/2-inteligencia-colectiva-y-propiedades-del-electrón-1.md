@@ -60,7 +60,7 @@ entrada (input funnel) que recibe todo aquello que habrá de procesarse.
 <img src="../media/ch2/image9.png"
 style="width:6.1375in;height:3.42292in" />
 
-## **Fase 2: Expresar (**posicionamiento para compartir conocimientos)
+**Fase 2: Expresar** (posicionamiento para compartir conocimientos)
 
 Responde a la necesidad de exteriorizar ideas y conocimientos y exponer
 problemas abiertamente. Se caracteriza por la claridad conceptual, la
