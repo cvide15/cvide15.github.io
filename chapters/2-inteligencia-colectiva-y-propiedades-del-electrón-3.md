@@ -1,5 +1,6 @@
-
-**2.3. Experimentos acerca del electrón**
+<div align="justify">
+  
+## 2.3. Experimentos acerca del electrón
 
 El electrón es uno de los más importantes componentes de la materia:
 forma parte de átomos y moléculas, interviene en los enlaces químicos,
