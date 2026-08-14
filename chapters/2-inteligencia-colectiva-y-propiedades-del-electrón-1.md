@@ -48,7 +48,7 @@ Evolución y Sentido las fases de Conectar, Evaluar y Mostrar Visión.
 
 **Etapa de Percepción e Intercambio**
 
-## **Fase 1: Escuchar** (atención activa para incorporar perspectivas)
+**Fase 1: Escuchar** (atención activa para incorporar perspectivas)
 
 Constituye el fundamento inicial de todo desarrollo de la inteligencia
 colaborativa; consiste en la capacidad del grupo para participar y
@@ -70,12 +70,8 @@ circulación de argumentos y la producción discursiva pertinente y
 oportuna. Es una especie de embudo de salida (output funnel) que muestra
 como el pensamiento se transforma en conocimiento.
 
-## 
-
 <img src="../media/ch2/image10.png"
 style="width:6.1375in;height:3.42292in" />
-
-## 
 
 **Etapa de Gestión y Acción**
 
@@ -91,9 +87,7 @@ construir acuerdos.
 <img src="../media/ch2/image11.png"
 style="width:6.1375in;height:3.42292in" />
 
-## 
-
-## **Fase 4: Organizar** (coordinación para distribuir procesos)
+**Fase 4: Organizar** (coordinación para distribuir procesos)
 
 Esta fase es esencial para construir estructuras operativas para evitar
 que la colaboración se disperse y pierda eficacia. Consiste en definir
@@ -108,7 +102,7 @@ style="width:6.1375in;height:3.42292in" />
 
 **Etapa de Evolución y Sentido**
 
-## **Fase 5: Conectar** (integración de redes cognitivas)
+**Fase 5: Conectar** (integración de redes cognitivas)
 
 Consiste en establecer vínculos directos en relaciones entre personas,
 ideas, conocimientos, experiencias, disciplinas, recursos y sistemas
@@ -120,7 +114,7 @@ conexiones
 <img src="../media/ch2/image13.png"
 style="width:6.1375in;height:3.42292in" />
 
-## **Fase 6: Evaluar** (calibración para aprender y corregir)
+**Fase 6: Evaluar** (calibración para aprender y corregir)
 
 Consiste en analizar resultados, detectar errores, medir avances,
 valorar procesos, comparar objetivos con logros y generar
@@ -129,12 +123,8 @@ crítica, la autoevaluación, la retroalimentación, la medición de
 resultados y el ajuste de estrategias. Se concreta en aprender, criticar
 y contrastar.
 
-## <img src="../media/ch2/image14.png"
+<img src="../media/ch2/image14.png"
 style="width:6.1375in;height:3.42292in" />
-
-## 
-
-## 
 
 **Fase 7: Mostrar visión** (dar coherencia, dirección y sentido a la
 perspectiva colectiva)
