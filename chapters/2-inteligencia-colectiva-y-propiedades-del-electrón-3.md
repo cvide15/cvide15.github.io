@@ -88,55 +88,89 @@ aspectos que las caracterizan: en qué consiste la acción principal,
 cuáles son los dispositivos o aparatos básicos requeridos y qué tipo de
 resultados se esperan.
 
-<table>
-<colgroup>
-<col style="width: 19%" />
-<col style="width: 19%" />
-<col style="width: 20%" />
-<col style="width: 19%" />
-<col style="width: 19%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="5">Tabla 2.3. Regiones de realización y componentes de las
-actividades experimentales</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Componentes de la actividad</td>
-<td>Región de Preparación</td>
-<td>Región de Transformación</td>
-<td>Región de Detección</td>
-<td>Región de Medición</td>
-</tr>
-<tr class="even">
-<td>Acción principal</td>
-<td>Organizar e integrar</td>
-<td>Producir interacciones</td>
-<td>Registrar señales</td>
-<td>Representar gráficamente</td>
-</tr>
-<tr class="odd">
-<td>Aparatos requeridos</td>
-<td><p>Fuentes de energía</p>
-<p>Controladores</p></td>
-<td><p>Campos externos</p>
-<p>variables</p></td>
-<td><p>Sensores</p>
-<p>Aparatos de captura</p></td>
-<td><p>Graficadores</p>
-<p>Registradoras de datos</p></td>
-</tr>
-<tr class="even">
-<td>Resultados esperados</td>
-<td>Condiciones iniciales fijas</td>
-<td>Efectos observables generados</td>
-<td>Señales concretas capturadas</td>
-<td>Consecuencias interpretables</td>
-</tr>
-</tbody>
-</table>
+<div align="center">
+  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+    <thead>
+      <!-- Título principal -->
+      <tr style="background-color: #f6f8fa;">
+        <th colspan="5" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
+          Tabla 2.3. Regiones las componentes de actividades experimentales
+        </th>
+      </tr>
+      <!-- Encabezados de columnas -->
+      <tr style="background-color: #f0f2f5; text-align: center;">
+        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Componentes de la actividad
+        </th>
+        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Región de Preparación
+        </th>
+        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Región de Transformación
+        </th>
+        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Región de Detección
+        </th>
+        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
+          Región de Medición
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Acción principal
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Organizar e integrar
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Producir interacciones
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Registrar señales
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
+          representar gráficamente
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Aparatos requeridos
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Fuentes de energía<br>Controladores
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Campos externos variables
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Sensores<br>Aparatos de captura
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Graficadores<br>Registradoras de datos
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+          Resultados esperados
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+          Condiciones iniciales fijas
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+          Efectos observables generados
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+          Señales concretas capturadas
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4;">
+          Consecuencias interpretables
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 Habrá experimentos que funcionen dentro del ámbito de lo que se entiende
 o se sospecha, pero podrán aparecer dudas y nuevas interrogantes, así
