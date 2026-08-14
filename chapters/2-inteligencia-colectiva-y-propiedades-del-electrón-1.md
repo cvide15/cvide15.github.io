@@ -1,4 +1,6 @@
-**2.1. Fases del desarrollo de la inteligencia colectiva**
+<div align="justify">
+  
+## 2.1. Fases del desarrollo de la inteligencia colectiva**
 
 La inteligencia colectiva es la capacidad de un grupo humano para pensar
 conjuntamente, coordinar conocimientos, resolver problemas, crear
