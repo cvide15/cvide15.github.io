@@ -136,141 +136,158 @@ style="width:6.1375in;height:3.42569in" />
   </table>
 </div>
 
-<table>
-<colgroup>
-<col style="width: 30%" />
-<col style="width: 33%" />
-<col style="width: 35%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="3">El Territorio: Organización política - Instituciones y
-escritura</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>OBSERVACIONES</td>
-<td>MEDICIONES</td>
-<td>EXPERIMENTOS</td>
-</tr>
-<tr class="even">
-<td><ul>
-<li><blockquote>
-<p>geometría de terrenos</p>
-</blockquote></li>
-<li><p>evolución de enfermedades</p></li>
-<li><p>sistemas de irrigación</p></li>
-</ul></td>
-<td><ul>
-<li><p>tiempo con relojes solares</p></li>
-<li><blockquote>
-<p>masas con balanzas</p>
-</blockquote></li>
-<li><blockquote>
-<p>pulsos y respiraciones</p>
-</blockquote></li>
-</ul></td>
-<td><ul>
-<li><p>con poleas y palancas</p></li>
-<li><blockquote>
-<p>reacciones químicas artesanales</p>
-</blockquote></li>
-<li><blockquote>
-<p>características de suelos y cultivos</p>
-</blockquote></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+<div align="center">
+  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
+    <thead>
+      <!-- Subtítulo / Título de la tabla -->
+      <tr style="background-color: #eaeef2;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 15px; border-bottom: 2px solid #333333;">
+          <strong>El Territorio: Organización política - Instituciones y escritura</strong>
+        </th>
+      </tr>
+      <!-- Encabezados de columnas -->
+      <tr style="background-color: #f0f2f5; font-weight: bold; text-align: center;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          OBSERVACIONES
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          MEDICIONES
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; border-bottom: 2px solid #333333;">
+          EXPERIMENTOS
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Contenido -->
+      <tr>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">geometría de terrenos</li>
+            <li style="margin-bottom: 6px;">evolución de enfermedades</li>
+            <li style="margin-bottom: 0;">sistemas de irrigación</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">tiempo con relojes solares</li>
+            <li style="margin-bottom: 6px;">masas con balanzas</li>
+            <li style="margin-bottom: 0;">pulsos y respiraciones</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">con poleas y palancas</li>
+            <li style="margin-bottom: 6px;">reacciones químicas artesanales</li>
+            <li style="margin-bottom: 0;">características de suelos y cultivos</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-<table>
-<colgroup>
-<col style="width: 30%" />
-<col style="width: 33%" />
-<col style="width: 35%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="3">Las Mercancías: Innovación económica - Mercado y
-producción</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>OBSERVACIONES</td>
-<td>MEDICIONES</td>
-<td>EXPERIMENTOS</td>
-</tr>
-<tr class="even">
-<td><ul>
-<li><blockquote>
-<p>registro digital con telescopios</p>
-</blockquote></li>
-<li><blockquote>
-<p>imágenes diagnósticas en medicina</p>
-</blockquote></li>
-<li><p>procesos industriales automatizados</p></li>
-</ul></td>
-<td><ul>
-<li><p>composición química con espectroscopios</p></li>
-<li><p>tamaños y distancias con instrumentos de alta precisión</p></li>
-<li><p>posicionamientos y orientaciones con satélites</p></li>
-</ul></td>
-<td><ul>
-<li><p>en física nuclear</p></li>
-<li><p>en manipulación genética y molecular</p></li>
-<li><p>en computación e inteligencia artificial</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+<div align="center">
+  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
+    <thead>
+      <!-- Subtítulo / Título de la tabla -->
+      <tr style="background-color: #eaeef2;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 15px; border-bottom: 2px solid #333333;">
+          <strong>Las Mercancías: Innovación económica - Mercado y producción</strong>
+        </th>
+      </tr>
+      <!-- Encabezados de columnas -->
+      <tr style="background-color: #f0f2f5; font-weight: bold; text-align: center;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          OBSERVACIONES
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          MEDICIONES
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; border-bottom: 2px solid #333333;">
+          EXPERIMENTOS
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Contenido -->
+      <tr>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">registro digital con telescopios</li>
+            <li style="margin-bottom: 6px;">imágenes diagnósticas en medicina</li>
+            <li style="margin-bottom: 0;">procesos industriales automatizados</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">composición química con espectroscopios</li>
+            <li style="margin-bottom: 6px;">tamaños y distancias con instrumentos de alta precisión</li>
+            <li style="margin-bottom: 0;">posicionamientos y orientaciones con satélites</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">en física nuclear</li>
+            <li style="margin-bottom: 6px;">en manipulación genética y molecular</li>
+            <li style="margin-bottom: 0;">en computación e inteligencia artificial</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-<table>
-<colgroup>
-<col style="width: 30%" />
-<col style="width: 30%" />
-<col style="width: 38%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="3">El Conocimiento: Inteligencia distribuida - Redes y
-colaboración</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>OBSERVACIONES</td>
-<td>MEDICIONES</td>
-<td>EXPERIMENTOS</td>
-</tr>
-<tr class="even">
-<td><ul>
-<li><p>en astronomía colaborativa global</p></li>
-<li><blockquote>
-<p>en tratamientos médicos</p>
-</blockquote></li>
-<li><blockquote>
-<p>en contaminación ambiental</p>
-</blockquote></li>
-</ul></td>
-<td><ul>
-<li><blockquote>
-<p>cambio climático</p>
-</blockquote></li>
-<li><blockquote>
-<p>secuencias genéticas</p>
-</blockquote></li>
-<li><p>comunicaciones en tiempo real</p></li>
-</ul></td>
-<td><ul>
-<li><p>en genética colaborativa</p></li>
-<li><p>en estudios computacionales del clima</p></li>
-<li><p>en ambientes virtuales y comunidades de aprendizaje</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+<div align="center">
+  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
+    <thead>
+      <!-- Subtítulo / Título de la tabla -->
+      <tr style="background-color: #eaeef2;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 15px; border-bottom: 2px solid #333333;">
+          <strong>Las Mercancías: Innovación económica - Mercado y producción</strong>
+        </th>
+      </tr>
+      <!-- Encabezados de columnas -->
+      <tr style="background-color: #f0f2f5; font-weight: bold; text-align: center;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          OBSERVACIONES
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          MEDICIONES
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; border-bottom: 2px solid #333333;">
+          EXPERIMENTOS
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Contenido -->
+      <tr>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">registro digital con telescopios</li>
+            <li style="margin-bottom: 6px;">imágenes diagnósticas en medicina</li>
+            <li style="margin-bottom: 0;">procesos industriales automatizados</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">composición química con espectroscopios</li>
+            <li style="margin-bottom: 6px;">tamaños y distancias con instrumentos de alta precisión</li>
+            <li style="margin-bottom: 0;">posicionamientos y orientaciones con satélites</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">en física nuclear</li>
+            <li style="margin-bottom: 6px;">en manipulación genética y molecular</li>
+            <li style="margin-bottom: 0;">en computación e inteligencia artificial</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <img src="../media/ch2/image6.png"
 style="width:6.13693in;height:3.60417in" />
