@@ -22,6 +22,26 @@ style="width:6.1375in;height:3.42569in" />
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
 
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+  
+## 2.1.  Fases del desarrollo de la inteligencia colectiva
+
+Analizar las características y funciones de cada fase y su participación en la integración de las correspondientes etapas de producción del conocimiento científico. Explicar cómo las etapas de producción y las fases de desarrollo expresan interacciones colectivas entre las cuales fluye y se transforma la inteligencia colectiva.
+
+Descripción de las fases del desarrollo de la inteligencia colectiva
+   Etapa de Percepción e Intercambio
+1.	Escuchar: atención activa para incorporar perspectivas 
+2.	Expresar: posicionamiento para compartir conocimientos
+   Etapa de Gestión y Acción
+3.	Decidir: responsabilidad para seleccionar acciones
+4.	Organizar: coordinación para distribuir procesos
+   Etapa de Evolución y Sentido
+5.	Conectar: integración de redes cognitivas
+6.	Evaluar: calibración para aprender y corregir 
+7.	Mostrar visión: dar coherencia, dirección y sentido a la perspectiva colectiva
+
+</div>
+
 <img src="../media/ch2/image3.png"
 style="width:6.1375in;height:3.42569in" />
 
