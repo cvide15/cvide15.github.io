@@ -130,6 +130,57 @@ antropológicos</th>
 </tbody>
 </table>
 
+<div align="center">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
+    <thead>
+      <!-- Título principal -->
+      <tr style="background-color: #f6f8fa;">
+        <th colspan="3" style="text-align: center; padding: 12px; font-size: 16px; border-bottom: 2px solid #333333;">
+          <strong>Tabla 2.1. <em>Actividades experimentales en cuatro espacios antropológicos</em></strong>
+        </th>
+      </tr>
+      <!-- Subtítulo de sección -->
+      <tr style="background-color: #eaeef2;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 15px; border-bottom: 2px solid #333333;">
+          <strong>La Tierra: Memoria comunitaria - Tradición y mito</strong>
+        </th>
+      </tr>
+      <!-- Encabezados de columnas -->
+      <tr style="background-color: #f0f2f5; font-weight: bold; text-align: center;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          OBSERVACIONES
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          MEDICIONES
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; border-bottom: 2px solid #333333;">
+          EXPERIMENTOS
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Contenido -->
+      <tr>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.5; border-right: 2px solid #333333;">
+          • estaciones del año<br>
+          • comportamiento del clima<br>
+          • ciclos agrícolas
+        </td>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.5; border-right: 2px solid #333333;">
+          • terrenos agrícolas<br>
+          • tiempo mediante ciclos lunares<br>
+          • distancias y tamaños usando partes del cuerpo humano
+        </td>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.5;">
+          • efectos del fuego<br>
+          • fermentación de bebidas y alimentos<br>
+          • materiales de construcción
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <table>
 <colgroup>
 <col style="width: 30%" />
