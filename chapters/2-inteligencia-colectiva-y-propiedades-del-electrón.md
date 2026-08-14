@@ -2,6 +2,16 @@
   
 # Capítulo 2: Inteligencia Colectiva y Propiedades del Electrón
 
+La construcción y circulación del conocimiento se da en el espacio cognitivo de las ideas, los razonamientos y las pruebas que posibilitan el desarrollo y aplicación de teorías y experimentos. Este es un proceso creativo que refleja el desarrollo de la inteligencia colectiva.
+Inteligencia colectiva significa construir la capacidad de un grupo, comunidad o sociedad para pensar, comprender y resolver problemas de manera conjunta. Según Paul Lévy*, el desarrollo de la inteligencia colectiva requiere reconocer que el conocimiento humano es un producto social y que las sociedades avanzan cuando logran coordinar creativamente las capacidades de muchos para transformar y fortalecer la cooperación y el compromiso de todos.
+Dos elementos clave en la descripción de la inteligencia colectiva son la puesta en práctica de sus fases de desarrollo (escuchar, expresar, decidir, organizar, conectar, evaluar y mostrar visión) y la comprensión de sus espacios antropológicos (la Tierra, el Territorio, las Mercancías y el Conocimiento).
+En relación con el conocimiento científico, éste avanza cuando las aportaciones teóricas y los desarrollos experimentales se enriquecen mutuamente, lo cual implica, para empezar, comprender y hacer funcionar adecuadamente cuatro regiones de realización de las actividades experimentales: Preparación, Transformación, Detección y Medición). 
+
+Como ejemplo de aplicación práctica, aplicamos la descripción de las regiones de realización de actividades experimentales al análisis de tres experimentos que condujeron al descubrimiento del electrón y permitieron calcular los valores de su relación carga/masa y de su carga eléctrica, así como demostrar la existencia de niveles energéticos discretos. En este capítulo consideramos la relación entre tales regiones de realización de las actividades experimentales con las etapas de producción de las fases del desarrollo de la inteligencia colectiva. Las fases de Escuchar y Expresar corresponden a la etapa de Percepción e Intercambio, las fases de Decidir y Organizar a la etapa de Gestión y Acción y las fases de Conectar, Evaluar y Mostrar Visión a la etapa de Evolución y Sentido.
+ 
+* Lévy Paul. L'intelligence collective: Pour une anthropologie du cyberspace. Paris: La Découverte. (1994). 
+   Lévy Paul. Collective Intelligence: Mankind's Emerging World in Cyberspace (Trad. Robert Bononno). New York: Plenum Trade. (1997).
+
 
 <img src="../media/ch2/image2.png"
 style="width:6.1375in;height:3.42569in" />
