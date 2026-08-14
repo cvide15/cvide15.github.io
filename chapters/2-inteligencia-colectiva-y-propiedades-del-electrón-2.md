@@ -1,4 +1,6 @@
-**2.2. Espacios antropológicos de la inteligencia colectiva**
+<div align="justify">
+  
+## 2.2. Espacios antropológicos de la inteligencia colectiva
 
 La inteligencia colectiva coordina inteligencias distribuidas para
 producir comprensión y acción colectiva. Se basa en la cooperación y el
