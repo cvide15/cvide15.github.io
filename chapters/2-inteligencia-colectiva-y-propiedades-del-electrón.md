@@ -2,6 +2,8 @@
   
 # Capítulo 2: Inteligencia Colectiva y Propiedades del Electrón
 
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+
 La construcción y circulación del conocimiento se da en el espacio cognitivo de las ideas, los razonamientos y las pruebas que posibilitan el desarrollo y aplicación de teorías y experimentos. Este es un proceso creativo que refleja el desarrollo de la inteligencia colectiva.
 Inteligencia colectiva significa construir la capacidad de un grupo, comunidad o sociedad para pensar, comprender y resolver problemas de manera conjunta. Según Paul Lévy*, el desarrollo de la inteligencia colectiva requiere reconocer que el conocimiento humano es un producto social y que las sociedades avanzan cuando logran coordinar creativamente las capacidades de muchos para transformar y fortalecer la cooperación y el compromiso de todos.
 Dos elementos clave en la descripción de la inteligencia colectiva son la puesta en práctica de sus fases de desarrollo (escuchar, expresar, decidir, organizar, conectar, evaluar y mostrar visión) y la comprensión de sus espacios antropológicos (la Tierra, el Territorio, las Mercancías y el Conocimiento).
@@ -11,7 +13,9 @@ Como ejemplo de aplicación práctica, aplicamos la descripción de las regiones
  
 <p style="font-size: 10pt;">* Lévy Paul. <i>L'intelligence collective: Pour une anthropologie du cyberspace.</i> Paris: La <i>Découverte.</i> (1994).</p>
 
-<p style="font-size: 10pt;">* Lévy Paul. <i>Collective Intelligence: Mankind's Emerging World in Cyberspace</i> (Trad. Robert Bononno). New York: Plenum Trade. (1997).</p>
+<p style="font-size: 10pt;">  Lévy Paul. <i>Collective Intelligence: Mankind's Emerging World in Cyberspace</i> (Trad. Robert Bononno). New York: Plenum Trade. (1997).</p>
+
+</div>
 
 <img src="../media/ch2/image2.png"
 style="width:6.1375in;height:3.42569in" />
