@@ -1,6 +1,6 @@
 <div align="justify">
-  
-# Capítulo 2: Inteligencia Colectiva y Propiedades del Electrón
+
+  # Capítulo 2: Inteligencia Colectiva y Propiedades del Electrón
 
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
@@ -11,7 +11,7 @@ En relación con el conocimiento científico, éste avanza cuando las aportacion
 
 Como ejemplo de aplicación práctica, aplicamos la descripción de las regiones de realización de actividades experimentales al análisis de tres experimentos que condujeron al descubrimiento del electrón y permitieron calcular los valores de su relación carga/masa y de su carga eléctrica, así como demostrar la existencia de niveles energéticos discretos. En este capítulo consideramos la relación entre tales regiones de realización de las actividades experimentales con las etapas de producción de las fases del desarrollo de la inteligencia colectiva. Las fases de Escuchar y Expresar corresponden a la etapa de Percepción e Intercambio, las fases de Decidir y Organizar a la etapa de Gestión y Acción y las fases de Conectar, Evaluar y Mostrar Visión a la etapa de Evolución y Sentido.
  
-<p style="font-size: 10pt;">* Lévy Paul. <i>L'intelligence collective: Pour une anthropologie du cyberspace.</i> Paris: La <i>Découverte.</i> (1994).</p>
+<p style="font-size: 10pt; padding-left: margin: 0;">">* Lévy Paul. <i>L'intelligence collective: Pour une anthropologie du cyberspace.</i> Paris: La <i>Découverte.</i> (1994).</p>
 <p style="font-size: 10pt; padding-left: 2ch; margin: 0;">
   Lévy Paul. <i>Collective Intelligence: Mankind's Emerging World in Cyberspace</i> (Trad. Robert Bononno). New York: Plenum Trade. (1997).
 </p>
@@ -24,7 +24,7 @@ style="width:6.1375in;height:3.42569in" />
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
 
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
-  
+ 
 ## 2.1.  Fases del desarrollo de la inteligencia colectiva
 
 Analizar las características y funciones de cada fase y su participación en la integración de las correspondientes etapas de producción del conocimiento científico. Explicar cómo las etapas de producción y las fases de desarrollo expresan interacciones colectivas entre las cuales fluye y se transforma la inteligencia colectiva.
@@ -47,7 +47,7 @@ Descripción de las fases del desarrollo de la inteligencia colectiva
 style="width:6.1375in;height:3.42569in" />
 
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
-
+  
 ## 2.2.  Espacios antropológicos de la inteligencia colectiva
 
 Describir las siguientes características de cada espacio antropológico: el espacio de la Tierra crea cosmovisiones y construye códigos; el espacio del Territorio requiere para su funcionamiento de infraestructura, gobernanza y mentalidad cultural; el espacio de las Mercancías funciona como estructura global que contiene motores, aceleradores y sistemas operativos y el espacio del Conocimiento se apoya en tres pilares que son la interconexión, la colaboración y la transformación.  
