@@ -1,6 +1,7 @@
----
-title: "Capítulo 2: Inteligencia Colectiva y Propiedades del Electrón"
----
+<div align="justify">
+  
+# Capítulo 2: Inteligencia Colectiva y Propiedades del Electrón
+
 
 <img src="../media/ch2/image2.png"
 style="width:6.1375in;height:3.42569in" />
