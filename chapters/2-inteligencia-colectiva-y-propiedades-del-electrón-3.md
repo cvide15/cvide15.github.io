@@ -1,3 +1,4 @@
+
 **2.3. Experimentos acerca del electrón**
 
 El electrón es uno de los más importantes componentes de la materia:
@@ -832,4 +833,3 @@ Comparaciones entre los cuatro espacios antropológicos, Sección 2.2).
 
 <img src="../media/ch2/image77.png"
 style="width:5.90556in;height:2.98296in" />
-
