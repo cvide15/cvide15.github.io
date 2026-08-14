@@ -1,6 +1,6 @@
 <div align="justify">
 
-  # Capítulo 2: Inteligencia Colectiva y Propiedades del Electrón
+# Capítulo 2: Inteligencia Colectiva y Propiedades del Electrón
 
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
@@ -79,57 +79,6 @@ Relaciones entre las regiones de realización de las actividades experimentales 
 <img src="../media/ch2/image5.png"
 style="width:6.1375in;height:3.42569in" />
 
-<table>
-<colgroup>
-<col style="width: 30%" />
-<col style="width: 33%" />
-<col style="width: 35%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="3">Tabla 2.1. Actividades experimentales en cuatro espacios
-antropológicos</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td colspan="3">La Tierra: Memoria comunitaria - Tradición y mito</td>
-</tr>
-<tr class="even">
-<td>OBSERVACIONES</td>
-<td>MEDICIONES</td>
-<td>EXPERIMENTOS</td>
-</tr>
-<tr class="odd">
-<td><ul>
-<li><blockquote>
-<p>estaciones del año</p>
-</blockquote></li>
-<li><blockquote>
-<p>comportamiento del clima</p>
-</blockquote></li>
-<li><blockquote>
-<p>ciclos agrícolas</p>
-</blockquote></li>
-</ul></td>
-<td><ul>
-<li><blockquote>
-<p>terrenos agrícolas</p>
-</blockquote></li>
-<li><blockquote>
-<p>tiempo mediante ciclos lunares</p>
-</blockquote></li>
-<li><p>distancias y tamaños usando partes del cuerpo humano</p></li>
-</ul></td>
-<td><ul>
-<li><p>efectos del fuego</p></li>
-<li><p>fermentación de bebidas y alimentos</p></li>
-<li><p>materiales de construcción</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
 <div align="center">
   <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
     <thead>
@@ -161,20 +110,26 @@ antropológicos</th>
     <tbody>
       <!-- Contenido -->
       <tr>
-        <td style="padding: 12px; vertical-align: top; line-height: 1.5; border-right: 2px solid #333333;">
-          • estaciones del año<br>
-          • comportamiento del clima<br>
-          • ciclos agrícolas
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">estaciones del año</li>
+            <li style="margin-bottom: 6px;">comportamiento del clima</li>
+            <li style="margin-bottom: 0;">ciclos agrícolas</li>
+          </ul>
         </td>
-        <td style="padding: 12px; vertical-align: top; line-height: 1.5; border-right: 2px solid #333333;">
-          • terrenos agrícolas<br>
-          • tiempo mediante ciclos lunares<br>
-          • distancias y tamaños usando partes del cuerpo humano
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">terrenos agrícolas</li>
+            <li style="margin-bottom: 6px;">tiempo mediante ciclos lunares</li>
+            <li style="margin-bottom: 0;">distancias y tamaños usando partes del cuerpo humano</li>
+          </ul>
         </td>
-        <td style="padding: 12px; vertical-align: top; line-height: 1.5;">
-          • efectos del fuego<br>
-          • fermentación de bebidas y alimentos<br>
-          • materiales de construcción
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">efectos del fuego</li>
+            <li style="margin-bottom: 6px;">fermentación de bebidas y alimentos</li>
+            <li style="margin-bottom: 0;">materiales de construcción</li>
+          </ul>
         </td>
       </tr>
     </tbody>
