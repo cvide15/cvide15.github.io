@@ -89,9 +89,7 @@ style="width:6.13458in;height:2.74479in" />
 
 Según la mecánica cuántica los electrones no recorren trayectorias
 definidas en las órbitas que describen alrededor del núcleo. Sus
-posiciones sucesivas se describen mediante una <a href="https://es.wikipedia.org/wiki/Funci%C3%B3n_de_onda" title="En mecánica cuántica una función de onda 
-ψ(x,t) es una forma de representar el estado físico de un sistema de partículas. Usualmente es una función compleja, de cuadrado integrable y univaluada, de las coordenadas espaciales de cada una de las partículas.">función de onda</a> que es la
-solución matemática de la llamada ecuación de Schrödinger para un
+posiciones sucesivas se describen mediante una <a href="https://es.wikipedia.org/wiki/Funci%C3%B3n_de_onda" title="En mecánica cuántica una función de onda ψ(x,t) es una forma de representar el estado físico de un sistema de partículas. Usualmente es una función compleja, de cuadrado integrable y univaluada, de las coordenadas espaciales de cada una de las partículas.">función de onda</a> que es la solución matemática de la llamada ecuación de Schrödinger para un
 electrón. El orbital representa una distribución de probabilidad, no una
 órbita fija. Un orbital no es un camino, sino una “nube de probabilidad”
 que propone donde es más probable encontrar al electrón. La estructura
@@ -150,8 +148,7 @@ armonía.
 style="width:6.13125in;height:2.60784in" />
 
 Las estadísticas cuánticas describen cómo se comportan las partículas en
-sistemas microscópicos. Si en la <a href="https://es.wikipedia.org/wiki/Funci%C3%B3n_de_onda" title="En mecánica cuántica una función de onda 
-ψ(x,t) es una forma de representar el estado físico de un sistema de partículas. Usualmente es una función compleja, de cuadrado integrable y univaluada, de las coordenadas espaciales de cada una de las partículas.">función de onda</a> total de un sistema
+sistemas microscópicos. Si en la <a href="https://es.wikipedia.org/wiki/Funci%C3%B3n_de_onda" title="En mecánica cuántica una función de onda ψ(x,t) es una forma de representar el estado físico de un sistema de partículas. Usualmente es una función compleja, de cuadrado integrable y univaluada, de las coordenadas espaciales de cada una de las partículas.">función de onda</a> total de un sistema
 compuesto de N partículas se intercambian dos partículas idénticas
 representadas por x<sub>j</sub> y x<sub>k</sub>, el resultado es que la
 nueva función no cambia de signo respecto de la función anterior (la
@@ -310,8 +307,7 @@ style="width:6.1375in;height:2.53513in" />
 <img src="../media/ch1/image53.png"
 style="width:6.1334in;height:3.26733in" />
 
-Inspirado en la realidad fotónica de Einstein, Born demostró que la <a href="https://es.wikipedia.org/wiki/Funci%C3%B3n_de_onda" title="En mecánica cuántica una función de onda 
-ψ(x,t) es una forma de representar el estado físico de un sistema de partículas. Usualmente es una función compleja, de cuadrado integrable y univaluada, de las coordenadas espaciales de cada una de las partículas.">función de onda</a> es una densidad de probabilidad de localización, de manera que la propagación ondulatoria coincide con la observación corpuscular en un universo de probabilidades regidas por reglas precisas, pero resultados inciertos.
+Inspirado en la realidad fotónica de Einstein, Born demostró que la <a href="https://es.wikipedia.org/wiki/Funci%C3%B3n_de_onda" title="En mecánica cuántica una función de onda ψ(x,t) es una forma de representar el estado físico de un sistema de partículas. Usualmente es una función compleja, de cuadrado integrable y univaluada, de las coordenadas espaciales de cada una de las partículas.">función de onda</a> es una densidad de probabilidad de localización, de manera que la propagación ondulatoria coincide con la observación corpuscular en un universo de probabilidades regidas por reglas precisas, pero resultados inciertos.
 
 <img src="../media/ch1/image56.png"
 style="width:6.13546in;height:3.51485in" />
