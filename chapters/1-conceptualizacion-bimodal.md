@@ -53,7 +53,7 @@ style="width:6.1375in;height:3.0049in" />
 
 ## 1.3. Espacios arquimedianos en matemáticas, física e ingeniería
 
-Describir las siguientes aportaciones de Arquímedes: libros publicados, método de exhaución, ley de la palanca, determinación del centro de gravedad, principio de flotación, ingeniería aplicada (tornillo hidráulico, polipastos), tecnología militar (catapultas, garras, espejos ustorios) e instrumentos de precisión (balanza hidrostática).
+Describir las siguientes aportaciones de Arquímedes: libros publicados, <a href="https://es.wikipedia.org/wiki/M%C3%A9todo_por_agotamiento" title="Es un procedimiento geométrico de aproximación a un resultado, con el cual el grado de precisión aumenta en la medida en que avanza el cálculo. Fue creado por Eudoxo de Cnido, reconocido por su teoría de las proporciones y teoremas sobre ella.">método de exhaución</a>, ley de la palanca, determinación del centro de gravedad, principio de flotación, ingeniería aplicada (tornillo hidráulico, polipastos), tecnología militar (catapultas, garras, espejos ustorios) e instrumentos de precisión (balanza hidrostática).
 
 * Conceptualizaciones democráticas en matemáticas y física
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Contribuciones en matemáticas
