@@ -15,10 +15,10 @@ pero ilustrativo acerca del significado de la ecuación de la
 circunferencia; el segundo ejemplo es en química y se refiere al método
 de ordenación de los elementos en su tabla periódica; el tercer ejemplo
 es en física y describe el lenguaje de clasificación propio de la física
-estadística que indica si las partículas son bosones o son fermiones. En
+estadística que indica si las partículas son <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a> o son <a href="https://es.wikipedia.org/wiki/Fermi%C3%B3n" title="Un fermión es uno de los dos tipos básicos de partículas elementales que existen en la naturaleza (el otro tipo es el bosón). Los fermiones se caracterizan por tener espín semientero (1/2, 3/2, ...) y, por tanto, estar sujetos al principio de exclusión de Pauli.">fermiones</a>. En
 los dos primeros ejemplos se trata de decidir qué tipo de conceptualización se aplica. En el tercer ejemplo la
 conceptualización bimodal va más lejos porque cada familia de partículas
-(los fermiones y los bosones) tiene características que son de tipo
+(los <a href="https://es.wikipedia.org/wiki/Fermi%C3%B3n" title="Un fermión es uno de los dos tipos básicos de partículas elementales que existen en la naturaleza (el otro tipo es el bosón). Los fermiones se caracterizan por tener espín semientero (1/2, 3/2, ...) y, por tanto, estar sujetos al principio de exclusión de Pauli.">fermiones</a> y los <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a>) tiene características que son de tipo
 dictatorial o democrático.
 
 <img src="../media/ch1/image4.png"
@@ -115,32 +115,32 @@ style="width:6.1375in;height:3.63542in" />
 ### Espacio de clasificación de las partículas según la física estadística
 
 La conceptualización bimodal del espacio de las partículas elementales
-bajo la dicotomía dictatorial o democrática indica que los fermiones
+bajo la dicotomía dictatorial o democrática indica que los <a href="https://es.wikipedia.org/wiki/Fermi%C3%B3n" title="Un fermión es uno de los dos tipos básicos de partículas elementales que existen en la naturaleza (el otro tipo es el bosón). Los fermiones se caracterizan por tener espín semientero (1/2, 3/2, ...) y, por tanto, estar sujetos al principio de exclusión de Pauli.">fermiones</a>
 como los electrones muestran un comportamiento dictatorial impuesto por
-el Principio de exclusión de Pauli, mientras que los bosones como los
+el Principio de exclusión de Pauli, mientras que los <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a> como los
 fotones suelen condensarse muy democráticamente.
 
 Wolfgang Pauli descubrió el Principio de exclusión: ningún par de
 electrones en un átomo pueden tener números cuánticos idénticos; es
 decir, dos partículas no pueden ocupar el mismo estado cuántico al mismo
 tiempo y cada partícula mantiene su individualidad forzada. Los
-integrantes de la familia de los fermiones se repelen entre sí porque
+integrantes de la familia de los <a href="https://es.wikipedia.org/wiki/Fermi%C3%B3n" title="Un fermión es uno de los dos tipos básicos de partículas elementales que existen en la naturaleza (el otro tipo es el bosón). Los fermiones se caracterizan por tener espín semientero (1/2, 3/2, ...) y, por tanto, estar sujetos al principio de exclusión de Pauli.">fermiones</a> se repelen entre sí porque
 obedecen a una restricción impositivo de naturaleza centrífuga que va
 desde el centro representado por el Principio de exclusión hacia la
-periferia donde se ubican todos los fermiones, los cuales satisfacen
+periferia donde se ubican todos los <a href="https://es.wikipedia.org/wiki/Fermi%C3%B3n" title="Un fermión es uno de los dos tipos básicos de partículas elementales que existen en la naturaleza (el otro tipo es el bosón). Los fermiones se caracterizan por tener espín semientero (1/2, 3/2, ...) y, por tanto, estar sujetos al principio de exclusión de Pauli.">fermiones</a>, los cuales satisfacen
 estructuras jerárquicas impuestas por ordenamientos externos.
 
 <img src="../media/ch1/image31.png"
 style="width:6.13611in;height:3.10417in" />
 
-Por el contrario, en el caso de los bosones la conceptualización
+Por el contrario, en el caso de los <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a> la conceptualización
 democrática del espacio indica que el orden no se impone desde arriba, sino que surge de la
 participación colectiva que propicia la condensación, según la cual
-múltiples partículas comparten el mismo estado cuántico. Los bosones son
+múltiples partículas comparten el mismo estado cuántico. Los <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a> son
 sociables y colaborativos, funcionan como una colectividad descrita por
 un mismo estado; todos juntos no cada uno por su lado. Este es un
 enfoque que favorece la atracción, que libera en la dirección centrípeta
-que va desde la periferia donde habitan todos los bosones hacia el
+que va desde la periferia donde habitan todos los <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a> hacia el
 centro que los jala de la misma manera porque todas las partículas
 comparten el mismo estado cuántico, lo cual indica orden, equilibrio y
 armonía.
@@ -164,15 +164,15 @@ $$
 
 </div>
 
-La función antisimétrica representa a la familia de los fermiones
+La función antisimétrica representa a la familia de los <a href="https://es.wikipedia.org/wiki/Fermi%C3%B3n" title="Un fermión es uno de los dos tipos básicos de partículas elementales que existen en la naturaleza (el otro tipo es el bosón). Los fermiones se caracterizan por tener espín semientero (1/2, 3/2, ...) y, por tanto, estar sujetos al principio de exclusión de Pauli.">fermiones</a>
 (electrones, protones, neutrones) que obedecen el Principio de exclusión
 de Pauli y en consecuencia, la ocupación máxima es de una partícula por
-estado. Los fermiones satisfacen la estadística de Fermi-Dirac y son
-partículas con espín semientero, mientras que los bosones satisfacen la
+estado. Los <a href="https://es.wikipedia.org/wiki/Fermi%C3%B3n" title="Un fermión es uno de los dos tipos básicos de partículas elementales que existen en la naturaleza (el otro tipo es el bosón). Los fermiones se caracterizan por tener espín semientero (1/2, 3/2, ...) y, por tanto, estar sujetos al principio de exclusión de Pauli.">fermiones</a> satisfacen la estadística de Fermi-Dirac y son
+partículas con espín semientero, mientras que los <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a> satisfacen la
 estadística de Bose-Einstein y tienen espín entero.
 
-La función simétrica representa a la familia de los bosones (fotones,
-gluones, bosones W y Z); por lo tanto, la función es invariante frente a
+La función simétrica representa a la familia de los <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a> (fotones,
+gluones, <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a> W y Z); por lo tanto, la función es invariante frente a
 la operación de permutación de partículas; es decir, que muchas
 partículas pueden ocupar el mismo estado cuántico (la ocupación es
 ilimitada).
@@ -180,7 +180,7 @@ ilimitada).
 <img src="../media/ch1/image33.png"
 style="width:6.13689in;height:3.02604in" />
 
-La condensación de Bose–Einstein ocurre cuando un conjunto de bosones se
+La <a href="https://es.wikipedia.org/wiki/Condensado_de_Bose-Einstein" title="En física, condensado de Bose-Einstein es el estado de la materia que se da en ciertos materiales a temperaturas cercanas a 0 K (cero absoluto).[1] La propiedad que lo caracteriza es que una cantidad macroscópica de las partículas del material pasan al nivel de mínima energía, denominado estado fundamental.">condensación de Bose–Einstein</a> ocurre cuando un conjunto de <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a> se
 enfría a temperaturas extremadamente bajas, cercanas al cero absoluto.
 En tales condiciones muchas partículas colapsan al mismo estado cuántico
 fundamental, el sistema deja de comportarse como un conjunto de
@@ -309,7 +309,14 @@ style="width:6.1375in;height:2.53513in" />
 <img src="../media/ch1/image53.png"
 style="width:6.1334in;height:3.26733in" />
 
-Inspirado en la realidad fotónica de Einstein, Born demostró que la función de onda es una densidad de probabilidad de localización, de manera que la propagación ondulatoria coincide con la observación corpuscular en un universo de probabilidades regidas por reglas precisas, pero resultados inciertos.
+Inspirado en la realidad fotónica de Einstein, Born demostró que la <a href="https://es.wikipedia.org/wiki/Funci%C3%B3n_de_onda" title="En mecánica cuántica una función de onda 
+ψ
+(
+x
+,
+t
+)
+{\displaystyle \psi (\mathbf {x} ,t)} es una forma de representar el estado físico de un sistema de partículas. Usualmente es una función compleja, de cuadrado integrable y univaluada, de las coordenadas espaciales de cada una de las partículas.">función de onda</a> es una densidad de probabilidad de localización, de manera que la propagación ondulatoria coincide con la observación corpuscular en un universo de probabilidades regidas por reglas precisas, pero resultados inciertos.
 
 <img src="../media/ch1/image56.png"
 style="width:6.13546in;height:3.51485in" />
