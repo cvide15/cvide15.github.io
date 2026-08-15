@@ -99,7 +99,7 @@ style="width:6.1356in;height:3.03431in" />
         </td>
         <td style="padding: 10px; vertical-align: top; line-height: 1.5; width: 50%;">
           • Tales de Mileto (624-546): <em>Astrología náutica</em><br>
-          • Anaximandro de Mileto (610-546): <em>Sobre la naturaleza</em> (El ápeiron, Cosmología)<br>
+          • Anaximandro de Mileto (610-546): <em>Sobre la naturaleza</em> (El <a href="https://es.wikipedia.org/wiki/%C3%81peiron" title="Ápeiron (ἄπειρον) es un término usado en filosofía, por Anaximandro de Mileto, para referirse al principio u origen (arché) de todas las cosas, identificando este primer principio con lo «indefinido» o «ilimitado». Consideraba que el principio constitutivo de las cosas era el ápeiron, que no es agua, ni tierra, ni fuego, ni aire; no tiene forma concreta, es infinito. El cosmos nace, se desarrolla y perece en el seno de ese "ápeiron"">ápeiron</a>, Cosmología)<br>
           • Parménides de Elea (514-470): <em>De la naturaleza</em> (crítica al movimiento)
         </td>
       </tr>
