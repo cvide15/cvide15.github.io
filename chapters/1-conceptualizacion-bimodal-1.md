@@ -151,8 +151,8 @@ gobernado por principios racionales y democráticos.
 
 Hipódamo propuso organizar las ciudades de manera racional y geométrica,
 tal como lo indicó en el plano de la reconstrucción de la ciudad de
-Mileto, destruida por los persas en 490 a.C. El correspondiente plano
-hipodámico muestra una estructura reticular ordenada de calles anchas y
+Mileto, destruida por los persas en 490 a.C. El correspondiente <a href="<a href="https://tu-enlace.com" title="Resumen o definición corta de la palabra">Palabra</a>" title="Un plan hipodámico, trazado hipodámico o trazado en damero es el tipo de planeamiento urbanístico que organiza una ciudad mediante el diseño de sus calles en ángulo recto, creando manzanas rectangulares. El apelativo hipodámico proviene del nombre del arquitecto griego Hipodamo de Mileto (en griego: Hippodamos), considerado uno de los padres del urbanismo cuyos planes de organización se caracterizaban por un diseño de calles rectilíneas que se cruzaban en ángulo recto.">plano
+hipodámico</a> muestra una estructura reticular ordenada de calles anchas y
 rectas, con un ágora como centro organizador de la vida comunitaria,
 acogedor escenario del discurso público. Aquí urbanismo es orden,
 simetría y equilibrio.
