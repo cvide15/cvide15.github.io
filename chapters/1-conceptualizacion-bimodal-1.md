@@ -252,14 +252,14 @@ style="width:6.1375in;height:3.42292in" />
 Anaximandro de Mileto, Jonia (619 – 546) a.C., fue un pensador
 originario de Mileto que propuso que el origen de todo (*<a href="https://es.wikipedia.org/wiki/Arch%C3%A9" title="Arché (también arqué, arkhé o arjé; del griego ἀρχή, «principio» u «origen») es un concepto fundamental en la filosofía de la Antigua Grecia que significaba el comienzo del universo o el primer elemento de todas las cosas (εξ’ ἀρχής: del principio, ο εξ’ ἀρχής λόγος: la razón primordial, originaria). Es lo que explica el comienzo del universo con una explicación racional con una o varias sustancias.">arché</a>*) no es
 algo concreto como el agua (como suponía su maestro Tales) sino una
-realidad indeterminada, infinita y eterna. Sugirió que del <a href="https://es.wikipedia.org/wiki/%C3%81peiron" title="Ápeiron (ἄπειρον) es un término usado en filosofía, por Anaximandro de Mileto, para referirse al principio u origen (arché) de todas las cosas, identificando este primer principio con lo «indefinido» o «ilimitado». Consideraba que el principio constitutivo de las cosas era el ápeiron, que no es agua, ni tierra, ni fuego, ni aire; no tiene forma concreta, es infinito. El cosmos nace, se desarrolla y perece en el seno de ese "ápeiron"">ápeiron</a> (en
+realidad indeterminada, infinita y eterna. Sugirió que del <a href="https://es.wikipedia.org/wiki/%C3%81peiron" title="Ápeiron (ἄπειρον) es un término usado en filosofía, por Anaximandro de Mileto, para referirse al principio u origen (arché) de todas las cosas, identificando este primer principio con lo «indefinido» o «ilimitado». Consideraba que el principio constitutivo de las cosas era el ápeiron, que no es agua, ni tierra, ni fuego, ni aire; no tiene forma concreta, es infinito. El cosmos nace, se desarrolla y perece en el seno de ese ápeiron">ápeiron</a>  (en
 griego: “lo indefinido” o “lo ilimitado”) surgen todas las cosas y a él
 regresan, siguiendo una especie de ley natural de equilibrio.
 
 Anaximandro afirmó que los elementos (calor, frío, seco, húmedo) están
 en conflicto, pero que existe una especie de justicia cósmica que regula
 ese conflicto, que las cosas “pagan” por sus excesos retornando al
-<a href="https://es.wikipedia.org/wiki/%C3%81peiron" title="Ápeiron (ἄπειρον) es un término usado en filosofía, por Anaximandro de Mileto, para referirse al principio u origen (arché) de todas las cosas, identificando este primer principio con lo «indefinido» o «ilimitado». Consideraba que el principio constitutivo de las cosas era el ápeiron, que no es agua, ni tierra, ni fuego, ni aire; no tiene forma concreta, es infinito. El cosmos nace, se desarrolla y perece en el seno de ese "ápeiron"">ápeiron</a>. Propuso la existencia de un principio originario abstracto que
+<a href="https://es.wikipedia.org/wiki/%C3%81peiron" title="Ápeiron (ἄπειρον) es un término usado en filosofía, por Anaximandro de Mileto, para referirse al principio u origen (arché) de todas las cosas, identificando este primer principio con lo «indefinido» o «ilimitado». Consideraba que el principio constitutivo de las cosas era el ápeiron, que no es agua, ni tierra, ni fuego, ni aire; no tiene forma concreta, es infinito. El cosmos nace, se desarrolla y perece en el seno de ese ápeiron">ápeiron</a>. Propuso la existencia de un principio originario abstracto que
 abría el camino a la explicación racional del cosmos y continuaba la
 transición del mito al logos iniciada en la tradición griega. Todo se
 explica mediante principios impersonales y necesarios, mediante
@@ -273,7 +273,7 @@ un modelo del universo donde la Tierra flota en el espacio), Geografía
 (estudió los cuerpos celestes y sus movimientos) y Biología primitiva
 (sugirió que los seres humanos provienen de formas de vida más simples).
 
-Según el modelo cosmológico de Anaximandro todo surge del <a href="https://es.wikipedia.org/wiki/%C3%81peiron" title="Ápeiron (ἄπειρον) es un término usado en filosofía, por Anaximandro de Mileto, para referirse al principio u origen (arché) de todas las cosas, identificando este primer principio con lo «indefinido» o «ilimitado». Consideraba que el principio constitutivo de las cosas era el ápeiron, que no es agua, ni tierra, ni fuego, ni aire; no tiene forma concreta, es infinito. El cosmos nace, se desarrolla y perece en el seno de ese "ápeiron"">ápeiron</a>, lo
+Según el modelo cosmológico de Anaximandro todo surge del <a href="https://es.wikipedia.org/wiki/%C3%81peiron" title="Ápeiron (ἄπειρον) es un término usado en filosofía, por Anaximandro de Mileto, para referirse al principio u origen (arché) de todas las cosas, identificando este primer principio con lo «indefinido» o «ilimitado». Consideraba que el principio constitutivo de las cosas era el ápeiron, que no es agua, ni tierra, ni fuego, ni aire; no tiene forma concreta, es infinito. El cosmos nace, se desarrolla y perece en el seno de ese ápeiron">ápeiron</a>, lo
 indefinido; el universo está organizado en anillos concéntricos
 alrededor de la Tierra: el Sol sería el anillo más lejano y grande, la
 Luna estaría en un anillo más cercano y las estrellas serían aún más
