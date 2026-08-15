@@ -54,7 +54,7 @@ enfoque democrático ve el espacio a través del equilibrio, la igualdad y
 la simetría. El enfoque dictatorial es centrífugo e impone reglas desde
 un punto central de autoridad; el enfoque democrático es centrípeto y
 construye orden a partir de las propiedades compartidas e iguales de sus
-partes constituyentes. Existe una dicotomía entre la restricción
+partes constituyentes. Existe una <a href="https://es.wikipedia.org/wiki/Dicotom%C3%ADa" title="Dicotomía (del griego dichótomos, «dividido en partes» o «cortado en dos partes», proveniente a su vez de dícha «en dos partes» y témnein «cortar»)[1] es un concepto que puede designar un par de conceptos complementarios, o bien una subdivisión, que desmiembra o disecta el área de un objeto en exactamente dos áreas (o en su defecto, conceptos) complementarias.">dicotomía</a> entre la restricción
 repulsiva de la conceptualización dictatorial y el equilibrio colectivo
 de la conceptualización democrática. La conceptualización bimodal de los
 espacios es una herramienta conceptual que funciona a la vez como
