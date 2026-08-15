@@ -73,7 +73,7 @@ dictadura real. La transición de una sociedad dictatorial a una
 democrática fue facilitada por desarrollos culturales e intelectuales
 uno de los cuales fue la escritura; el otro fue la creación de la polis
 griega o ciudad-estado en cuyo centro se encontraba el espacio público
-llamado ágora.
+llamado <a href="https://es.wikipedia.org/wiki/%C3%81gora" title="Ágora (del griego ἀγορά,[1] asamblea, de ἀγείρω, ‘reunir’ es un término por el que se designaba en la Antigua Grecia a la plaza de las ciudades-estado (polis), donde se solían congregar los ciudadanos.">ágora</a>.
 
 <img src="../media/ch1/image13.png"
 style="width:6.13675in;height:2.99479in" />
@@ -86,7 +86,7 @@ Penélope, convoca una asamblea pública en Ítaca donde denuncia el
 comportamiento abusivo de los pretendientes al trono que acosan a su
 madre; les acusa que están consumiendo la riqueza de su casa, expresa su
 dolor por la ausencia de su padre y pide a los soldados que protejan a
-su madre formando un ágora (palabra griega para asamblea).
+su madre formando un <a href="https://es.wikipedia.org/wiki/%C3%81gora" title="Ágora (del griego ἀγορά,[1] asamblea, de ἀγείρω, ‘reunir’ es un término por el que se designaba en la Antigua Grecia a la plaza de las ciudades-estado (polis), donde se solían congregar los ciudadanos.">ágora</a> (palabra griega para asamblea).
 
 <img src="../media/ch1/image15.png"
 style="width:6.1375in;height:3.08889in" />
@@ -153,7 +153,7 @@ Hipódamo propuso organizar las ciudades de manera racional y geométrica,
 tal como lo indicó en el plano de la reconstrucción de la ciudad de
 Mileto, destruida por los persas en 490 a.C. El correspondiente <a href="<a href="https://tu-enlace.com" title="Resumen o definición corta de la palabra">Palabra</a>" title="Un plan hipodámico, trazado hipodámico o trazado en damero es el tipo de planeamiento urbanístico que organiza una ciudad mediante el diseño de sus calles en ángulo recto, creando manzanas rectangulares. El apelativo hipodámico proviene del nombre del arquitecto griego Hipodamo de Mileto (en griego: Hippodamos), considerado uno de los padres del urbanismo cuyos planes de organización se caracterizaban por un diseño de calles rectilíneas que se cruzaban en ángulo recto.">plano
 hipodámico</a> muestra una estructura reticular ordenada de calles anchas y
-rectas, con un ágora como centro organizador de la vida comunitaria,
+rectas, con un <a href="https://es.wikipedia.org/wiki/%C3%81gora" title="Ágora (del griego ἀγορά,[1] asamblea, de ἀγείρω, ‘reunir’ es un término por el que se designaba en la Antigua Grecia a la plaza de las ciudades-estado (polis), donde se solían congregar los ciudadanos.">ágora</a> como centro organizador de la vida comunitaria,
 acogedor escenario del discurso público. Aquí urbanismo es orden,
 simetría y equilibrio.
 
@@ -173,7 +173,7 @@ entre construcción y medio ambiente.
 <img src="../media/ch1/image18.png"
 style="width:6.1375in;height:3.39062in" />
 
-El diseño urbano del Ágora de Mileto coloca esta construcción en el
+El diseño urbano del <a href="https://es.wikipedia.org/wiki/%C3%81gora" title="Ágora (del griego ἀγορά,[1] asamblea, de ἀγείρω, ‘reunir’ es un término por el que se designaba en la Antigua Grecia a la plaza de las ciudades-estado (polis), donde se solían congregar los ciudadanos.">ágora</a> de Mileto coloca esta construcción en el
 centro de un espacio abierto, rectangular y regular rodeado de edificios
 públicos como mercados y edificios administrativos. Su función es ser el
 foco de la vida política, el comercio y la interacción social. Muestra
@@ -251,16 +251,16 @@ style="width:6.1375in;height:3.42292in" />
 #### La cosmología de Anaximandro
 
 Anaximandro de Mileto, Jonia (619 – 546) a.C., fue un pensador
-originario de Mileto que propuso que el origen de todo (*arché*) no es
+originario de Mileto que propuso que el origen de todo (*<a href="https://es.wikipedia.org/wiki/Arch%C3%A9" title="Arché (también arqué, arkhé o arjé; del griego ἀρχή, «principio» u «origen») es un concepto fundamental en la filosofía de la Antigua Grecia que significaba el comienzo del universo o el primer elemento de todas las cosas (εξ’ ἀρχής: del principio, ο εξ’ ἀρχής λόγος: la razón primordial, originaria). Es lo que explica el comienzo del universo con una explicación racional con una o varias sustancias.">arché</a>*) no es
 algo concreto como el agua (como suponía su maestro Tales) sino una
-realidad indeterminada, infinita y eterna. Sugirió que del ápeiron (en
+realidad indeterminada, infinita y eterna. Sugirió que del <a href="https://es.wikipedia.org/wiki/%C3%81peiron" title="Ápeiron (ἄπειρον) es un término usado en filosofía, por Anaximandro de Mileto, para referirse al principio u origen (arché) de todas las cosas, identificando este primer principio con lo «indefinido» o «ilimitado». Consideraba que el principio constitutivo de las cosas era el ápeiron, que no es agua, ni tierra, ni fuego, ni aire; no tiene forma concreta, es infinito. El cosmos nace, se desarrolla y perece en el seno de ese "ápeiron"">ápeiron</a> (en
 griego: “lo indefinido” o “lo ilimitado”) surgen todas las cosas y a él
 regresan, siguiendo una especie de ley natural de equilibrio.
 
 Anaximandro afirmó que los elementos (calor, frío, seco, húmedo) están
 en conflicto, pero que existe una especie de justicia cósmica que regula
 ese conflicto, que las cosas “pagan” por sus excesos retornando al
-ápeiron. Propuso la existencia de un principio originario abstracto que
+<a href="https://es.wikipedia.org/wiki/%C3%81peiron" title="Ápeiron (ἄπειρον) es un término usado en filosofía, por Anaximandro de Mileto, para referirse al principio u origen (arché) de todas las cosas, identificando este primer principio con lo «indefinido» o «ilimitado». Consideraba que el principio constitutivo de las cosas era el ápeiron, que no es agua, ni tierra, ni fuego, ni aire; no tiene forma concreta, es infinito. El cosmos nace, se desarrolla y perece en el seno de ese "ápeiron"">ápeiron</a>. Propuso la existencia de un principio originario abstracto que
 abría el camino a la explicación racional del cosmos y continuaba la
 transición del mito al logos iniciada en la tradición griega. Todo se
 explica mediante principios impersonales y necesarios, mediante
@@ -274,7 +274,7 @@ un modelo del universo donde la Tierra flota en el espacio), Geografía
 (estudió los cuerpos celestes y sus movimientos) y Biología primitiva
 (sugirió que los seres humanos provienen de formas de vida más simples).
 
-Según el modelo cosmológico de Anaximandro todo surge del ápeiron, lo
+Según el modelo cosmológico de Anaximandro todo surge del <a href="https://es.wikipedia.org/wiki/%C3%81peiron" title="Ápeiron (ἄπειρον) es un término usado en filosofía, por Anaximandro de Mileto, para referirse al principio u origen (arché) de todas las cosas, identificando este primer principio con lo «indefinido» o «ilimitado». Consideraba que el principio constitutivo de las cosas era el ápeiron, que no es agua, ni tierra, ni fuego, ni aire; no tiene forma concreta, es infinito. El cosmos nace, se desarrolla y perece en el seno de ese "ápeiron"">ápeiron</a>, lo
 indefinido; el universo está organizado en anillos concéntricos
 alrededor de la Tierra: el Sol sería el anillo más lejano y grande, la
 Luna estaría en un anillo más cercano y las estrellas serían aún más
@@ -294,7 +294,7 @@ crear un cosmos democrático, fueron las mismas herramientas que los
 griegos aplicarían al problema de la organización urbana y política.
 También reconceptualizaron el universo alrededor de un centro de
 equilibrio y reestructuraron físicamente sus ciudades alrededor del
-ágora como centro de equilibrio político y social, cuna de la
+<a href="https://es.wikipedia.org/wiki/%C3%81gora" title="Ágora (del griego ἀγορά,[1] asamblea, de ἀγείρω, ‘reunir’ es un término por el que se designaba en la Antigua Grecia a la plaza de las ciudades-estado (polis), donde se solían congregar los ciudadanos.">ágora</a> como centro de equilibrio político y social, cuna de la
 democracia.
 
 <img src="../media/ch1/image22.png"
@@ -307,7 +307,7 @@ La evolución sociopolítica y científico tecnológica de la Grecia muestra
 que resolvieron el diseño de la sociedad humana, la arquitectura urbana
 y realidad cósmica, a partir de un proceso de democratización que se
 inició en un primer nivel micro de la vida familiar y de la comunidad,
-pasó por el nivel meso del ágora y la ciudad- estado y finalmente llegó
+pasó por el nivel meso del <a href="https://es.wikipedia.org/wiki/%C3%81gora" title="Ágora (del griego ἀγορά,[1] asamblea, de ἀγείρω, ‘reunir’ es un término por el que se designaba en la Antigua Grecia a la plaza de las ciudades-estado (polis), donde se solían congregar los ciudadanos.">ágora</a> y la ciudad- estado y finalmente llegó
 al nivel macro de la cosmología esférica.
 
 <img src="../media/ch1/image24.png"
