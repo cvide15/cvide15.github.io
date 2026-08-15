@@ -2,7 +2,7 @@
 
 ## 1.3. Espacios arquimedianos en matemáticas, física e ingeniería
 
-La dicotomía entre las conceptualizaciones dictatoriales (imposiciones
+La <a href="https://es.wikipedia.org/wiki/Dicotom%C3%ADa" title="Dicotomía (del griego dichótomos, «dividido en partes» o «cortado en dos partes», proveniente a su vez de dícha «en dos partes» y témnein «cortar»)[1] es un concepto que puede designar un par de conceptos complementarios, o bien una subdivisión, que desmiembra o disecta el área de un objeto en exactamente dos áreas (o en su defecto, conceptos) complementarias.">dicotomía</a> entre las conceptualizaciones dictatoriales (imposiciones
 que privilegian a unos cuantos) y las democráticas (acceso libre para
 todos y en todo) fue el escenario cognitivo que posibilitó en la antigua
 Grecia el alejamiento de las jerarquías basadas en mitos hacia la
@@ -205,7 +205,7 @@ style="width:6.1375in;height:3.42153in" />
 
 Esta comparación demuestra cómo el planteamiento de la misma duda y el
 propio proceso de resolución del problema puede conceptualizarse de
-manera democrática o dictatorial. Esta dicotomía conceptual implica la
+manera democrática o dictatorial. Esta <a href="https://es.wikipedia.org/wiki/Dicotom%C3%ADa" title="Dicotomía (del griego dichótomos, «dividido en partes» o «cortado en dos partes», proveniente a su vez de dícha «en dos partes» y témnein «cortar»)[1] es un concepto que puede designar un par de conceptos complementarios, o bien una subdivisión, que desmiembra o disecta el área de un objeto en exactamente dos áreas (o en su defecto, conceptos) complementarias.">dicotomía</a> conceptual implica la
 posibilidad de aplicar enfoques que van más allá de ser simples
 metáforas descriptivas; proponen un marco analítico recurrente y
 poderoso que ayuda a comprender la evolución del pensamiento y la
