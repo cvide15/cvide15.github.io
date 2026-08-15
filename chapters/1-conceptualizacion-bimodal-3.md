@@ -115,7 +115,7 @@ físicos en ventaja estratégica real durante el asedio de Siracusa.
 <img src="../media/ch1/image68.png"
 style="width:6.13501in;height:3.11386in" />
 
-La balanza hidrostática atribuida a Arquímedes es un instrumento de
+La <a href="https://es.wikipedia.org/wiki/Balanza_hidrost%C3%A1tica" title="Una balanza hidrostática, es un tipo de balanza destinada al estudio del empuje ascensional ejercido por los fluidos sobre los cuerpos inmersos en ellos. Fue inventada por Galileo Galilei el 17 de diciembre de 1585. Su funcionamiento se basa en el principio de Arquímedes y está especialmente concebida para la determinación experimental de densidades de sólidos y líquidos.">balanza hidrostática</a> atribuida a Arquímedes es un instrumento de
 brazos iguales para medir densidades comparando el peso de un objeto de
 masa *m* en dos condiciones: cuando el objeto está suspendido en el aire
 (su peso es *W<sub>aire</sub> = mg*) y cuando el mismo 
