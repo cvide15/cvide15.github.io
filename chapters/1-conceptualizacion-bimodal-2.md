@@ -89,7 +89,8 @@ style="width:6.13458in;height:2.74479in" />
 
 Según la mecánica cuántica los electrones no recorren trayectorias
 definidas en las órbitas que describen alrededor del núcleo. Sus
-posiciones sucesivas se describen mediante una función de onda que es la
+posiciones sucesivas se describen mediante una <a href="https://es.wikipedia.org/wiki/Funci%C3%B3n_de_onda" title="En mecánica cuántica una función de onda 
+ψ(x,t) es una forma de representar el estado físico de un sistema de partículas. Usualmente es una función compleja, de cuadrado integrable y univaluada, de las coordenadas espaciales de cada una de las partículas.">función de onda</a> que es la
 solución matemática de la llamada ecuación de Schrödinger para un
 electrón. El orbital representa una distribución de probabilidad, no una
 órbita fija. Un orbital no es un camino, sino una “nube de probabilidad”
@@ -149,7 +150,8 @@ armonía.
 style="width:6.13125in;height:2.60784in" />
 
 Las estadísticas cuánticas describen cómo se comportan las partículas en
-sistemas microscópicos. Si en la función de onda total de un sistema
+sistemas microscópicos. Si en la <a href="https://es.wikipedia.org/wiki/Funci%C3%B3n_de_onda" title="En mecánica cuántica una función de onda 
+ψ(x,t) es una forma de representar el estado físico de un sistema de partículas. Usualmente es una función compleja, de cuadrado integrable y univaluada, de las coordenadas espaciales de cada una de las partículas.">función de onda</a> total de un sistema
 compuesto de N partículas se intercambian dos partículas idénticas
 representadas por x<sub>j</sub> y x<sub>k</sub>, el resultado es que la
 nueva función no cambia de signo respecto de la función anterior (la
@@ -167,9 +169,8 @@ $$
 La función antisimétrica representa a la familia de los <a href="https://es.wikipedia.org/wiki/Fermi%C3%B3n" title="Un fermión es uno de los dos tipos básicos de partículas elementales que existen en la naturaleza (el otro tipo es el bosón). Los fermiones se caracterizan por tener espín semientero (1/2, 3/2, ...) y, por tanto, estar sujetos al principio de exclusión de Pauli.">fermiones</a>
 (electrones, protones, neutrones) que obedecen el Principio de exclusión
 de Pauli y en consecuencia, la ocupación máxima es de una partícula por
-estado. Los <a href="https://es.wikipedia.org/wiki/Fermi%C3%B3n" title="Un fermión es uno de los dos tipos básicos de partículas elementales que existen en la naturaleza (el otro tipo es el bosón). Los fermiones se caracterizan por tener espín semientero (1/2, 3/2, ...) y, por tanto, estar sujetos al principio de exclusión de Pauli.">fermiones</a> satisfacen la estadística de Fermi-Dirac y son
-partículas con espín semientero, mientras que los <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a> satisfacen la
-estadística de Bose-Einstein y tienen espín entero.
+estado. Los <a href="https://es.wikipedia.org/wiki/Fermi%C3%B3n" title="Un fermión es uno de los dos tipos básicos de partículas elementales que existen en la naturaleza (el otro tipo es el bosón). Los fermiones se caracterizan por tener espín semientero (1/2, 3/2, ...) y, por tanto, estar sujetos al principio de exclusión de Pauli.">fermiones</a> satisfacen la <a href="https://es.wikipedia.org/wiki/Estad%C3%ADstica_de_Fermi-Dirac" title="La estadística de Fermi-Dirac es la forma de contar estados de ocupación de forma estadística en un sistema de fermiones. Forma parte de la física estadística. Y tiene aplicaciones sobre todo en la física del estado sólido.">estadística de Fermi-Dirac</a> y son
+partículas con <a href="https://es.wikipedia.org/wiki/Esp%C3%ADn" title="El espín (del inglés spin 'giro, girar'), también spin, es una propiedad física de las partículas elementales por la cual tienen un momento angular intrínseco de valor fijo. El espín fue introducido en 1925 por Ralph Kronig e, independientemente, por George Uhlenbeck y Samuel Goudsmit. La otra propiedad intrínseca de las partículas elementales es la carga eléctrica.">espín</a> semientero, mientras que los <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a> satisfacen la estadística de Bose-Einstein y tienen <a href="https://es.wikipedia.org/wiki/Esp%C3%ADn" title="El espín (del inglés spin 'giro, girar'), también spin, es una propiedad física de las partículas elementales por la cual tienen un momento angular intrínseco de valor fijo. El espín fue introducido en 1925 por Ralph Kronig e, independientemente, por George Uhlenbeck y Samuel Goudsmit. La otra propiedad intrínseca de las partículas elementales es la carga eléctrica.">espín</a> entero.
 
 La función simétrica representa a la familia de los <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a> (fotones,
 gluones, <a href="https://es.wikipedia.org/wiki/Bos%C3%B3n" title="En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).">bosones</a> W y Z); por lo tanto, la función es invariante frente a
@@ -310,7 +311,7 @@ style="width:6.1375in;height:2.53513in" />
 style="width:6.1334in;height:3.26733in" />
 
 Inspirado en la realidad fotónica de Einstein, Born demostró que la <a href="https://es.wikipedia.org/wiki/Funci%C3%B3n_de_onda" title="En mecánica cuántica una función de onda 
-ψ(x,t){\displaystyle \psi (\mathbf {x} ,t)} es una forma de representar el estado físico de un sistema de partículas. Usualmente es una función compleja, de cuadrado integrable y univaluada, de las coordenadas espaciales de cada una de las partículas.">función de onda</a> es una densidad de probabilidad de localización, de manera que la propagación ondulatoria coincide con la observación corpuscular en un universo de probabilidades regidas por reglas precisas, pero resultados inciertos.
+ψ(x,t) es una forma de representar el estado físico de un sistema de partículas. Usualmente es una función compleja, de cuadrado integrable y univaluada, de las coordenadas espaciales de cada una de las partículas.">función de onda</a> es una densidad de probabilidad de localización, de manera que la propagación ondulatoria coincide con la observación corpuscular en un universo de probabilidades regidas por reglas precisas, pero resultados inciertos.
 
 <img src="../media/ch1/image56.png"
 style="width:6.13546in;height:3.51485in" />
