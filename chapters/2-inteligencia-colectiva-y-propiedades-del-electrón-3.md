@@ -47,10 +47,6 @@ energía de excitación de átomos por impactos.* Conferencia Nobel de
 Hertz*: Los resultados de las pruebas de impacto electrónico a la luz de
 la teoría de los átomos de Bohr.*
 
-<p>
-  <img src="../media/ch2/image40.png" width="70" alt="Imagen 40" /><img src="../media/ch2/image42.png" width="70" alt="Imagen 42" /><img src="../media/ch2/image43.png" width="70" alt="Imagen 43" /><img src="../media/ch2/image44.png" width="70" alt="Imagen 44" />
-</p>
-
 | | | | |
 |---|---|---|---|
 | <img src="../media/ch2/image40.png" width="100"> | <img src="../media/ch2/image42.png" width="100"> | <img src="../media/ch2/image43.png" width="100"> | <img src="../media/ch2/image44.png" width="100"> |
