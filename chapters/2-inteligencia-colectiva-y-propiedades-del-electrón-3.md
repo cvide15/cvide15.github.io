@@ -77,6 +77,10 @@ style="width:5.90556in;height:3.29514in" />
 <img src="../media/ch2/image48.png"
 style="width:5.90259in;height:3.4359in" />
 
+| | | | |
+|---|---|---|---|
+| <img src="../media/ch2/image40.png" width="100"> | <img src="../media/ch2/image42.png" width="100"> | <img src="../media/ch2/image43.png" width="100"> | <img src="../media/ch2/image44.png" width="100"> |
+
 La siguiente Tabla 2.3 describe cómo se relacionan cada una de las
 cuatro regiones de realización de actividades experimentales con tres
 aspectos que las caracterizan: en qué consiste la acción principal,
