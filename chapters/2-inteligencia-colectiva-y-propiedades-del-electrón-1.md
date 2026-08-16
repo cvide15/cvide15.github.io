@@ -17,7 +17,7 @@ expresar conocimientos diversos, decidir colectivamente, organizar
 recursos y acciones, conectar saberes y personas, evaluar críticamente
 sus procesos y construir una visión compartida del futuro. El desarrollo
 de la inteligencia colectiva implica integración cognitiva, creación
-comunitraria, emergencia de nuevas capacidades y producción compartida
+comunitaria, emergencia de nuevas capacidades y producción compartida
 de conocimiento. Significa abandonar los sistemas tradicionales y
 comprometerse para cumplir con otros paradigmas.
 
