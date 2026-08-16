@@ -370,5 +370,5 @@ style="width:6.1375in;height:3.42431in" />
   </table>
 </div>
 
-<img src="../media/ch2/image40.png"
+<img src="../media/ch2/image4.png"
 style="width:6.1375in;height:3.42431in" />
