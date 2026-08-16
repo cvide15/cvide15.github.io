@@ -54,6 +54,12 @@ la teoría de los átomos de Bohr.*
 
 <p align="center" style="white-space: nowrap;"><img src="../media/ch2/image40.png" width="140" alt="Imagen 40" /><img src="../media/ch2/image42.png" width="140" alt="Imagen 42" /><img src="../media/ch2/image43.png" width="140" alt="Imagen 43" /><img src="../media/ch2/image44.png" width="140" alt="Imagen 44" /></p>
 
+<table>
+  <tr>
+    <td><img src="../media/ch2/image40.png" width="140"><img src="../media/ch2/image42.png" width="140"><img src="../media/ch2/image43.png" width="140"><img src="../media/ch2/image44.png" width="140"></td>
+  </tr>
+</table>
+
 
 Fotografías de Thomson, Millikan, Franck y Hertz (archivos de la
 Fundación Nobel)
