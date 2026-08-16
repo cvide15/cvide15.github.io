@@ -6,7 +6,7 @@ La inteligencia colectiva coordina inteligencias distribuidas para
 producir comprensión y acción colectiva. Se basa en la cooperación y el
 intercambio abierto de saberes; se expresa en términos de creatividad
 colectiva, aprendizaje mutuo, construcción compartida de significados y
-funcionamiento de redes colaborativas,
+funcionamiento de redes colaborativas.
 
 La creación y evolución del proceso de desarrollo de la inteligencia
 colectiva constituye una trayectoria que comprende transiciones entre
