@@ -56,9 +56,9 @@ alt="Robert Andrews Millikan" /><img src="../media/ch2/image43.png"
 style="width:1.4668in;height:1.5807in" /><img src="../media/ch2/image44.png"
 style="width:1.46124in;height:1.57792in" />
 
-| | | | | | | |
-|---|---|---|---|---|---|---|
-| <img src="../media/ch2/image40.png" width="100"> | <img src="../media/ch2/image41.gif" width="100"> | <img src="../media/ch2/image41.gif" width="100"> | <img src="../media/ch2/image42.png" width="100"> | <img src="../media/ch2/image41.gif" width="100"> | <img src="../media/ch2/image43.png" width="100"> | <img src="../media/ch2/image44.png" width="100"> |
+<p>
+  <img src="../media/ch2/image40.png" width="140" alt="Imagen 40" /><img src="../media/ch2/image42.png" width="140" alt="Imagen 42" /><img src="../media/ch2/image43.png" width="140" alt="Imagen 43" /><img src="../media/ch2/image44.png" width="140" alt="Imagen 44" />
+</p>
 
 Fotografías de Thomson, Millikan, Franck y Hertz (archivos de la
 Fundación Nobel)
