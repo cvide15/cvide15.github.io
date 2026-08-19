@@ -1042,6 +1042,83 @@ producción del conocimiento.
   </table>
 </div>
 
+<div align="center">
+  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+    <thead>
+      <!-- Título principal combinado -->
+      <tr style="background-color: #f6f8fa;">
+        <th colspan="4" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
+          Tabla 2.7. Etapa de Evolución y Sentido
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Fila 1: Encabezados de columnas -->
+      <tr style="background-color: #f0f2f5;">
+        <td style="padding: 10px; width: 25%; text-align: left; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Fase del desarrollo de la inteligencia colectiva
+        </td>
+        <td style="padding: 10px; width: 25%; text-align: left; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Experimentos de Thomson
+        </td>
+        <td style="padding: 10px; width: 25%; text-align: left; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Experimentos de Millikan
+        </td>
+        <td style="padding: 10px; width: 25%; text-align: left; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Experimentos de Franck y Hertz
+        </td>
+      </tr>
+
+      <!-- Fila 2: Conectar -->
+      <tr>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Conectar
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Integrar los datos obtenidos a la teoría electromagnética y explicar naturaleza de la materia.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Relacionar directamente la medición de la carga con el cociente e/m obtenido por Thomson para calcular la masa del electrón.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Vincular las transiciones de energía observadas en espectroscopía con las predicciones del modelo de Bohr.
+        </td>
+      </tr>
+
+      <!-- Fila 3: Evaluar -->
+      <tr>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Evaluar
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Comparar con otros resultados alternativos y debatir sobre la universalidad del electrón.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Analizar la estadística, la estimación de errores y la identificación del valor constante de la carga elemental.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Verificar la reproducibilidad de máximos y mínimos de la corriente y contrastar con las predicciones teóricas.
+        </td>
+      </tr>
+
+      <!-- Fila 4: Mostrar Visión -->
+      <tr>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+          Mostrar Visión
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+          Consolidar el hecho de que el electrón es un constituyente universal. Inaugurar una nueva física.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+          Establecer una constante universal fundamental. Fortalecer el modelo del electrón.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4;">
+          Confirmar que los niveles de energía están cuantizados. Consolidar la física cuántica emergente.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 | Tabla 2.6. Etapa de Gestión y Acción             |                                                                                |                                                                                                       |                                                                                      |
