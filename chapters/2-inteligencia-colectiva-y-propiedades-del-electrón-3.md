@@ -912,12 +912,6 @@ en cuestión las contribuciones de cada fase del desarrollo de la
 inteligencia colectiva, agrupadas según su correspondiente etapa de
 producción del conocimiento.
 
-| Tabla 2.5. Etapa de Percepción e Intercambio     |                                                                                               |                                                                                            |                                                                                            |
-|--------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Fase del desarrollo de la inteligencia colectiva | Experimentos de Thomson                                                                       | Experimentos de Millikan                                                                   | Experimentos de Franck y Hertz                                                             |
-| Escuchar                                         | Analizar trabajos europeos previos acerca de descargas eléctricas en gases y rayos catódicos. | Estudiar investigaciones sobre electrones, ionización y los resultados previos de Thomson. | Revisar el modelo de Bohr y los espectros atómicos conocidos.                              |
-| Expresar                                         | Formular la hipótesis: los rayos catódicos son partículas con carga negativa.                 | Proponer un método inédito que usa gotas de aceite para medir la carga elemental.          | Diseñar un experimento para verificar empíricamente la cuantización de la energía atómica. |
-
 <div align="center">
   <table style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
@@ -1119,20 +1113,6 @@ producción del conocimiento.
     </tbody>
   </table>
 </div>
-
-
-| Tabla 2.6. Etapa de Gestión y Acción             |                                                                                |                                                                                                       |                                                                                      |
-|--------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Fase del desarrollo de la inteligencia colectiva | Experimentos de Thomson                                                        | Experimentos de Millikan                                                                              | Experimentos de Franck y Hertz                                                       |
-| Decidir                                          | Seleccionar tubos de descarga y campos electromagnéticos.                      | Escoger las gotas de aceite, el campo eléctrico uniforme y la regla de observación en el microscopio. | Elegir el gas (vapor de mercurio) y las técnicas de medición de la corriente.        |
-| Organizar                                        | Construir el aparato y calibrarlo. Repetir sistemáticamente las observaciones. | Realizar con rigor miles de mediciones y aplicar el control absoluto de variables.                    | Estabilizar las condiciones del tubo experimental para obtener curvas reproducibles. |
-
-| Tabla 2.7. Etapa de Evolución y Sentido          |                                                                                                   |                                                                                                                              |                                                                                                                |
-|--------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Fase del desarrollo de la inteligencia colectiva | Experimentos de Thomson                                                                           | Experimentos de Millikan                                                                                                     | Experimentos de Franck y Hertz                                                                                 |
-| Conectar                                         | Integrar los datos obtenidos a la teoría electromagnética y explicar naturaleza de la materia.    | Relacionar directamente la medición de la carga con el cociente e/m obtenido por Thomson para calcular la masa del electrón. | Vincular las transiciones de energía observadas en espectroscopía con las predicciones del modelo de Bohr.     |
-| Evaluar                                          | Comparar con otros resultados alternativos y debatir sobre la universalidad del electrón.         | Analizar la estadística, la estimación de errores y la identificación del valor constante de la carga elemental.             | Verificar la reproducibilidad de máximos y mínimos de la corriente y contrastar con las predicciones teóricas. |
-| Mostrar Visión                                   | Consolidar el hecho de que el electrón es un constituyente universal. Inaugurar una nueva física. | Establecer una constante universal fundamental. Fortalecer el modelo del electrón.                                           | Confirmar que los niveles de energía están cuantizados. Consolidar la física cuántica emergente.               |
 
 Planear, realizar e interpretar experimentos contribuye al desarrollo de
 la inteligencia colectiva porque cuando el experimentador provoca y
