@@ -717,6 +717,7 @@ regiones de realización de las actividades experimentales y las etapas
 de producción del conocimiento que contienen a las fases del desarrollo
 de la inteligencia colectiva.
 
+
 <div align="center">
   <table style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
@@ -743,86 +744,88 @@ de la inteligencia colectiva.
       </tr>
     </thead>
     <tbody>
-      <!-- Fila 1: Preparación (Fase 1) -->
+      <!-- Bloque 1: Preparación -->
       <tr>
-        <td rowspan="2" style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        <td rowspan="2" style="padding: 8px; vertical-align: middle; text-align: center; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Preparación
         </td>
-        <td rowspan="2" style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        <td rowspan="2" style="padding: 8px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Definir objetivos, preguntas, métodos e instrumentos para configurar condiciones y objetivos.
         </td>
         <td rowspan="2" style="padding: 8px; vertical-align: middle; text-align: center; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Percepción<br>e<br>Intercambio
         </td>
-        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
+        <td style="padding: 8px; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
           1. Escuchar
         </td>
       </tr>
-      <!-- Fila 1: Preparación (Fase 2) -->
       <tr>
-        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
+        <td style="padding: 8px; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
           2. Expresar
         </td>
       </tr>
 
-      <!-- Fila 2: Transformación (Fase 3) -->
+      <!-- Bloque 2: Transformación -->
       <tr>
-        <td rowspan="2" style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        <td rowspan="2" style="padding: 8px; vertical-align: middle; text-align: center; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Transformación
         </td>
-        <td rowspan="2" style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        <td rowspan="2" style="padding: 8px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Intervenir sobre el sistema y ejecutar procedimientos con el fin de convertir y articular señales y procesos.
         </td>
         <td rowspan="2" style="padding: 8px; vertical-align: middle; text-align: center; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Gestión y Acción
         </td>
-        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
+        <td style="padding: 8px; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
           3. Decidir
         </td>
       </tr>
-      <!-- Fila 2: Transformación (Fase 4) -->
       <tr>
-        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
+        <td style="padding: 8px; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
           4. Organizar
         </td>
       </tr>
 
-      <!-- Fila 3: Detección (Fase 5 y 6) -->
+      <!-- Bloque 3: Detección y Medición (Evolución y Sentido abarca las 3 filas finales) -->
       <tr>
-        <td rowspan="2" style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        <td rowspan="2" style="padding: 8px; vertical-align: middle; text-align: center; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Detección
         </td>
-        <td rowspan="2" style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        <td rowspan="2" style="padding: 8px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Registrar fenómenos y obtener evidencias para detectarlo y hacerlo perceptible.
         </td>
         <td rowspan="3" style="padding: 8px; vertical-align: middle; text-align: center; line-height: 1.4; border-right: 2px solid #333333;">
           Evolución y Sentido
         </td>
-        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
+        <td style="padding: 8px; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
           5. Conectar
         </td>
       </tr>
       <tr>
-        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
+        <td style="padding: 8px; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
           6. Evaluar
         </td>
       </tr>
 
-      <!-- Fila 4: Medición (Fase 7) -->
+      <!-- Bloque 4: Medición -->
       <tr>
-        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+        <td style="padding: 8px; vertical-align: middle; text-align: center; line-height: 1.4; border-right: 2px solid #333333;">
           Medición
         </td>
-        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+        <td style="padding: 8px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
           Cuantificar, analizar, relacionar e interpretar resultados para interpretar y modelar fenómenos
         </td>
-        <td style="padding: 8px; vertical-align: top; line-height: 1.4;">
+        <!-- La celda de "Grupos" NO se incluye aquí porque la absorbe el rowspan="3" de arriba -->
+        <td style="padding: 8px; vertical-align: middle; line-height: 1.4;">
           7. Mostrar Visión
         </td>
       </tr>
     </tbody>
   </table>
-</div> 
+</div>
+
+
+
 
 <div align="center">
   <table style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
