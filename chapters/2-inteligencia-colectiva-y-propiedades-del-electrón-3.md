@@ -194,27 +194,17 @@ cuantizados por J. Franck y G. L. Hertz.
 <img src="../media/ch2/image50.png"
 style="width:5.90556in;height:2.52847in" />
 
-### La descripción de los experimentos antes mencionados comprende dos partes:
+La descripción de los experimentos antes mencionados comprende dos partes:
 
-### 
+La discusión del experimento: explicación de la estructura del dispositivo experimental y de las etapas de su operación en términos de su paso por las cuatro regiones de realización de las actividades experimentales de Preparación, Transformación, Detección y Medición. Cada experimento incluye un dibujo o esquema ilustrativo.
 
-### La discusión del experimento: explicación de la estructura del dispositivo experimental y de las etapas de su operación en términos de su paso por las cuatro regiones de realización de las actividades experimentales de Preparación, Transformación, Detección y Medición. Cada experimento incluye un dibujo o esquema ilustrativo.
+La descripción de las contribuciones de Thomson, Millikan, Franck y Hertz comprende dos partes: la primera parte es la traducción de un documento llamado *WORK* (OBRA) que explica muy brevemente las razones por las cuales se le ha otorgado el Premio Nobel de Física; la segunda parte contiene diapositivas de una presentación obtenida con ayuda del programa NotebookLM, a partir de la traducción de lo que cada uno de los premiados ha escrito en su Conferencia Nobel. En el caso de Millikan, al final de su Conferencia comenta los diez años en que sometió a prueba la validez de la ecuación de Einstein acerca del efecto fotoeléctrico.
 
-### 
+<u>Experimentos para descubrir el electrón por Thomson</u>
 
-### La descripción de las contribuciones de Thomson, Millikan, Franck y Hertz comprende dos partes: la primera parte es la traducción de un documento llamado *WORK* (OBRA) que explica muy brevemente las razones por las cuales se le ha otorgado el Premio Nobel de Física; la segunda parte contiene diapositivas de una presentación obtenida con ayuda del programa NotebookLM, a partir de la traducción de lo que cada uno de los premiados ha escrito en su Conferencia Nobel. En el caso de Millikan, al final de su Conferencia comenta los diez años en que sometió a prueba la validez de la ecuación de Einstein acerca del efecto fotoeléctrico.
+A partir de 1897 Joseph John Thomson (1856-1940) realizó una secuencia de tres tipos de experimentos: el primero para describir cuándo salía del átomo una partícula cargada desconocida; el segundo para determinar que esas partículas tenían carga eléctrica negativa y el tercero para calcular el valor de su relación carga/masa. 
 
-### 
-
-### <u>Experimentos para descubrir el electrón por Thomson</u>
-
-### 
-
-### A partir de 1897 Joseph John Thomson (1856-1940) realizó una secuencia de tres tipos de experimentos: el primero para describir cuándo salía del átomo una partícula cargada desconocida; el segundo para determinar que esas partículas tenían carga eléctrica negativa y el tercero para calcular el valor de su relación carga/masa. 
-
-### 
-
-### Thomson publicó sus resultados en el artículo titulado *[Cathode Rays](http://web.lemoyne.edu/~GIUNTA/archemc.html#cathoderay) de* la revista *Philosophical Magazine*, 44, 293 (1897). La siguiente Figura 2.1 es una adaptación de la original tomada del artículo de Thomson y describe las regiones de realización de las correspondientes actividades experimentales.
+Thomson publicó sus resultados en el artículo titulado *[Cathode Rays](http://web.lemoyne.edu/~GIUNTA/archemc.html#cathoderay) de* la revista *Philosophical Magazine*, 44, 293 (1897). La siguiente Figura 2.1 es una adaptación de la original tomada del artículo de Thomson y describe las regiones de realización de las correspondientes actividades experimentales.
 
 <img src="../media/ch2/image51.gif"
 style="width:4.88286in;height:1.84325in"
