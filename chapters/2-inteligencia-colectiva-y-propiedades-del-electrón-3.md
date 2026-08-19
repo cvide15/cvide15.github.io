@@ -3,7 +3,7 @@
 
 El electrón es uno de los más importantes componentes de la materia:
 forma parte de átomos y moléculas, interviene en los enlaces químicos,
-es responsable de la corriente eléctrica e interacciona constantemente
+es responsable de la corrieTnte eléctrica e interacciona constantemente
 con otras partículas elementales. Además, participa en múltiples
 procesos producidos y/o controlados por radiaciones electromagnéticas.
 
@@ -917,6 +917,68 @@ producción del conocimiento.
 | Fase del desarrollo de la inteligencia colectiva | Experimentos de Thomson                                                                       | Experimentos de Millikan                                                                   | Experimentos de Franck y Hertz                                                             |
 | Escuchar                                         | Analizar trabajos europeos previos acerca de descargas eléctricas en gases y rayos catódicos. | Estudiar investigaciones sobre electrones, ionización y los resultados previos de Thomson. | Revisar el modelo de Bohr y los espectros atómicos conocidos.                              |
 | Expresar                                         | Formular la hipótesis: los rayos catódicos son partículas con carga negativa.                 | Proponer un método inédito que usa gotas de aceite para medir la carga elemental.          | Diseñar un experimento para verificar empíricamente la cuantización de la energía atómica. |
+
+<div align="center">
+  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+    <thead>
+      <!-- Título principal combinado -->
+      <tr style="background-color: #f6f8fa;">
+        <th colspan="4" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
+          Tabla 2.5. Etapa de Percepción e Intercambio
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Fila 1: Encabezados de columnas -->
+      <tr style="background-color: #f0f2f5;">
+        <td style="padding: 10px; width: 25%; text-align: left; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Fase del desarrollo de la inteligencia colectiva
+        </td>
+        <td style="padding: 10px; width: 25%; text-align: left; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Experimentos de Thomson
+        </td>
+        <td style="padding: 10px; width: 25%; text-align: left; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Experimentos de Millikan
+        </td>
+        <td style="padding: 10px; width: 25%; text-align: left; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Experimentos de Franck y Hertz
+        </td>
+      </tr>
+
+      <!-- Fila 2: Escuchar -->
+      <tr>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Escuchar
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Analizar trabajos europeos previos acerca de descargas eléctricas en gases y rayos catódicos.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Estudiar investigaciones sobre electrones, ionización y los resultados previos de Thomson.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Revisar el modelo de Bohr y los espectros atómicos conocidos.
+        </td>
+      </tr>
+
+      <!-- Fila 3: Expresar -->
+      <tr>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+          Expresar
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+          Formular la hipótesis: los rayos catódicos son partículas con carga negativa.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+          Proponer un método inédito que usa gotas de aceite para medir la carga elemental.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4;">
+          Diseñar un experimento para verificar empíricamente la cuantización de la energía atómica.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div> 
 
 | Tabla 2.6. Etapa de Gestión y Acción             |                                                                                |                                                                                                       |                                                                                      |
 |--------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
