@@ -980,6 +980,70 @@ producción del conocimiento.
   </table>
 </div> 
 
+<div align="center">
+  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+    <thead>
+      <!-- Título principal combinado -->
+      <tr style="background-color: #f6f8fa;">
+        <th colspan="4" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
+          Tabla 2.6. Etapa de Gestión y Acción
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Fila 1: Encabezados de columnas -->
+      <tr style="background-color: #f0f2f5;">
+        <td style="padding: 10px; width: 25%; text-align: left; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Fase del desarrollo de la inteligencia colectiva
+        </td>
+        <td style="padding: 10px; width: 25%; text-align: left; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Experimentos de Thomson
+        </td>
+        <td style="padding: 10px; width: 25%; text-align: left; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Experimentos de Millikan
+        </td>
+        <td style="padding: 10px; width: 25%; text-align: left; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Experimentos de Franck y Hertz
+        </td>
+      </tr>
+
+      <!-- Fila 2: Decidir -->
+      <tr>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Decidir
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Seleccionar tubos de descarga y campos electromagnéticos.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Escoger las gotas de aceite, el campo eléctrico uniforme y la regla de observación en el microscopio.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Elegir el gas (vapor de mercurio) y las técnicas de medición de la corriente.
+        </td>
+      </tr>
+
+      <!-- Fila 3: Organizar -->
+      <tr>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+          Organizar
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+          Construir el aparato y calibrarlo. Repetir sistemáticamente las observaciones.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333;">
+          Realizar con rigor miles de mediciones y aplicar el control absoluto de variables.
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4;">
+          Estabilizar las condiciones del tubo experimental para obtener curvas reproducibles.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
 | Tabla 2.6. Etapa de Gestión y Acción             |                                                                                |                                                                                                       |                                                                                      |
 |--------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | Fase del desarrollo de la inteligencia colectiva | Experimentos de Thomson                                                        | Experimentos de Millikan                                                                              | Experimentos de Franck y Hertz                                                       |
