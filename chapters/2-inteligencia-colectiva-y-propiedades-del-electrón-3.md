@@ -631,14 +631,13 @@ libres hasta que, a cierto nivel de energía, los electrones ligados
 saltaban a una órbita de mayor energía.”
 
 Gustav Hertz – Hechos. NobelPrize.org. Alcance del Premio Nobel AB 2023.
-Jueves. 2 de marzo de 2023. https://www.nobel
-prize.org/prizes/physics/1925/hertz/facts/
+Jueves. 2 de marzo de 2023. https://www.nobelprize.org/prizes/physics/1925/hertz/facts/
 
 ## **Conferencia Nobel*: Los resultados de las pruebas de impacto electrónico a la luz de la teoría de los átomos de Bohr.***
 
 Gustav Hertz – Conferencia Nobel. NobelPrize.org. Alcance del Premio
 Nobel AB 2023. Jueves. 2 de marzo de 2023.
-\<https://www.nobelprize.org/prizes/physics/1925/hertz/lecture/
+https://www.nobelprize.org/prizes/physics/1925/hertz/lecture/
 
 <img src="../media/ch2/image72.png"
 style="width:5.90556in;height:3.16026in" />
