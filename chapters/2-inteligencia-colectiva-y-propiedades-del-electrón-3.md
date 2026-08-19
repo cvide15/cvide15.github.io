@@ -214,7 +214,7 @@ azul marcan las divisiones entre las regiones de realización del
 experimento.
 
 Fuente: adaptación del autor de la imagen tomada de
-\<https://www.escuelapedia.com/wp-content/uploads/Experimento-de-Thomson.jpg\>
+https://www.escuelapedia.com/wp-content/uploads/Experimento-de-Thomson.jpg\
 
 En la Figura anterior las letras indican las siguientes variables:
 
@@ -313,7 +313,7 @@ forman parte de los átomos.”
 
 J.J. Thomson – Hechos. NobelPrize.org. Alcance del Premio Nobel AB 2023.
 Mié 1 de marzo de 2023.
-\<https://www.nobelprize.org/prizes/physics/1906/thomson/facts/\>
+<https://www.nobelprize.org/prizes/physics/1906/thomson/facts/\>
 
 **Conferencia Nobel: *Portadores de la electricidad negativa.***
 
