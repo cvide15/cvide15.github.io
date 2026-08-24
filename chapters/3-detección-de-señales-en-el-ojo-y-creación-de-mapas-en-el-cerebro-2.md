@@ -1,5 +1,4 @@
-**3.2. Generación de un Sistema de Posicionamiento Global** **en el
-cerebro**
+## 3.2. Generación de un Sistema de Posicionamiento Global en el cerebro
 
 En la sección anterior describimos a la visión como un proceso dinámico
 a partir del cual las señales electromagnéticas que inciden en el ojo se
