@@ -214,7 +214,7 @@ azul marcan las divisiones entre las regiones de realización del
 experimento.
 
 Fuente: adaptación del autor de la imagen tomada de
-https://www.escuelapedia.com/wp-content/uploads/Experimento-de-Thomson.jpg\
+<https://www.escuelapedia.com/wp-content/uploads/Experimento-de-Thomson.jpg\>
 
 En la Figura anterior las letras indican las siguientes variables:
 
@@ -313,13 +313,13 @@ forman parte de los átomos.”
 
 J.J. Thomson – Hechos. NobelPrize.org. Alcance del Premio Nobel AB 2023.
 Mié 1 de marzo de 2023.
-https://www.nobelprize.org/prizes/physics/1906/thomson/facts/\
+<https://www.nobelprize.org/prizes/physics/1906/thomson/facts/\>
 
 **Conferencia Nobel: *Portadores de la electricidad negativa.***
 
 J.J. Thomson – Conferencia Nobel. NobelPrize.org. Alcance del Premio
 Nobel AB 2023. Mié 1 de marzo de 2023.
-https://www.nobelprize.org/prizes/physics/1906/thomson/lecture/\
+<https://www.nobelprize.org/prizes/physics/1906/thomson/lecture/\>
 
 <img src="../media/ch2/image52.png"
 style="width:5.90556in;height:3.32778in" />
@@ -369,7 +369,7 @@ región de Detección en rojo.; la región de Medición se muestra aparte en
 
 Fuente: adaptación de imagen tomada de
 
-http://3.bp.blogspot.com/\_xfoymkZ4PVw/R7tU2NwpDhI/AAAAAAAAACc/hzVF6hfLeA8/s1600-h/Simplified_Millikan_oil_drop.PNG
+<http://3.bp.blogspot.com/\_xfoymkZ4PVw/R7tU2NwpDhI/AAAAAAAAACc/hzVF6hfLeA8/s1600-h/Simplified_Millikan_oil_drop.PNG>
 
 En la región de <u>Preparación</u>, un atomizador produce gotas que
 atraviesan un orificio en una placa metálica que cubre una cámara
@@ -446,14 +446,14 @@ determinada: la carga del electrón.”
 
 Robert A. Millikan – Hechos. NobelPrize.org. Alcance del Premio Nobel AB
 2023. Jueves. 2 de marzo de 2023.
-https://www.nobelprize.org/prizes/physics/1923/millikan/facts/
+<https://www.nobelprize.org/prizes/physics/1923/millikan/facts/>
 
 **Conferencia Nobel*: El electrón y el cuanto de luz desde el punto de
 vista experimental***
 
 Robert A. Millikan – Conferencia Nobel. NobelPrize.org. Alcance del
 Premio Nobel AB 2023. Juegue. 2 de marzo de 2023.
-https://www.nobelprize.org/prizes/physics/1923/millikan/lecture/
+<https://www.nobelprize.org/prizes/physics/1923/millikan/lecture/>
 
 <img src="../media/ch2/image61.png"
 style="width:5.90556in;height:3.58929in" />
@@ -596,13 +596,13 @@ saltaban a una órbita de mayor energía.”
 
 James Franck – Hechos. NobelPrize.org. Alcance del Premio Nobel AB 2023.
 Jueves 2 de marzo de 2023.
-https://www.nobelprize.org/prizes/physics/1925/franck/facts/
+<https://www.nobelprize.org/prizes/physics/1925/franck/facts/>
 
 ## **Conferencia Nobel*: Transformación de la energía cinética de electrones libres en energía de excitación de átomos por impactos.***
 
 James Franck – Conferencia Nobel. NobelPrize.org. Alcance del Premio
 Nobel AB 2023. Viernes 3 de marzo de 2023.
-https://www.nobelprize.org/prizes/physics/1925/franck/lecture/
+<https://www.nobelprize.org/prizes/physics/1925/franck/lecture/>
 
 <img src="../media/ch2/image68.png"
 style="width:5.90377in;height:3.32051in" />
@@ -631,13 +631,13 @@ libres hasta que, a cierto nivel de energía, los electrones ligados
 saltaban a una órbita de mayor energía.”
 
 Gustav Hertz – Hechos. NobelPrize.org. Alcance del Premio Nobel AB 2023.
-Jueves. 2 de marzo de 2023. https://www.nobelprize.org/prizes/physics/1925/hertz/facts/
+Jueves. 2 de marzo de 2023. <https://www.nobelprize.org/prizes/physics/1925/hertz/facts/>
 
 ## **Conferencia Nobel*: Los resultados de las pruebas de impacto electrónico a la luz de la teoría de los átomos de Bohr.***
 
 Gustav Hertz – Conferencia Nobel. NobelPrize.org. Alcance del Premio
 Nobel AB 2023. Jueves. 2 de marzo de 2023.
-https://www.nobelprize.org/prizes/physics/1925/hertz/lecture/
+<https://www.nobelprize.org/prizes/physics/1925/hertz/lecture/>
 
 <img src="../media/ch2/image72.png"
 style="width:5.90556in;height:3.16026in" />
