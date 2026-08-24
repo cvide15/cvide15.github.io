@@ -53,6 +53,7 @@ Premio Nobel de Fisiología o Medicina de 1911
 Premio Nobel de Fisiología o Medicina de 1967
 Premio Nobel de Fisiología o Medicina de 1981
 
+</div>
 
 <img src="../media/ch3/image3.png"
 style="width:6.1375in;height:3.42569in" />
@@ -65,6 +66,8 @@ Describir los experimentos realizados por John O'Keefe, May-Britt Moser y Edvard
 
 Premio Nobel de Fisiología o Medicina de 2014 
 Procedimientos experimentales y elaboración del GPS mental
+
+</div>
 
 <img src="../media/ch3/image4.png"
 style="width:6.1375in;height:3.42569in" />
@@ -82,6 +85,8 @@ Procedimiento de Comprensión (Capacitación)
 Procedimiento de Metacognición
 Funcionamiento de un sistema de comunicación global
          Factores que afectan el funcionamiento del GPS
+
+</div>         
  
 <img src="../media/ch3/image5.png"
 style="width:6.1375in;height:3.42569in" />
