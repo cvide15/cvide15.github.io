@@ -1,4 +1,4 @@
-**3.1. Descripción del proceso de la visión**
+## 3.1. Descripción del proceso de la visión
 
 <img src="../media/ch3/image8.png"
 style="width:6.1375in;height:3.61309in" />
