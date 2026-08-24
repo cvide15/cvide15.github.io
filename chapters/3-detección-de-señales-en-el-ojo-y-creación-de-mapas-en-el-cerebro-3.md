@@ -1,4 +1,4 @@
-**3.3. Del GPS mental a la navegación cognitiva**
+## 3.3. Del GPS mental a la navegación cognitiva
 
 En la sección anterior hemos visto que el GPS mental permite localizar
 posiciones, calcular distancias, identificar direcciones, reconocer
