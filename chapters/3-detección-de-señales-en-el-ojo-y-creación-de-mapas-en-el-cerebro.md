@@ -1,7 +1,6 @@
 
 # Capítulo 3: Detección de señales en el ojo y creación de mapas en el cerebro
 
-
 <img src="../media/ch3/image1.png"
 style="width:6.1375in;height:3.19545in" />
 
@@ -36,7 +35,9 @@ style="width:6.1375in;height:3.42569in" />
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
 
-3.1. Descripción del proceso de la visión
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+
+## 3.1. Descripción del proceso de la visión
 
 Explicar cómo la comprensión del fenómeno de la visión ha resultado ser en gran parte una consecuencia del trabajo de seis laureados con tres Premios Nobel de Fisiología o Medicina:
 
@@ -56,7 +57,9 @@ Premio Nobel de Fisiología o Medicina de 1981
 <img src="../media/ch3/image3.png"
 style="width:6.1375in;height:3.42569in" />
 
-3.2. Generación de un Sistema de Posicionamiento Global (GPS) en el cerebro 
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+
+## 3.2. Generación de un Sistema de Posicionamiento Global (GPS) en el cerebro 
 
 Describir los experimentos realizados por John O'Keefe, May-Britt Moser y Edvard I. Moser, reconocidos "por sus descubrimientos de células que constituyen un sistema de posicionamiento en el cerebro".  
 
@@ -66,7 +69,9 @@ Procedimientos experimentales y elaboración del GPS mental
 <img src="../media/ch3/image4.png"
 style="width:6.1375in;height:3.42569in" />
 
-3.3. Del GPS mental a la navegación cognitiva
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+
+## 3.3. Del GPS mental a la navegación cognitiva
 
 Explicar cómo las funciones de cada una de las células neuronales que constituyen el GPS mental sirven para definir los propósitos de los cuatro procedimientos cognitivos de generación del conocimiento que caracterizan a la navegación cognitiva: Investigación, Formación, Comprensión y Metacognición. Describir en términos de estos procedimientos cognitivos el funcionamiento del sistema de comunicación global que integran satélites, radares, computadoras y teléfonos celulares.
 
