@@ -32,7 +32,11 @@ book:
         - chapters/2-inteligencia-colectiva-y-propiedades-del-electrón-2.md
         - chapters/2-inteligencia-colectiva-y-propiedades-del-electrón-3.md
         - chapters/3-detección-de-señales-en-el-ojo-y-creación-de-mapas-en-el-cerebro.md
-        
+        - chapters/3-detección-de-señales-en-el-ojo-y-creación-de-mapas-en-el-cerebro-1.md
+        - chapters/3-detección-de-señales-en-el-ojo-y-creación-de-mapas-en-el-cerebro-2.md
+        - chapters/3-detección-de-señales-en-el-ojo-y-creación-de-mapas-en-el-cerebro-3.md
+
+
 
   # Shown in the page footer
   page-footer:
