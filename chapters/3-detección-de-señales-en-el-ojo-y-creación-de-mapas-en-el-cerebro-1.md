@@ -128,6 +128,39 @@ style="width:6.1375in;height:3.42222in" />
 <img src="../media/ch3/image19.png"
 style="width:6.1375in;height:3.42222in" />
 
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <td style="width: 75%; border: 1px solid black; padding: 8px; vertical-align: top;">
+        <p style="text-align: center; margin: 0 0 10px 0;"><strong>Ragnar Granit (1900-1991)</strong></p>
+        <p style="text-align: justify; margin: 0;">
+          Desarrolló la electrofisiología de la retina y por medio microelectrodos muy sensibles registró impulsos nerviosos, señales eléctricas retinales y respuestas del nervio óptico ante la luz. Demostró experimentalmente que existen distintos tipos de conos retinales especializados en diferentes longitudes de onda y que la retina no sólo transmite señales excitatorias, sino también señales inhibitorias. Además, contribuyó al desarrollo de nuevas técnicas de registro eléctrico mediante microelectrodos.
+        </p>
+      </td>
+      <td style="width: 25%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: top;">
+        <img src="../media/ch3/image20.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px; text-align: justify;">
+        WORK: “Nuestra visión funciona porque la luz que nos rodea es capturada por un gran número de células fotosensibles situadas en las retinas de la parte posterior de nuestros ojos. Tras una serie de interruptores nerviosos y conversiones de señales químicas y eléctricas, esto da lugar a impresiones visuales. Utilizando electrodos muy sofisticados, Ragnar Granit pudo estudiar los impulsos eléctricos de las células de la retina. En estudios realizados desde los años 30 hasta los 50, demostró que existen diferentes tipos de conos (las células que permiten la visión del color) y que estos son sensibles a la luz de tres longitudes de onda distintas.”
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px;">
+        <p style="margin: 0 0 5px 0;">Fuentes: Photo: Wilma Björling. Nobel Foundation archive</p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1967/granit/facts/">https://www.nobelprize.org/prizes/medicine/1967/granit/facts/</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px;">
+        <p style="margin: 0 0 5px 0;">NOBEL LECTURE: <em>The Development of Retinal Neurophysiology</em></p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1967/granit/lecture/">https://www.nobelprize.org/prizes/medicine/1967/granit/lecture/</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <table>
 <colgroup>
 <col style="width: 75%" />
