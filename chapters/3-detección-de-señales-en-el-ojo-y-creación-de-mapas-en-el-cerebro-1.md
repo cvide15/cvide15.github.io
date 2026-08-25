@@ -161,147 +161,76 @@ style="width:6.1375in;height:3.42222in" />
   </tbody>
 </table>
 
-<table>
-<colgroup>
-<col style="width: 75%" />
-<col style="width: 24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>Ragnar Granit (1900-1991)</strong></p>
-<p>Desarrolló la electrofisiología de la retina y por medio
-microelectrodos muy sensibles registró impulsos nerviosos, señales
-eléctricas retinales y respuestas del nervio óptico ante la luz.
-Demostró experimentalmente que existen distintos tipos de conos
-retinales especializados en diferentes longitudes de onda y que la
-retina no sólo transmite señales excitatorias, sino también señales
-inhibitorias. Además, contribuyó al desarrollo de nuevas técnicas de
-registro eléctrico mediante microelectrodos.</p></th>
-<th><img src="../media/ch3/image20.png"
-style="width:1.57266in;height:1.97991in" /></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td colspan="2">WORK: “Nuestra visión funciona porque la luz que nos
-rodea es capturada por un gran número de células fotosensibles situadas
-en las retinas de la parte posterior de nuestros ojos. Tras una serie de
-interruptores nerviosos y conversiones de señales químicas y eléctricas,
-esto da lugar a impresiones visuales. Utilizando electrodos muy
-sofisticados, Ragnar Granit pudo estudiar los impulsos eléctricos de las
-células de la retina. En estudios realizados desde los años 30 hasta los
-50, demostró que existen diferentes tipos de conos (las células que
-permiten la visión del color) y que estos son sensibles a la luz de tres
-longitudes de onda distintas.”</td>
-</tr>
-<tr class="even">
-<td colspan="2"><p>Fuentes: Photo: Wilma Björling. Nobel Foundation
-archive</p>
-<p>&lt;https://www.nobelprize.org/prizes/medicine/1967/granit/facts/&gt;</p></td>
-</tr>
-<tr class="odd">
-<td colspan="2"><p>NOBEL LECTURE: <em>The Development of Retinal
-Neurophysiology</em> </p>
-<p><a
-href="https://www.nobelprize.org/prizes/medicine/1967/granit/lecture/">https://www.nobelprize.org/prizes/medicine/1967/granit/lecture/</a></p></td>
-</tr>
-</tbody>
-</table>
-
 <img src="../media/ch3/image21.png"
 style="width:6.1375in;height:3.42222in" />
 
-<table>
-<colgroup>
-<col style="width: 72%" />
-<col style="width: 27%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>Haldan Keffer Hartline (1903 – 1983)</strong></p>
-<p>Mostró que la retina analiza información, compara señales, inhibe
-respuestas y extrae contrastes visuales. Descubrió los campos receptivos
-retinales que significan que cada neurona visual responde solamente a
-estímulos luminosos provenientes de una región específica del campo
-visual. Además, demostró la existencia de la inhibición lateral según la
-cual cuando una neurona retinal es estimulada por la luz puede inhibir
-la actividad de neuronas vecinas.</p></th>
-<th><img src="../media/ch3/image22.png"
-style="width:1.59009in;height:1.84279in" /></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td colspan="2">WORK: “Nuestra visión funciona porque la luz del mundo
-que la rodea es capturada por muchas células sensibles a la luz en la
-retina, situada en la parte posterior del ojo. Una serie de reconexiones
-y transformaciones de señales químicas y eléctricas finalmente resultan
-en impresiones visuales. En estudios sobre el cangrejo herradura
-alrededor de 1950, Keffer Hartline analizó cómo las señales primarias de
-las células visuales se procesan en una red de células nerviosas. Entre
-otras cosas, demostró que cuando una célula es estimulada, las señales
-de las células circundantes se suprimen. Esto facilita la comprensión
-del concepto de contrastes.”</td>
-</tr>
-<tr class="even">
-<td colspan="2"><p>Fuentes: Photo:Rockefeller University. Nobel
-Foundation archive</p>
-<p>&lt;https://www.nobelprize.org/prizes/medicine/1967/hartline/facts/&gt;</p></td>
-</tr>
-<tr class="odd">
-<td colspan="2"><p><em>NOBEL LECTURE: Visual Receptors and Retinal
-Interaction</em> </p>
-<p><a
-href="https://www.nobelprize.org/prizes/medicine/1967/hartline/lecture/">https://www.nobelprize.org/prizes/medicine/1967/hartline/lecture/</a></p></td>
-</tr>
-</tbody>
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <td style="width: 72%; border: 1px solid black; padding: 8px; vertical-align: top;">
+        <p style="text-align: center; margin: 0 0 10px 0;"><strong>Haldan Keffer Hartline (1903 – 1983)</strong></p>
+        <p style="text-align: justify; margin: 0;">
+          Mostró que la retina analiza información, compara señales, inhibe respuestas y extrae contrastes visuales. Descubrió los campos receptivos retinales que significan que cada neurona visual responde solamente a estímulos luminosos provenientes de una región específica del campo visual. Además, demostró la existencia de la inhibición lateral según la cual cuando una neurona retinal es estimulada por la luz puede inhibir la actividad de neuronas vecinas.
+        </p>
+      </td>
+      <td style="width: 28%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: top;">
+        <img src="../media/ch3/image22.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px; text-align: justify;">
+        WORK: “Nuestra visión funciona porque la luz del mundo que la rodea es capturada por muchas células sensibles a la luz en la retina, situada en la parte posterior del ojo. Una serie de reconexiones y transformaciones de señales químicas y eléctricas finalmente resultan en impresiones visuales. En estudios sobre el cangrejo herradura alrededor de 1950, Keffer Hartline analizó cómo las señales primarias de las células visuales se procesan en una red de células nerviosas. Entre otras cosas, demostró que cuando una célula es estimulada, las señales de las células circundantes se suprimen. Esto facilita la comprensión del concepto de contrastes.”
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px;">
+        <p style="margin: 0 0 5px 0;">Fuentes: Photo: Rockefeller University. Nobel Foundation archive</p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1967/hartline/facts/">https://www.nobelprize.org/prizes/medicine/1967/hartline/facts/</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px;">
+        <p style="margin: 0 0 5px 0;">NOBEL LECTURE: <em>Visual Receptors and Retinal Interaction</em></p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1967/hartline/lecture/">https://www.nobelprize.org/prizes/medicine/1967/hartline/lecture/</a></p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <img src="../media/ch3/image23.png"
 style="width:6.1375in;height:3.42292in" />
 
-<table>
-<colgroup>
-<col style="width: 74%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>George Wald (1906 – 1997)</strong></p>
-<p>Explicó cómo la luz interactúa con moléculas visuales; descubrió los
-pigmentos visuales que son moléculas fotosensibles que absorben luz y
-desencadenan cambios químicos que luego producen señales nerviosas.
-También demostró que la vitamina A es esencial para la visión porque su
-deficiencia altera la formación de rodopsina y produce ceguera
-nocturna.</p></th>
-<th><img src="../media/ch3/image24.png"
-style="width:1.4683in;height:1.90817in" /></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td colspan="2">WORK: “Nuestra visión funciona porque la luz del mundo
-que la rodea es capturada por muchas células sensibles a la luz en la
-retina, situada en la parte posterior del ojo. George Wald descubrió que
-la vitamina A es un componente importante en la rodopsina, una sustancia
-fotosensible en la retina, y explicó en una serie de estudios desde los
-años 30 hasta los 60 cómo la luz hace que la rodopsina cambie de forma y
-se convierta. Esta conversión da lugar a señales en una compleja red de
-células nerviosas mediante las cuales se producen varias reconexiones y
-transformaciones antes de que las señales finalmente se transformen en
-impresiones visuales en el cerebro.”</td>
-</tr>
-<tr class="even">
-<td colspan="2"><p>Fuentes: Photo from the Nobel Foundation archive.</p>
-<p>&lt;https://www.nobelprize.org/prizes/medicine/1967/wald/facts/&gt;</p></td>
-</tr>
-<tr class="odd">
-<td colspan="2"><p>NOBEL LECTURE: <em>The Molecular Basis of Visual
-Excitation</em> </p>
-<p><a
-href="https://www.nobelprize.org/prizes/medicine/1967/wald/lecture/">https://www.nobelprize.org/prizes/medicine/1967/wald/lecture/</a></p></td>
-</tr>
-</tbody>
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <td style="width: 74%; border: 1px solid black; padding: 8px; vertical-align: top;">
+        <p style="text-align: center; margin: 0 0 10px 0;"><strong>George Wald (1906 – 1997)</strong></p>
+        <p style="text-align: justify; margin: 0;">
+          Explicó cómo la luz interactúa con moléculas visuales; descubrió los pigmentos visuales que son moléculas fotosensibles que absorben luz y desencadenan cambios químicos que luego producen señales nerviosas. También demostró que la vitamina A es esencial para la visión porque su deficiencia altera la formación de rodopsina y produce ceguera nocturna.
+        </p>
+      </td>
+      <td style="width: 26%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: top;">
+        <img src="../media/ch3/image24.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px; text-align: justify;">
+        WORK: “Nuestra visión funciona porque la luz del mundo que la rodea es capturada por muchas células sensibles a la luz en la retina, situada en la parte posterior del ojo. George Wald descubrió que la vitamina A es un componente importante en la rodopsina, una sustancia fotosensible en la retina, y explicó en una serie de estudios desde los años 30 hasta los 60 cómo la luz hace que la rodopsina cambie de forma y se convierta. Esta conversión da lugar a señales en una compleja red de células nerviosas mediante las cuales se producen varias reconexiones y transformaciones antes de que las señales finalmente se transformen en impresiones visuales en el cerebro.”
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px;">
+        <p style="margin: 0 0 5px 0;">Fuentes: Photo from the Nobel Foundation archive.</p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1967/wald/facts/">https://www.nobelprize.org/prizes/medicine/1967/wald/facts/</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px;">
+        <p style="margin: 0 0 5px 0;">NOBEL LECTURE: <em>The Molecular Basis of Visual Excitation</em></p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1967/wald/lecture/">https://www.nobelprize.org/prizes/medicine/1967/wald/lecture/</a></p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <img src="../media/ch3/image25.png"
