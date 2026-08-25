@@ -424,53 +424,6 @@ principio de este capítulo, antes de empezar con la sección 3.1.
   </table>
 </div>
 
-<table>
-<colgroup>
-<col style="width: 26%" />
-<col style="width: 46%" />
-<col style="width: 27%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="3"><strong>Tabla 3.1. Sistemas de navegación</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>GPS mental</td>
-<td><p>Navegador cognitivo:</p>
-<p>procesos organizadores</p></td>
-<td>Sistema de comunicación global</td>
-</tr>
-<tr class="even">
-<td>Espacio físico</td>
-<td>Espacio cognitivo para la construcción del conocimiento
-científico</td>
-<td>Espacio tecnológico</td>
-</tr>
-<tr class="odd">
-<td>Célula de Lugar</td>
-<td>Indagación: explorar y clasificar</td>
-<td>Posiciones de satélites</td>
-</tr>
-<tr class="even">
-<td>Célula de Cuadrícula</td>
-<td>Entrenamiento: proponer relaciones</td>
-<td>Trayectorias de teléfonos móviles</td>
-</tr>
-<tr class="odd">
-<td>Célula de Dirección</td>
-<td>Comprensión: describir estructuras</td>
-<td>Sistema de radares</td>
-</tr>
-<tr class="even">
-<td>Célula de Borde</td>
-<td>Metacognición: revisión crítica</td>
-<td>Correcciones relativistas</td>
-</tr>
-</tbody>
-</table>
-
 <img src="../media/ch3/image94.png"
 style="width:6.1375in;height:3.42431in" />
 
