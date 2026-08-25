@@ -244,6 +244,45 @@ style="width:6.1375in;height:3.42222in" />
 <img src="../media/ch3/image27.png"
 style="width:6.1375in;height:3.42222in" />
 
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <td style="width: 50%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: top;">
+        <p style="margin: 0 0 10px 0;"><strong>David H. Hubel (1926 – 2013)</strong></p>
+        <img src="../media/ch3/image28.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+      </td>
+      <td style="width: 50%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: top;">
+        <p style="margin: 0 0 10px 0;"><strong>Torsten N. Wiesel (1924 – XX)</strong></p>
+        <img src="../media/ch3/image29.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px; text-align: justify;">
+        Hubel y Wiesel utilizaron microelectrodos muy finos para registrar la actividad eléctrica de neuronas individuales en la corteza visual primaria para estudiar cómo responden las neuronas a distintos estímulos visuales. Trabajando juntos descubrieron las llamadas células simples que responden preferentemente a orientaciones específicas y las células complejas que responden tanto a la orientación como al movimiento y a la dirección del desplazamiento. Demostraron que la visión se procesa en etapas jerárquicas porque la información visual pasa progresivamente desde la retina, al núcleo geniculado lateral, luego a la corteza visual primaria y después llega a áreas visuales superiores. También demostraron que las neuronas corticales responden selectivamente a la orientación, al movimiento, a los bordes, a los contrastes y a los y patrones espaciales.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px; text-align: justify;">
+        WORK: “Nuestra visión funciona porque la luz que nos rodea es capturada por un gran número de células fotosensibles situadas en las retinas de la parte posterior de nuestros ojos. La luz se convierte en señales que se envían al cerebro y luego se transforman en impresiones visuales. David Hubel y Torsten Wiesel aclararon cómo funciona este proceso durante los años 60: en la corteza cerebral, las señales son analizadas en secuencia por células con tareas específicas de interpretar contrastes, patrones y movimientos. También demostraron que esta capacidad se desarrolla en los niños durante el periodo inicial tras el nacimiento.”
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px;">
+        <p style="margin: 0 0 5px 0;">Fuentes: Photo from the Nobel Foundation archive.</p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1981/hubel/facts/">https://www.nobelprize.org/prizes/medicine/1981/hubel/facts/</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px;">
+        <p style="margin: 0 0 5px 0;">HUBEL NOBEL LECTURE: <em>Evolution of ideas on the primary visual cortex, 1955-1978: a biased historical account</em></p>
+        <p style="margin: 0 0 10px 0;"><a href="https://www.nobelprize.org/prizes/medicine/1981/hubel/lecture/">https://www.nobelprize.org/prizes/medicine/1981/hubel/lecture/</a></p>
+        <p style="margin: 0 0 5px 0;">WIESEL NOBEL LECTURE: <em>The postnatal development of the visual cortex and the influence of environment</em></p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1981/wiesel/lecture/">https://www.nobelprize.org/prizes/medicine/1981/wiesel/lecture/</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <table>
 <colgroup>
 <col style="width: 46%" />
