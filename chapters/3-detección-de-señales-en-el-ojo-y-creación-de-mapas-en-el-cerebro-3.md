@@ -332,6 +332,98 @@ procedimientos efectivos y comprensión práctica para encontrar mejores
 soluciones. A manera de conclusión, retomamos la Tabla 3.1 presentada al
 principio de este capítulo, antes de empezar con la sección 3.1.
 
+<div align="center">
+  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+    <thead>
+      <!-- Título principal combinado -->
+      <tr style="background-color: #f6f8fa;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
+          Tabla 3.1. Sistemas de navegación
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Fila 1 -->
+      <tr>
+        <td style="padding: 8px; width: 26%; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          GPS mental
+        </td>
+        <td style="padding: 8px; width: 46%; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Navegador cognitivo:<br>procesos organizadores
+        </td>
+        <td style="padding: 8px; width: 27%; text-align: center; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Sistema de comunicación global
+        </td>
+      </tr>
+
+      <!-- Fila 2 -->
+      <tr>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Espacio físico
+        </td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Espacio cognitivo para la construcción del conocimiento científico
+        </td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Espacio tecnológico
+        </td>
+      </tr>
+
+      <!-- Fila 3 -->
+      <tr>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Célula de Lugar
+        </td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Indagación: explorar y clasificar
+        </td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Posiciones de satélites
+        </td>
+      </tr>
+
+      <!-- Fila 4 -->
+      <tr>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Célula de Cuadrícula
+        </td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Entrenamiento: proponer relaciones
+        </td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Trayectorias de teléfonos móviles
+        </td>
+      </tr>
+
+      <!-- Fila 5 -->
+      <tr>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Célula de Dirección
+        </td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Comprensión: describir estructuras
+        </td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Sistema de radares
+        </td>
+      </tr>
+
+      <!-- Fila 6 -->
+      <tr>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
+          Célula de Borde
+        </td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
+          Metacognición: revisión crítica
+        </td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; line-height: 1.4;">
+          Correcciones relativistas
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <table>
 <colgroup>
 <col style="width: 26%" />
