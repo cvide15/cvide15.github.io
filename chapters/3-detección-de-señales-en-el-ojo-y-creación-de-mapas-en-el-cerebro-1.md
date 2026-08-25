@@ -249,11 +249,11 @@ style="width:6.1375in;height:3.42222in" />
     <tr>
       <td style="width: 50%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: top;">
         <p style="margin: 0 0 10px 0;"><strong>David H. Hubel (1926 – 2013)</strong></p>
-        <img src="../media/ch3/image28.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+        <img src="../media/ch3/image28.png" style="width: 140px; height: 175px; object-fit: cover; display: block; margin: 0 auto;" />
       </td>
       <td style="width: 50%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: top;">
         <p style="margin: 0 0 10px 0;"><strong>Torsten N. Wiesel (1924 – XX)</strong></p>
-        <img src="../media/ch3/image29.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+        <img src="../media/ch3/image29.png" style="width: 140px; height: 175px; object-fit: cover; display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>
