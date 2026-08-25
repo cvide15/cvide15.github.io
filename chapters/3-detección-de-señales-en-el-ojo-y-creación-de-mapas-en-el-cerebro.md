@@ -100,7 +100,7 @@ style="width:6.1375in;height:3.42292in" />
       <!-- Título principal combinado -->
       <tr style="background-color: #f6f8fa;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          Tabla 3.1. Sistemas de navegación
+          **Tabla 3.1. Sistemas de navegación**
         </th>
       </tr>
     </thead>
