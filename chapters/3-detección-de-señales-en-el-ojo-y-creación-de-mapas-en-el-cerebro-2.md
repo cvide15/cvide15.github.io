@@ -161,7 +161,7 @@ Los experimentos pioneros estuvieron a cargo de John O’Keefe, quien puso
 en práctica el siguiente procedimiento específico para descubrir las
 células de lugar:
 
-1)  implantar microelectrodos en el hipocampo de la rata para registrar
+\(1\) implantar microelectrodos en el hipocampo de la rata para registrar
     la actividad eléctrica de neuronas individuales en animales
     despiertos y en movimiento,
 
