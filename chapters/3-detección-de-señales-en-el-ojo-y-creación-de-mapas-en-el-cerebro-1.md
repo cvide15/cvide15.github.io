@@ -117,53 +117,6 @@ style="width:6.1375in;height:3.42222in" />
   </tbody>
 </table>
 
-<table>
-<colgroup>
-<col style="width: 77%" />
-<col style="width: 22%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>Allvar Gullstrand (1862-1930)</strong></p>
-<p>Estudió la forma en que el ojo refracta y enfoca la luz; para ello,
-construyó un modelo matemático del ojo humano que le permitió calcular
-la formación de imágenes, determinar las aberraciones ópticas y
-comprender el proceso de acomodación visual, mediante el cual el
-cristalino modifica su curvatura, cambia su poder refractivo y ajusta la
-convergencia de la luz sobre la retina. Además, inventó instrumentos
-oftalmológicos como la lámpara de hendidura (slit lamp).</p></th>
-<th><img src="../media/ch3/image16.png"
-style="width:1.50451in;height:1.98032in" /></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td colspan="2">WORK: “Nuestra visión se basa en que el cristalino del
-ojo descompone la luz del exterior y la convierte en una imagen en la
-parte trasera del ojo. A partir de aquí, las células fotosensibles de la
-retina convierten la luz en impulsos nerviosos que finalmente se
-transforman en imágenes visuales. Son muy complicados los cálculos del
-camino que siguen los rayos de luz al atravesar el ojo y de la creación
-de la imagen porque el cristalino del ojo está formado por diferentes
-capas que refractan la luz en distintos grados. Además, la lente también
-cambia de forma. Sin embargo, Allvar Gullstrand logró precisamente eso
-en la década de 1890 utilizando matemáticas avanzadas.”</td>
-</tr>
-<tr class="even">
-<td colspan="2"><p>Fuentes. Photo: Florman Ateljé. Nobel Foundation
-archive</p>
-<p><a
-href="https://www.nobelprize.org/prizes/medicine/1911/gullstrand/facts/">https://www.nobelprize.org/prizes/medicine/1911/gullstrand/facts/</a></p></td>
-</tr>
-<tr class="odd">
-<td colspan="2"><p>NOBEL LECTURE: <em>How I Found the Mechanism of
-Intracapsular Accomodation</em> .</p>
-<p><a
-href="https://www.nobelprize.org/prizes/medicine/1911/gullstrand/lecture/"><u>https://www.nobelprize.org/prizes/medicine/1911/gullstrand/lecture/</u></a></p></td>
-</tr>
-</tbody>
-</table>
-
 <img src="../media/ch3/image17.png"
 style="width:6.1375in;height:3.42222in" />
 
