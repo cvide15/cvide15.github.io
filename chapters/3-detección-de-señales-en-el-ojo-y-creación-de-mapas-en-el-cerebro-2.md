@@ -66,99 +66,49 @@ Se indican las referencias de todos los documentos.
     </tr>
   </tbody>
 </table>
-ddd
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>John O'Keefe</strong> (1939)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>WORK: “La conciencia de la propia ubicación y de cómo encontrar el
-camino para llegar a otros lugares es crucial tanto para humanos como
-para animales. Para entender la capacidad de orientarnos en el espacio,
-John O'Keefe estudió los movimientos de las ratas y las señales de las
-células nerviosas en el hipocampo, una zona situada en el centro del
-cerebro. En 1971 descubrió que cuando una rata estaba en un lugar
-determinado de una habitación, ciertas células se activaban, y que
-cuando la rata se movía a otro lugar, otras células se activaban. Es
-decir, las células forman una especie de mapa interno de la
-habitación.”</td>
-</tr>
-<tr class="even">
-<td><p>Referencias:
-&lt;https://www.nobelprize.org/prizes/medicine/2014/okeefe/facts/&gt;</p>
-<p>NOBEL LECTURE: <em>Spatial Cells in the Hippocampal
-Formation</em></p>
-<p>&lt;https://www.nobelprize.org/prizes/medicine/2014/okeefe/lecture/&gt;</p></td>
-</tr>
-</tbody>
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center;">
+        <p style="margin: 0;"><strong>May-Britt Moser</strong> (1932)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px; text-align: justify;">
+        WORK: “La conciencia de la propia ubicación y de cómo encontrar el camino a otros lugares es crucial tanto para humanos como para animales. En 2005, May-Britt Moser y Edvard I. Moser descubrieron un tipo de célula importante para determinar la posición cerca del hipocampo, una zona situada en el centro del cerebro. Descubrieron que cuando una rata pasaba por ciertos puntos dispuestos en una cuadrícula hexagonal en el espacio, se activaban células nerviosas que forman una especie de sistema de coordenadas para la navegación. Luego demostraron cómo cooperan estos diferentes tipos celulares.”
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">
+        <p style="margin: 0 0 4px 0;">Referencias: <a href="https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/facts/">https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/facts/</a></p>
+        <p style="margin: 0 0 2px 0;">NOBEL LECTURE: <em>Grid Cells, Place Cells and Memory</em></p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/lecture/">https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/lecture/</a></p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>May-Britt Moser</strong> (1932)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>WORK: “La conciencia de la propia ubicación y de cómo encontrar el
-camino a otros lugares es crucial tanto para humanos como para animales.
-En 2005, May-Britt Moser y Edvard I. Moser descubrieron un tipo de
-célula importante para determinar la posición cerca del hipocampo, una
-zona situada en el centro del cerebro. Descubrieron que cuando una rata
-pasaba por ciertos puntos dispuestos en una cuadrícula hexagonal en el
-espacio, se activaban células nerviosas que forman una especie de
-sistema de coordenadas para la navegación. Luego demostraron cómo
-cooperan estos diferentes tipos celulares.”</td>
-</tr>
-<tr class="even">
-<td><p>Referencias:
-&lt;https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/facts/&gt;</p>
-<p>NOBEL LECTURE: <em>Grid Cells, Place Cells and Memory</em></p>
-<p>&lt;https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/lecture/&gt;</p></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Edvard I. Moser (1962)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>WORK: “La conciencia de la propia ubicación y de cómo encontrar el
-camino a otros lugares es crucial tanto para humanos como para animales.
-En 2005, May-Britt Moser y Edvard I. Moser descubrieron un tipo de
-célula importante para determinar la posición cerca del hipocampo, una
-zona situada en el centro del cerebro. Descubrieron que cuando una rata
-pasaba por ciertos puntos dispuestos en una cuadrícula hexagonal en el
-espacio, se activaban células nerviosas que forman una especie de
-sistema de coordenadas para la navegación. Luego demostraron cómo
-cooperan estos diferentes tipos celulares.”</td>
-</tr>
-<tr class="even">
-<td><p>Referencias:
-&lt;https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/facts/&gt;</p>
-<p>NOBEL LECTURE: <em>Grid Cells and the Enthorinal Map of
-Space</em></p>
-<p>&lt;https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/lecture/&gt;</p></td>
-</tr>
-</tbody>
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center;">
+        <p style="margin: 0;"><strong>Edvard I. Moser</strong> (1962)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px; text-align: justify;">
+        WORK: “La conciencia de la propia ubicación y de cómo encontrar el camino a otros lugares es crucial tanto para humanos como para animales. En 2005, May-Britt Moser y Edvard I. Moser descubrieron un tipo de célula importante para determinar la posición cerca del hipocampo, una zona situada en el centro del cerebro. Descubrieron que cuando una rata pasaba por ciertos puntos dispuestos en una cuadrícula hexagonal en el espacio, se activaban células nerviosas que forman una especie de sistema de coordenadas para la navegación. Luego demostraron cómo cooperan estos diferentes tipos celulares.”
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">
+        <p style="margin: 0 0 4px 0;">Referencias: <a href="https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/facts/">https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/facts/</a></p>
+        <p style="margin: 0 0 2px 0;">NOBEL LECTURE: <em>Grid Cells and the Enthorinal Map of Space</em></p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/lecture/">https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/lecture/</a></p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 **Procedimientos experimentales y elaboración del GPS mental**
