@@ -283,68 +283,6 @@ style="width:6.1375in;height:3.42222in" />
   </tbody>
 </table>
 
-<table>
-<colgroup>
-<col style="width: 46%" />
-<col style="width: 53%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>David H. Hubel (1926 – 2013)</strong></p>
-<p><img src="../media/ch3/image28.png"
-style="width:1.49003in;height:1.86219in" /></p></th>
-<th><p><strong>Torsten N. Wiesel (1924 – XX)</strong></p>
-<p><img src="../media/ch3/image29.png"
-style="width:1.43594in;height:1.86008in" /></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td colspan="2"><blockquote>
-<p>Hubel y Wiesel utilizaron microelectrodos muy finos para registrar la
-actividad eléctrica de neuronas individuales en la corteza visual
-primaria para estudiar cómo responden las neuronas a distintos estímulos
-visuales. Trabajando juntos descubrieron las llamadas células simples
-que responden preferentemente a orientaciones específicas y las células
-complejas que responden tanto a la orientación como al movimiento y a la
-dirección del desplazamiento. Demostraron que la visión se procesa en
-etapas jerárquicas porque la información visual pasa progresivamente
-desde la retina, al núcleo geniculado lateral, luego a la corteza visual
-primaria y después llega a áreas visuales superiores. También
-demostraron que las neuronas corticales responden selectivamente a la
-orientación, al movimiento, a los bordes, a los contrastes y a los y
-patrones espaciales.</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td colspan="2">WORK: “Nuestra visión funciona porque la luz que nos
-rodea es capturada por un gran número de células fotosensibles situadas
-en las retinas de la parte posterior de nuestros ojos. La luz se
-convierte en señales que se envían al cerebro y luego se transforman en
-impresiones visuales. David Hubel y Torsten Wiesel aclararon cómo
-funciona este proceso durante los años 60: en la corteza cerebral, las
-señales son analizadas en secuencia por células con tareas específicas
-de interpretar contrastes, patrones y movimientos. También demostraron
-que esta capacidad se desarrolla en los niños durante el periodo inicial
-tras el nacimiento.”</td>
-</tr>
-<tr class="odd">
-<td colspan="2"><p>Fuentes: Photo from the Nobel Foundation archive.</p>
-<p>&lt;https://www.nobelprize.org/prizes/medicine/1981/hubel/facts/&gt;</p></td>
-</tr>
-<tr class="even">
-<td colspan="2"><p>HUBEL NOBEL LECTURE: <em>Evolution of ideas on the
-primary visual cortex, 1955-1978: a biased historical account</em> </p>
-<p><a
-href="https://www.nobelprize.org/prizes/medicine/1981/hubel/lecture/">https://www.nobelprize.org/prizes/medicine/1981/hubel/lecture/</a></p>
-<p>WIESEL NOBEL LECTURE: <em>The postnatal development of the visual
-cortex and the influence of environment</em> </p>
-<p><a
-href="https://www.nobelprize.org/prizes/medicine/1981/wiesel/lecture/">https://www.nobelprize.org/prizes/medicine/1981/wiesel/lecture/</a></p></td>
-</tr>
-</tbody>
-</table>
-
 <img src="../media/ch3/image30.png"
 style="width:6.1375in;height:3.42222in" />
 
