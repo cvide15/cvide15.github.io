@@ -48,22 +48,19 @@ Se indican las referencias de todos los documentos.
 <table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
   <tbody>
     <tr>
-      <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-        <p style="text-align: center; margin: 0 0 10px 0;"><strong>John O'Keefe (1939)</strong></p>
-        <p style="text-align: justify; margin: 0;">
-          WORK: “La conciencia de la propia ubicación y de cómo encontrar el camino para llegar a otros lugares es crucial tanto para humanos como para animales. Para entender la capacidad de orientarnos en el espacio, John O'Keefe estudió los movimientos de las ratas y las señales de las células nerviosas en el hipocampo, una zona situada en el centro del cerebro. En 1971 descubrió que cuando una rata estaba en un lugar determinado de una habitación, ciertas células se activaban, y que cuando la rata se movía a otro lugar, otras células se activaban. Es decir, las células forman una especie de mapa interno de la habitación.”
-        </p>
+      <td style="border: 1px solid black; padding: 6px; text-align: center;">
+        <p style="margin: 0;"><strong>John O'Keefe</strong> (1939)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px; text-align: justify;">
+        WORK: “La conciencia de la propia ubicación y de cómo encontrar el camino para llegar a otros lugares es crucial tanto para humanos como para animales. Para entender la capacidad de orientarnos en el espacio, John O'Keefe estudió los movimientos de las ratas y las señales de las células nerviosas en el hipocampo, una zona situada en el centro del cerebro. En 1971 descubrió que cuando una rata estaba en un lugar determinado de una habitación, ciertas células se activaban, y que cuando la rata se movía a otro lugar, otras células se activaban. Es decir, las células forman una especie de mapa interno de la habitación.”
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 8px;">
-        <p style="margin: 0 0 5px 0;">Referencias:</p>
-        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/2014/okeefe/facts/">https://www.nobelprize.org/prizes/medicine/2014/okeefe/facts/</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 8px;">
-        <p style="margin: 0 0 5px 0;">NOBEL LECTURE: <em>Spatial Cells in the Hippocampal Formation</em></p>
+        <p style="margin: 0 0 4px 0;">Referencias: <a href="https://www.nobelprize.org/prizes/medicine/2014/okeefe/facts/">https://www.nobelprize.org/prizes/medicine/2014/okeefe/facts/</a></p>
+        <p style="margin: 0 0 2px 0;">NOBEL LECTURE: <em>Spatial Cells in the Hippocampal Formation</em></p>
         <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/2014/okeefe/lecture/">https://www.nobelprize.org/prizes/medicine/2014/okeefe/lecture/</a></p>
       </td>
     </tr>
