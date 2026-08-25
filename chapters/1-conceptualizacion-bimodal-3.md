@@ -166,7 +166,7 @@ aumento en el volumen del cuerpo sumergido y por lo tanto un mayor
 empuje que es detectable por la diferencia de peso en cada brazo de la
 palanca.
 
-En este sentido, la magnitud del empuje ejercido por el fluido satisface en todo momento la relación dada por 
+La magnitud del empuje ejercido por el fluido satisface en todo momento la relación 
 $W_{aire} - W_{agua} = {E = \ \rho}_{agua}\text{ }g\text{ }V$. Por lo tanto, para la corona
 
 $$\rho_{corona} = \ \frac{m}{V} = \ \frac{(mg\rho_{agua})}{(W_{aire} - W_{agua})}
