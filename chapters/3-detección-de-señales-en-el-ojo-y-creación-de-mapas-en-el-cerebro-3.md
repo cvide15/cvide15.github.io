@@ -338,7 +338,7 @@ principio de este capítulo, antes de empezar con la sección 3.1.
       <!-- Título principal combinado -->
       <tr style="background-color: #f6f8fa;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          Tabla 3.1. Sistemas de navegación
+          <strong>Tabla 3.1. Sistemas de navegación</strong>
         </th>
       </tr>
     </thead>
