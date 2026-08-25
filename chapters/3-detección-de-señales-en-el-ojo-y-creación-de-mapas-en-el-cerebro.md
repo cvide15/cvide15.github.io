@@ -78,13 +78,13 @@ style="width:6.1375in;height:3.42569in" />
 
 Explicar cómo las funciones de cada una de las células neuronales que constituyen el GPS mental sirven para definir los propósitos de los cuatro procedimientos cognitivos de generación del conocimiento que caracterizan a la navegación cognitiva: Investigación, Formación, Comprensión y Metacognición. Describir en términos de estos procedimientos cognitivos el funcionamiento del sistema de comunicación global que integran satélites, radares, computadoras y teléfonos celulares.
 
-Descripción de un instrumento de navegación cognitiva
-Procedimiento de Indagación
-Procedimiento de Entrenamiento
-Procedimiento de Comprensión (Capacitación)
-Procedimiento de Metacognición
-Funcionamiento de un sistema de comunicación global
-         Factores que afectan el funcionamiento del GPS
+Descripción de un instrumento de navegación cognitiva  
+&nbsp;&nbsp;&nbsp;&nbsp;Procedimiento de Indagación  
+&nbsp;&nbsp;&nbsp;&nbsp;Procedimiento de Entrenamiento  
+&nbsp;&nbsp;&nbsp;&nbsp;Procedimiento de Comprensión (Capacitación)  
+&nbsp;&nbsp;&nbsp;&nbsp;Procedimiento de Metacognición  
+Funcionamiento de un sistema de comunicación global  
+&nbsp;&nbsp;&nbsp;&nbsp;Factores que afectan el funcionamiento del GPS
 
 </div>         
  
