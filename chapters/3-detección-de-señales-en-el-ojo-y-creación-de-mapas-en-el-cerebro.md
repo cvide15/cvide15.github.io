@@ -41,17 +41,17 @@ style="width:6.1375in;height:3.42569in" />
 
 Explicar cómo la comprensión del fenómeno de la visión ha resultado ser en gran parte una consecuencia del trabajo de seis laureados con tres Premios Nobel de Fisiología o Medicina:
 
-Premio de 1911 a Allvar Gullstrand "por su trabajo sobre la dióptrica del ojo" 
+Premio de 1911 a Allvar Gullstrand "por su trabajo sobre la dióptrica del ojo". 
 
-Premio de 1967a Ragnar Granit, Haldan Keffer Hartline y George Wald "por sus descubrimientos sobre los procesos visuales fisiológicos y químicos primarios en el ojo", 
+Premio de 1967a Ragnar Granit, Haldan Keffer Hartline y George Wald "por sus descubrimientos sobre los procesos visuales fisiológicos y químicos primarios en el ojo". 
 
 Premio de 1981 a David H. Hubel y Torsten N. Wiesel en 1981 "por sus descubrimientos sobre el procesamiento de información en el sistema visual". 
 
-Componentes de la visión
-Desarrollo de la Oftalmología
-Premio Nobel de Fisiología o Medicina de 1911
-Premio Nobel de Fisiología o Medicina de 1967
-Premio Nobel de Fisiología o Medicina de 1981
+Componentes de la visión  
+Desarrollo de la Oftalmología  
+&nbsp;&nbsp;&nbsp;&nbsp;Premio Nobel de Fisiología o Medicina de 1911  
+&nbsp;&nbsp;&nbsp;&nbsp;Premio Nobel de Fisiología o Medicina de 1967  
+&nbsp;&nbsp;&nbsp;&nbsp;Premio Nobel de Fisiología o Medicina de 1981
 
 </div>
 
