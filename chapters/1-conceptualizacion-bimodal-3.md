@@ -226,12 +226,12 @@ style="width:6.1375in;height:3.42292in" />
 
 **REFERENCIAS**
 
-<span class="smallcaps">Bernal, J. D. (1954). Science in History. En Medical Entomology and Zoology. https://ci.nii.ac.jp/ncid/BA00493535 
+<span class="smallcaps">Bernal, J. D. (1954). Science in History. En Medical Entomology and Zoology. <https://ci.nii.ac.jp/ncid/BA00493535> 
 
-<span class="smallcaps">Durant, A., & Durant, W. (1935). The Story of Civilization. https://en.wikipedia.org/wiki/The_Story_of_Civilization
+<span class="smallcaps">Durant, A., & Durant, W. (1935). The Story of Civilization. <https://en.wikipedia.org/wiki/The_Story_of_Civilization>
 
-Hellemans, A., & Bunch, B. H. (1988). The Timetables of Science: A Chronology of the Most Important People and Events in the History of Science. http://altmetrics.ceek.jp/article/ci.nii.ac.jp/ncid/BA07810181
+Hellemans, A., & Bunch, B. H. (1988). The Timetables of Science: A Chronology of the Most Important People and Events in the History of Science. <http://altmetrics.ceek.jp/article/ci.nii.ac.jp/ncid/BA07810181>
 
-Kline, M. (1994). El pensamiento matemático de la antigüedad a nuestros días. Dialnet (Universidad de la Rioja). https://dialnet.unirioja.es/servlet/libro?codigo=170206
+Kline, M. (1994). El pensamiento matemático de la antigüedad a nuestros días. Dialnet (Universidad de la Rioja). <https://dialnet.unirioja.es/servlet/libro?codigo=170206>
 
 Vernant, J. (1996). Géométrie et astronomie sphérique dans la première cosmologie grecque. Poche/Sciences Humaines Et Sociales, 202-215. https://www.cairn.info/mythe-et-pensee-chez-les-grecs--9782707146502-page-202.html
