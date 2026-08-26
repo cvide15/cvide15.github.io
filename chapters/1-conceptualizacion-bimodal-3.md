@@ -154,7 +154,7 @@ $$V = \frac{m_{o}}{\rho_{oro}} + \frac{m_{p}}{\rho_{plata}}$$
 
 Al resolver el sistema de ecuaciones presentado anteriormente, se logra despejar y determinar el valor de la masa de plata, resultando en 
 
-$m_{p} = \frac{V - \frac{m}{\rho_{oro}}}{\frac{1}{\rho_{plata}} - \frac{1}{\rho_{oro}}}$
+$$m_{p} = \frac{V - \frac{m}{\rho_{oro}}}{\frac{1}{\rho_{plata}} - \frac{1}{\rho_{oro}}}$$
 
 Esto significa que si $V = \frac{m}{\rho_{oro}}$ la corona es de oro
 puro y si tal numerador es mayor que cero entonces la corona contiene
@@ -168,7 +168,7 @@ empuje que es detectable por la diferencia de peso en cada brazo de la
 palanca.
 
 La magnitud del empuje ejercido por el fluido satisface en todo momento la relación 
-$W_{aire} - W_{agua} = {E = \ \rho}_{agua}\text{ }g\text{ }V$. Por lo tanto, para la corona
+$$W_{aire} - W_{agua} = {E = \ \rho}_{agua}\text{ }g\text{ }V$$. Por lo tanto, para la corona
 
 $$\rho_{corona} = \ \frac{m}{V} = \ \frac{(mg\rho_{agua})}{(W_{aire} - W_{agua})}
 $$
