@@ -119,7 +119,7 @@ La <a href="https://es.wikipedia.org/wiki/Balanza_hidrost%C3%A1tica" title="Una 
 brazos iguales para medir densidades comparando el peso de un objeto de
 masa *m* en dos condiciones: cuando el objeto está suspendido en el aire
 (su peso es *W<sub>aire</sub> = mg*) y cuando el mismo 
-objeto está totalmente sumergido en un fluido, circunstancia que está sujeta al principio de flotación. 
+objeto está totalmente sumergido en un fluido, circunstancia que está sujeta al principio de flotación. <br> 
 Su nuevo peso es *W<sub>agua</sub> = W<sub>aire</sub> - E*, donde el empuje *E* es igual al peso del volumen del fluido desalojado. En este caso el volumen total del cuerpo (*V<sub>des =</sub> V<sub>total</sub>*).
 
 <img src="../media/ch1/image69.png"
