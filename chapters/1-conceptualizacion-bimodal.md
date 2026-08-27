@@ -14,7 +14,7 @@ Proponemos una conceptualización bimodal de estos espacios que opera en términ
 </div>
 
 <img src="../media/ch1/imag1.1.png"
-style="width:6.13582in;height:4.12745in" />
+style="width:6.22953in;height:3.30882in" />
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
