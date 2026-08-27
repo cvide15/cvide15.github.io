@@ -170,8 +170,7 @@ palanca.
 La magnitud del empuje ejercido por el fluido satisface en todo momento la relación 
 $$W_{aire} - W_{agua} = {E = \ \rho}_{agua}\text{ }g\text{ }V.$$ Por lo tanto, para la corona
 
-$\rho_{corona} = \ \frac{m}{V} = \ \frac{(mg\rho_{agua})}{(W_{aire} - W_{agua})}
-$
+$\rho_{corona} = \ \frac{m}{V} = \ \frac{(mg\rho_{agua})}{(W_{aire} - W_{agua})}$
 
 El uso de la balanza convierte un problema geométrico (determinación de
 volúmenes) en uno dinámico (cálculo de fuerzas: los pesos aparentes en
