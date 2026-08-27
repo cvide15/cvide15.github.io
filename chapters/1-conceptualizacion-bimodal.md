@@ -107,8 +107,6 @@ style="width:6.1356in;height:3.03431in" />
   </table>
 </div>
 
-
-
 <!-- TABLA 2: EDAD DE ORO -->
 <div align="center">
   <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
@@ -151,6 +149,7 @@ style="width:6.1356in;height:3.03431in" />
     <tbody>
       <tr>
         <td style="padding: 10px; vertical-align: top; line-height: 1.5; border-right: 2px solid #333333; width: 50%;">
+          <br>
           • Platón de Atenas (427-374): crea la <em>Academia</em> en 386-7<br>
           • Aristóteles de Estagira (384-322) crea el <em>Liceo</em> en 334<br>
           • Epicuro de Samos (341-270) crea la escuela de filosofía <em>El Jardín (Ho Kepos)</em>: <em>Cartas</em>, <em>Máximas capitales</em><br>
