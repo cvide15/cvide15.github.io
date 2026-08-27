@@ -99,7 +99,7 @@ style="width:6.1356in;height:3.03431in" />
         </td>
         <td style="padding: 10px; vertical-align: middle; line-height: 1.5; width: 50%;">
           • Tales de Mileto (624-546): <em>Astrología náutica</em><br>
-          • Anaximandro de Mileto (610-546): <em>Sobre la naturaleza</em> (El <a href="https://es.wikipedia.org/wiki/Arch%C3%A9" title="Arché...">arché</a>, Cosmología)<br>
+          • Anaximandro de Mileto (610-546): <em>Sobre la naturaleza</em> (El ápeiron Cosmología)<br>
           • Parménides de Elea (514-470): <em>De la naturaleza</em> (crítica al movimiento)
         </td>
       </tr>
@@ -108,47 +108,6 @@ style="width:6.1356in;height:3.03431in" />
 </div>
 
 
-
-<!-- TABLA 1: SURGIMIENTO -->
-<div align="center">
-  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
-    <thead>
-      <tr style="background-color: #f6f8fa;">
-        <th colspan="2" style="text-align: center; padding: 12px; font-size: 16px; border-bottom: 2px solid #333333;">
-          <strong>Tabla 1.1. <em>Eventos y publicaciones en la Grecia antigua</em></strong>
-        </th>
-      </tr>
-      <tr style="background-color: #f0f2f5; font-weight: bold; text-align: center;">
-        <th style="padding: 10px; width: 50%; text-align: center; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          <span style="display: inline-block; text-align: left;">Filosofía y Literatura</span>
-        </th>
-        <th style="padding: 10px; width: 50%; text-align: center; border-bottom: 2px solid #333333;">
-          <span style="display: inline-block; text-align: left;">Matemáticas, Astronomía y Física</span>
-        </th>
-      </tr>
-      <tr style="background-color: #eaeef2;">
-        <th colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border-bottom: 2px solid #333333;">
-          <span style="display: inline-block; text-align: left;">1. Surgimiento: (1000 – 480) a.C.</span>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 10px; vertical-align: top; line-height: 1.5; border-right: 2px solid #333333; width: 50%;">
-          • Homero: <em>La Ilíada</em> y <em>La Odisea</em> (840)<br>
-          • Hesiodo: <em>Teogonía</em> (entre 700 y 800)<br>
-          • Solón de Atenas: reformas políticas y sociales (638-558)<br>
-          • Pitágoras de Samos (529-475): funda su escuela en Crotona en 530
-        </td>
-        <td style="padding: 10px; vertical-align: top; line-height: 1.5; width: 50%;">
-          • Tales de Mileto (624-546): <em>Astrología náutica</em><br>
-          • Anaximandro de Mileto (610-546): <em>Sobre la naturaleza</em> (El <a href="https://es.wikipedia.org/wiki/Arch%C3%A9" title="Arché (también arqué, arkhé o arjé; del griego ἀρχή, «principio» u «origen») es un concepto fundamental en la filosofía de la Antigua Grecia que significaba el comienzo del universo o el primer elemento de todas las cosas (εξ’ ἀρχής: del principio, ο εξ’ ἀρχής λόγος: la razón primordial, originaria). Es lo que explica el comienzo del universo con una explicación racional con una o varias sustancias.">arché</a>) de todas las cosas, identificando este primer principio con lo «indefinido» o «ilimitado». Consideraba que el principio constitutivo de las cosas era el ápeiron, que no es agua, ni tierra, ni fuego, ni aire; no tiene forma concreta, es infinito. El cosmos nace, se desarrolla y perece en el seno de ese "ápeiron"">ápeiron</a>, Cosmología)<br>
-          • Parménides de Elea (514-470): <em>De la naturaleza</em> (crítica al movimiento)
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
 <!-- TABLA 2: EDAD DE ORO -->
 <div align="center">
