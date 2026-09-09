@@ -72,11 +72,11 @@ Regiones de realización de las actividades experimentales
 <br>
 Tres experimentos revolucionarios acerca del electrón
 <br>
-&nbsp;Experimentos para descubrir el electrón por Thomson
+&nbsp;&nbsp;Experimentos para descubrir el electrón por Thomson
 <br>
-&nbsp;Experimentos para medir la carga eléctrica elemental del electrón por Millikan.
+&nbsp;&nbsp;Experimentos para medir la carga eléctrica elemental del electrón por Millikan.
 <br>
-&nbsp;Experimentos para demostrar la existencia de niveles de energía electrónica estacionaria por Franck y Hertz
+&nbsp;&nbsp;Experimentos para demostrar la existencia de niveles de energía electrónica estacionaria por Franck y Hertz
 <br>
 Relaciones entre las regiones de realización de las actividades experimentales y las fases de desarrollo de la inteligencia colectiva. 
 
