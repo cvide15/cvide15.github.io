@@ -206,8 +206,6 @@ style="width:6.1375in;height:3.42431in" />
           <strong>Tabla 2.2. Comparaciones entre los cuatro espacios antropológicos</strong>
         </th>
       </tr>
-      <!-- Encabezados de columnas -->
-      <tr style="background-color: #f0f2f5; text-align: center;">
         <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Aspecto
         </th>
