@@ -33,10 +33,14 @@ Descripción de las fases del desarrollo de la inteligencia colectiva<br>
 &nbsp;Etapa de Percepción e Intercambio<br>
   1. Escuchar: atención activa para incorporar perspectivas <br>
   2. Expresar: posicionamiento para compartir conocimientos<br>
+  
 &nbsp;Etapa de Gestión y Acción<br>
+
   3. Decidir: responsabilidad para seleccionar acciones<br>
   4. Organizar: coordinación para distribuir procesos<br>
+  
 &nbsp;Etapa de Evolución y Sentido<br>
+
   5. Conectar: integración de redes cognitivas<br>
   6. Evaluar: calibración para aprender y corregir <br>
   7. Mostrar visión: dar coherencia, dirección y sentido a la perspectiva colectiva
