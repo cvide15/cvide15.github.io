@@ -88,29 +88,26 @@ resultados se esperan.
       <!-- Título principal -->
       <tr style="background-color: #f6f8fa;">
         <th colspan="5" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          <strong>Tabla 2.3. Regiones las componentes de actividades experimentales
+          <strong>Tabla 2.3. Regiones las componentes de actividades experimentales</strong>
         </th>
       </tr>
-      <!-- Encabezados de columnas -->
-      <tr style="background-color: #f0f2f5; text-align: center;">
-        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+      <tr>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Componentes de la actividad
-        </th>
-        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Región de Preparación
-        </th>
-        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Región de Transformación
-        </th>
-        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Región de Detección
-        </th>
-        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          Región de Medición</strong>
-        </th>
+        </td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
+          Región de Medición
+        </td>
       </tr>
-    </thead>
-    <tbody>
       <tr>
         <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Acción principal
@@ -125,7 +122,7 @@ resultados se esperan.
           Registrar señales
         </td>
         <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">
-          representar gráficamente
+          Representar gráficamente
         </td>
       </tr>
       <tr>
