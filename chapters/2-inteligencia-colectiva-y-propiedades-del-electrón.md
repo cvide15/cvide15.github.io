@@ -214,6 +214,7 @@ style="width:6.1375in;height:3.42569in" />
       <tr>
         <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+           <br>
             <li style="margin-bottom: 6px;">registro digital con telescopios</li>
             <li style="margin-bottom: 6px;">imágenes diagnósticas en medicina</li>
             <li style="margin-bottom: 0;">procesos industriales automatizados</li>
@@ -228,6 +229,7 @@ style="width:6.1375in;height:3.42569in" />
         </td>
         <td style="padding: 12px; vertical-align: top; line-height: 1.4; height: 100%;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+           <br>
             <li style="margin-bottom: 6px;">en física nuclear</li>
             <li style="margin-bottom: 6px;">en manipulación genética y molecular</li>
             <li style="margin-bottom: 0;">en computación e inteligencia artificial</li>
