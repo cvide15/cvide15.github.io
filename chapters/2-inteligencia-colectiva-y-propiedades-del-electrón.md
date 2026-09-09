@@ -85,25 +85,25 @@ style="width:6.1375in;height:3.42569in" />
       <!-- Título principal -->
       <tr style="background-color: #f6f8fa;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          Tabla 2.1. Actividades experimentales en cuatro espacios antropológicos
+          <strong>Tabla 2.1. Actividades experimentales en cuatro espacios antropológicos</strong>
         </th>
       </tr>
       <!-- Subtítulo de sección -->
       <tr style="background-color: #eaeef2;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          La Tierra: Memoria comunitaria - Tradición y mito
+          <strong>La Tierra: Memoria comunitaria - Tradición y mito</strong>
         </th>
       </tr>
       <!-- Encabezados de columnas -->
       <tr style="background-color: #f0f2f5; text-align: center;">
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          OBSERVACIONES
+          <strong>OBSERVACIONES</strong>
         </th>
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          MEDICIONES
+          <strong>MEDICIONES</strong>
         </th>
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          EXPERIMENTOS
+          <strong>EXPERIMENTOS</strong>
         </th>
       </tr>
     </thead>
@@ -142,19 +142,19 @@ style="width:6.1375in;height:3.42569in" />
       <!-- Subtítulo / Título de la tabla -->
       <tr style="background-color: #eaeef2;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          El Territorio: Organización política - Instituciones y escritura
+          <strong>El Territorio: Organización política - Instituciones y escritura</strong>
         </th>
       </tr>
       <!-- Encabezados de columnas -->
       <tr style="background-color: #f0f2f5; text-align: center;">
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          OBSERVACIONES
+          <strong>OBSERVACIONES</strong>
         </th>
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          MEDICIONES
+          <strong>MEDICIONES</strong>
         </th>
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          EXPERIMENTOS
+          <strong>EXPERIMENTOS</strong>
         </th>
       </tr>
     </thead>
@@ -193,19 +193,19 @@ style="width:6.1375in;height:3.42569in" />
       <!-- Subtítulo / Título de la tabla -->
       <tr style="background-color: #eaeef2;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          Las Mercancías: Innovación económica - Mercado y producción
+          <strong>Las Mercancías: Innovación económica - Mercado y producción</strong>
         </th>
       </tr>
       <!-- Encabezados de columnas -->
       <tr style="background-color: #f0f2f5; text-align: center;">
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          OBSERVACIONES
+          <strong>OBSERVACIONES</strong>
         </th>
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          MEDICIONES
+          <strong>MEDICIONES</strong>
         </th>
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          EXPERIMENTOS
+          <strong>EXPERIMENTOS</strong>
         </th>
       </tr>
     </thead>
@@ -244,19 +244,19 @@ style="width:6.1375in;height:3.42569in" />
       <!-- Subtítulo / Título de la tabla -->
       <tr style="background-color: #eaeef2;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          El Conocimiento: Inteligencia distribuida - Redes y colaboración
+          <strong>El Conocimiento: Inteligencia distribuida - Redes y colaboración</strong>
         </th>
       </tr>
       <!-- Encabezados de columnas -->
       <tr style="background-color: #f0f2f5; text-align: center;">
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          OBSERVACIONES
+          <strong>OBSERVACIONES</strong>
         </th>
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          MEDICIONES
+          <strong>MEDICIONES</strong>
         </th>
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          EXPERIMENTOS
+          <strong>EXPERIMENTOS</strong>
         </th>
       </tr>
     </thead>
