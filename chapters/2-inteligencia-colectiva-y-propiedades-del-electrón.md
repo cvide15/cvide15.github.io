@@ -80,7 +80,7 @@ Relaciones entre las regiones de realización de las actividades experimentales 
 style="width:6.1375in;height:3.42569in" />
 
 <div align="center">
-  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 12px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
       <!-- Título principal -->
       <tr style="background-color: #f6f8fa;">
@@ -137,7 +137,7 @@ style="width:6.1375in;height:3.42569in" />
 </div>
 
 <div align="center">
-  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 12px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
       <!-- Subtítulo / Título de la tabla -->
       <tr style="background-color: #eaeef2;">
@@ -188,7 +188,7 @@ style="width:6.1375in;height:3.42569in" />
 </div>
 
 <div align="center">
-  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 12px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
       <!-- Subtítulo / Título de la tabla -->
       <tr style="background-color: #eaeef2;">
@@ -239,7 +239,7 @@ style="width:6.1375in;height:3.42569in" />
 </div>
 
 <div align="center">
-  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 12px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
       <!-- Subtítulo / Título de la tabla -->
       <tr style="background-color: #eaeef2;">
