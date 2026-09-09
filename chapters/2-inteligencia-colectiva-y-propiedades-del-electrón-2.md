@@ -206,24 +206,13 @@ style="width:6.1375in;height:3.42431in" />
           <strong>Tabla 2.2. Comparaciones entre los cuatro espacios antropológicos</strong>
         </th>
       </tr>
-        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          Aspecto
-        </th>
-        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          Espacio de la Tierra
-        </th>
-        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          Espacio del Territorio
-        </th>
-        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          Espacio de las Mercancías
-        </th>
-        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
-          Espacio del Conocimiento
-        </th>
+         <tr>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">Aspecto histórica</td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">Espacio de la Tierra</td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">Espacio del Territorio</td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">Espacio de las Mercancías</td>
+        <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-bottom: 2px solid #333333;">Espacio del Conocimiento</td>
       </tr>
-    </thead>
-    <tbody>
       <tr>
         <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">Base histórica</td>
         <td style="padding: 8px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">Sociedades tribales y tradicionales</td>
