@@ -30,6 +30,7 @@ style="width:6.1375in;height:3.42569in" />
 Analizar las características y funciones de cada fase y su participación en la integración de las correspondientes etapas de producción del conocimiento científico. Explicar cómo las etapas de producción y las fases de desarrollo expresan interacciones colectivas entre las cuales fluye y se transforma la inteligencia colectiva.
 
 Descripción de las fases del desarrollo de la inteligencia colectiva<br>
+
 &nbsp;Etapa de Percepción e Intercambio<br>
   1. Escuchar: atención activa para incorporar perspectivas <br>
   2. Expresar: posicionamiento para compartir conocimientos<br>
