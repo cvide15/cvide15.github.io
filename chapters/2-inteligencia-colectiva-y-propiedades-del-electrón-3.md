@@ -87,7 +87,7 @@ resultados se esperan.
     <thead>
       <!-- Título principal -->
       <tr style="background-color: #f6f8fa;">
-        <th colspan="5" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
+        <th colspan="5" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
           <strong>Tabla 2.3. Regiones las componentes de actividades experimentales</strong>
         </th>
       </tr>
