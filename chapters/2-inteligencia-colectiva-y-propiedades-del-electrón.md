@@ -31,7 +31,7 @@ Analizar las características y funciones de cada fase y su participación en la
 
 Descripción de las fases del desarrollo de la inteligencia colectiva<br>
 
-&nbsp;Etapa de Percepción e Intercambio<br>
+&nbsp;Etapa de Percepción e Intercambio<br><br>
   1. Escuchar: atención activa para incorporar perspectivas <br>
   2. Expresar: posicionamiento para compartir conocimientos<br>
   
