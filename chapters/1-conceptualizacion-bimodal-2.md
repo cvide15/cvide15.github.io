@@ -206,7 +206,7 @@ elaboración propia que comprendió dos partes: la primera parte describe
 la problemática que se planteaban en los tiempos en que cada uno de los
 autores empezó a trabajar en el tema en cuestión; la segunda parte
 presenta las principales aportaciones de cada autor y termina con
-algunas consideraciones acerca de las investigaciones que sabrán de
+algunas consideraciones acerca de las investigaciones que habrán de
 continuar.
 
 #### Premio Nobel de Física otorgado a Wolfgang Pauli (1900-1958)
