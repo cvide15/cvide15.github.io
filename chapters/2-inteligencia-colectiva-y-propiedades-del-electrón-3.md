@@ -59,7 +59,7 @@ Experimentar consiste en formular preguntas concretas a la naturaleza y
 resolverlas con la ayuda de aparatos y dispositivos. Para entender en
 qué consiste un experimento en ciencias naturales, en física en
 particular, conviene visualizar su diseño y ejecución en términos de las
-acciones que se realizan en cuatro regiones de realización de
+acciones que tienen lugar en cuatro regiones de realización de
 actividades experimentales: la región de inicio de Preparación, la
 región intermedia de Transformación, la región crítica de Detección y la
 región final de Medición.
