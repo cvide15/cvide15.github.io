@@ -269,8 +269,9 @@ Para calcular el ángulo de deflexión cuando la partícula sale del condensador
 $\lbrack\theta\rbrack$*<sub>x = d</sub>* debemos calcular la derivada de
 la parábola *(dy/dx)* en ese punto: 
 
-$${\tan(\theta)}{= \ \frac{dy}{dx}} = \ {\left\lceil ½\left( \frac{qE}{m{v_{0}}^{2}} \right)(2x) \right\rceil\ }_{x = d} = \left( \frac{qEd}{m{v_{0}}^{2}} \right)$;
-además$\mathbf{\ }\tan(\theta) = \frac{l}{s}\ $. 
+$${\tan(\theta)}{= \ \frac{dy}{dx}} = \ {\left\lceil ½\left( \frac{qE}{m{v_{0}}^{2}} \right)(2x) \right\rceil\ }_{x = d} = \left( \frac{qEd}{m{v_{0}}^{2}} \right)$$;
+
+además $$\mathbf{\ }\tan(\theta) = \frac{l}{s}\ $$ 
 
 En consecuencia
 $\left( \frac{qEd}{m{v_{0}}^{2}} \right) = \ \frac{l}{s}$, 
