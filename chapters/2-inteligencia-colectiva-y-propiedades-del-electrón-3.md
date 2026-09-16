@@ -273,13 +273,11 @@ la parábola *(dy/dx)* en ese punto:
 
 $$\tan(\theta) = \frac{dy}{dx} = \left[ \frac{1}{2} \left( \frac{qE}{m v_0^2} \right) (2x) \right]_{x=d} = \left( \frac{qEd}{m v_0^2} \right)$$
 
-además $\mathbf{\ }\tan(\theta) = \frac{l}{s}\ 
+además $$\tan(\theta) = \frac{l}{s}$$
 
-En consecuencia
-$\left( \frac{qEd}{m{v_{0}}^{2}} \right) = \ \frac{l}{s}
+En consecuencia $\left( \frac{qEd}{m{v_{0}}^{2}} \right) = \ \frac{l}{s}
 
-de donde
-$\left( \frac{q}{m} \right) = \ \frac{(l)\left\lbrack \left( v_{0} \right)^{2} \right\rbrack}{(Eds)}$$
+de donde $$\left( \frac{q}{m} \right) = \frac{(l)[(v_0)^2]}{(Eds)}$$
 
 La ecuación anterior indica que la relación *q/m* podrá calcularse si se
 conocen los valores de las distancias *d, l* y *s*, la intensidad del
