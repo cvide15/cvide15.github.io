@@ -76,7 +76,7 @@ style="width:6.1375in;height:3.42292in" />
 El espacio antropológico del Territorio (Estrato II) surge cuando las
 sociedades humanas dejan de organizarse principalmente alrededor de la
 tradición oral, los vínculos tribales y la integración mítica con la
-naturaleza; corresponde al momento en que la inteligencia funciona como
+naturaleza. Corresponde al momento en que la inteligencia funciona como
 capacidad organizada de coordinación social donde opera y evoluciona una
 estructura de tres capas: la infraestructura, la gobernanza y la
 mentalidad cultural.
