@@ -89,7 +89,7 @@ style="width:6.1375in;height:3.42292in" />
 
 **Fase 4: Organizar** (coordinación para distribuir procesos)
 
-Esta fase es esencial para construir estructuras operativas para evitar
+Esta fase es esencial para construir estructuras operativas con el fin de evitar
 que la colaboración se disperse y pierda eficacia. Consiste en definir
 funciones, coordinar tareas, administrar recursos, definir
 procedimientos, reagrupar competencias y estructurar procesos de
