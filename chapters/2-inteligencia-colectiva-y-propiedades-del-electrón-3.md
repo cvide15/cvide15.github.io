@@ -3,7 +3,7 @@
 
 El electrón es uno de los más importantes componentes de la materia:
 forma parte de átomos y moléculas, interviene en los enlaces químicos,
-es responsable de la corrieTnte eléctrica e interacciona constantemente
+es responsable de la corriente eléctrica e interacciona constantemente
 con otras partículas elementales. Además, participa en múltiples
 procesos producidos y/o controlados por radiaciones electromagnéticas.
 
