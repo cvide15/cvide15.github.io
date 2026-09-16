@@ -248,6 +248,7 @@ campos eléctricos y magnéticos externos. Cuando actúa la fuerza
 electrostática *F<sub>electric</sub> = qE* se genera una aceleración
 transversal en una dirección perpendicular al haz incidente *a
 <sub>transversal </sub>*= *a<sub>t</sub> = qE/m*. 
+
 Dicha fuerza actúa durante el tiempo *t = d*/v<sub>0</sub>, requerido para recorrer la
 distancia *d* dentro del condensador con una velocidad transversal
 $$v_{transversal} = \ \left( a_{t} \right)(t) = \ \left( \frac{qE}{m} \right)\left( \frac{d}{v_{0}} \right) = \ \frac{qEd}{mv_{0}}$$
@@ -265,16 +266,17 @@ $$y = \ ½\left( a_{t} \right)t^{2} = \ ½\left( \frac{qE}{m} \right)\left\lbrac
 
 Las regiones de <u>Detección y Medición</u> están activas cuando el
 electrón sale del condensador y llega a la pantalla. 
+
 Para calcular el ángulo de deflexión cuando la partícula sale del condensador en
 $\lbrack\theta\rbrack$*<sub>x = d</sub>* debemos calcular la derivada de
 la parábola *(dy/dx)* en ese punto: 
 
-$${\tan(\theta)}{= \ \frac{dy}{dx}} = \ {\left\lceil ½\left( \frac{qE}{m{v_{0}}^{2}} \right)(2x) \right\rceil\ }_{x = d} = \left( \frac{qEd}{m{v_{0}}^{2}} \right)$$;
+{\tan(\theta)}{= \ \frac{dy}{dx}} = \ {\left\lceil ½\left( \frac{qE}{m{v_{0}}^{2}} \right)(2x) \right\rceil\ }_{x = d} = \left( \frac{qEd}{m{v_{0}}^{2}} \right)$$;
 
 además $$\mathbf{\ }\tan(\theta) = \frac{l}{s}\ $$ 
 
 En consecuencia
-$\left( \frac{qEd}{m{v_{0}}^{2}} \right) = \ \frac{l}{s}$, 
+$\left( \frac{qEd}{m{v_{0}}^{2}} \right) = \ \frac{l}{s}$
 
 de donde
 $\left( \frac{q}{m} \right) = \ \frac{(l)\left\lbrack \left( v_{0} \right)^{2} \right\rbrack}{(Eds)}$$
