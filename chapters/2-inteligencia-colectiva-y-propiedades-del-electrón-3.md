@@ -202,7 +202,7 @@ A partir de 1897 Joseph John Thomson (1856-1940) realizó una secuencia de tres 
 Thomson publicó sus resultados en el artículo titulado *[Cathode Rays](http://web.lemoyne.edu/~GIUNTA/archemc.html#cathoderay) de* la revista *Philosophical Magazine*, 44, 293 (1897). La siguiente Figura 2.1 es una adaptación de la original tomada del artículo de Thomson y describe las regiones de realización de las correspondientes actividades experimentales.
 
 <img src="../media/ch2/image51.png"
-style="width:4.88286in;height:1.84325in"
+style="width:5.90405in;height:3.39103in"
 alt="http://web.lemoyne.edu/~GIUNTA/1897_2.gif" />
 
 Figura 2.1. Aparato utilizado por Thomson. (Las barras verticales en
