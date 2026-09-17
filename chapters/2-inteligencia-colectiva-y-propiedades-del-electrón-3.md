@@ -30,8 +30,7 @@ reconocimientos y los títulos de sus respectivas Conferencias Nobel.
 También incluimos sus fotografías, tomadas de los archivos de la
 Fundación Nobel.
 
-J. Thomson en [1906](https://www.nobelprize.org/prizes/physics/1906/)
-"en reconocimiento a los grandes méritos de sus investigaciones teóricas
+J. Thomson en 1906 "en reconocimiento a los grandes méritos de sus investigaciones teóricas
 y experimentales sobre la conducción de la electricidad por gases".
 Conferencia Nobel: *Portadores de la electricidad negativa.*
 
