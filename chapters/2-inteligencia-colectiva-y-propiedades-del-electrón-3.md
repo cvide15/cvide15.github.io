@@ -357,8 +357,6 @@ continuación e ilustra en las Figuras 2.3a y 2.3b.
 <img src="../media/ch2/image58.png"
 style="width:2.8159in;height:2.43723in"
 alt="http://3.bp.blogspot.com/_xfoymkZ4PVw/R7tU2NwpDhI/AAAAAAAAACc/hzVF6hfLeA8/s320/Simplified_Millikan_oil_drop.PNG" />
-<img src="../media/ch2/image59.png"
-style="width:2.69583in;height:1.92292in" alt="millikan_3.gif" />
 
 Figura 2.3. Dispositivo del experimento de la gota de aceite (a) y vista
 amplificada de una gota dentro del microscopio (b). En 2.2a la región de
