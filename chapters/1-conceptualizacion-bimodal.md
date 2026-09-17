@@ -109,7 +109,7 @@ style="width:6.1356in;height:3.03431in" />
 
 <!-- TABLA 1: SURGIMIENTO -->
 <div align="center">
-  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; text-align: center;">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
     <thead>
       <tr style="background-color: #f6f8fa;">
         <th colspan="2" style="text-align: center; padding: 12px; font-size: 16px; border-bottom: 2px solid #333333;">
@@ -118,30 +118,34 @@ style="width:6.1356in;height:3.03431in" />
       </tr>
       <tr style="background-color: #f0f2f5; font-weight: bold; text-align: center;">
         <th style="padding: 10px; width: 50%; text-align: center; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          Filosofía y Literatura
+          <span style="display: inline-block; text-align: left;">Filosofía y Literatura</span>
         </th>
         <th style="padding: 10px; width: 50%; text-align: center; border-bottom: 2px solid #333333;">
-          Matemáticas, Astronomía y Física
+          <span style="display: inline-block; text-align: left;">Matemáticas, Astronomía y Física</span>
         </th>
       </tr>
       <tr style="background-color: #eaeef2;">
         <th colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border-bottom: 2px solid #333333;">
-          1. Surgimiento: (1000 – 480) a.C.
+          <span style="display: inline-block; text-align: left;">1. Surgimiento: (1000 – 480) a.C.</span>
         </th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 10px; vertical-align: middle; line-height: 1.5; text-align: center; border-right: 2px solid #333333; width: 50%;">
-          • Homero: <em>La Ilíada</em> y <em>La Odisea</em> (840)<br>
-          • Hesiodo: <em>Teogonía</em> (entre 700 y 800)<br>
-          • Solón de Atenas: reformas políticas y sociales (638-558)<br>
-          • Pitágoras de Samos (529-475): funda su escuela en Crotona en 530
+        <td style="padding: 10px; vertical-align: top; border-right: 2px solid #333333; width: 50%;">
+          <ul style="margin: 0; padding-left: 18px; text-align: left; line-height: 1.5;">
+            <li style="margin-bottom: 4px;">Homero: <em>La Ilíada</em> y <em>La Odisea</em> (840)</li>
+            <li style="margin-bottom: 4px;">Hesiodo: <em>Teogonía</em> (entre 700 y 800)</li>
+            <li style="margin-bottom: 4px;">Solón de Atenas: reformas políticas y sociales (638-558)</li>
+            <li style="margin-bottom: 0;">Pitágoras de Samos (529-475): funda su escuela en Crotona en 530</li>
+          </ul>
         </td>
-        <td style="padding: 10px; vertical-align: middle; line-height: 1.5; text-align: center; width: 50%;">
-          • Tales de Mileto (624-546): <em>Astrología náutica</em><br>
-          • Anaximandro de Mileto (610-546): <em>Sobre la naturaleza</em> (El ápeiron Cosmología)<br>
-          • Parménides de Elea (514-470): <em>De la naturaleza</em> (crítica al movimiento)
+        <td style="padding: 10px; vertical-align: top; width: 50%;">
+          <ul style="margin: 0; padding-left: 18px; text-align: left; line-height: 1.5;">
+            <li style="margin-bottom: 4px;">Tales de Mileto (624-546): <em>Astrología náutica</em></li>
+            <li style="margin-bottom: 4px;">Anaximandro de Mileto (610-546): <em>Sobre la naturaleza</em> (El ápeiron Cosmología)</li>
+            <li style="margin-bottom: 0;">Parménides de Elea (514-470): <em>De la naturaleza</em> (crítica al movimiento)</li>
+          </ul>
         </td>
       </tr>
     </tbody>
