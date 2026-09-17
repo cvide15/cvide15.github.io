@@ -287,7 +287,7 @@ magnético ***B*** en una dirección perpendicular a ***E***.
 
 Igualando las magnitudes de ambas fuerzas: *F<sub>magnética</sub> =
 qv<sub>0</sub>B* y *F<sub>eléctrica</sub> = qE* se obtiene que
-v<sub>0</sub> *= E/B* y sustituyendo este valor en
+v<sub>0</sub> *= E/B* y sustituyendo este valor en la relación
 $\left( \frac{q}{m} \right) = \ \frac{(l)\left\lbrack \left( v_{0} \right)^{2} \right\rbrack}{(Eds)}$
 resulta finalmente que
 
