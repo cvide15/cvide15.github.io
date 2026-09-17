@@ -47,7 +47,6 @@ Analizar las características y funciones de cada fase y su participación en la
 5. **Conectar**: integración de redes cognitivas
 6. **Evaluar**: calibración para aprender y corregir
 7. **Mostrar visión**: dar coherencia, dirección y sentido a la perspectiva colectiva
-
 </div>
 
 <img src="../media/ch2/image3.png"
