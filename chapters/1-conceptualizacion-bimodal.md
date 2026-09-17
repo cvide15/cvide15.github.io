@@ -140,6 +140,39 @@ style="width:6.1356in;height:3.03431in" />
   </table>
 </div>
 
+<!-- TABLA 2: EDAD DE ORO -->
+<div align="center">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
+    <thead>
+      <tr style="background-color: #eaeef2;">
+        <th colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border-bottom: 2px solid #333333;">
+          <span style="display: inline-block; text-align: left;">2. Edad de oro: (480 – 400) a.C.</span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 10px; vertical-align: top; border-right: 2px solid #333333; width: 50%;">
+          <ul style="margin: 0; padding-left: 18px; text-align: left; line-height: 1.5;">
+            <li style="margin-bottom: 4px;">Pericles de Atenas (495-429): reformas políticas y sociales (461-429)</li>
+            <li style="margin-bottom: 4px;">Sócrates de Atenas (470-399): (no escribió)</li>
+            <li style="margin-bottom: 4px;">Jenofonte de Atenas (431-354): <em>Anábasis</em> o la <em>Expedición de los diez mil</em> (385-368)</li>
+            <li style="margin-bottom: 0;">Empédocles de Agrigento, Sicilia (494-434): <em>Sobre la naturaleza</em> (poemas filosóficos)</li>
+          </ul>
+        </td>
+        <td style="padding: 10px; vertical-align: top; width: 50%;">
+          <ul style="margin: 0; padding-left: 18px; text-align: left; line-height: 1.5;">
+            <li style="margin-bottom: 4px;">Anaxágoras de Clazómenas, Jonia (500-428): <em>Sobre la naturaleza</em> (el Sol es fuego)</li>
+            <li style="margin-bottom: 4px;">Filolao de Crotona (470-380): <em>Sobre la naturaleza</em> (Sol, Tierra y Luna cubiertos de fuego)</li>
+            <li style="margin-bottom: 4px;">Leucipo de Mileto (siglo V) <em>Gran orden del cosmos</em></li>
+            <li style="margin-bottom: 0;">Demócrito de Abdera, Tracia (460-357): <em>Pequeño orden del cosmos</em></li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <!-- TABLA 3: DECLINACIÓN Y CAÍDA -->
 <div align="center">
   <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
