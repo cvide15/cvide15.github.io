@@ -59,10 +59,10 @@ style="width:6.1375in;height:3.42569in" />
 
 Describir las siguientes características de cada espacio antropológico: el espacio de la Tierra crea cosmovisiones y construye códigos; el espacio del Territorio requiere para su funcionamiento de infraestructura, gobernanza y mentalidad cultural; el espacio de las Mercancías funciona como estructura global que contiene motores, aceleradores y sistemas operativos y el espacio del Conocimiento se apoya en tres pilares que son la interconexión, la colaboración y la transformación.  
 
-La Tierra: Memoria comunitaria - Tradición y mito<br>
-El Territorio: Organización política - Instituciones y escritura<br>
-Las Mercancías: Innovación económica - Mercado y producción<br>
-El Conocimiento: Inteligencia distribuida - Redes y colaboración
+* La Tierra: Memoria comunitaria - Tradición y mito<br>
+* El Territorio: Organización política - Instituciones y escritura<br>
+* Las Mercancías: Innovación económica - Mercado y producción<br>
+* El Conocimiento: Inteligencia distribuida - Redes y colaboración
 
 </div>
 
