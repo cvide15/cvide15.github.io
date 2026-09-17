@@ -402,7 +402,7 @@ externo E es nulo, la fuerza *F<sub>campo eléctrico</sub> = 0*. Para que
 al caer la gota se mantenga estacionaria, la fuerza resultante debe ser
 cero y, por tanto,
 
-$$*F<sub>viscosidad</sub> = F<sub>gravedad</sub> = mg*$$
+*F<sub>viscosidad</sub> = F<sub>gravedad</sub> = mg*
 
 Entonces, en ausencia de un campo externo la
 velocidad terminal es *v<sub>t</sub> = v <sub>a</sub> = mg/(κη).* Esta
