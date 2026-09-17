@@ -487,7 +487,7 @@ bien porque dicha cuantización es un requisito teórico para explicar la
 existencia de espectros que manifiestan una propiedad cuantizada de los
 electrones.
 
-En 1914 James Franck (1882-1964) y Gustav Ludwig Hertz (1887-1975)
+En 1914 James Franck (1882-1964) junto con Gustav Ludwig Hertz (1887-1975)
 proporcionaron pruebas experimentales de la existencia de niveles de
 energía electrónica estacionarios, sin considerar ninguna radiación
 incidente como causa del comportamiento cuantizado de los niveles
@@ -548,13 +548,13 @@ generados en FC que llegan al ánodo AC (Figura 2.4b).
 
 Lo que observaron en el experimento Franck y Hertz fue lo siguiente:
 cuando el potencial acelerador V empieza a aumentar la corriente I
-también crece, pero al llegar a un valor crítico Vc = 4,9 voltios la
+también crece, pero al llegar a un valor crítico Vc = 4.9 voltios la
 corriente disminuye bruscamente. Cuando la tensión aumenta de nuevo, la
 corriente también aumenta y al llegar a un nuevo valor crítico 2Vc = 9,8
 voltios, se observa la misma disminución abrupta de la corriente. Estas
 observaciones pueden interpretarse de la siguiente manera:
 
-- Cuando V \< Vc = 4,9 volts, los electrones acelerados que salen de FC
+- Cuando V \< Vc = 4.9 volts, los electrones acelerados que salen de FC
   tienen baja energía cinética y sus colisiones con los átomos de
   mercurio son elásticas porque la masa del electrón es mucho menor que
   la del átomo y el electrón incidente rebota sin ceder energía a los
@@ -1061,7 +1061,7 @@ rayos catódicos son partículas con una relación de carga/masa muy
 superior a la de los iones conocidos.
 
 Los experimentos de Robert A. Millikan (1909–1913) determinaron la carga
-elemental $e$; utilizar este valor en la relación de $e/m\ $obtenida por
+elemental $e$. El utilizar este valor en la relación de $e/m\ $obtenida por
 Thomson permitió calcular con precisión la masa del electrón.
 
 Los experimentos de James Franck y Gustav Hertz (1914) mostraron
