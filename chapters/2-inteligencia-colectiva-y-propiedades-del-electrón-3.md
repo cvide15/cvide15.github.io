@@ -393,15 +393,16 @@ arrastre viscosa (*F<sub>viscosidad</sub>*) producida por la fricción
 con el aire dentro de la cámara, y la fuerza eléctrica *F<sub>campo
 eléctrico</sub> = qE* ejercida por el campo externo *E*.
 
-Según la ley de Stokes, la fuerza de fricción del fluido es
+Según la ley de Stokes, la fuerza de fricción del fluido corresponde a
 *F<sub>viscosidad</sub> = κηv<sub>t</sub>*, donde: *v<sub>t </sub>*es la
 velocidad terminal, *η* es la viscosidad del aire, κ = 6πr es un
 coeficiente de resistencia y *r* es la radio de una gota esférica*.* En
 consecuencia *v<sub>t</sub> = (F<sub>viscosidad</sub>)/κη.* Si el campo
 externo E es nulo, la fuerza *F<sub>campo eléctrico</sub> = 0*. Para que
 al caer la gota se mantenga estacionaria, la fuerza resultante debe ser
-cero y, por tanto<sub>,</sub> *F<sub>viscosidad</sub> =
-F<sub>gravedad</sub> = mg*. Entonces, en ausencia de un campo externo la
+cero y, por tanto,
+*F<sub>viscosidad</sub> = F<sub>gravedad</sub> = mg*.
+Entonces, en ausencia de un campo externo la
 velocidad terminal es *v<sub>t</sub> = v <sub>a</sub> = mg/(κη).* Esta
 es la velocidad de caída libre cuando el campo eléctrico es nulo (está
 apagado).
