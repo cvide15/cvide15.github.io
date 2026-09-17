@@ -314,13 +314,12 @@ lleno de gas a baja presión) están formados por partículas — electrones
 forman parte de los átomos.”
 
 J.J. Thomson – Hechos. NobelPrize.org. Alcance del Premio Nobel AB 2023.
-Mié 1 de marzo de 2023.
 <https://www.nobelprize.org/prizes/physics/1906/thomson/facts/\>
 
 **Conferencia Nobel: *Portadores de la electricidad negativa.***
 
 J.J. Thomson – Conferencia Nobel. NobelPrize.org. Alcance del Premio
-Nobel AB 2023. Mié 1 de marzo de 2023.
+Nobel AB 2023.
 <https://www.nobelprize.org/prizes/physics/1906/thomson/lecture/\>
 
 <img src="../media/ch2/image52.png"
