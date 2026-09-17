@@ -348,10 +348,8 @@ style="width:5.90335in;height:3.11538in" />
 <u>Experimentos para medir la carga eléctrica elemental del electrón por
 Millikan</u>
 
-A partir de 1907, Robert Andrews Millikan (1868 -
-[1953](http://es.wikipedia.org/wiki/1953)) y su alumno [Harvey
-Fletcher](http://es.wikipedia.org/w/index.php?title=Harvey_Fletcher&action=edit&redlink=1)
-(1884 – 1981) buscaron un procedimiento para determinar el valor de la
+A partir de 1907, Robert Andrews Millikan (1868 -1953) y su alumno Harvey
+Fletcher (1884 – 1981) buscaron un procedimiento para determinar el valor de la
 carga de un electrón. Primero experimentaron con gotas de agua y después
 con gotas de aceite. Su dispositivo experimental se describe a
 continuación e ilustra en las Figuras 2.3a y 2.3b.
