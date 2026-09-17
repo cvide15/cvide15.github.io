@@ -107,6 +107,47 @@ style="width:6.1356in;height:3.03431in" />
   </table>
 </div>
 
+<!-- TABLA 1: SURGIMIENTO -->
+<div align="center">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; text-align: center;">
+    <thead>
+      <tr style="background-color: #f6f8fa;">
+        <th colspan="2" style="text-align: center; padding: 12px; font-size: 16px; border-bottom: 2px solid #333333;">
+          <strong>Tabla 1.1. <em>Eventos y publicaciones en la Grecia antigua</em></strong>
+        </th>
+      </tr>
+      <tr style="background-color: #f0f2f5; font-weight: bold; text-align: center;">
+        <th style="padding: 10px; width: 50%; text-align: center; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          Filosofía y Literatura
+        </th>
+        <th style="padding: 10px; width: 50%; text-align: center; border-bottom: 2px solid #333333;">
+          Matemáticas, Astronomía y Física
+        </th>
+      </tr>
+      <tr style="background-color: #eaeef2;">
+        <th colspan="2" style="padding: 8px 12px; font-weight: bold; text-align: center; border-bottom: 2px solid #333333;">
+          1. Surgimiento: (1000 – 480) a.C.
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 10px; vertical-align: middle; line-height: 1.5; text-align: center; border-right: 2px solid #333333; width: 50%;">
+          • Homero: <em>La Ilíada</em> y <em>La Odisea</em> (840)<br>
+          • Hesiodo: <em>Teogonía</em> (entre 700 y 800)<br>
+          • Solón de Atenas: reformas políticas y sociales (638-558)<br>
+          • Pitágoras de Samos (529-475): funda su escuela en Crotona en 530
+        </td>
+        <td style="padding: 10px; vertical-align: middle; line-height: 1.5; text-align: center; width: 50%;">
+          • Tales de Mileto (624-546): <em>Astrología náutica</em><br>
+          • Anaximandro de Mileto (610-546): <em>Sobre la naturaleza</em> (El ápeiron Cosmología)<br>
+          • Parménides de Elea (514-470): <em>De la naturaleza</em> (crítica al movimiento)
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <!-- TABLA 2: EDAD DE ORO -->
 <div align="center">
   <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
