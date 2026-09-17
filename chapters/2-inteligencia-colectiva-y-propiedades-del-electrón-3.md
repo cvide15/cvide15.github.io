@@ -355,7 +355,7 @@ con gotas de aceite. Su dispositivo experimental se describe a
 continuación e ilustra en las Figuras 2.3a y 2.3b.
 
 <img src="../media/ch2/image58.png"
-style="width:2.8159in;height:2.43723in"
+style="width:5.90405in;height:3.39103in"
 alt="http://3.bp.blogspot.com/_xfoymkZ4PVw/R7tU2NwpDhI/AAAAAAAAACc/hzVF6hfLeA8/s320/Simplified_Millikan_oil_drop.PNG" />
 
 Figura 2.3. Dispositivo del experimento de la gota de aceite (a) y vista
