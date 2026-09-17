@@ -73,19 +73,16 @@ style="width:6.1375in;height:3.42569in" />
 
 ## 2.3. Experimentos acerca del electrón
 
-Explicar qué ocurre en cada una de las regiones de realización de las actividades experimentales en los siguientes casos: el descubrimiento del electrón y el cálculo de los valores de su relación carga/masa, el cálculo de su carga eléctrica y la demostración de la existencia de niveles energéticos discretos. Describir el contenido de las Conferencias Nobel dictadas por los autores de los experimentos considerados.  Analizar cómo en la descripción de las regiones de realización de cada una de las correspondientes actividades experimentales se expresan las fases del desarrollo de la inteligencia colectiva en tanto elementos de las etapas de producción del conocimiento.
-<br>
-Regiones de realización de las actividades experimentales
-<br>
-Tres experimentos revolucionarios acerca del electrón
-<br>
-&nbsp;&nbsp;Experimentos para descubrir el electrón por Thomson
-<br>
-&nbsp;&nbsp;Experimentos para medir la carga eléctrica elemental del electrón por Millikan.
-<br>
-&nbsp;&nbsp;Experimentos para demostrar la existencia de niveles de energía electrónica estacionaria por &nbsp;Franck y Hertz
-<br>
-Relaciones entre las regiones de realización de las actividades experimentales y las fases de desarrollo de la inteligencia colectiva. 
+Explicar qué ocurre en cada una de las regiones de realización de las actividades experimentales en los siguientes casos: el descubrimiento del electrón y el cálculo de los valores de su relación carga/masa, el cálculo de su carga eléctrica y la demostración de la existencia de niveles energéticos discretos.
+
+Describir el contenido de las Conferencias Nobel dictadas por los autores de los experimentos considerados. Analizar cómo en la descripción de las regiones de realización de cada una de las correspondientes actividades experimentales se expresan las fases del desarrollo de la inteligencia colectiva en tanto elementos de las etapas de producción del conocimiento.
+
+* Regiones de realización de las actividades experimentales
+* Tres experimentos revolucionarios acerca del electrón
+  * Experimentos para descubrir el electrón por Thomson
+  * Experimentos para medir la carga eléctrica elemental del electrón por Millikan
+  * Experimentos para demostrar la existencia de niveles de energía electrónica estacionaria por Franck y Hertz
+* Relaciones entre las regiones de realización de las actividades experimentales y las fases de desarrollo de la inteligencia colectiva.
 
 </div>
 
