@@ -718,107 +718,62 @@ de producción del conocimiento que contienen a las fases del desarrollo
 de la inteligencia colectiva.
 
 <div align="center">
-  <table style="width: 100%; max-width: 1000px; border-collapse: collapse; border: 2px solid #333333; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
+  <table>
     <thead>
-      <!-- Título principal de la tabla -->
-      <tr style="background-color: #f6f8fa;">
-        <th colspan="4" align="center" style="padding: 10px; font-weight: normal; border-bottom: 2px solid #333333;">
-          <strong>Tabla 2.4. Relaciones entre regiones y fases</strong>
+      <!-- Título principal -->
+      <tr>
+        <th colspan="4" align="center">
+          Tabla 2.4. Relaciones entre regiones y fases
         </th>
       </tr>
     </thead>
     <tbody>
-      <!-- Fila de categorías de organización -->
-      <tr style="background-color: #f0f2f5;">
-        <td align="center" valign="middle" style="width: 25%; padding: 10px; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          <p align="center">Regiones de organización de actividades experimentales</p>
-        </td>
-        <td align="center" valign="middle" style="width: 35%; padding: 10px; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          <p align="center">Función principal</p>
-        </td>
-        <td align="center" valign="middle" style="width: 20%; padding: 10px; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          <p align="center">Grupos</p>
-        </td>
-        <td align="center" valign="middle" style="width: 20%; padding: 10px; border-bottom: 2px solid #333333;">
-          <p align="center">Fases de la inteligencia colectiva</p>
-        </td>
+      <!-- Fila de categorías (sin tags TH para evitar estilo de encabezado) -->
+      <tr>
+        <td align="center"><b>Regiones de organización de actividades experimentales</b></td>
+        <td align="center"><b>Función principal</b></td>
+        <td align="center"><b>Grupos</b></td>
+        <td align="center"><b>Fases de la inteligencia colectiva</b></td>
       </tr>
 
       <!-- Bloque 1: Preparación -->
       <tr>
-        <td rowspan="2" align="center" valign="middle" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">Preparación</p>
-        </td>
-        <td rowspan="2" align="center" valign="middle" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">Definir objetivos, preguntas, métodos e instrumentos para configurar condiciones y objetivos.</p>
-        </td>
-        <td rowspan="2" align="center" valign="middle" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">Percepción<br>e<br>Intercambio</p>
-        </td>
-        <td align="center" valign="middle" style="border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">1. Escuchar</p>
-        </td>
+        <td rowspan="2" align="center">Preparación</td>
+        <td rowspan="2" align="center">Definir objetivos, preguntas, métodos e instrumentos para configurar condiciones y objetivos.</td>
+        <td rowspan="2" align="center">Percepción<br>e<br>Intercambio</td>
+        <td align="center">1. Escuchar</td>
       </tr>
       <tr>
-        <td align="center" valign="middle" style="border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">2. Expresar</p>
-        </td>
+        <td align="center">2. Expresar</td>
       </tr>
 
       <!-- Bloque 2: Transformación -->
       <tr>
-        <td rowspan="2" align="center" valign="middle" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">Transformación</p>
-        </td>
-        <td rowspan="2" align="center" valign="middle" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">Intervenir sobre el sistema y ejecutar procedimientos con el fin de convertir y articular señales y procesos.</p>
-        </td>
-        <td rowspan="2" align="center" valign="middle" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">Gestión y Acción</p>
-        </td>
-        <td align="center" valign="middle" style="border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">3. Decidir</p>
-        </td>
+        <td rowspan="2" align="center">Transformación</td>
+        <td rowspan="2" align="center">Intervenir sobre el sistema y ejecutar procedimientos con el fin de convertir y articular señales y procesos.</td>
+        <td rowspan="2" align="center">Gestión y Acción</td>
+        <td align="center">3. Decidir</td>
       </tr>
       <tr>
-        <td align="center" valign="middle" style="border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">4. Organizar</p>
-        </td>
+        <td align="center">4. Organizar</td>
       </tr>
 
-      <!-- Bloque 3: Detección -->
+      <!-- Bloque 3: Detección y Medición -->
       <tr>
-        <td rowspan="2" align="center" valign="middle" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">Detección</p>
-        </td>
-        <td rowspan="2" align="center" valign="middle" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">Registrar fenómenos y obtener evidencias para detectarlo y hacerlo perceptible.</p>
-        </td>
-        <td rowspan="3" align="center" valign="middle" style="border-right: 2px solid #333333; padding: 8px;">
-          <p align="center">Evolución y Sentido</p>
-        </td>
-        <td align="center" valign="middle" style="border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">5. Conectar</p>
-        </td>
+        <td rowspan="2" align="center">Detección</td>
+        <td rowspan="2" align="center">Registrar fenómenos y obtener evidencias para detectarlo y hacerlo perceptible.</td>
+        <td rowspan="3" align="center">Evolución y Sentido</td>
+        <td align="center">5. Conectar</td>
       </tr>
       <tr>
-        <td align="center" valign="middle" style="border-bottom: 2px solid #333333; padding: 8px;">
-          <p align="center">6. Evaluar</p>
-        </td>
+        <td align="center">6. Evaluar</td>
       </tr>
 
       <!-- Bloque 4: Medición -->
       <tr>
-        <td align="center" valign="middle" style="border-right: 2px solid #333333; padding: 8px;">
-          <p align="center">Medición</p>
-        </td>
-        <td align="center" valign="middle" style="border-right: 2px solid #333333; padding: 8px;">
-          <p align="center">Cuantificar, analizar, relacionar e interpretar resultados para interpretar y modelar fenómenos.</p>
-        </td>
-        <!-- "Evolución y Sentido" abarcado por el rowspan="3" -->
-        <td align="center" valign="middle" style="padding: 8px;">
-          <p align="center">7. Mostrar Visión</p>
-        </td>
+        <td align="center">Medición</td>
+        <td align="center">Cuantificar, analizar, relacionar e interpretar resultados para interpretar y modelar fenómenos.</td>
+        <td align="center">7. Mostrar Visión</td>
       </tr>
     </tbody>
   </table>
