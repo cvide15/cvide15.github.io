@@ -762,7 +762,6 @@ de la inteligencia colectiva.
           2. Expresar
         </td>
       </tr>
-
       <tr>
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
           Transformación
@@ -782,7 +781,6 @@ de la inteligencia colectiva.
           4. Organizar
         </td>
       </tr>
-
       <tr>
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
           Detección
@@ -810,7 +808,7 @@ de la inteligencia colectiva.
           Cuantificar, analizar, relacionar e interpretar resultados para interpretar y modelar fenómenos.
         </td>
         <td style="padding: 8px; text-align: center; vertical-align: middle;">
-          7. Mostrar Visión
+           7. Mostrar Visión
         </td>
       </tr>
     </tbody>
