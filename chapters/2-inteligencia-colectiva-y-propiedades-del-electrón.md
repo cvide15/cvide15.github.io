@@ -149,63 +149,6 @@ style="width:6.1375in;height:3.42569in" />
 <div align="center">
   <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
-      <!-- Título principal -->
-      <tr style="background-color: #f6f8fa;">
-        <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
-          <strong>Tabla 2.1. Actividades experimentales en cuatro espacios antropológicos</strong>
-        </th>
-      </tr>
-      <!-- Subtítulo de sección -->
-      <tr style="background-color: #eaeef2;">
-        <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
-          <strong>La Tierra: Memoria comunitaria - Tradición y mito</strong>
-        </th>
-      </tr>
-      <!-- Encabezados de columnas -->
-      <tr style="background-color: #f0f2f5; text-align: center;">
-        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          <strong>OBSERVACIONES</strong>
-        </th>
-        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          <strong>MEDICIONES</strong>
-        </th>
-        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
-          <strong>EXPERIMENTOS</strong>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- Contenido -->
-      <tr>
-        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
-          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
-            <li style="margin-bottom: 6px;">estaciones del año</li>
-            <li style="margin-bottom: 6px;">comportamiento del clima</li>
-            <li style="margin-bottom: 0;">ciclos agrícolas</li>
-          </ul>
-        </td>
-        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
-          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
-            <li style="margin-bottom: 6px;">terrenos agrícolas</li>
-            <li style="margin-bottom: 6px;">tiempo mediante ciclos lunares</li>
-            <li style="margin-bottom: 0;">distancias y tamaños usando partes del cuerpo humano</li>
-          </ul>
-        </td>
-        <td style="padding: 12px; vertical-align: top; line-height: 1.4; height: 100%;">
-          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
-            <li style="margin-bottom: 6px;">efectos del fuego</li>
-            <li style="margin-bottom: 6px;">fermentación de bebidas y alimentos</li>
-            <li style="margin-bottom: 0;">materiales de construcción</li>
-          </ul>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<div align="center">
-  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
-    <thead>
       <!-- Subtítulo / Título de la tabla -->
       <tr style="background-color: #eaeef2;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
@@ -259,19 +202,19 @@ style="width:6.1375in;height:3.42569in" />
     <thead>
       <!-- Subtítulo / Título de la tabla -->
       <tr style="background-color: #eaeef2;">
-        <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>Las Mercancías: Innovación económica - Mercado y producción</strong>
         </th>
       </tr>
       <!-- Encabezados de columnas -->
       <tr style="background-color: #f0f2f5; text-align: center;">
-        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>OBSERVACIONES</strong>
         </th>
-        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>MEDICIONES</strong>
         </th>
-        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>EXPERIMENTOS</strong>
         </th>
       </tr>
@@ -279,24 +222,22 @@ style="width:6.1375in;height:3.42569in" />
     <tbody>
       <!-- Contenido -->
       <tr>
-        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
-           <br>
             <li style="margin-bottom: 6px;">registro digital con telescopios</li>
             <li style="margin-bottom: 6px;">imágenes diagnósticas en medicina</li>
             <li style="margin-bottom: 0;">procesos industriales automatizados</li>
           </ul>
         </td>
-        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
             <li style="margin-bottom: 6px;">composición química con espectroscopios</li>
             <li style="margin-bottom: 6px;">tamaños y distancias con instrumentos de alta precisión</li>
             <li style="margin-bottom: 0;">posicionamientos y orientaciones con satélites</li>
           </ul>
         </td>
-        <td style="padding: 12px; vertical-align: top; line-height: 1.4; height: 100%;">
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
-           <br>
             <li style="margin-bottom: 6px;">en física nuclear</li>
             <li style="margin-bottom: 6px;">en manipulación genética y molecular</li>
             <li style="margin-bottom: 0;">en computación e inteligencia artificial</li>
@@ -312,19 +253,19 @@ style="width:6.1375in;height:3.42569in" />
     <thead>
       <!-- Subtítulo / Título de la tabla -->
       <tr style="background-color: #eaeef2;">
-        <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>El Conocimiento: Inteligencia distribuida - Redes y colaboración</strong>
         </th>
       </tr>
       <!-- Encabezados de columnas -->
       <tr style="background-color: #f0f2f5; text-align: center;">
-        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>OBSERVACIONES</strong>
         </th>
-        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>MEDICIONES</strong>
         </th>
-        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>EXPERIMENTOS</strong>
         </th>
       </tr>
@@ -332,21 +273,21 @@ style="width:6.1375in;height:3.42569in" />
     <tbody>
       <!-- Contenido -->
       <tr>
-        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
             <li style="margin-bottom: 6px;">en astronomía colaborativa global</li>
             <li style="margin-bottom: 6px;">en tratamientos médicos</li>
             <li style="margin-bottom: 0;">en contaminación ambiental</li>
           </ul>
         </td>
-        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
             <li style="margin-bottom: 6px;">cambio climático</li>
             <li style="margin-bottom: 6px;">secuencias genéticas</li>
             <li style="margin-bottom: 0;">comunicaciones en tiempo real</li>
           </ul>
         </td>
-        <td style="padding: 12px; vertical-align: top; line-height: 1.4; height: 100%;">
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
             <li style="margin-bottom: 6px;">en genética colaborativa</li>
             <li style="margin-bottom: 6px;">en estudios computacionales del clima</li>
