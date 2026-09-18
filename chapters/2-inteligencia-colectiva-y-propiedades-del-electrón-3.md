@@ -723,7 +723,7 @@ de la inteligencia colectiva.
     <thead>
       <!-- Título principal de la tabla -->
       <tr style="background-color: #f6f8fa;">
-        <th colspan="4" align="center" style="padding: 10px; font-weight: normal; border-bottom: 2px solid #333333;">
+        <th colspan="4" style="padding: 10px; font-weight: normal; border-bottom: 2px solid #333333; text-align: center;">
           <strong>Tabla 2.4. Relaciones entre regiones y fases</strong>
         </th>
       </tr>
@@ -757,6 +757,7 @@ de la inteligencia colectiva.
         <td align="center" valign="middle" style="border-bottom: 2px solid #333333; padding: 8px;">
           <p align="center">1. Escuchar</p>
         </td>
+      </tr>
       <tr>
         <td align="center" valign="middle" style="border-bottom: 2px solid #333333; padding: 8px;">
           <p align="center">2. Expresar</p>
