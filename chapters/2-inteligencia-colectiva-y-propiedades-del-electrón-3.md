@@ -756,7 +756,6 @@ de la inteligencia colectiva.
         <td align="center" valign="middle" style="border-bottom: 2px solid #333333; padding: 8px;">
           <p align="center">1. Escuchar</p>
         </td>
-      </tr>
       <tr>
         <td align="center" valign="middle" style="border-bottom: 2px solid #333333; padding: 8px;">
           <p align="center">2. Expresar</p>
