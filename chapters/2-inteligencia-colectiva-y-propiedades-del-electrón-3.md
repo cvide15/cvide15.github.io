@@ -753,13 +753,13 @@ de la inteligencia colectiva.
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
           Percepción<br>e<br>Intercambio
         </td>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
-          1. Escuchar
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
+          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">1. Escuchar</div>
         </td>
       </tr>
       <tr>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
-          2. Expresar
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
+          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">2. Expresar</div>
         </td>
       </tr>
 
@@ -773,13 +773,13 @@ de la inteligencia colectiva.
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
           Gestión y Acción
         </td>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
-          3. Decidir
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
+          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">3. Decidir</div>
         </td>
       </tr>
       <tr>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
-          4. Organizar
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
+          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">4. Organizar</div>
         </td>
       </tr>
 
@@ -793,13 +793,13 @@ de la inteligencia colectiva.
         <td rowspan="3" style="border-right: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
           Evolución y Sentido
         </td>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
-          5. Conectar
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
+          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">5. Conectar</div>
         </td>
       </tr>
       <tr>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
-          6. Evaluar
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
+          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">6. Evaluar</div>
         </td>
       </tr>
       <tr>
@@ -809,13 +809,13 @@ de la inteligencia colectiva.
         <td style="border-right: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
           Cuantificar, analizar, relacionar e interpretar resultados para interpretar y modelar fenómenos.
         </td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle;">
-          7. Mostrar Visión
+        <td style="padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
+          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">7. Mostrar Visión</div>
         </td>
       </tr>
     </tbody>
   </table>
-</div> 
+</div>
 
 Las interacciones entre las regiones de realización de actividades
 experimentales y las fases de la inteligencia colectiva configuran un
