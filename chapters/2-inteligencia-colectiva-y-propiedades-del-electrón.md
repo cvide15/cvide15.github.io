@@ -94,6 +94,63 @@ style="width:6.1375in;height:3.42569in" />
     <thead>
       <!-- Título principal -->
       <tr style="background-color: #f6f8fa;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>Tabla 2.1. Actividades experimentales en cuatro espacios antropológicos</strong>
+        </th>
+      </tr>
+      <!-- Subtítulo de sección -->
+      <tr style="background-color: #eaeef2;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>La Tierra: Memoria comunitaria - Tradición y mito</strong>
+        </th>
+      </tr>
+      <!-- Encabezados de columnas -->
+      <tr style="background-color: #f0f2f5; text-align: center;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>OBSERVACIONES</strong>
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>MEDICIONES</strong>
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>EXPERIMENTOS</strong>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Contenido -->
+      <tr>
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">estaciones del año</li>
+            <li style="margin-bottom: 6px;">comportamiento del clima</li>
+            <li style="margin-bottom: 0;">ciclos agrícolas</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">terrenos agrícolas</li>
+            <li style="margin-bottom: 6px;">tiempo mediante ciclos lunares</li>
+            <li style="margin-bottom: 0;">distancias y tamaños usando partes del cuerpo humano</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">efectos del fuego</li>
+            <li style="margin-bottom: 6px;">fermentación de bebidas y alimentos</li>
+            <li style="margin-bottom: 0;">materiales de construcción</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div align="center">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+    <thead>
+      <!-- Título principal -->
+      <tr style="background-color: #f6f8fa;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
           <strong>Tabla 2.1. Actividades experimentales en cuatro espacios antropológicos</strong>
         </th>
