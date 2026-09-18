@@ -255,7 +255,7 @@ $$v_{transversal} = \ \left( a_{t} \right)(t) = \ \left( \frac{qE}{m} \right)\le
 Dentro de esta región de <u>Transformación</u>, el desplazamiento de la
 partícula tiene dos componentes: la componente horizontal *x =*
 v<sub>0</sub>t debida a la velocidad constante v<sub>0</sub> y la
-componente vertical variable *y = 1/2(a<sub>t</sub>)t<sup>2</sup>*
+componente vertical variable es *y = 1/2(a<sub>t</sub>)t<sup>2</sup>*
 producida por la aceleración transversal *a<sub>t</sub>*. Teniendo en
 cuenta estas dos componentes del desplazamiento, la ecuación resultante
 de la trayectoria dentro del condensador es una parábola de la forma *y
@@ -425,8 +425,8 @@ midiendo el tiempo que tarda la gota en recorrer una distancia
 determinada que está marcada en la regla graduada que puede verse a
 través del microscopio (Figura 2.2b). Para calcular la radio *r* de una
 gota de masa *m* se supone que la gota tiene una forma esférica y que su
-densidad es uniforme *ρ = m/\[4/3πr<sup>3</sup>\].* Por lo tanto, la
-velocidad terminal en ausencia de campo externo puede medirse como
+densidad es uniforme *ρ = m/\[4/3πr<sup>(3</sup>\)].* Por lo tanto, la
+velocidad terminal en ausencia de campo externo es
 v<sub>a</sub> *= mg/(κη),* con *κ = 6πr;* entonces *r<sup>2</sup> =
 (9/2)(η*v<sub>a</sub>*)/(ρg).*
 
@@ -650,6 +650,7 @@ style="width:5.90374in;height:3.46429in" />
 
 <img src="../media/ch2/image75.png"
 style="width:5.90556in;height:3.66026in" />
+
 
 **Relaciones entre las regiones de realización de actividades
 experimentales y las fases de desarrollo de la inteligencia colectiva**
