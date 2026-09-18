@@ -157,7 +157,8 @@ style="width:6.1356in;height:3.03431in" />
     <tbody>
       <tr>
         <td style="padding: 10px; vertical-align: top; border-right: 2px solid #333333; width: 50%;">
-          <ul style="margin: 0; padding-left: 18px; text-align: left; line-height: 1.5;"><br>
+          <ul style="margin: 0; padding-left: 18px; text-align: left; line-height: 1.5;">
+            
             <li style="margin-bottom: 4px;">Platón de Atenas (427-374): crea la <em>Academia</em> en 386-7</li>
             <li style="margin-bottom: 4px;">Aristóteles de Estagira (384-322) crea el <em>Liceo</em> en 334</li>
             <li style="margin-bottom: 4px;">Epicuro de Samos (341-270) crea la escuela de filosofía <em>El Jardín (Ho Kepos)</em>: <em>Cartas</em>, <em>Máximas capitales</em></li>
