@@ -719,26 +719,26 @@ de la inteligencia colectiva.
 
 
 <div align="center">
-  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
       <!-- Título principal -->
       <tr style="background-color: #f6f8fa;">
-        <th colspan="4" style="text-align: center; padding: 10px; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
+        <th colspan="4" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
           Tabla 2. 4. Relaciones entre regiones y fases
         </th>
       </tr>
       <!-- Encabezados de columnas -->
       <tr style="background-color: #f0f2f5; text-align: center;">
-        <th style="padding: 10px; width: 25%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        <th style="padding: 10px; width: 25%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Regiones de organización de actividades experimentales
         </th>
-        <th style="padding: 10px; width: 35%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        <th style="padding: 10px; width: 35%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Función principal
         </th>
-        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+        <th style="padding: 10px; width: 20%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Grupos
         </th>
-        <th style="padding: 10px; width: 20%; text-align: center; font-size: 12px; font-weight: normal; border-bottom: 2px solid #333333;">
+        <th style="padding: 10px; width: 20%; text-align: center; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
           Fases de la inteligencia colectiva
         </th>
       </tr>
