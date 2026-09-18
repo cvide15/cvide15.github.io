@@ -757,7 +757,8 @@ de la inteligencia colectiva.
           Percepción<br>e<br>Intercambio
         </td>
         <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
-      <br>1. Escuchar
+          
+          1. Escuchar
         </td>
       </tr>
       <tr>
