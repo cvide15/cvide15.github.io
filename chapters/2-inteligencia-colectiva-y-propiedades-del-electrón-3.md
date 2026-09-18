@@ -721,6 +721,7 @@ de la inteligencia colectiva.
 <div align="center">
   <table style="width: 100%; max-width: 1000px; border-collapse: collapse; border: 2px solid #333333; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
     <thead>
+      <!-- Título principal de la tabla -->
       <tr style="background-color: #f6f8fa;">
         <th colspan="4" style="padding: 10px; font-weight: normal; border-bottom: 2px solid #333333; text-align: center;">
           <strong>Tabla 2.4. Relaciones entre regiones y fases</strong>
@@ -728,6 +729,7 @@ de la inteligencia colectiva.
       </tr>
     </thead>
     <tbody>
+      <!-- Fila de categorías de organización -->
       <tr style="background-color: #f0f2f5;">
         <td style="width: 25%; padding: 10px; border-right: 2px solid #333333; border-bottom: 2px solid #333333; text-align: center; vertical-align: middle;">
           Regiones de organización de actividades experimentales
@@ -743,6 +745,7 @@ de la inteligencia colectiva.
         </td>
       </tr>
 
+      <!-- Bloque 1: Preparación -->
       <tr>
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
           Preparación
@@ -762,6 +765,8 @@ de la inteligencia colectiva.
           2. Expresar
         </td>
       </tr>
+
+      <!-- Bloque 2: Transformación -->
       <tr>
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
           Transformación
@@ -781,6 +786,8 @@ de la inteligencia colectiva.
           4. Organizar
         </td>
       </tr>
+
+      <!-- Bloque 3: Detección y Medición -->
       <tr>
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
           Detección
@@ -792,12 +799,12 @@ de la inteligencia colectiva.
           Evolución y Sentido
         </td>
         <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
-          5.  Conectar
+          5. Conectar
         </td>
       </tr>
       <tr>
         <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
-          6.  Evaluar
+          6. Evaluar
         </td>
       </tr>
       <tr>
@@ -808,7 +815,7 @@ de la inteligencia colectiva.
           Cuantificar, analizar, relacionar e interpretar resultados para interpretar y modelar fenómenos.
         </td>
         <td style="padding: 8px; text-align: center; vertical-align: middle;">
-           7.  Mostrar Visión
+          7. Mostrar Visión
         </td>
       </tr>
     </tbody>
