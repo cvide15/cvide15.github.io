@@ -598,7 +598,7 @@ James Franck – Hechos. NobelPrize.org. Alcance del Premio Nobel AB 2023.
 Jueves 2 de marzo de 2023.
 <https://www.nobelprize.org/prizes/physics/1925/franck/facts/>
 
-# **Conferencia Nobel*: Transformación de la energía cinética de electrones libres en energía de excitación de átomos por impactos.***
+# **Conferencia Nobel*: Transformación de la energía cinética de electrones libres en energía de excitación de átomos por impactos.**
 
 James Franck – Conferencia Nobel. NobelPrize.org. Alcance del Premio
 Nobel AB 2023. Viernes 3 de marzo de 2023.
