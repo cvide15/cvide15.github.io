@@ -743,8 +743,6 @@ de la inteligencia colectiva.
           <p align="center">Fases de la inteligencia colectiva</p>
         </td>
       </tr>
-
-      <!-- Bloque 1: Preparación -->
       <tr>
         <td rowspan="2" align="center" valign="middle" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px;">
           <p align="center">Preparación</p>
@@ -764,8 +762,6 @@ de la inteligencia colectiva.
           <p align="center">2. Expresar</p>
         </td>
       </tr>
-
-      <!-- Bloque 2: Transformación -->
       <tr>
         <td rowspan="2" align="center" valign="middle" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px;">
           <p align="center">Transformación</p>
@@ -785,8 +781,6 @@ de la inteligencia colectiva.
           <p align="center">4. Organizar</p>
         </td>
       </tr>
-
-      <!-- Bloque 3: Detección -->
       <tr>
         <td rowspan="2" align="center" valign="middle" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px;">
           <p align="center">Detección</p>
@@ -806,8 +800,6 @@ de la inteligencia colectiva.
           <p align="center">6. Evaluar</p>
         </td>
       </tr>
-
-      <!-- Bloque 4: Medición -->
       <tr>
         <td align="center" valign="middle" style="border-right: 2px solid #333333; padding: 8px;">
           <p align="center">Medición</p>
