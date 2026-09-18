@@ -787,7 +787,7 @@ de la inteligencia colectiva.
         </td>
       </tr>
 
-      <!-- Bloque 3: Detección y Medición -->
+    <!-- Bloque 3: Detección y Medición -->
       <tr>
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
           Detección
@@ -798,14 +798,10 @@ de la inteligencia colectiva.
         <td rowspan="3" style="border-right: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
           Evolución y Sentido
         </td>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
-          5. Conectar
-        </td>
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">5. Conectar</td>
       </tr>
       <tr>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
-          6. Evaluar
-        </td>
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">6. Evaluar</td>
       </tr>
       <tr>
         <td style="border-right: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
@@ -814,12 +810,8 @@ de la inteligencia colectiva.
         <td style="border-right: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
           Cuantificar, analizar, relacionar e interpretar resultados para interpretar y modelar fenómenos.
         </td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle;">
-          7. Mostrar Visión
-        </td>
-      </tr>
-    </tbody>
-  </table>
+        <td style="padding: 8px; text-align: center; vertical-align: middle;">7. Mostrar Visión</td>
+      </tr>  </table>
 </div>
 
 Las interacciones entre las regiones de realización de actividades
