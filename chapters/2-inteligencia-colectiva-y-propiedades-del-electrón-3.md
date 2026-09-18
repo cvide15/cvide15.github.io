@@ -719,103 +719,200 @@ de producción del conocimiento que contienen a las fases del desarrollo
 de la inteligencia colectiva.
 
 <div align="center">
+
   <table style="width: 100%; max-width: 1000px; border-collapse: collapse; border: 2px solid #333333; font-family: 'Times New Roman', Times, serif; font-size: 14px;">
+
     <thead>
+
       <tr style="background-color: #f6f8fa;">
+
         <th colspan="4" style="padding: 10px; font-weight: normal; border-bottom: 2px solid #333333; text-align: center;">
+
           <strong>Tabla 2.4. Relaciones entre regiones y fases</strong>
+
         </th>
+
       </tr>
+
     </thead>
+
     <tbody>
+
       <tr style="background-color: #f0f2f5;">
+
         <td style="width: 25%; padding: 10px; border-right: 2px solid #333333; border-bottom: 2px solid #333333; text-align: center; vertical-align: middle;">
+
           Regiones de organización de actividades experimentales
+
         </td>
+
         <td style="width: 35%; padding: 10px; border-right: 2px solid #333333; border-bottom: 2px solid #333333; text-align: center; vertical-align: middle;">
+
           Función principal
+
         </td>
+
         <td style="width: 20%; padding: 10px; border-right: 2px solid #333333; border-bottom: 2px solid #333333; text-align: center; vertical-align: middle;">
+
           Grupos
+
         </td>
+
         <td style="width: 20%; padding: 10px; border-bottom: 2px solid #333333; text-align: center; vertical-align: middle;">
+
           Fases de la inteligencia colectiva
+
         </td>
+
       </tr>
 
+
+
       <tr>
+
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
           Preparación
+
         </td>
+
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
           Definir objetivos, preguntas, métodos e instrumentos para configurar condiciones y objetivos.
+
         </td>
+
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
           Percepción<br>e<br>Intercambio
+
         </td>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
-          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">1. Escuchar</div>
+
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
+          1. Escuchar
+
         </td>
-      </tr>
-      <tr>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
-          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">2. Expresar</div>
-        </td>
+
       </tr>
 
       <tr>
+
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
+          2. Expresar
+
+        </td>
+
+      </tr>
+
+
+
+      <tr>
+
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
           Transformación
+
         </td>
+
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
           Intervenir sobre el sistema y ejecutar procedimientos con el fin de convertir y articular señales y procesos.
+
         </td>
+
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
           Gestión y Acción
+
         </td>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
-          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">3. Decidir</div>
+
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
+          3. Decidir
+
         </td>
-      </tr>
-      <tr>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
-          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">4. Organizar</div>
-        </td>
+
       </tr>
 
       <tr>
+
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
+          4. Organizar
+
+        </td>
+
+      </tr>
+
+
+
+      <tr>
+
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
           Detección
+
         </td>
+
         <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
           Registrar fenómenos y obtener evidencias para detectarlo y hacerlo perceptible.
+
         </td>
+
         <td rowspan="3" style="border-right: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
           Evolución y Sentido
+
         </td>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
-          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">5. Conectar</div>
+
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
+          5. Conectar
+
         </td>
+
       </tr>
+
       <tr>
-        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
-          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">6. Evaluar</div>
+
+        <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
+          6. Evaluar
+
         </td>
+
       </tr>
+
       <tr>
+
         <td style="border-right: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
           Medición
+
         </td>
+
         <td style="border-right: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+
           Cuantificar, analizar, relacionar e interpretar resultados para interpretar y modelar fenómenos.
+
         </td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; height: 50px;">
-          <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">7. Mostrar Visión</div>
+
+        <td style="padding: 8px; text-align: center; vertical-align: middle;">
+
+           7. Mostrar Visión
+
         </td>
+
       </tr>
+
     </tbody>
+
   </table>
-</div>
+
+</div> 
 
 Las interacciones entre las regiones de realización de actividades
 experimentales y las fases de la inteligencia colectiva configuran un
