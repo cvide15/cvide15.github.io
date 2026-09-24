@@ -747,75 +747,75 @@ de la inteligencia colectiva.
 
       <!-- Bloque 1: Preparación -->
       <tr>
-        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 10px; text-align: center; vertical-align: middle;">
           Preparación
         </td>
-        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 10px; text-align: center; vertical-align: middle;">
           Definir objetivos, preguntas, métodos e instrumentos para configurar condiciones y objetivos.
         </td>
-        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 10px; text-align: center; vertical-align: middle;">
           Percepción<br>e<br>Intercambio
         </td>
-        <td style="border-bottom: 1px solid #cccccc; padding: 12px 8px; text-align: center; vertical-align: middle; height: 50%;">
-          1. Escuchar
+        <td style="border-bottom: 1px solid #cccccc; padding: 12px 8px; text-align: center; vertical-align: middle;">
+          <div style="display: flex; align-items: center; justify-content: center; min-height: 100%;">1. Escuchar</div>
         </td>
       </tr>
       <tr>
-        <td style="border-bottom: 2px solid #333333; padding: 12px 8px; text-align: center; vertical-align: middle; height: 50%;">
-          2. Expresar
+        <td style="border-bottom: 2px solid #333333; padding: 12px 8px; text-align: center; vertical-align: middle;">
+          <div style="display: flex; align-items: center; justify-content: center; min-height: 100%;">2. Expresar</div>
         </td>
       </tr>
 
       <!-- Bloque 2: Transformación -->
       <tr>
-        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 10px; text-align: center; vertical-align: middle;">
           Transformación
         </td>
-        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 10px; text-align: center; vertical-align: middle;">
           Intervenir sobre el sistema y ejecutar procedimientos con el fin de convertir y articular señales y procesos.
         </td>
-        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 10px; text-align: center; vertical-align: middle;">
           Gestión y Acción
         </td>
-        <td style="border-bottom: 1px solid #cccccc; padding: 12px 8px; text-align: center; vertical-align: middle; height: 50%;">
-          3. Decidir
+        <td style="border-bottom: 1px solid #cccccc; padding: 12px 8px; text-align: center; vertical-align: middle;">
+          <div style="display: flex; align-items: center; justify-content: center; min-height: 100%;">3. Decidir</div>
         </td>
       </tr>
       <tr>
-        <td style="border-bottom: 2px solid #333333; padding: 12px 8px; text-align: center; vertical-align: middle; height: 50%;">
-          4. Organizar
+        <td style="border-bottom: 2px solid #333333; padding: 12px 8px; text-align: center; vertical-align: middle;">
+          <div style="display: flex; align-items: center; justify-content: center; min-height: 100%;">4. Organizar</div>
         </td>
       </tr>
 
       <!-- Bloque 3: Detección y Medición -->
       <tr>
-        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+        <td style="border-right: 2px solid #333333; border-bottom: 1px solid #cccccc; padding: 10px; text-align: center; vertical-align: middle;">
           Detección
         </td>
-        <td rowspan="2" style="border-right: 2px solid #333333; border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+        <td style="border-right: 2px solid #333333; border-bottom: 1px solid #cccccc; padding: 10px; text-align: center; vertical-align: middle;">
           Registrar fenómenos y obtener evidencias para detectarlo y hacerlo perceptible.
         </td>
-        <td rowspan="3" style="border-right: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+        <td rowspan="3" style="border-right: 2px solid #333333; padding: 10px; text-align: center; vertical-align: middle;">
           Evolución y Sentido
         </td>
-        <td style="border-bottom: 1px solid #cccccc; padding: 12px 8px; text-align: center; vertical-align: middle; height: 33.33%;">
-          5. Conectar
+        <td style="border-bottom: 1px solid #cccccc; padding: 12px 8px; text-align: center; vertical-align: middle;">
+          <div style="display: flex; align-items: center; justify-content: center; min-height: 100%;">5. Conectar</div>
         </td>
       </tr>
       <tr>
-        <td style="border-bottom: 2px solid #333333; padding: 12px 8px; text-align: center; vertical-align: middle; height: 33.33%;">
-          6. Evaluar
-        </td>
-      </tr>
-      <tr>
-        <td style="border-right: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+        <td rowspan="2" style="border-right: 2px solid #333333; padding: 10px; text-align: center; vertical-align: middle;">
           Medición
         </td>
-        <td style="border-right: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+        <td rowspan="2" style="border-right: 2px solid #333333; padding: 10px; text-align: center; vertical-align: middle;">
           Cuantificar, analizar, relacionar e interpretar resultados para interpretar y modelar fenómenos.
         </td>
-        <td style="padding: 12px 8px; text-align: center; vertical-align: middle; height: 33.33%;">
-          7. Mostrar Visión
+        <td style="border-bottom: 1px solid #cccccc; padding: 12px 8px; text-align: center; vertical-align: middle;">
+          <div style="display: flex; align-items: center; justify-content: center; min-height: 100%;">6. Evaluar</div>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px 8px; text-align: center; vertical-align: middle;">
+          <div style="display: flex; align-items: center; justify-content: center; min-height: 100%;">7. Mostrar Visión</div>
         </td>
       </tr>
     </tbody>
