@@ -892,12 +892,12 @@ producción del conocimiento.
 </div>
 
 <div align="center">
-  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
       <!-- Título principal combinado -->
       <tr style="background-color: #f6f8fa;">
         <th colspan="4" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
-          Tabla 2.6. Etapa de Gestión y Acción
+          <strong>Tabla 2.6. Etapa de Gestión y Acción</strong>
         </th>
       </tr>
     </thead>
@@ -954,12 +954,12 @@ producción del conocimiento.
 </div>
 
 <div align="center">
-  <table style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 1000px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
       <!-- Título principal combinado -->
       <tr style="background-color: #f6f8fa;">
         <th colspan="4" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
-          Tabla 2.7. Etapa de Evolución y Sentido
+          <strong>Tabla 2.7. Etapa de Evolución y Sentido</strong>
         </th>
       </tr>
     </thead>
