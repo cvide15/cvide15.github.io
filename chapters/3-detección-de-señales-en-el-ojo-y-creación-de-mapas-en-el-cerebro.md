@@ -46,6 +46,7 @@ Premio de 1911 a Allvar Gullstrand "por su trabajo sobre la dióptrica del ojo".
 Premio de 1967a Ragnar Granit, Haldan Keffer Hartline y George Wald "por sus descubrimientos sobre los procesos visuales fisiológicos y químicos primarios en el ojo". 
 
 Premio de 1981 a David H. Hubel y Torsten N. Wiesel en 1981 "por sus descubrimientos sobre el procesamiento de información en el sistema visual". 
+
 <ul>
   <li>Componentes de la visión</li>
   <li>Desarrollo de la Oftalmología
