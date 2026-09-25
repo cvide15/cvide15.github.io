@@ -763,6 +763,7 @@ de la inteligencia colectiva.
       </tr>
       <tr>
         <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+          
           2. Expresar
         </td>
       </tr>
@@ -779,6 +780,7 @@ de la inteligencia colectiva.
           Gestión y Acción
         </td>
         <td style="border-bottom: 2px solid #333333; padding: 8px; text-align: center; vertical-align: middle;">
+         
           3. Decidir
         </td>
       </tr>
