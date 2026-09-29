@@ -68,9 +68,10 @@ style="width:6.1375in;height:3.42569in" />
 
 Describir los experimentos realizados por John O'Keefe, May-Britt Moser y Edvard I. Moser, reconocidos "por sus descubrimientos de células que constituyen un sistema de posicionamiento en el cerebro".  
 
+<ul>
 <li>Premio Nobel de Fisiología o Medicina de 2014 </li>
 <li>Procedimientos experimentales y elaboración del GPS mental</li>
-
+</ul>
 </div>
 
 <img src="../media/ch3/image4.png"
