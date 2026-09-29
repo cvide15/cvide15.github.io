@@ -123,10 +123,13 @@ style="width:6.1375in;height:3.42222in" />
           Estudió la forma en que el ojo refracta y enfoca la luz; para ello, construyó un modelo matemático del ojo humano que le permitió calcular la formación de imágenes, determinar las aberraciones ópticas y comprender el proceso de acomodación visual, mediante el cual el cristalino modifica su curvatura, cambia su poder refractivo y ajusta la convergencia de la luz sobre la retina. Además, inventó instrumentos oftalmológicos como la lámpara de hendidura (slit lamp).
         </p>
       </td>
-      <td style="width: 23%; border: 1px solid black; padding: 0; vertical-align: top;">
-        <img src="../media/ch3/image16.png" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+      <td style="width: 23%; border: 1px solid black; padding: 0; vertical-align: top; position: relative;">
+        <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;">
+          <img src="../media/ch3/image16.png" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+        </div>
       </td>
     </tr>
+    <!-- El resto de las filas se mantiene igual -->
     <tr>
       <td colspan="2" style="border: 1px solid black; padding: 8px; text-align: justify;">
         WORK: “Nuestra visión se basa en que el cristalino del ojo descompone la luz del exterior y la convierte en una imagen en la parte trasera del ojo. A partir de aquí, las células fotosensibles de la retina convierten la luz en impulsos nerviosos que finalmente se transforman en imágenes visuales. Son muy complicados los cálculos del camino que siguen los rayos de luz al atravesar el ojo y de la creación de la imagen porque el cristalino del ojo está formado por diferentes capas que refractan la luz en distintos grados. Además, la lente también cambia de forma. Sin embargo, Allvar Gullstrand logró precisamente eso en la década de 1890 utilizando matemáticas avanzadas.”
