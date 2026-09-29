@@ -17,7 +17,7 @@ style="width:6.1375in;height:3.42222in" />
 <img src="../media/ch3/image10.png"
 style="width:6.1375in;height:3.42222in" />
 
-El receptor (el ojo) es una ventana de observación que consta de: la
+El ojo, receptor que funciona como ventana de observación que consta de: la
 córnea, que es una capa transparente frontal que protege y por
 refracción, enfoca todo lo que entra; la pupila, que es la abertura
 central del iris donde se regula la luz que entra, dilatándose en la
@@ -33,9 +33,7 @@ cerebro.
 <img src="../media/ch3/image11.png"
 style="width:6.1375in;height:3.42222in" />
 
-El transmisor es un canal de comunicación de señales (el nervio óptico)
-está formado por dos tipos de células fotosensibles localizadas en la
-retina: los bastones capaces de ver en condiciones oscuras detectan
+El nervio óptico es el transmisor que funciona como canal de comunicación de señales conformado por dos tipos de células fotosensibles localizadas en la retina: los bastones capaces de ver en condiciones oscuras detectan
 movimientos y perciben formas generales y los conos que si están bien
 iluminados permiten ver detalles finos y percibir colores; hay conos
 sensibles al rojo, al verde y al azul. Cuando la luz llega a los
