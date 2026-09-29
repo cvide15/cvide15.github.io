@@ -123,8 +123,8 @@ style="width:6.1375in;height:3.42222in" />
           Estudió la forma en que el ojo refracta y enfoca la luz; para ello, construyó un modelo matemático del ojo humano que le permitió calcular la formación de imágenes, determinar las aberraciones ópticas y comprender el proceso de acomodación visual, mediante el cual el cristalino modifica su curvatura, cambia su poder refractivo y ajusta la convergencia de la luz sobre la retina. Además, inventó instrumentos oftalmológicos como la lámpara de hendidura (slit lamp).
         </p>
       </td>
-      <td style="width: 23%; border: 1px solid black; padding: 0; text-align: center; vertical-align: top;">
-        <img src="../media/ch3/image16.png" style="width: 100%; height: auto; display: block;" />
+      <td style="width: 23%; border: 1px solid black; padding: 0; vertical-align: top;">
+        <img src="../media/ch3/image16.png" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
       </td>
     </tr>
     <tr>
