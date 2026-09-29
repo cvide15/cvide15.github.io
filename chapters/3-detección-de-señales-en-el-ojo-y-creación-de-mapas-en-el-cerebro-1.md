@@ -176,7 +176,7 @@ style="width:6.1375in;height:3.42222in" />
     </tr>
     <tr>
       <td colspan="2" style="border: 1px solid black; padding: 8px; text-align: justify;">
-        WORK: “Nuestra visión funciona porque la luz del mundo que la rodea es capturada por muchas células sensibles a la luz en la retina, situada en la parte posterior del ojo. Una serie de reconexiones y transformaciones de señales químicas y eléctricas finalmente resultan en impresiones visuales. En estudios sobre el cangrejo herradura alrededor de 1950, Keffer Hartline analizó cómo las señales primarias de las células visuales se procesan en una red de células nerviosas. Entre otras cosas, demostró que cuando una célula es estimulada, las señales de las células circundantes se suprimen. Esto facilita la comprensión del concepto de contrastes.”
+        WORK: “Nuestra visión funciona porque la luz del mundo que la rodea es capturada por muchas células sensibles a la luz en la retina, situada en la parte posterior del ojo. Una serie de reconexiones y transformaciones de señales químicas y eléctricas finalmente resultan en impresiones visuales. Alrededor de 1950, en estudios sobre el cangrejo herradura, Keffer Hartline analizó cómo las señales primarias de las células visuales se procesan en una red de células nerviosas. Entre otras cosas, demostró que cuando una célula es estimulada, las señales de las células circundantes se suprimen. Esto facilita la comprensión del concepto de contrastes.”
       </td>
     </tr>
     <tr>
