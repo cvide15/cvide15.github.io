@@ -93,8 +93,7 @@ descripción, explicación y predicción.
 
 Los procedimientos que se siguen en la navegación cognitiva son:
 Indagación, Entrenamiento, Capacitación o Comprensión y Metacognición.
-Dada la naturaleza reflexiva del cuarto procedimiento, la Metacognición,
-los tres restantes constituyen rutas de interacción cognitiva.
+Los tres primeros procedimientos constituyen rutas de construcción cognitiva, mientras que el cuarto, la Metacognición, es una reflexión acerca de procedimientos y resultados en cuanto a límites, errores y sesgos contextuales.
 
 <img src="../media/ch3/image67.png"
 style="width:6.1375in;height:3.42292in" />
@@ -241,18 +240,8 @@ style="width:6.1375in;height:3.42292in" />
 
 **Funcionamiento de un sistema de comunicación global**
 
-Con anterioridad hemos descrito la transición del GPS mental al
-navegador cognitivo conformado por los procedimientos de Indagación,
-Entrenamiento, Capacitación y Metacognición. Cada procedimiento conforma
-una navegación cognitiva en distintos espacios. En este sentido conviene
-considerar que un sistema de comunicación global como el que se requiere
-para que funcionen los teléfonos celulares funciona como un GPS que con
-apoyos tecnológicos extiende al espacio exterior que rodea a la Tierra
-las posibilidades de localización y orientación del conjunto de las
-células neuronales que operan en el cerebro de un animal de laboratorio.
-Son elementos de una cadena de GPS que funcionan como instrumentos de
-navegación cognitiva que van de la carta astronómica a los mapas
-mentales. Todos estos sistemas tienen la misma estructura cognitiva.
+Con anterioridad hemos descrito la transición del GPS mental al navegador cognitivo conformado por los procedimientos de Indagación, Entrenamiento, Capacitación y Metacognición. Cada procedimiento conforma una navegación cognitiva en distintos espacios. En este contexto conviene considerar que un sistema de comunicación global como el que hace funcionar los teléfonos celulares puede operar como un GPS tecnológico de utilidad para la localización y la orientación de lugares y personal en el cual se desarrollan los mismos procedimientos de navegación del GPS cognitivo. 
+Lo anterior implica que ambos GPS tienen la misma estructura cognitiva: el GPS cognitivo es una herramienta de navegación que funciona en determinadas células neuronales en el cerebro y el GPS tecnológico es una herramienta de navegación que funciona en un sistema que comprende dispositivos tales como satélites, computadoras, radares y celulares. La cuestión es que tales dispositivos cumplen funciones similares a los procedimientos de Indagación, Entrenamiento, Capacitación y Metacognición.
 
 <img src="../media/ch3/image81.png"
 style="width:6.1375in;height:3.42222in" />
@@ -263,23 +252,9 @@ style="width:6.1375in;height:3.42222in" />
 <img src="../media/ch3/image83.png"
 style="width:6.1375in;height:3.42361in" />
 
-El sistema de comunicación global al que nos hemos referido funciona de
-la siguiente manera: un sistema de satélites que rodean la Tierra
-generan señales que indican sus posiciones así como la hora medida en
-sus relojes (esto corresponde a un procedimiento de Indagación); los
-teléfonos móviles de los usuarios que capturan las señales de los
-satélites buscando visualizaciones de lugares y trayectorias (esto
-corresponde a un procedimiento de Entrenamiento), y un sistema de
-radares en la Tierra para la localización y orientación de los
-satélites, así como para el registro de sus órbitas alrededor de la
-Tierra (esto corresponde a un procedimiento de Comprensión).
+El sistema de comunicación global al que nos hemos referido funciona de la siguiente manera: los satélites que rodean la Tierra generan señales que indican sus posiciones así como la hora medida en sus relojes (corresponde a un procedimiento de Indagación); los teléfonos móviles de los usuarios que capturan las señales de los satélites buscan visualizar lugares y trayectorias (corresponde a un procedimiento de Entrenamiento), y un sistema de radares en la Tierra permite la localización y orientación de los satélites, así como el registro de sus órbitas alrededor de la Tierra (corresponde a un procedimiento de Comprensión).
 
-Un cuarto procedimiento de Metacognición implica en este caso tener en
-cuenta dos correcciones relativistas a la frecuencia oscilatoria de los
-relojes atómicos situados dentro de los satélites: una es porque la
-intensidad del campo gravitatorio varía con la altitud y la otra porque
-el reloj se mueve a altas velocidades respecto al observador en la
-Tierra.
+El cuarto procedimiento de Metacognición funciona cuando se tienen en cuenta dos correcciones relativistas a la frecuencia oscilatoria de los relojes atómicos situados dentro de los satélites: una es porque la intensidad del campo gravitatorio varía con la altitud y la otra porque el reloj se mueve a altas velocidades respecto al observador en la Tierra.
 
 <img src="../media/ch3/image84.png"
 style="width:6.1375in;height:3.42361in" />
