@@ -48,12 +48,15 @@ Premio de 1967a Ragnar Granit, Haldan Keffer Hartline y George Wald "por sus des
 Premio de 1981 a David H. Hubel y Torsten N. Wiesel en 1981 "por sus descubrimientos sobre el procesamiento de información en el sistema visual". 
 
 <ul>
-  <li>Componentes de la visión</li>
-  <li>Desarrollo de la Oftalmología
+  <li>Descripción de un instrumento de navegación cognitiva
     <ul style="list-style-type: none;">
-      <li>Premio Nobel de Fisiología o Medicina de 1911</li>
-      <li>Premio Nobel de Fisiología o Medicina de 1967</li>
-      <li>Premio Nobel de Fisiología o Medicina de 1981</li>
+      <li>Procedimiento de Indagación</li>
+      <li>Procedimiento de Entrenamiento</li>
+      <li>Procedimiento de Comprensión (Capacitación)</li>
+      <li>Procedimiento de Metacognición</li></ul>
+  <li>Funcionamiento de un sistema de comunicación global
+    <ul style="list-style-type: none;">
+      <li>Factores que afectan el funcionamiento del GPS</li>
     </ul>
   </li>
 </ul>
