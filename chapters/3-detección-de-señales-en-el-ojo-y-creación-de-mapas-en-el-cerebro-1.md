@@ -45,8 +45,7 @@ nervio óptico es lo que se llama fototransducción.
 <img src="../media/ch3/image12.png"
 style="width:6.1375in;height:3.42222in" />
 
-El intérprete es una pantalla de interpretación de imágenes (el
-cerebro), especialmente en la corteza visual del lóbulo occipital. Es el
+El cerebro es el intérprete que funciona como pantalla de interpretación de imágenes, en particular en la región de la corteza visual en el lóbulo occipital. Es el
 centro coordinador que interpreta formas, reconoce rostros, calcula
 profundidades, detecta movimientos, integra colores, compara recuerdos y
 construye significados. No son copias de la realidad: son construcciones
