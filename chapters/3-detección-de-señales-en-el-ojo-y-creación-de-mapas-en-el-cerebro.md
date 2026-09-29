@@ -47,16 +47,13 @@ Premio de 1967a Ragnar Granit, Haldan Keffer Hartline y George Wald "por sus des
 
 Premio de 1981 a David H. Hubel y Torsten N. Wiesel en 1981 "por sus descubrimientos sobre el procesamiento de información en el sistema visual". 
 
-<ul>
-  <li>Descripción de un instrumento de navegación cognitiva
-    <ul style="list-style-type: none;">
-      <li>Procedimiento de Indagación</li>
-      <li>Procedimiento de Entrenamiento</li>
-      <li>Procedimiento de Comprensión (Capacitación)</li>
-      <li>Procedimiento de Metacognición</li></ul>
-  <li>Funcionamiento de un sistema de comunicación global
-    <ul style="list-style-type: none;">
-      <li>Factores que afectan el funcionamiento del GPS</li>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>Componentes de la visión</li>
+  <li>Desarrollo de la Oftalmología
+    <ul style="list-style-type: none; padding-left: 30px;">
+      <li>Premio Nobel de Fisiología o Medicina de 1911</li>
+      <li>Premio Nobel de Fisiología o Medicina de 1967</li>
+      <li>Premio Nobel de Fisiología o Medicina de 1981</li>
     </ul>
   </li>
 </ul>
@@ -87,7 +84,7 @@ style="width:6.1375in;height:3.42569in" />
 Explicar cómo las funciones de cada una de las células neuronales que constituyen el GPS mental sirven para definir los propósitos de los cuatro procedimientos cognitivos de generación del conocimiento que caracterizan a la navegación cognitiva: Investigación, Formación, Comprensión y Metacognición. Describir en términos de estos procedimientos cognitivos el funcionamiento del sistema de comunicación global que integran satélites, radares, computadoras y teléfonos celulares.
 
 <ul style="list-style-type: none; padding-left: 0;">
-  <li>&#9758; Descripción de un instrumento de navegación cognitiva
+  <li>Descripción de un instrumento de navegación cognitiva
     <ul style="list-style-type: none; padding-left: 30px;">
       <li>Procedimiento de Indagación</li>
       <li>Procedimiento de Entrenamiento</li>
@@ -96,7 +93,7 @@ Explicar cómo las funciones de cada una de las células neuronales que constitu
     </ul>
   </li>
   
-  <li style="margin-top: 10px;">&#9758; Funcionamiento de un sistema de comunicación global
+  <li style="margin-top: 10px;">Funcionamiento de un sistema de comunicación global
     <ul style="list-style-type: none; padding-left: 30px;">
       <li>Factores que afectan el funcionamiento del GPS</li>
     </ul>
