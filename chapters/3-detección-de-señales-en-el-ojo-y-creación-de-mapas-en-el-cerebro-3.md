@@ -264,10 +264,7 @@ style="width:6.1375in;height:3.42361in" />
 <img src="../media/ch3/image85.png"
 style="width:6.1375in;height:3.42361in" />
 
-Lo anterior puede verse desde otra perspectiva: si mapear es aprender,
-entonces navegar es explorar y construir conocimiento. En consecuencia,
-el sistema de comunicación global considerado previamente funciona como
-GPS cognitivo.
+Si mapear es aprender, entonces navegar es explorar y construir conocimiento. El GPS cognitivo que funciona en el cerebro y el GPS tecnológico que opera como sistema de comunicación global son herramientas de navegación que responden a procedimientos cognitivos similares.
 
 <img src="../media/ch3/image86.png"
 style="width:6.1375in;height:3.42222in" />
