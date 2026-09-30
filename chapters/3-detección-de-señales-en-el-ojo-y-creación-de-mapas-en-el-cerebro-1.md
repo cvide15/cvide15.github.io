@@ -114,6 +114,53 @@ style="width:6.1375in;height:3.42222in" />
   </tbody>
 </table>
 
+
+<table style="width: 100%; max-width: 850px; border-collapse: collapse; border: 1.5px solid black; font-family: 'Georgia', 'Times New Roman', serif; color: #222; background-color: #ffffff;">
+  <tbody>
+    <!-- Fila superior: Texto principal e Imagen -->
+    <tr>
+      <td style="width: 76%; border: 1.5px solid black; padding: 16px 20px; vertical-align: top;">
+        <p style="text-align: center; margin: 0 0 16px 0; font-size: 16px;">
+          <strong>Allvar Gullstrand (1862-1930)</strong>
+        </p>
+        <p style="text-align: justify; margin: 0; font-size: 14px; line-height: 1.45;">
+          Estudió la forma en que el ojo refracta y enfoca la luz; para ello, construyó un modelo matemático del ojo humano que le permitió calcular la formación de imágenes, determinar las aberraciones ópticas y comprender el proceso de acomodación visual, mediante el cual el cristalino modifica su curvatura, cambia su poder refractivo y ajusta la convergencia de la luz sobre la retina. Además, inventó instrumentos oftalmológicos como la lámpara de hendidura (slit lamp).
+        </p>
+      </td>
+      <td style="width: 24%; border: 1.5px solid black; padding: 0; vertical-align: top; background-color: #eee;">
+        <img src="../media/ch3/image16.png" alt="Allvar Gullstrand" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+      </td>
+    </tr>
+
+    <!-- Fila central: Cita / WORK -->
+    <tr>
+      <td colspan="2" style="border: 1.5px solid black; padding: 14px 20px; text-align: justify; font-size: 14px; line-height: 1.45;">
+        WORK: “Nuestra visión se basa en que el cristalino del ojo descompone la luz del exterior y la convierte en una imagen en la parte trasera del ojo. A partir de aquí, las células fotosensibles de la retina convierten la luz en impulsos nerviosos que finalmente se transforman en imágenes visuales. Son muy complicados los cálculos del camino que siguen los rayos de luz al atravesar el ojo y de la creación de la imagen porque el cristalino del ojo está formado por diferentes capas que refractan la luz en distintos grados. Además, la lente también cambia de forma. Sin embargo, Allvar Gullstrand logró precisamente eso en la década de 1890 utilizando matemáticas avanzadas.”
+      </td>
+    </tr>
+
+    <!-- Fila inferior 1: Fuentes -->
+    <tr>
+      <td colspan="2" style="border: 1.5px solid black; padding: 12px 20px; font-size: 14px; line-height: 1.4;">
+        <p style="margin: 0 0 6px 0;">Fuentes. Photo: Florman Ateljé. Nobel Foundation archive</p>
+        <p style="margin: 0;">
+          <a href="https://www.nobelprize.org/prizes/medicine/1911/gullstrand/facts/" style="color: #1a0dab; text-decoration: underline;">https://www.nobelprize.org/prizes/medicine/1911/gullstrand/facts/</a>
+        </p>
+      </td>
+    </tr>
+
+    <!-- Fila inferior 2: Nobel Lecture -->
+    <tr>
+      <td colspan="2" style="border: 1.5px solid black; padding: 12px 20px; font-size: 14px; line-height: 1.4;">
+        <p style="margin: 0 0 6px 0;">NOBEL LECTURE: <em>How I Found the Mechanism of Intracapsular Accomodation</em> .</p>
+        <p style="margin: 0;">
+          <a href="https://www.nobelprize.org/prizes/medicine/1911/gullstrand/lecture/" style="color: #1a0dab; text-decoration: underline;">https://www.nobelprize.org/prizes/medicine/1911/gullstrand/lecture/</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <img src="../media/ch3/image17.png"
 style="width:6.1375in;height:3.42222in" />
 
