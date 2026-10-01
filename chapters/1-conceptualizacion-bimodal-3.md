@@ -226,12 +226,14 @@ style="width:6.1375in;height:3.42292in" />
 
 **REFERENCIAS**
 
-Bernal, J. D. (1954). Science in History. En Medical Entomology and Zoology.
+BERNAL, J. D. (1954). *Science in History*. MIT Press.
 
-Durant, A., & Durant, W. (1966). The Story of Civilization. 
+DURANT, W. (1966). *The story of civilization. Vol. 2 The Life of Greece*. Simon and Schuster.
 
-Hellemans, A., & Bunch, B. H. (1988). The Timetables of Science: A Chronology of the Most Important People and Events in the History of Science. 
+HELLEMANS, A. & BUNCH, B. (1988). *The Timetables of SCIENCE. A Chronology of the Most Important People and Events in the History of Science*. Simon and Schuster.
 
-Kline, M. (1972). El pensamiento matemático de la antigüedad a nuestros días. 
+KLEIN, M. (1972). *El pensamiento matemático de la antigüedad a nuestros días*. Alianza Editorial.
 
-Vernant, J. (1963). Géométrie et astronomie sphérique dans la première cosmologie grecque.
+VERNANT, J. (1963). *Géométrie et astronomie sphérique dans la première cosmologie grecque*. La Pensée.
+
+
