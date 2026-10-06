@@ -24,7 +24,7 @@ comprometerse para cumplir con otros paradigmas.
 <img src="../media/ch2/image7.png"
 style="width:6.1375in;height:3.42292in" />
 
-Paul Lévy considera que la inteligencia colectiva surge cuando el
+Pierre Lévy considera que la inteligencia colectiva surge cuando el
 conocimiento está distribuido, las personas se conectan en red, existe
 reconocimiento mutuo y las tecnologías facilitan la colaboración.
 Obtener resultados entre todos que superen la simple suma de
