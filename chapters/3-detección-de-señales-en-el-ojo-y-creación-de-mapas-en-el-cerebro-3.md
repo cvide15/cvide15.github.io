@@ -238,7 +238,7 @@ style="width:6.1375in;height:3.42292in" />
 <img src="../media/ch3/image80.png"
 style="width:6.1375in;height:3.42292in" />
 
-
+<br>
 **Funcionamiento de un sistema de comunicación global**
 
 Con anterioridad hemos descrito la transición del GPS mental al navegador cognitivo conformado por los procedimientos de Indagación, Entrenamiento, Capacitación y Metacognición. Cada procedimiento conforma una navegación cognitiva en distintos espacios. En este contexto conviene considerar que un sistema de comunicación global como el que hace funcionar los teléfonos celulares puede operar como un GPS tecnológico de utilidad para la localización y la orientación de lugares y personal en el cual se desarrollan los mismos procedimientos de navegación del GPS cognitivo. 
