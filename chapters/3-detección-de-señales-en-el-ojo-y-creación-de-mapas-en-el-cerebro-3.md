@@ -237,7 +237,7 @@ style="width:6.1375in;height:3.42292in" />
 
 <img src="../media/ch3/image80.png"
 style="width:6.1375in;height:3.42292in" />
-
+<hr>
 <br>
 
 **Funcionamiento de un sistema de comunicación global**
