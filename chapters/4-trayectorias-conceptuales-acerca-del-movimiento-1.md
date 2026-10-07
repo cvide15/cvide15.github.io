@@ -1,5 +1,4 @@
-## 4.1. Trayectorias conceptuales relacionadas con las condiciones
-iniciales de los autores
+## 4.1. Trayectorias conceptuales relacionadas con las condiciones iniciales de los autores
 
 Esta sección 4.1 se refiere a dos trayectorias del conocimiento
 conectadas con las condiciones iniciales que describen dos
@@ -7,8 +6,7 @@ características de los cuatro físicos considerados: las preguntas que se
 hicieron y las premisas en las cuales confiaron. En la siguiente sección
 4.2 tratamos acerca de las condiciones en la frontera de la disciplina
 que conciernen a la relación teoría – experimento y el papel de las
-matemáticas. Todas las imágenes que acompañan el texto han sido
-generadas por el programa Notebook LM.
+matemáticas.
 
 Para empezar, sin pretender entrar en definiciones de diccionarios o de
 tratados filosóficos, a continuación indicamos qué entenderemos por
