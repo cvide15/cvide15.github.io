@@ -200,39 +200,6 @@ style="width:6.1375in;height:3.42292in" />
 <table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
   <tbody>
     <tr>
-      <td style="width: 74%; border: 1px solid black; padding: 8px; vertical-align: top;">
-        <p style="text-align: center; margin: 0 0 10px 0;"><strong>George Wald (1906 – 1997)</strong></p>
-        <p style="text-align: justify; margin: 0;">
-          Explicó cómo la luz interactúa con moléculas visuales; descubrió los pigmentos visuales que son moléculas fotosensibles que absorben luz y desencadenan cambios químicos que luego producen señales nerviosas. También demostró que la vitamina A es esencial para la visión porque su deficiencia altera la formación de rodopsina y produce ceguera nocturna.
-        </p>
-      </td>
-      <td style="width: 26%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: top;">
-        <img src="../media/ch3/image24.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="border: 1px solid black; padding: 8px; text-align: justify;">
-        WORK: “Nuestra visión funciona porque la luz del mundo que la rodea es capturada por muchas células sensibles a la luz en la retina, situada en la parte posterior del ojo. George Wald descubrió que la vitamina A es un componente importante en la rodopsina, una sustancia fotosensible en la retina, y explicó en una serie de estudios desde los años 30 hasta los 60 cómo la luz hace que la rodopsina cambie de forma y se convierta. Esta conversión da lugar a señales en una compleja red de células nerviosas mediante las cuales se producen varias reconexiones y transformaciones antes de que las señales finalmente se transformen en impresiones visuales en el cerebro.”
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="border: 1px solid black; padding: 8px;">
-        <p style="margin: 0 0 5px 0;">Fuentes: Photo from the Nobel Foundation archive.</p>
-        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1967/wald/facts/">https://www.nobelprize.org/prizes/medicine/1967/wald/facts/</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="border: 1px solid black; padding: 8px;">
-        <p style="margin: 0 0 5px 0;">NOBEL LECTURE: <em>The Molecular Basis of Visual Excitation</em></p>
-        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1967/wald/lecture/">https://www.nobelprize.org/prizes/medicine/1967/wald/lecture/</a></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
-  <tbody>
-    <tr>
       <td style="width: 74%; border: 1px solid black; padding: 8px; vertical-align: middle;">
         <p style="text-align: center; margin: 0 0 10px 0;"><strong>George Wald (1906 – 1997)</strong></p>
         <p style="text-align: justify; margin: 0;">
