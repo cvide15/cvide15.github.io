@@ -4,6 +4,7 @@
 <img src="../media/ch3/image1.png"
 style="width:6.1375in;height:3.19545in" />
 
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 Necesitamos ojos para ver formas y entender significados. Los ojos
 humanos funcionan como ventanas para observar el mundo exterior, canales
 de comunicación para transmitir mensajes y pantallas de interpretación
@@ -31,6 +32,7 @@ sistema de comunicación global integrado por satélites, radares,
 computadoras y teléfonos celulares.
 
 Todas las imágenes de diapositivas incluidas en este capítulo han sido generadas por el Programa NotebookLM a partir de textos elaborados por el autor.
+</div>
 
 <img src="../media/ch3/image2.png"
 style="width:6.1375in;height:3.42569in" />
