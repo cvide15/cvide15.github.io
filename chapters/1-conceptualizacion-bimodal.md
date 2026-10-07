@@ -11,6 +11,7 @@ Existen diferentes tipos de espacios donde lo que se mueve y cambia corresponde 
 
 Proponemos una conceptualización bimodal de estos espacios que opera en términos de dos enfoques o puntos de vista opuestos y con frecuencia conflictivos: el democrático que es válido para todo y todos con el fin de demostrar y ayudar a comprender y el dictatorial que es sólo para algunos cuantos privilegiados con el propósito de que asimilen y transformen. Aplicamos dicha conceptualización bimodal en tres contextos: el comunitario en relación con la Grecia antigua, el cognitivo que trata de matemáticas, química y física, y el individual conectado con la obra de Arquímedes de Siracusa.
 
+Todas las imágenes de diapositivas incluidas en este capítulo han sido generadas por el Programa NotebookLM a partir de textos elaborados por el autor.
 </div>
 
 <img src="../media/ch1/imag1.1.png"
