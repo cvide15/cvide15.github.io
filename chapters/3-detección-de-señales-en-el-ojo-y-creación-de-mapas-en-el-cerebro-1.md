@@ -227,6 +227,39 @@ style="width:6.1375in;height:3.42222in" />
   </tbody>
 </table>
 
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <td style="width: 72%; border: 1px solid black; padding: 8px; vertical-align: middle;">
+        <p style="text-align: center; margin: 0 0 10px 0;"><strong>Haldan Keffer Hartline (1903 – 1983)</strong></p>
+        <p style="text-align: justify; margin: 0;">
+          Mostró que la retina analiza información, compara señales, inhibe respuestas y extrae contrastes visuales. Descubrió los campos receptivos retinales que significan que cada neurona visual responde solamente a estímulos luminosos provenientes de una región específica del campo visual. Además, demostró la existencia de la inhibición lateral según la cual cuando una neurona retinal es estimulada por la luz puede inhibir la actividad de neuronas vecinas.
+        </p>
+      </td>
+      <td style="width: 28%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: middle;">
+        <img src="../media/ch3/image22.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px; text-align: justify; vertical-align: middle;">
+        WORK: “Nuestra visión funciona porque la luz del mundo que la rodea es capturada por muchas células sensibles a la luz en la retina, situada en la parte posterior del ojo. Una serie de reconexiones y transformaciones de señales químicas y eléctricas finalmente resultan en impresiones visuales. Alrededor de 1950, en estudios sobre el cangrejo herradura, Keffer Hartline analizó cómo las señales primarias de las células visuales se procesan en una red de células nerviosas. Entre otras cosas, demostró que cuando una célula es estimulada, las señales de las células circundantes se suprimen. Esto facilita la comprensión del concepto de contrastes.”
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px; vertical-align: middle;">
+        <p style="margin: 0 0 5px 0;">Fuentes: Photo: Rockefeller University. Nobel Foundation archive</p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1967/hartline/facts/">https://www.nobelprize.org/prizes/medicine/1967/hartline/facts/</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px; vertical-align: middle;">
+        <p style="margin: 0 0 5px 0;">NOBEL LECTURE: <em>Visual Receptors and Retinal Interaction</em></p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1967/hartline/lecture/">https://www.nobelprize.org/prizes/medicine/1967/hartline/lecture/</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <img src="../media/ch3/image23.png"
 style="width:6.1375in;height:3.42292in" />
 
@@ -258,6 +291,39 @@ style="width:6.1375in;height:3.42292in" />
       <td colspan="2" style="border: 1px solid black; padding: 8px;">
         <p style="margin: 0 0 5px 0;">NOBEL LECTURE: <em>The Molecular Basis of Visual Excitation</em></p>
         <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1967/wald/lecture/">https://www.nobelprize.org/prizes/medicine/1967/wald/lecture/</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <td style="width: 72%; border: 1px solid black; padding: 8px; vertical-align: middle;">
+        <p style="text-align: center; margin: 0 0 10px 0;"><strong>Haldan Keffer Hartline (1903 – 1983)</strong></p>
+        <p style="text-align: justify; margin: 0;">
+          Mostró que la retina analiza información, compara señales, inhibe respuestas y extrae contrastes visuales. Descubrió los campos receptivos retinales que significan que cada neurona visual responde solamente a estímulos luminosos provenientes de una región específica del campo visual. Además, demostró la existencia de la inhibición lateral según la cual cuando una neurona retinal es estimulada por la luz puede inhibir la actividad de neuronas vecinas.
+        </p>
+      </td>
+      <td style="width: 28%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: middle;">
+        <img src="../media/ch3/image22.png" style="max-width: 100%; height: auto; display: inline-block; vertical-align: middle;" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px; text-align: justify; vertical-align: middle;">
+        WORK: “Nuestra visión funciona porque la luz del mundo que la rodea es capturada por muchas células sensibles a la luz en la retina, situada en la parte posterior del ojo. Una serie de reconexiones y transformaciones de señales químicas y eléctricas finalmente resultan en impresiones visuales. Alrededor de 1950, en estudios sobre el cangrejo herradura, Keffer Hartline analizó cómo las señales primarias de las células visuales se procesan en una red de células nerviosas. Entre otras cosas, demostró que cuando una célula es estimulada, las señales de las células circundantes se suprimen. Esto facilita la comprensión del concepto de contrastes.”
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px; vertical-align: middle;">
+        <p style="margin: 0 0 5px 0;">Fuentes: Photo: Rockefeller University. Nobel Foundation archive</p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1967/hartline/facts/">https://www.nobelprize.org/prizes/medicine/1967/hartline/facts/</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 8px; vertical-align: middle;">
+        <p style="margin: 0 0 5px 0;">NOBEL LECTURE: <em>Visual Receptors and Retinal Interaction</em></p>
+        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1967/hartline/lecture/">https://www.nobelprize.org/prizes/medicine/1967/hartline/lecture/</a></p>
       </td>
     </tr>
   </tbody>
