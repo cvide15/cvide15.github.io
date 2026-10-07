@@ -40,7 +40,8 @@ Programa NotebookLM basadas en fuentes generadas por el autor.
 style="width:6.1375in;height:3.42569in" />
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
-
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+  
 **4.1. Trayectorias conceptuales relacionadas con las condiciones
 iniciales de los autores**
 
@@ -54,9 +55,13 @@ Preguntas fundamentales planteadas
 
 Premisas consideradas válidas
 
+</div>
+
 <img src="../media/ch4/image2.png"
 style="width:6.1375in;height:3.42569in" />
 
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+  
 **4.2. Trayectorias conceptuales relacionadas con las condiciones en la
 frontera de la disciplina**
 
@@ -68,9 +73,13 @@ La relación teoría – experimento
 
 La importancia de las matemáticas
 
+</div>
+
 <img src="../media/ch4/image3.png"
 style="width:6.1375in;height:3.42569in" />
 
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+  
 **4.3. Avance del perihelio de la órbita del planeta Mercurio**
 
 Describir las trayectorias conceptuales recorridas por Newton y por
@@ -82,6 +91,8 @@ planetaria.
 Observación de la anomalía en la órbita de Mercurio
 
 Determinación de la precesión de la órbita
+
+</div>
 
 <img src="../media/ch4/image4.png"
 style="width:6.1375in;height:3.42569in" />
