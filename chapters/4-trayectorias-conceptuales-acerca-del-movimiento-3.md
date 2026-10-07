@@ -1,4 +1,4 @@
-**4.3. Avance del perihelio de la órbita del planeta Mercurio**
+## 4.3. Avance del perihelio de la órbita del planeta Mercurio
 
 <img src="../media/ch4/image61.png"
 style="width:6.1375in;height:3.42431in" />
