@@ -115,34 +115,47 @@ style="width:6.1375in;height:3.42222in" />
 </table>
 
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+<table style="width: 100%; max-width: 750px; border-collapse: collapse; border: 1.5px solid #000000; font-family: 'Georgia', 'Times New Roman', serif; color: #222222; background-color: #ffffff;">
   <tbody>
+    <!-- Fila principal (Texto e Imagen) -->
     <tr>
-      <td style="width: 77%; border: 1px solid black; padding: 8px; vertical-align: top;">
-        <p style="text-align: center; margin: 0 0 10px 0;"><strong>Allvar Gullstrand (1862-1930)</strong></p>
-        <p style="text-align: justify; margin: 0;">
+      <td style="width: 73%; border: 1px solid #000000; padding: 12px 15px; vertical-align: top;">
+        <p style="text-align: center; margin: 0 0 15px 0; font-size: 16px; font-weight: bold; color: #333333;">
+          Allvar Gullstrand (1862-1930)
+        </p>
+        <p style="text-align: justify; margin: 0; font-size: 14.5px; line-height: 1.5;">
           Estudió la forma en que el ojo refracta y enfoca la luz; para ello, construyó un modelo matemático del ojo humano que le permitió calcular la formación de imágenes, determinar las aberraciones ópticas y comprender el proceso de acomodación visual, mediante el cual el cristalino modifica su curvatura, cambia su poder refractivo y ajusta la convergencia de la luz sobre la retina. Además, inventó instrumentos oftalmológicos como la lámpara de hendidura (slit lamp).
         </p>
       </td>
-      <td style="width: 23%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: top;">
-        <img src="../media/ch3/image16.png" style="max-width: 80%; height: auto; display: block; margin: 0 auto;" />
+      <td style="width: 27%; border: 1px solid #000000; padding: 0; text-align: center; vertical-align: top; background-color: #f9f9f9;">
+        <img src="../media/ch3/image16.png" alt="Allvar Gullstrand" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
       </td>
     </tr>
+
+    <!-- Fila de WORK -->
     <tr>
-      <td colspan="2" style="border: 1px solid black; padding: 8px; text-align: justify;">
+      <td colspan="2" style="border: 1px solid #000000; padding: 12px 15px; text-align: justify; font-size: 14.5px; line-height: 1.5;">
         WORK: “Nuestra visión se basa en que el cristalino del ojo descompone la luz del exterior y la convierte en una imagen en la parte trasera del ojo. A partir de aquí, las células fotosensibles de la retina convierten la luz en impulsos nerviosos que finalmente se transforman en imágenes visuales. Son muy complicados los cálculos del camino que siguen los rayos de luz al atravesar el ojo y de la creación de la imagen porque el cristalino del ojo está formado por diferentes capas que refractan la luz en distintos grados. Además, la lente también cambia de forma. Sin embargo, Allvar Gullstrand logró precisamente eso en la década de 1890 utilizando matemáticas avanzadas.”
       </td>
     </tr>
+
+    <!-- Fila de Fuentes -->
     <tr>
-      <td colspan="2" style="border: 1px solid black; padding: 8px;">
-        <p style="margin: 0 0 5px 0;">Fuentes. Photo: Florman Ateljé. Nobel Foundation archive</p>
-        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1911/gullstrand/facts/">https://www.nobelprize.org/prizes/medicine/1911/gullstrand/facts/</a></p>
+      <td colspan="2" style="border: 1px solid #000000; padding: 10px 15px; font-size: 14px; line-height: 1.6;">
+        <p style="margin: 0 0 4px 0; color: #333333;">Fuentes. Photo: Florman Ateljé. Nobel Foundation archive</p>
+        <p style="margin: 0;">
+          <a href="https://www.nobelprize.org/prizes/medicine/1911/gullstrand/facts/" style="color: #1a0dab; text-decoration: underline;">https://www.nobelprize.org/prizes/medicine/1911/gullstrand/facts/</a>
+        </p>
       </td>
     </tr>
+
+    <!-- Fila de Nobel Lecture -->
     <tr>
-      <td colspan="2" style="border: 1px solid black; padding: 8px;">
-        <p style="margin: 0 0 5px 0;">NOBEL LECTURE: <em>How I Found the Mechanism of Intracapsular Accomodation</em> .</p>
-        <p style="margin: 0;"><a href="https://www.nobelprize.org/prizes/medicine/1911/gullstrand/lecture/"><u>https://www.nobelprize.org/prizes/medicine/1911/gullstrand/lecture/</u></a></p>
+      <td colspan="2" style="border: 1px solid #000000; padding: 10px 15px; font-size: 14px; line-height: 1.6;">
+        <p style="margin: 0 0 4px 0; color: #333333;">NOBEL LECTURE: <em>How I Found the Mechanism of Intracapsular Accomodation</em> .</p>
+        <p style="margin: 0;">
+          <a href="https://www.nobelprize.org/prizes/medicine/1911/gullstrand/lecture/" style="color: #1a0dab; text-decoration: underline;">https://www.nobelprize.org/prizes/medicine/1911/gullstrand/lecture/</a>
+        </p>
       </td>
     </tr>
   </tbody>
