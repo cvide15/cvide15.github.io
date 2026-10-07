@@ -207,7 +207,7 @@ style="width:6.1375in;height:3.42292in" />
         </p>
       </td>
       <td style="width: 26%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: middle;">
-        <img src="../media/ch3/image24.png" style="max-width: 100%; height: auto; display: inline-block; vertical-align: middle;" />
+        <img src="../media/ch3/image24.png" style="max-height: 180px; width: auto; max-width: 100%; height: auto; display: inline-block; vertical-align: middle;" />
       </td>
     </tr>
     <tr>
