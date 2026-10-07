@@ -1,5 +1,5 @@
-**4.1. Trayectorias conceptuales relacionadas con las condiciones
-iniciales de los autores**
+## 4.1. Trayectorias conceptuales relacionadas con las condiciones
+iniciales de los autores
 
 Esta sección 4.1 se refiere a dos trayectorias del conocimiento
 conectadas con las condiciones iniciales que describen dos
