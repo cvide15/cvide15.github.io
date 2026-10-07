@@ -19,6 +19,7 @@ Como ejemplo de aplicación práctica, aplicamos la descripción de las regiones
 Todas las imágenes de diapositivas incluidas en este capítulo han sido generadas por el Programa NotebookLM a partir de textos elaborados por el autor.
 </div>
 
+
 <img src="../media/ch2/image2.png"
 style="width:6.1375in;height:3.42569in" />
 
