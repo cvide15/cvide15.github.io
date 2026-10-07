@@ -1,5 +1,4 @@
-**4.2. Trayectorias conceptuales relacionadas con las condiciones en la
-frontera de la disciplina**
+## 4.2. Trayectorias conceptuales relacionadas con las condiciones en la frontera de la disciplina
 
 Esta sección 4.2 se refiere a las trayectorias conceptuales que tienen
 que ver con las condiciones en la frontera de la disciplina, las cuales
