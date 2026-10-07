@@ -1,6 +1,5 @@
----
-title: "Trayectorias conceptuales acerca del movimiento"
----
+
+# Trayectorias conceptuales acerca del movimiento
 
 Este capítulo es una invitación para explorar las trayectorias
 conceptuales recorridas por cuatro científicos: Johannes Kepler, Galileo
