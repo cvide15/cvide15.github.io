@@ -30,6 +30,8 @@ cognitivos pueden aplicarse al espacio tecnológico que conforma el
 sistema de comunicación global integrado por satélites, radares,
 computadoras y teléfonos celulares.
 
+Todas las imágenes de diapositivas incluidas en este capítulo han sido generadas por el Programa NotebookLM a partir de textos elaborados por el autor.
+
 <img src="../media/ch3/image2.png"
 style="width:6.1375in;height:3.42569in" />
 
