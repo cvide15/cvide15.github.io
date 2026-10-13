@@ -20,7 +20,7 @@ book:
   # Add new chapters here as they are written.
   chapters:
     - index.qmd
-    - part: "Volumen  I.Movimiento"
+    - part: "Volumen I. Movimiento"
       chapters:
       
         - chapters/1-conceptualizacion-bimodal.md
@@ -40,6 +40,10 @@ book:
         - chapters/4-trayectorias-conceptuales-acerca-del-movimiento-2.md
         - chapters/4-trayectorias-conceptuales-acerca-del-movimiento-3.md
         - chapters/5-dinámica-ultrarrápida-del-electrón.md
+
+    - part: "Volumen II. Energía
+      chapters:
+
         - chapters/6-energía-tecnología-y-comunicación.md
         - chapters/7-cuantización-de-la-energía-de-radiación-del-cuerpo-negro.md
 
