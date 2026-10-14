@@ -262,61 +262,66 @@ cual se muestra esquemáticamente en la Tabla 4.3.
 <img src="../media/ch4/image23.png"
 style="width:6.1375in;height:3.42431in" />
 
-<table>
-<colgroup>
-<col style="width: 23%" />
-<col style="width: 25%" />
-<col style="width: 26%" />
-<col style="width: 23%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="4">Tabla 4.3. Premisas asumidas como válidas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Kepler</td>
-<td>Galileo</td>
-<td>Newton</td>
-<td>Einstein</td>
-</tr>
-<tr class="even">
-<td><p>El universo posee un orden matemático.</p>
-<p>El Sol ocupa una posición privilegiada.</p>
-<p>Las observaciones precisas tienen prioridad sobre las ideas
-preconcebidas.</p>
-<p>El movimiento celeste tiene causas físicas.</p>
-<p>La naturaleza actúa mediante principios simples y armónicos.</p></td>
-<td><p>La naturaleza posee regularidades matemáticas.</p>
-<p>La observación y el experimento tienen prioridad sobre la opinión de
-los expertos.</p>
-<p>El movimiento puede estudiarse aisladamente.</p>
-<p>El reposo y el movimiento uniforme son estados equivalentes.</p>
-<p>Las mismas leyes físicas valen en la Tierra y en el cielo.</p>
-<p>El conocimiento científico debe construirse a partir de
-mediciones.</p></td>
-<td><p>La naturaleza está gobernada por leyes matemáticas
-universales.</p>
-<p>Las mismas leyes valen en la Tierra y en el cielo.</p>
-<p>El espacio y el tiempo existen objetivamente.</p>
-<p>El movimiento puede describirse en términos de acciones de
-fuerzas.</p>
-<p>Los fenómenos complejos pueden reducirse a principios simples.</p>
-<p>La experimentación y la observación son esenciales.</p></td>
-<td><p>Las leyes físicas deben ser las mismas para todos los
-observadores inerciales.</p>
-<p>La velocidad de la luz es constante.</p>
-<p>El espacio y el tiempo forman una unidad.</p>
-<p>La geometría tiene realidad física.</p>
-<p>La gravitación no es una fuerza ordinaria es una propiedad del
-espacio tiempo.</p>
-<p>La experiencia física debe ser coherente para todos los
-observadores.</p>
-<p>La física debe poseer unidad conceptual.</p></td>
-</tr>
-</tbody>
-</table>
+<!-- TABLA 4.3: PREMISAS ASUMIDAS COMO VÁLIDAS -->
+<div align="center">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 900px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
+    <thead>
+      <!-- TÍTULO PRINCIPAL CON FONDO GRIS Y BORDES DE 2PX -->
+      <tr style="background-color: #eaeff2;">
+        <th colspan="4" style="text-align: center; vertical-align: middle; padding: 10px; font-size: 16px; border: 2px solid #333333;">
+          <strong>Tabla 4.3. Premisas asumidas como válidas</strong>
+        </th>
+      </tr>
+      <!-- CABECERA CIENTÍFICOS CON BORDES DE 2PX -->
+      <tr style="background-color: #ffffff; font-weight: bold;">
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Kepler</th>
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Galileo</th>
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Newton</th>
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Einstein</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <!-- KEPLER -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          El universo posee un orden matemático.<br><br>
+          El Sol ocupa una posición privilegiada.<br><br>
+          Las observaciones precisas tienen prioridad sobre las ideas preconcebidas.<br><br>
+          El movimiento celeste tiene causas físicas.<br><br>
+          La naturaleza actúa mediante principios simples y armónicos.
+        </td>
+        <!-- GALILEO -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          La naturaleza posee regularidades matemáticas.<br><br>
+          La observación y el experimento tienen prioridad sobre la opinión de los expertos.<br><br>
+          El movimiento puede estudiarse aisladamente.<br><br>
+          El reposo y el movimiento uniforme son estados equivalentes.<br><br>
+          Las mismas leyes físicas valen en la Tierra y en el cielo.<br><br>
+          El conocimiento científico debe construirse a partir de mediciones.
+        </td>
+        <!-- NEWTON -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          La naturaleza está gobernada por leyes matemáticas universales.<br><br>
+          Las mismas leyes valen en la Tierra y en el cielo.<br><br>
+          El espacio y el tiempo existen objetivamente.<br><br>
+          El movimiento puede describirse en términos de acciones de fuerzas.<br><br>
+          Los fenómenos complejos pueden reducirse a principios simples.<br><br>
+          La experimentación y la observación son esenciales.
+        </td>
+        <!-- EINSTEIN -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          Las leyes físicas deben ser las mismas para todos los observadores inerciales.<br><br>
+          La velocidad de la luz es constante.<br><br>
+          El espacio y el tiempo forman una unidad.<br><br>
+          La geometría tiene realidad física.<br><br>
+          La gravitación no es una fuerza ordinaria es una propiedad del espacio tiempo.<br><br>
+          La experiencia física debe ser coherente para todos los observadores.<br><br>
+          La física debe poseer unidad conceptual.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 En lo que sigue comentamos algunas consideraciones individuales respecto
 de lo que cada uno pudo haber supuesto.
