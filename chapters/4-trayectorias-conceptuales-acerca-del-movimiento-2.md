@@ -25,51 +25,62 @@ conceptual conectada con la importancia de las matemáticas.
 <img src="../media/ch4/image35.png"
 style="width:6.1375in;height:3.42431in" />
 
-<table>
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 22%" />
-<col style="width: 26%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="4">Tabla 4.4. Relación entre teoría y experimento</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Kepler</td>
-<td>Galileo</td>
-<td>Newton</td>
-<td>Einstein</td>
-</tr>
-<tr class="even">
-<td><p>La teoría debe ajustarse a los hechos observados.</p>
-<p>La observación puede obligar a abandonar ideas tradicionales.</p>
-<p>La teoría debe buscar causas reales.</p>
-<p>Existe una interacción constante entre hipótesis y
-observación.</p></td>
-<td><p>El experimento es el criterio de validez de la teoría.</p>
-<p>La experiencia debe organizarse racionalmente.</p>
-<p>La teoría guía la observación.</p>
-<p>El experimento permite descubrir regularidades ocultas.</p>
-<p>La física debe estudiar fenómenos idealizados.</p></td>
-<td><p>La teoría debe derivarse de fenómenos observables.</p>
-<p>El experimento permite descubrir relaciones universales.</p>
-<p>La teoría organiza y unifica los fenómenos.</p>
-<p>Existe una interacción continua entre observación y deducción.</p>
-<p>El experimento verifica consecuencias matemáticas.</p></td>
-<td><p>La experiencia es el criterio final de validez.</p>
-<p>La teoría guía profundamente la observación.</p>
-<p>Los conceptos físicos son construcciones intelectuales.</p>
-<p>Los experimentos mentales son herramientas fundamentales.</p>
-<p>La teoría debe buscar coherencia y simplicidad.</p>
-<p>El experimento puede obligar a transformar conceptos
-fundamentales.</p></td>
-</tr>
-</tbody>
-</table>
+<!-- TABLA 4.4: RELACIÓN ENTRE TEORÍA Y EXPERIMENTO -->
+<div align="center">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 900px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
+    <thead>
+      <!-- TÍTULO PRINCIPAL CON FONDO GRIS Y BORDES DE 2PX -->
+      <tr style="background-color: #eaeff2;">
+        <th colspan="4" style="text-align: center; vertical-align: middle; padding: 10px; font-size: 16px; border: 2px solid #333333;">
+          <strong>Tabla 4.4. Relación entre teoría y experimento</strong>
+        </th>
+      </tr>
+      <!-- CABECERA CIENTÍFICOS CON BORDES DE 2PX -->
+      <tr style="background-color: #ffffff; font-weight: bold;">
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Kepler</th>
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Galileo</th>
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Newton</th>
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Einstein</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <!-- KEPLER -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          La teoría debe ajustarse a los hechos observados.<br><br>
+          La observación puede obligar a abandonar ideas tradicionales.<br><br>
+          La teoría debe buscar causas reales.<br><br>
+          Existe una interacción constante entre hipótesis y observación.
+        </td>
+        <!-- GALILEO -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          El experimento es el criterio de validez de la teoría.<br><br>
+          La experiencia debe organizarse racionalmente.<br><br>
+          La teoría guía la observación.<br><br>
+          El experimento permite descubrir regularidades ocultas.<br><br>
+          La física debe estudiar fenómenos idealizados.
+        </td>
+        <!-- NEWTON -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          La teoría debe derivarse de fenómenos observables.<br><br>
+          El experimento permite descubrir relaciones universales.<br><br>
+          La teoría organiza y unifica los fenómenos.<br><br>
+          Existe una interacción continua entre observación y deducción.<br><br>
+          El experimento verifica consecuencias matemáticas.
+        </td>
+        <!-- EINSTEIN -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          La experiencia es el criterio final de validez.<br><br>
+          La teoría guía profundamente la observación.<br><br>
+          Los conceptos físicos son construcciones intelectuales.<br><br>
+          Los experimentos mentales son herramientas fundamentales.<br><br>
+          La teoría debe buscar coherencia y simplicidad.<br><br>
+          El experimento puede obligar a transformar conceptos fundamentales.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <img src="../media/ch4/image36.png"
 style="width:6.1375in;height:3.42431in" />
@@ -181,50 +192,63 @@ style="width:6.1375in;height:3.42431in" />
 <img src="../media/ch4/image49.png"
 style="width:6.1375in;height:3.42431in" />
 
-<table>
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 22%" />
-<col style="width: 26%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="4">Tabla 4.5. Papel de las matemáticas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Kepler</td>
-<td>Galileo</td>
-<td>Newton</td>
-<td>Einstein</td>
-</tr>
-<tr class="even">
-<td><p>Las matemáticas revelan la estructura del universo.</p>
-<p>El movimiento planetario obedece leyes matemáticas precisas.</p>
-<p>La geometría permite describir físicamente el cosmos.</p>
-<p>Las matemáticas conectan armonía y causalidad.</p></td>
-<td><p>Las matemáticas permiten descubrir leyes universales.</p>
-<p>El movimiento debe describirse cuantitativamente.</p>
-<p>Las leyes físicas son relaciones matemáticas.</p>
-<p>La geometría describe trayectorias reales.</p>
-<p>Las matemáticas permiten predecir fenómenos.</p></td>
-<td><p>Las matemáticas expresan las leyes de la naturaleza.</p>
-<p>Las matemáticas sirven para describir cambios continuos.</p>
-<p>Las matemáticas permiten deducir consecuencias físicas.</p>
-<p>La geometría y el cálculo describen el espacio físico real.</p>
-<p>Las matemáticas unifican el cielo y la Tierra.</p>
-<p>Las matemáticas permiten alcanzar certeza científica.</p></td>
-<td><p>Las matemáticas ayudan a formular leyes invariantes.</p>
-<p>Las matemáticas revelan estructuras ocultas de la realidad.</p>
-<p>Las matemáticas permiten generalizar principios físicos.</p>
-<p>Las matemáticas unifican fenómenos distintos.</p>
-<p>Las matemáticas sirven para deducir nuevas predicciones físicas.</p>
-<p>La belleza matemática posee valor heurístico.</p></td>
-</tr>
-</tbody>
-</table>
+<!-- TABLA 4.5: PAPEL DE LAS MATEMÁTICAS -->
+<div align="center">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 900px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
+    <thead>
+      <!-- TÍTULO PRINCIPAL CON FONDO GRIS Y BORDES DE 2PX -->
+      <tr style="background-color: #eaeff2;">
+        <th colspan="4" style="text-align: center; vertical-align: middle; padding: 10px; font-size: 16px; border: 2px solid #333333;">
+          <strong>Tabla 4.5. Papel de las matemáticas</strong>
+        </th>
+      </tr>
+      <!-- CABECERA CIENTÍFICOS CON BORDES DE 2PX -->
+      <tr style="background-color: #ffffff; font-weight: bold;">
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Kepler</th>
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Galileo</th>
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Newton</th>
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Einstein</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <!-- KEPLER -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          Las matemáticas revelan la estructura del universo.<br><br>
+          El movimiento planetario obedece leyes matemáticas precisas.<br><br>
+          La geometría permite describir físicamente el cosmos.<br><br>
+          Las matemáticas conectan armonía y causalidad.
+        </td>
+        <!-- GALILEO -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          Las matemáticas permiten descubrir leyes universales.<br><br>
+          El movimiento debe describirse cuantitativamente.<br><br>
+          Las leyes físicas son relaciones matemáticas.<br><br>
+          La geometría describe trayectorias reales.<br><br>
+          Las matemáticas permiten predecir fenómenos.
+        </td>
+        <!-- NEWTON -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          Las matemáticas expresan las leyes de la naturaleza.<br><br>
+          Las matemáticas sirven para describir cambios continuos.<br><br>
+          Las matemáticas permiten deducir consecuencias físicas.<br><br>
+          La geometría y el cálculo describen el espacio físico real.<br><br>
+          Las matemáticas unifican el cielo y la Tierra.<br><br>
+          Las matemáticas permiten alcanzar certeza científica.
+        </td>
+        <!-- EINSTEIN -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          Las matemáticas ayudan a formular leyes invariantes.<br><br>
+          Las matemáticas revelan estructuras ocultas de la realidad.<br><br>
+          Las matemáticas permiten generalizar principios físicos.<br><br>
+          Las matemáticas unifican fenómenos distintos.<br><br>
+          Las matemáticas sirven para deducir nuevas predicciones físicas.<br><br>
+          La belleza matemática posee valor heurístico.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <img src="../media/ch4/image50.png"
 style="width:6.1375in;height:3.42431in" />
