@@ -9,7 +9,7 @@ que conciernen a la relación teoría – experimento y el papel de las
 matemáticas.
 
 Para empezar, sin pretender entrar en definiciones de diccionarios o de
-tratados filosóficos, a continuación indicamos qué entenderemos por
+tratados filosóficos, a continuación, indicamos qué entenderemos por
 conocimiento.
 
 Adquirir y desarrollar conocimientos no consiste en la acumulación de
