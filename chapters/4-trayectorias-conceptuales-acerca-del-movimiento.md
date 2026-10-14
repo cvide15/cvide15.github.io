@@ -104,334 +104,153 @@ style="width:6.1375in;height:3.42569in" />
 <img src="../media/ch4/image5.png"
 style="width:6.1375in;height:3.42431in" />
 
-<table>
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 20%" />
-<col style="width: 19%" />
-<col style="width: 20%" />
-<col style="width: 22%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="5"><blockquote>
-<p>Tabla 4.1. Caracterizaciones de trayectorias conceptuales</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td>Científico</td>
-<td><blockquote>
-<p>Kepler</p>
-</blockquote></td>
-<td><blockquote>
-<p>Galileo</p>
-</blockquote></td>
-<td><blockquote>
-<p>Newton</p>
-</blockquote></td>
-<td><blockquote>
-<p>Einstein</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td colspan="5"><blockquote>
-<p>Según el paradigma vigente</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Enfoque principal</p>
-</blockquote></td>
-<td><blockquote>
-<p>Geometría celeste</p>
-</blockquote></td>
-<td><blockquote>
-<p>Cinemática terrestre</p>
-</blockquote></td>
-<td><blockquote>
-<p>Dinámica universal</p>
-</blockquote></td>
-<td><blockquote>
-<p>Relatividad</p>
-<p>espacio-temporal</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Visión de la gravedad</p>
-</blockquote></td>
-<td><blockquote>
-<p>Influencia magnética solar</p>
-</blockquote></td>
-<td><blockquote>
-<p>Aceleración local constante</p>
-</blockquote></td>
-<td><blockquote>
-<p>Fuerza de atracción a distancia</p>
-</blockquote></td>
-<td><blockquote>
-<p>Curvatura geométrica del espacio tiempo</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Escenario cósmico</p>
-</blockquote></td>
-<td><blockquote>
-<p>Fondo estrellado estático</p>
-</blockquote></td>
-<td><blockquote>
-<p>Marco de</p>
-<p>referencia inercial</p>
-</blockquote></td>
-<td><blockquote>
-<p>Espacio y tiempo absolutos</p>
-</blockquote></td>
-<td><blockquote>
-<p>Tejido dinámico y maleable</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Herramienta clave</p>
-</blockquote></td>
-<td><blockquote>
-<p>Observación y geometría</p>
-</blockquote></td>
-<td><blockquote>
-<p>El experimento mental</p>
-</blockquote></td>
-<td><blockquote>
-<p>El cálculo matemático</p>
-</blockquote></td>
-<td><blockquote>
-<p>Tensores y experimentos</p>
-<p>mentales</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td colspan="5"><blockquote>
-<p>Según la evolución de las premisas</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Metodología</p>
-</blockquote></td>
-<td><blockquote>
-<p>Observación</p>
-<p>empírica e ideas preconcebidas</p>
-</blockquote></td>
-<td><blockquote>
-<p>El experimento es mayor que la autoridad</p>
-</blockquote></td>
-<td><blockquote>
-<p>La</p>
-<p>experimentación es esencial</p>
-</blockquote></td>
-<td><blockquote>
-<p>Coherencia para todo observador inercial</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Matemáticas</p>
-</blockquote></td>
-<td><blockquote>
-<p>Orden armónico inherente</p>
-</blockquote></td>
-<td><blockquote>
-<p>Regularidades medibles</p>
-</blockquote></td>
-<td><blockquote>
-<p>Leyes universales deterministas</p>
-</blockquote></td>
-<td><blockquote>
-<p>Búsqueda de unidad conceptual</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Espacio -Tiempo</p>
-</blockquote></td>
-<td><blockquote>
-<p>Escenario celestial</p>
-</blockquote></td>
-<td><blockquote>
-<p>Escenario físico implícito</p>
-</blockquote></td>
-<td><blockquote>
-<p>Escenario absoluto y objetivo</p>
-</blockquote></td>
-<td><blockquote>
-<p>Tejido unificado e indisoluble</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Dinámica - Gravedad</p>
-</blockquote></td>
-<td><blockquote>
-<p>Las causas físicas mueven a los astros</p>
-</blockquote></td>
-<td><blockquote>
-<p>El reposo es un movimiento uniforme con velocidad nula</p>
-</blockquote></td>
-<td><blockquote>
-<p>El movimiento lo describen las</p>
-<p>acciones de las fuerzas</p>
-</blockquote></td>
-<td><blockquote>
-<p>La gravedad es una manifestación de una geometría física</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td colspan="5"><blockquote>
-<p>Según el diagnóstico epistemológico</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Papel de la teoría</p>
-</blockquote></td>
-<td><blockquote>
-<p>Ajustarse a los hechos</p>
-<p>observados</p>
-</blockquote></td>
-<td><blockquote>
-<p>Guiar la observación hacia la</p>
-<p>idealización</p>
-</blockquote></td>
-<td><blockquote>
-<p>Organizar y unificar</p>
-<p>fenómenos</p>
-</blockquote></td>
-<td><blockquote>
-<p>Construcción</p>
-<p>intelectual en busca de coherencia</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Función del experimento</p>
-</blockquote></td>
-<td><blockquote>
-<p>Obligar a abandonar ideas tradicionales</p>
-</blockquote></td>
-<td><blockquote>
-<p>Criterio de validez</p>
-<p>descubridor de regularidades</p>
-</blockquote></td>
-<td><blockquote>
-<p>Descubrir relaciones y verificar matemáticas</p>
-</blockquote></td>
-<td><blockquote>
-<p>Criterio final transformador de conceptos</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Naturaleza de la observación</p>
-</blockquote></td>
-<td><blockquote>
-<p>Interacción</p>
-<p>constante con la hipótesis</p>
-</blockquote></td>
-<td><blockquote>
-<p>La organización debe ser racional</p>
-</blockquote></td>
-<td><blockquote>
-<p>Interacción</p>
-<p>continua con la deducción</p>
-</blockquote></td>
-<td><blockquote>
-<p>Guía profunda con la teoría</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td colspan="5"><blockquote>
-<p>Según la visión sintética</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Premisas asumidas</p>
-</blockquote></td>
-<td><blockquote>
-<p>Armonía y simetría platónicas</p>
-</blockquote></td>
-<td><blockquote>
-<p>Mecanismos puramente objetivos</p>
-</blockquote></td>
-<td><blockquote>
-<p>Espacio y tiempo absolutos</p>
-</blockquote></td>
-<td><blockquote>
-<p>Equivalencias y dinámica en 4D</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Método de validación</p>
-</blockquote></td>
-<td><blockquote>
-<p>Ajuste visual a datos</p>
-<p>observacionales</p>
-</blockquote></td>
-<td><blockquote>
-<p>Medición</p>
-<p>experimental asintótica</p>
-</blockquote></td>
-<td><blockquote>
-<p>Determinismo y</p>
-<p>ecuaciones analíticas</p>
-</blockquote></td>
-<td><blockquote>
-<p>Revisión empírica y constancia de la</p>
-<p>velocidad de la luz</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Herramientas matemáticas</p>
-</blockquote></td>
-<td><blockquote>
-<p>Geometría y aritmética</p>
-<p>clásicas</p>
-</blockquote></td>
-<td><blockquote>
-<p>Relaciones</p>
-<p>algebraicas</p>
-</blockquote></td>
-<td><blockquote>
-<p>Cálculo diferencial euclidiano</p>
-</blockquote></td>
-<td><blockquote>
-<p>Geometría no</p>
-<p>euclidiana (cuatro dimensiones)</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Logros del sistema</p>
-</blockquote></td>
-<td><blockquote>
-<p>Leyes cinemáticas sin causa física</p>
-</blockquote></td>
-<td><blockquote>
-<p>Ley de la inercia y método</p>
-<p>científico</p>
-</blockquote></td>
-<td><blockquote>
-<p>Unificación de la mecánica con la gravitación</p>
-</blockquote></td>
-<td><blockquote>
-<p>Relatividad y síntesis</p>
-<p>electromecánica</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
+<!-- TABLA 4.1: CARACTERIZACIONES DE TRAYECTORIAS CONCEPTUALES -->
+<div align="center">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 900px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
+    <thead>
+      <!-- TÍTULO PRINCIPAL -->
+      <tr style="background-color: #ffffff;">
+        <th colspan="5" style="text-align: center; vertical-align: middle; padding: 8px; font-size: 16px; border: 1px solid #333333;">
+          <strong>Tabla 4.1. Caracterizaciones de trayectorias conceptuales</strong>
+        </th>
+      </tr>
+      <!-- CABECERA CIENTÍFICOS -->
+      <tr style="background-color: #ffffff; font-weight: bold;">
+        <th style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; width: 20%;">Científico</th>
+        <th style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; width: 20%;">Kepler</th>
+        <th style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; width: 20%;">Galileo</th>
+        <th style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; width: 20%;">Newton</th>
+        <th style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; width: 20%;">Einstein</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- SECCIÓN 1 -->
+      <tr style="background-color: #ffffff; font-weight: bold;">
+        <td colspan="5" style="padding: 6px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Según el paradigma vigente</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Enfoque principal</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Geometría celeste</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Cinemática terrestre</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Dinámica universal</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Relatividad espacio-temporal</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Visión de la gravedad</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Influencia magnética solar</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Aceleración local constante</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Fuerza de atracción a distancia</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Curvatura geométrica del espacio tiempo</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Escenario cósmico</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Fondo estrellado estático</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Marco de referencia inercial</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Espacio y tiempo absolutos</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Tejido dinámico y maleable</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Herramienta clave</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Observación y geometría</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">El experimento mental</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">El cálculo matemático</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Tensores y experimentos mentales</td>
+      </tr>
+
+      <!-- SECCIÓN 2 -->
+      <tr style="background-color: #ffffff; font-weight: bold;">
+        <td colspan="5" style="padding: 6px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Según la evolución de las premisas</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Metodología</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Observación empírica e ideas preconcebidas</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">El experimento es mayor que la autoridad</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">La experimentación es esencial</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Coherencia para todo observador inercial</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Matemáticas</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Orden armónico inherente</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Regularidades medibles</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Leyes universales deterministas</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Búsqueda de unidad conceptual</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Espacio - Tiempo</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Escenario celestial</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Escenario físico implícito</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Escenario absoluto y objetivo</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Tejido unificado e indisoluble</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Dinámica - Gravedad</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Las causas físicas mueven a los astros</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">El reposo es un movimiento uniforme con velocidad nula</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">El movimiento lo describen las acciones de las fuerzas</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">La gravedad es una manifestación de una geometría física</td>
+      </tr>
+
+      <!-- SECCIÓN 3 -->
+      <tr style="background-color: #ffffff; font-weight: bold;">
+        <td colspan="5" style="padding: 6px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Según el diagnóstico epistemológico</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Papel de la teoría</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Ajustarse a los hechos observados</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Guiar la observación hacia la idealización</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Organizar y unificar fenómenos</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Construcción intelectual en busca de coherencia</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Función del experimento</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Obligar a abandonar ideas tradicionales</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Criterio de validez descubridor de regularidades</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Descubrir relaciones y verificar matemáticas</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Criterio final transformador de conceptos</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Naturaleza de la observación</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Interacción constante con la hipótesis</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">La organización debe ser racional</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Interacción continua con la deducción</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Guía profunda con la teoría</td>
+      </tr>
+
+      <!-- SECCIÓN 4 -->
+      <tr style="background-color: #ffffff; font-weight: bold;">
+        <td colspan="5" style="padding: 6px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Según la visión sintética</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Premisas asumidas</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Armonía y simetría platónicas</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Mecanismos puramente objetivos</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Espacio y tiempo absolutos</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Equivalencias y dinámica en 4D</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Método de validación</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Ajuste visual a datos observacionales</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Medición experimental asintótica</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Determinismo y ecuaciones analíticas</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Revisión empírica y constancia de la velocidad de la luz</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Herramientas matemáticas</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Geometría y aritmética clásicas</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Relaciones algebraicas</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Cálculo diferencial euclidiano</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Geometría no euclidiana (cuatro dimensiones)</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle; font-weight: bold;">Logros del sistema</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Leyes cinemáticas sin causa física</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Ley de la inercia y método científico</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Unificación de la mecánica con la gravitación</td>
+        <td style="padding: 8px; border: 1px solid #333333; text-align: center; vertical-align: middle;">Relatividad y síntesis electromecánica</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <img src="../media/ch4/image6.png"
 style="width:6.1375in;height:3.42431in" />
