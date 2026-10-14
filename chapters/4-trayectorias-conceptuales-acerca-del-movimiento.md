@@ -51,11 +51,11 @@ Describir las trayectorias conceptuales acerca del movimiento que se
 conectan con las preguntas que se hicieron Kepler, Galileo, Newton y
 Einstein y las premisas en las cuales confiaron.
 
-Descripción de trayectorias conceptuales
-
-Preguntas fundamentales planteadas
-
-Premisas consideradas válidas
+<ul>
+<li>Descripción de trayectorias conceptuales</li>
+<li>Preguntas fundamentales planteadas</li>
+<li>Premisas consideradas válidas</li>
+</ul>
 
 </div>
 
@@ -71,9 +71,10 @@ Describir las trayectorias conceptuales acerca del movimiento que se
 conectan con las interacciones entre la teoría y el experimento y con el
 uso de las matemáticas.
 
-La relación teoría – experimento
-
-La importancia de las matemáticas
+<ul>
+<li>La relación teoría – experimento</li>
+<li>La importancia de las matemáticas</li>
+</ul>
 
 </div>
 
@@ -90,9 +91,10 @@ de cómo evolucionaron la relación teoría – experimento y la importancia
 de las matemáticas en el proceso de geometrización de la mecánica
 planetaria.
 
-Observación de la anomalía en la órbita de Mercurio
-
-Determinación de la precesión de la órbita
+<ul>
+<li>Observación de la anomalía en la órbita de Mercurio</li>
+<li>Determinación de la precesión de la órbita</li>
+</ul>
 
 </div>
 
