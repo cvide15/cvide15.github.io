@@ -116,53 +116,66 @@ haberse preguntado cada uno de los cuatro científicos respecto del
 movimiento. Es una comparación de cuatro formas diferentes de contestar
 una misma pregunta ¿qué estoy tratando de entender?
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="4">Tabla 4.2. Preguntas fundamentales</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Kepler</td>
-<td>Galileo</td>
-<td>Newton</td>
-<td>Einstein</td>
-</tr>
-<tr class="even">
-<td><p>¿Cuál es la verdadera trayectoria de los planetas?</p>
-<p>¿Por qué los planetas cambian de velocidad?</p>
-<p>¿Qué relación existe entre los planetas?</p>
-<p>¿Qué causa el movimiento planetario?</p>
-<p>¿Cómo conciliar matemáticas y realidad física?</p></td>
-<td><p>¿Cómo caen los cuerpos?</p>
-<p>¿Qué significa que un cuerpo se acelere?</p>
-<p>¿Qué ocurre cuando no actúan obstáculos?</p>
-<p>¿Cómo se combinan los distintos movimientos?</p>
-<p>¿Puede la naturaleza describirse matemáticamente?</p>
-<p>¿Qué papel tiene el experimento en la ciencia?</p></td>
-<td><p>¿Qué causa los cambios de movimiento?</p>
-<p>¿Por qué los planetas permanecen en órbita?</p>
-<p>¿Existe una ley universal de la gravitación?</p>
-<p>¿Cómo se relacionan fuerza, masa y aceleración?</p>
-<p>¿Por qué persiste el movimiento?</p>
-<p>¿Cómo interactúan mutuamente los cuerpos?</p></td>
-<td><p>¿Cómo se ve la luz desde distintos sistemas en movimiento?</p>
-<p>¿Son absolutos el espacio y el tiempo?</p>
-<p>¿Qué permanece invariante en la naturaleza?</p>
-<p>¿Cómo se relacionan masa y energía?</p>
-<p>¿Qué es realmente la gravedad?</p>
-<p>¿Qué ocasiona la caída de los cuerpos?</p>
-<p>¿Puede la geometría describir la gravitación?</p></td>
-</tr>
-</tbody>
-</table>
+<!-- TABLA 4.2: PREGUNTAS FUNDAMENTALES -->
+<div align="center">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 900px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333;">
+    <thead>
+      <!-- TÍTULO PRINCIPAL CON FONDO GRIS Y BORDES DE 2PX -->
+      <tr style="background-color: #eaeff2;">
+        <th colspan="4" style="text-align: center; vertical-align: middle; padding: 10px; font-size: 16px; border: 2px solid #333333;">
+          <strong>Tabla 4.2. Preguntas fundamentales</strong>
+        </th>
+      </tr>
+      <!-- CABECERA CIENTÍFICOS CON BORDES DE 2PX -->
+      <tr style="background-color: #ffffff; font-weight: bold;">
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Kepler</th>
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Galileo</th>
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Newton</th>
+        <th style="padding: 8px; border: 2px solid #333333; text-align: center; vertical-align: middle; width: 25%;">Einstein</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <!-- KEPLER -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          ¿Cuál es la verdadera trayectoria de los planetas?<br><br>
+          ¿Por qué los planetas cambian de velocidad?<br><br>
+          ¿Qué relación existe entre los planetas?<br><br>
+          ¿Qué causa el movimiento planetario?<br><br>
+          ¿Cómo conciliar matemáticas y realidad física?
+        </td>
+        <!-- GALILEO -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          ¿Cómo caen los cuerpos?<br><br>
+          ¿Qué significa que un cuerpo se acelere?<br><br>
+          ¿Qué ocurre cuando no actúan obstáculos?<br><br>
+          ¿Cómo se combinan los distintos movimientos?<br><br>
+          ¿Puede la naturaleza describirse matemáticamente?<br><br>
+          ¿Qué papel tiene el experimento en la ciencia?
+        </td>
+        <!-- NEWTON -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          ¿Qué causa los cambios de movimiento?<br><br>
+          ¿Por qué los planetas permanecen en órbita?<br><br>
+          ¿Existe una ley universal de la gravitación?<br><br>
+          ¿Cómo se relacionan fuerza, masa y aceleración?<br><br>
+          ¿Por qué persiste el movimiento?<br><br>
+          ¿Cómo interactúan mutuamente los cuerpos?
+        </td>
+        <!-- EINSTEIN -->
+        <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
+          ¿Cómo se ve la luz desde distintos sistemas en movimiento?<br><br>
+          ¿Son absolutos el espacio y el tiempo?<br><br>
+          ¿Qué permanece invariante en la naturaleza?<br><br>
+          ¿Cómo se relacionan masa y energía?<br><br>
+          ¿Qué es realmente la gravedad?<br><br>
+          ¿Qué ocasiona la caída de los cuerpos?<br><br>
+          ¿Puede la geometría describir la gravitación?
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 A continuación, presentamos las aportaciones al conocimiento de la
 mecánica clásica de Kepler, Galileo y Newton y después las aportaciones
