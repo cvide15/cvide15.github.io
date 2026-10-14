@@ -1,6 +1,7 @@
 
 # Capítulo 4: Trayectorias conceptuales acerca del movimiento
 
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 Este capítulo es una invitación para explorar las trayectorias
 conceptuales recorridas por cuatro científicos: Johannes Kepler, Galileo
 Galilei, Isaac Newton y Albert Einstein. Las trayectorias en cuestión
@@ -35,6 +36,7 @@ materia en el universo.
 
 Todas las imágenes incluidas en este capítulo han sido generadas por el
 Programa NotebookLM basadas en fuentes generadas por el autor.
+</div>
 
 <img src="../media/ch4/image1.png"
 style="width:6.1375in;height:3.42569in" />
