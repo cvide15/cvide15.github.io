@@ -34,7 +34,7 @@ J. Thomson en 1906 "en reconocimiento a los grandes méritos de sus investigacio
 y experimentales sobre la conducción de la electricidad por gases".
 Conferencia Nobel: *Portadores de la electricidad negativa.*
 
-R. A. Millikan en 1923 "por su trabajo sobre la carga elemental de la
+R. A. Millikan en 1923 "por su trabajo sobre la <a href="https://es.wikipedia.org/wiki/Carga_elemental" title="Carga elemental: Unidad fundamental de carga eléctrica correspondiente a un solo electrón, determinada por Robert Millikan.">carga elemental</a> de la
 electricidad y sobre el efecto fotoeléctrico". Conferencia Nobel*: El
 <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> y la luz-cuantitativo desde el punto de vista experimental.*
 
@@ -196,7 +196,7 @@ La descripción de las contribuciones de Thomson, Millikan, Franck y Hertz compr
 
 <u>Experimentos para descubrir el <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> por Thomson</u>
 
-A partir de 1897 Joseph John Thomson (1856-1940) realizó una secuencia de tres tipos de experimentos: el primero para describir cuándo salía del átomo una partícula cargada desconocida; el segundo para determinar que esas partículas tenían carga eléctrica negativa y el tercero para calcular el valor de su <a href=" https://es.wikipedia.org/wiki/Relación_carga-masa" title="	Relación carga/masa (q/m o e/m): Cociente entre la carga eléctrica y la masa de una partícula, calculado originalmente por J. J. Thomson.">relación carga/masa</a>. 
+A partir de 1897 Joseph John Thomson (1856-1940) realizó una secuencia de tres tipos de experimentos: el primero para describir cuándo salía del átomo una partícula cargada desconocida; el segundo para determinar que esas partículas tenían carga eléctrica negativa y el tercero para calcular el valor de su <a href="https://es.wikipedia.org/wiki/Relación_carga-masa" title="Relación carga/masa (q/m o e/m): Cociente entre la carga eléctrica y la masa de una partícula, calculado originalmente por J. J. Thomson.">relación carga/masa</a>. 
 
 Thomson publicó sus resultados en el artículo titulado *[Cathode Rays](http://web.lemoyne.edu/~GIUNTA/archemc.html#cathoderay) de* la revista *Philosophical Magazine*, 44, 293 (1897). La siguiente Figura 2.1 es una adaptación de la original tomada del artículo de Thomson y describe las regiones de realización de las correspondientes actividades experimentales.
 
@@ -880,7 +880,7 @@ producción del conocimiento.
           Formular la hipótesis: los <a href="https://es.wikipedia.org/wiki/Rayos_catódicos" title="Rayos catódicos: Haces de electrones emitidos en tubos de vacío a baja presión cuando se aplica un potencial eléctrico.">rayos catódicos</a> son partículas con carga negativa.
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
-          Proponer un método inédito que usa gotas de aceite para medir la carga elemental.
+          Proponer un método inédito que usa gotas de aceite para medir la <a href="https://es.wikipedia.org/wiki/Carga_elemental" title="Carga elemental: Unidad fundamental de carga eléctrica correspondiente a un solo electrón, determinada por Robert Millikan.">carga elemental</a>.
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4;">
           Diseñar un experimento para verificar empíricamente la cuantización de la energía atómica.
@@ -1004,7 +1004,7 @@ producción del conocimiento.
           Comparar con otros resultados alternativos y debatir sobre la universalidad del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>.
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          Analizar la estadística, la estimación de errores y la identificación del valor constante de la carga elemental.
+          Analizar la estadística, la estimación de errores y la identificación del valor constante de la <a href="https://es.wikipedia.org/wiki/Carga_elemental" title="Carga elemental: Unidad fundamental de carga eléctrica correspondiente a un solo electrón, determinada por Robert Millikan.">carga elemental</a>.
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
           Verificar la reproducibilidad de máximos y mínimos de la corriente y contrastar con las predicciones teóricas.
