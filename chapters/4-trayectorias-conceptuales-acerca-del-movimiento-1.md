@@ -75,9 +75,6 @@ style="width:6.1375in;height:3.42431in" />
 <img src="../media/ch4/image12.png"
 style="width:6.1375in;height:3.42431in" />
 
-COLOCAR EL SIGUIENTE CUADRO CON LA TRADUCCIÓN .ENCIMA DE LA FRASE EN
-INGLÉS
-
 Las dos primeras secciones de este capítulo tratan de la evolución en
 los conocimientos acerca del movimiento de una cuarteta de científicos
 (Kepler, Galileo, Newton y Einstein) y describen esas evoluciones en
@@ -98,10 +95,7 @@ y los descubrimientos científicos.
 <img src="../media/ch4/image14.png"
 style="width:6.1375in;height:3.42431in" />
 
-Las comparaciones entre las 16 trayectorias analizadas sirven para
-caracterizar la obra de cada científico: Kepler por su mística
-geométrica, Galileo por su rigor empírico, Newton por su determinismo
-dinámico y Einstein por su relatividad estructural.
+Las comparaciones entre todas las trayectorias que habrán de ser analizadas servirán para caracterizar la obra de cada científico: Kepler por su mística geométrica, Galileo por su rigor empírico, Newton por su determinismo dinámico y Einstein por su relatividad estructural.
 
 <img src="../media/ch4/image15.png"
 style="width:6.1375in;height:3.42431in" />
