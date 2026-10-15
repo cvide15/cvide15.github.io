@@ -170,7 +170,7 @@ style="width:6.1375in;height:3.42222in" />
           Mostró que la retina analiza información, compara señales, inhibe respuestas y extrae contrastes visuales. Descubrió los campos receptivos retinales que significan que cada neurona visual responde solamente a estímulos luminosos provenientes de una región específica del campo visual. Además, demostró la existencia de la inhibición lateral según la cual cuando una neurona retinal es estimulada por la luz puede inhibir la actividad de neuronas vecinas.
         </p>
       </td>
-      <td style="width: 28%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: middle;">
+      <td style="max-width: 100%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: middle;">
         <img src="../media/ch3/image22.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
       </td>
     </tr>
