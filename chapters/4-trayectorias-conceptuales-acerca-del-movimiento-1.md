@@ -132,39 +132,39 @@ una misma pregunta ¿qué estoy tratando de entender?
       <tr>
         <!-- KEPLER -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          ¿Cuál es la verdadera trayectoria de los planetas?
-          ¿Por qué los planetas cambian de velocidad?
-          ¿Qué relación existe entre los planetas?
-          ¿Qué causa el movimiento planetario?
-          ¿Cómo conciliar matemáticas y realidad física?
+          ¿Cuál es la verdadera trayectoria de los planetas?<br>
+          ¿Por qué los planetas cambian de velocidad?<br>
+          ¿Qué relación existe entre los planetas?<br>
+          ¿Qué causa el movimiento planetario?<br>
+          ¿Cómo conciliar matemáticas y realidad física?<br>
         </td>
         <!-- GALILEO -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          ¿Cómo caen los cuerpos?<br><br>
-          ¿Qué significa que un cuerpo se acelere?
-          ¿Qué ocurre cuando no actúan obstáculos?
-          ¿Cómo se combinan los distintos movimientos?
-          ¿Puede la naturaleza describirse matemáticamente?
-          ¿Qué papel tiene el experimento en la ciencia?
+          ¿Cómo caen los cuerpos?<br>
+          ¿Qué significa que un cuerpo se acelere?<br>
+          ¿Qué ocurre cuando no actúan obstáculos?<br>
+          ¿Cómo se combinan los distintos movimientos?<br>
+          ¿Puede la naturaleza describirse matemáticamente?<br>
+          ¿Qué papel tiene el experimento en la ciencia?<br>
         </td>
         <!-- NEWTON -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          ¿Qué causa los cambios de movimiento?
-          ¿Por qué los planetas permanecen en órbita?
-          ¿Existe una ley universal de la gravitación?
-          ¿Cómo se relacionan fuerza, masa y aceleración?
-          ¿Por qué persiste el movimiento?
-          ¿Cómo interactúan mutuamente los cuerpos?
+          ¿Qué causa los cambios de movimiento?<br>
+          ¿Por qué los planetas permanecen en órbita?<br>
+          ¿Existe una ley universal de la gravitación?<br>
+          ¿Cómo se relacionan fuerza, masa y aceleración?<br>
+          ¿Por qué persiste el movimiento?<br>
+          ¿Cómo interactúan mutuamente los cuerpos?<br>
         </td>
         <!-- EINSTEIN -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          ¿Cómo se ve la luz desde distintos sistemas en movimiento?<br><br>
-          ¿Son absolutos el espacio y el tiempo?
-          ¿Qué permanece invariante en la naturaleza?
-          ¿Cómo se relacionan masa y energía?
-          ¿Qué es realmente la gravedad?
-          ¿Qué ocasiona la caída de los cuerpos?
-          ¿Puede la geometría describir la gravitación?
+          ¿Cómo se ve la luz desde distintos sistemas en movimiento?<br>
+          ¿Son absolutos el espacio y el tiempo?<br>
+          ¿Qué permanece invariante en la naturaleza?<br>
+          ¿Cómo se relacionan masa y energía?<br>
+          ¿Qué es realmente la gravedad?<br>
+          ¿Qué ocasiona la caída de los cuerpos?<br>
+          ¿Puede la geometría describir la gravitación?<br>
         </td>
       </tr>
     </tbody>
@@ -278,39 +278,39 @@ style="width:6.1375in;height:3.42431in" />
       <tr>
         <!-- KEPLER -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          El universo posee un orden matemático.
-          El Sol ocupa una posición privilegiada.
-          Las observaciones precisas tienen prioridad sobre las ideas preconcebidas.<br><br>
-          El movimiento celeste tiene causas físicas.
-          La naturaleza actúa mediante principios simples y armónicos.
+          El universo posee un orden matemático.<br>
+          El Sol ocupa una posición privilegiada.<br>
+          Las observaciones precisas tienen prioridad sobre las ideas preconcebidas.<br>
+          El movimiento celeste tiene causas físicas.<br>
+          La naturaleza actúa mediante principios simples y armónicos.<br>
         </td>
         <!-- GALILEO -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          La naturaleza posee regularidades matemáticas.
-          La observación y el experimento tienen prioridad sobre la opinión de los expertos.
-          El movimiento puede estudiarse aisladamente.
-          El reposo corresponde a un estado del movimiento uniforme con velocidad nula.
-          En el cielo y en la Tierra se aplican las mismas leyes físicas.
-          El conocimiento científico debe construirse a partir de mediciones.
+          La naturaleza posee regularidades matemáticas.<br>
+          La observación y el experimento tienen prioridad sobre la opinión de los expertos.<br>
+          El movimiento puede estudiarse aisladamente.<br>
+          El reposo corresponde a un estado del movimiento uniforme con velocidad nula.<br>
+          En el cielo y en la Tierra se aplican las mismas leyes físicas.<br>
+          El conocimiento científico debe construirse a partir de mediciones.<br>
         </td>
         <!-- NEWTON -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          La naturaleza está gobernada por leyes matemáticas universales.
-          Las mismas leyes valen en la Tierra y en el cielo.
-          El espacio y el tiempo existen objetivamente.
-          El movimiento puede describirse en términos de acciones de fuerzas.
-          Los fenómenos complejos pueden reducirse a principios simples.
-          La experimentación y la observación son esenciales.
+          La naturaleza está gobernada por leyes matemáticas universales.<br>
+          Las mismas leyes valen en la Tierra y en el cielo.<br>
+          El espacio y el tiempo existen objetivamente.<br>
+          El movimiento puede describirse en términos de acciones de fuerzas.<br>
+          Los fenómenos complejos pueden reducirse a principios simples.<br>
+          La experimentación y la observación son esenciales.<br>
         </td>
         <!-- EINSTEIN -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          Las leyes físicas deben ser las mismas para todos los observadores inerciales.<br><br>
-          La velocidad de la luz es constante.
-          El espacio y el tiempo forman una unidad.
-          La geometría tiene realidad física.
-          La gravitación no es una fuerza ordinaria es una propiedad del espacio tiempo.
-          La experiencia física debe ser coherente para todos los observadores.
-          La física debe poseer unidad conceptual.
+          Las leyes físicas deben ser las mismas para todos los observadores inerciales.<br>
+          La velocidad de la luz es constante.<br>
+          El espacio y el tiempo forman una unidad.<br>
+          La geometría tiene realidad física.<br>
+          La gravitación no es una fuerza ordinaria es una propiedad del espacio tiempo.<br>
+          La experiencia física debe ser coherente para todos los observadores.<br>
+          La física debe poseer unidad conceptual.<br>
         </td>
       </tr>
     </tbody>
