@@ -132,38 +132,38 @@ una misma pregunta ¿qué estoy tratando de entender?
       <tr>
         <!-- KEPLER -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          ¿Cuál es la verdadera trayectoria de los planetas?<br><br>
-          ¿Por qué los planetas cambian de velocidad?<br><br>
-          ¿Qué relación existe entre los planetas?<br><br>
-          ¿Qué causa el movimiento planetario?<br><br>
+          ¿Cuál es la verdadera trayectoria de los planetas?
+          ¿Por qué los planetas cambian de velocidad?
+          ¿Qué relación existe entre los planetas?
+          ¿Qué causa el movimiento planetario?
           ¿Cómo conciliar matemáticas y realidad física?
         </td>
         <!-- GALILEO -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
           ¿Cómo caen los cuerpos?<br><br>
-          ¿Qué significa que un cuerpo se acelere?<br><br>
-          ¿Qué ocurre cuando no actúan obstáculos?<br><br>
-          ¿Cómo se combinan los distintos movimientos?<br><br>
-          ¿Puede la naturaleza describirse matemáticamente?<br><br>
+          ¿Qué significa que un cuerpo se acelere?
+          ¿Qué ocurre cuando no actúan obstáculos?
+          ¿Cómo se combinan los distintos movimientos?
+          ¿Puede la naturaleza describirse matemáticamente?
           ¿Qué papel tiene el experimento en la ciencia?
         </td>
         <!-- NEWTON -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          ¿Qué causa los cambios de movimiento?<br><br>
-          ¿Por qué los planetas permanecen en órbita?<br><br>
-          ¿Existe una ley universal de la gravitación?<br><br>
-          ¿Cómo se relacionan fuerza, masa y aceleración?<br><br>
-          ¿Por qué persiste el movimiento?<br><br>
+          ¿Qué causa los cambios de movimiento?
+          ¿Por qué los planetas permanecen en órbita?
+          ¿Existe una ley universal de la gravitación?
+          ¿Cómo se relacionan fuerza, masa y aceleración?
+          ¿Por qué persiste el movimiento?
           ¿Cómo interactúan mutuamente los cuerpos?
         </td>
         <!-- EINSTEIN -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
           ¿Cómo se ve la luz desde distintos sistemas en movimiento?<br><br>
-          ¿Son absolutos el espacio y el tiempo?<br><br>
-          ¿Qué permanece invariante en la naturaleza?<br><br>
-          ¿Cómo se relacionan masa y energía?<br><br>
-          ¿Qué es realmente la gravedad?<br><br>
-          ¿Qué ocasiona la caída de los cuerpos?<br><br>
+          ¿Son absolutos el espacio y el tiempo?
+          ¿Qué permanece invariante en la naturaleza?
+          ¿Cómo se relacionan masa y energía?
+          ¿Qué es realmente la gravedad?
+          ¿Qué ocasiona la caída de los cuerpos?
           ¿Puede la geometría describir la gravitación?
         </td>
       </tr>
