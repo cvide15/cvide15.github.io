@@ -47,34 +47,34 @@ style="width:6.1375in;height:3.42431in" />
       <tr>
         <!-- KEPLER -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          La teoría debe ajustarse a los hechos observados.<br><br>
-          La observación puede obligar a abandonar ideas tradicionales.<br><br>
-          La teoría debe buscar causas reales.<br><br>
+          La teoría debe ajustarse a los hechos observados.
+          La observación puede obligar a abandonar ideas tradicionales.
+          La teoría debe buscar causas reales.
           Existe una interacción constante entre hipótesis y observación.
         </td>
         <!-- GALILEO -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          El experimento es el criterio de validez de la teoría.<br><br>
-          La experiencia debe organizarse racionalmente.<br><br>
-          La teoría guía la observación.<br><br>
-          El experimento permite descubrir regularidades ocultas.<br><br>
+          El experimento es el criterio de validez de la teoría.
+          La experiencia debe organizarse racionalmente.
+          La teoría guía la observación.
+          El experimento permite descubrir regularidades ocultas.
           La física debe estudiar fenómenos idealizados.
         </td>
         <!-- NEWTON -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          La teoría debe derivarse de fenómenos observables.<br><br>
-          El experimento permite descubrir relaciones universales.<br><br>
-          La teoría organiza y unifica los fenómenos.<br><br>
-          Existe una interacción continua entre observación y deducción.<br><br>
+          La teoría debe derivarse de fenómenos observables.
+          El experimento permite descubrir relaciones universales.
+          La teoría organiza y unifica los fenómenos.
+          Existe una interacción continua entre observación y deducción.
           El experimento verifica consecuencias matemáticas.
         </td>
         <!-- EINSTEIN -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          La experiencia es el criterio final de validez.<br><br>
-          La teoría guía profundamente la observación.<br><br>
-          Los conceptos físicos son construcciones intelectuales.<br><br>
-          Los experimentos mentales son herramientas fundamentales.<br><br>
-          La teoría debe buscar coherencia y simplicidad.<br><br>
+          La experiencia es el criterio final de validez.
+          La teoría guía profundamente la observación.
+          Los conceptos físicos son construcciones intelectuales.
+          Los experimentos mentales son herramientas fundamentales.
+          La teoría debe buscar coherencia y simplicidad.
           El experimento puede obligar a transformar conceptos fundamentales.
         </td>
       </tr>
@@ -214,35 +214,35 @@ style="width:6.1375in;height:3.42431in" />
       <tr>
         <!-- KEPLER -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          Las matemáticas revelan la estructura del universo.<br><br>
-          El movimiento planetario obedece leyes matemáticas precisas.<br><br>
-          La geometría permite describir físicamente el cosmos.<br><br>
+          Las matemáticas revelan la estructura del universo.
+          El movimiento planetario obedece leyes matemáticas precisas.
+          La geometría permite describir físicamente el cosmos.
           Las matemáticas conectan armonía y causalidad.
         </td>
         <!-- GALILEO -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          Las matemáticas permiten descubrir leyes universales.<br><br>
-          El movimiento debe describirse cuantitativamente.<br><br>
-          Las leyes físicas son relaciones matemáticas.<br><br>
-          La geometría describe trayectorias reales.<br><br>
+          Las matemáticas permiten descubrir leyes universales.
+          El movimiento debe describirse cuantitativamente.
+          Las leyes físicas son relaciones matemáticas.
+          La geometría describe trayectorias reales.
           Las matemáticas permiten predecir fenómenos.
         </td>
         <!-- NEWTON -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          Las matemáticas expresan las leyes de la naturaleza.<br><br>
-          Las matemáticas sirven para describir cambios continuos.<br><br>
-          Las matemáticas permiten deducir consecuencias físicas.<br><br>
-          La geometría y el cálculo describen el espacio físico real.<br><br>
-          Las matemáticas unifican el cielo y la Tierra.<br><br>
+          Las matemáticas expresan las leyes de la naturaleza.
+          Las matemáticas sirven para describir cambios continuos.
+          Las matemáticas permiten deducir consecuencias físicas.
+          La geometría y el cálculo describen el espacio físico real.
+          Las matemáticas unifican el cielo y la Tierra.
           Las matemáticas permiten alcanzar certeza científica.
         </td>
         <!-- EINSTEIN -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          Las matemáticas ayudan a formular leyes invariantes.<br><br>
-          Las matemáticas revelan estructuras ocultas de la realidad.<br><br>
-          Las matemáticas permiten generalizar principios físicos.<br><br>
-          Las matemáticas unifican fenómenos distintos.<br><br>
-          Las matemáticas sirven para deducir nuevas predicciones físicas.<br><br>
+          Las matemáticas ayudan a formular leyes invariantes.
+          Las matemáticas revelan estructuras ocultas de la realidad.
+          Las matemáticas permiten generalizar principios físicos.
+          Las matemáticas unifican fenómenos distintos.
+          Las matemáticas sirven para deducir nuevas predicciones físicas.
           La belleza matemática posee valor heurístico.
         </td>
       </tr>
