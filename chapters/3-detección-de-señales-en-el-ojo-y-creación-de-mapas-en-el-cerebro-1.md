@@ -164,7 +164,7 @@ style="width:6.1375in;height:3.42222in" />
 <table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
   <tbody>
     <tr>
-      <td style="width: 52%; border: 1px solid black; padding: 8px; vertical-align: middle;">
+      <td style="width: 82%; border: 1px solid black; padding: 8px; vertical-align: middle;">
         <p style="text-align: center; margin: 0 0 10px 0;"><strong>Haldan Keffer Hartline (1903 – 1983)</strong></p>
         <p style="text-align: justify; margin: 0;">
           Mostró que la retina analiza información, compara señales, inhibe respuestas y extrae contrastes visuales. Descubrió los campos receptivos retinales que significan que cada neurona visual responde solamente a estímulos luminosos provenientes de una región específica del campo visual. Además, demostró la existencia de la inhibición lateral según la cual cuando una neurona retinal es estimulada por la luz puede inhibir la actividad de neuronas vecinas.
