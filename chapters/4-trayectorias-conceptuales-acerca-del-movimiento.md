@@ -84,11 +84,7 @@ style="width:6.1375in;height:3.42569in" />
   
 **4.3. Avance del perihelio de la órbita del planeta Mercurio**
 
-Describir las trayectorias conceptuales recorridas por Newton y por
-Einstein para explicar la órbita de Mercurio, como ejemplo ilustrativo
-de cómo evolucionaron la relación teoría – experimento y la importancia
-de las matemáticas en el proceso de geometrización de la mecánica
-planetaria.
+Describir las trayectorias conceptuales recorridas por Newton y por Einstein para explicar la órbita de Mercurio como ilustración de cómo evolucionaron la relación teoría – experimento y la importancia de las matemáticas en el proceso de geometrización de la mecánica planetaria.
 
 <ul>
 <li>Observación de la anomalía en la órbita de Mercurio</li>
