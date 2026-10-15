@@ -307,7 +307,7 @@ OBRA: “La idea de que la electricidad se transmite por una diminuta
 partícula relacionada con el átomo se propuso por primera vez en la
 década de 1830. En la década de 1890, J.J. Thomson logró estimar su
 magnitud realizando experimentos con partículas cargadas en gases. En
-1897 demostró que los rayos catódicos (radiación emitida cuando se
+1897 demostró que los <a href="https://es.wikipedia.org/wiki/Rayos_catódicos" title="Rayos catódicos: Haces de electrones emitidos en tubos de vacío a baja presión cuando se aplica un potencial eléctrico.">rayos catódicos</a> (radiación emitida cuando se
 aplica un voltaje entre dos placas metálicas dentro de un tubo de vidrio
 lleno de gas a baja presión) están formados por partículas — electrones
 — que conducen electricidad. Thomson también concluyó que los electrones
@@ -862,7 +862,7 @@ producción del conocimiento.
           Escuchar
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          Analizar trabajos europeos previos acerca de descargas eléctricas en gases y rayos catódicos.
+          Analizar trabajos europeos previos acerca de descargas eléctricas en gases y <a href="https://es.wikipedia.org/wiki/Rayos_catódicos" title="Rayos catódicos: Haces de electrones emitidos en tubos de vacío a baja presión cuando se aplica un potencial eléctrico.">rayos catódicos</a>.
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Estudiar investigaciones sobre electrones, ionización y los resultados previos de Thomson.
@@ -878,7 +878,7 @@ producción del conocimiento.
           Expresar
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
-          Formular la hipótesis: los rayos catódicos son partículas con carga negativa.
+          Formular la hipótesis: los <a href="https://es.wikipedia.org/wiki/Rayos_catódicos" title="Rayos catódicos: Haces de electrones emitidos en tubos de vacío a baja presión cuando se aplica un potencial eléctrico.">rayos catódicos</a> son partículas con carga negativa.
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
           Proponer un método inédito que usa gotas de aceite para medir la carga elemental.
@@ -1048,7 +1048,7 @@ compartida del conocimiento.
 
 Los experimentos de J. J. Thomson (1897) demostraron la existencia del
 <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> y determinaron la relación $e/m$; además, establecieron que los
-rayos catódicos son partículas con una relación de carga/masa muy
+<a href="https://es.wikipedia.org/wiki/Rayos_catódicos" title="Rayos catódicos: Haces de electrones emitidos en tubos de vacío a baja presión cuando se aplica un potencial eléctrico.">rayos catódicos</a> son partículas con una relación de carga/masa muy
 superior a la de los iones conocidos.
 
 Los experimentos de Robert A. Millikan (1909–1913) determinaron la carga
