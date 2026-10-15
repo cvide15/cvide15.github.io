@@ -34,8 +34,7 @@ de Mercurio ha servido para demostrar que la estructura geométrica del
 espacio tiempo gobierna el comportamiento físico del movimiento de la
 materia en el universo.
 
-Todas las imágenes incluidas en este capítulo han sido generadas por el
-Programa NotebookLM basadas en fuentes generadas por el autor.
+Todas las diapositivas e infografías incluidas en este capítulo han sido generadas por el Programa NotebookLM a partir de textos elaborados por el autor.
 </div>
 
 <img src="../media/ch4/image1.png"
