@@ -17,7 +17,7 @@ la distancia entre el centro de la elipse y uno de sus focos.
 
 Mercurio es el planeta más cercano al Sol; tarda 88 días terrestres en
 una traslación completa. Por otra parte, su órbita es la más excéntrica
-en todo el sistema planetario solar; tiene un valor medio de
+en todo el sistema planetario solar, el valor medio de la excentricidad es 
 $e = 0.205630\ \ $(el valor más grande entre todos los planetas).
 
 <img src="../media/ch4/image62.png"
