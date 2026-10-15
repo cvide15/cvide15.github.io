@@ -278,38 +278,38 @@ style="width:6.1375in;height:3.42431in" />
       <tr>
         <!-- KEPLER -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          El universo posee un orden matemático.<br><br>
-          El Sol ocupa una posición privilegiada.<br><br>
+          El universo posee un orden matemático.
+          El Sol ocupa una posición privilegiada.
           Las observaciones precisas tienen prioridad sobre las ideas preconcebidas.<br><br>
-          El movimiento celeste tiene causas físicas.<br><br>
+          El movimiento celeste tiene causas físicas.
           La naturaleza actúa mediante principios simples y armónicos.
         </td>
         <!-- GALILEO -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          La naturaleza posee regularidades matemáticas.<br><br>
-          La observación y el experimento tienen prioridad sobre la opinión de los expertos.<br><br>
-          El movimiento puede estudiarse aisladamente.<br><br>
-          El reposo y el movimiento uniforme son estados equivalentes.<br><br>
-          Las mismas leyes físicas valen en la Tierra y en el cielo.<br><br>
+          La naturaleza posee regularidades matemáticas.
+          La observación y el experimento tienen prioridad sobre la opinión de los expertos.
+          El movimiento puede estudiarse aisladamente.
+          El reposo corresponde a un estado del movimiento uniforme con velocidad nula.
+          En el cielo y en la Tierra se aplican las mismas leyes físicas.
           El conocimiento científico debe construirse a partir de mediciones.
         </td>
         <!-- NEWTON -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
-          La naturaleza está gobernada por leyes matemáticas universales.<br><br>
-          Las mismas leyes valen en la Tierra y en el cielo.<br><br>
-          El espacio y el tiempo existen objetivamente.<br><br>
-          El movimiento puede describirse en términos de acciones de fuerzas.<br><br>
-          Los fenómenos complejos pueden reducirse a principios simples.<br><br>
+          La naturaleza está gobernada por leyes matemáticas universales.
+          Las mismas leyes valen en la Tierra y en el cielo.
+          El espacio y el tiempo existen objetivamente.
+          El movimiento puede describirse en términos de acciones de fuerzas.
+          Los fenómenos complejos pueden reducirse a principios simples.
           La experimentación y la observación son esenciales.
         </td>
         <!-- EINSTEIN -->
         <td style="padding: 10px; border: 2px solid #333333; text-align: center; vertical-align: middle; line-height: 1.5;">
           Las leyes físicas deben ser las mismas para todos los observadores inerciales.<br><br>
-          La velocidad de la luz es constante.<br><br>
-          El espacio y el tiempo forman una unidad.<br><br>
-          La geometría tiene realidad física.<br><br>
-          La gravitación no es una fuerza ordinaria es una propiedad del espacio tiempo.<br><br>
-          La experiencia física debe ser coherente para todos los observadores.<br><br>
+          La velocidad de la luz es constante.
+          El espacio y el tiempo forman una unidad.
+          La geometría tiene realidad física.
+          La gravitación no es una fuerza ordinaria es una propiedad del espacio tiempo.
+          La experiencia física debe ser coherente para todos los observadores.
           La física debe poseer unidad conceptual.
         </td>
       </tr>
