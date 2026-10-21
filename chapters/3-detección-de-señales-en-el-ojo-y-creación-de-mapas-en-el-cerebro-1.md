@@ -128,13 +128,13 @@ style="width:6.1375in;height:3.42222in" />
 <table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
   <tbody>
     <tr>
-      <td style="width: 75%; border: 1px solid black; padding: 8px; vertical-align: middle;">
+      <td style="width: 77%; border: 1px solid black; padding: 8px; vertical-align: middle;">
         <p style="text-align: center; margin: 0 0 10px 0;"><strong>Ragnar Granit (1900-1991)</strong></p>
         <p style="text-align: justify; margin: 0;">
           Desarrolló la electrofisiología de la retina y por medio microelectrodos muy sensibles registró impulsos nerviosos, señales eléctricas retinales y respuestas del nervio óptico ante la luz. Demostró experimentalmente que existen distintos tipos de conos retinales especializados en diferentes longitudes de onda y que la retina no sólo transmite señales excitatorias, sino también señales inhibitorias. Además, contribuyó al desarrollo de nuevas técnicas de registro eléctrico mediante microelectrodos.
         </p>
       </td>
-      <td style="width: 25%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: middle;">
+      <td style="width: 23%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: middle;">
         <img src="../media/ch3/image20.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
       </td>
     </tr>
@@ -164,13 +164,13 @@ style="width:6.1375in;height:3.42222in" />
 <table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
   <tbody>
     <tr>
-      <td style="width: 82%; border: 1px solid black; padding: 8px; vertical-align: middle;">
+      <td style="width: 77%; border: 1px solid black; padding: 8px; vertical-align: middle;">
         <p style="text-align: center; margin: 0 0 10px 0;"><strong>Haldan Keffer Hartline (1903 – 1983)</strong></p>
         <p style="text-align: justify; margin: 0;">
           Mostró que la retina analiza información, compara señales, inhibe respuestas y extrae contrastes visuales. Descubrió los campos receptivos retinales que significan que cada neurona visual responde solamente a estímulos luminosos provenientes de una región específica del campo visual. Además, demostró la existencia de la inhibición lateral según la cual cuando una neurona retinal es estimulada por la luz puede inhibir la actividad de neuronas vecinas.
         </p>
       </td>
-      <td style="max-width: 100%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: middle;">
+      <td style="max-width: 23%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: middle;">
         <img src="../media/ch3/image22.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
       </td>
     </tr>
