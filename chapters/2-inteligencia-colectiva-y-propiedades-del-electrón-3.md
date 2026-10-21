@@ -486,7 +486,7 @@ bien porque dicha cuantización es un requisito teórico para explicar la
 existencia de espectros que manifiestan una propiedad cuantizada de los
 electrones.
 
-En 1914 James Franck (1882-1964) junto con Gustav Ludwig Hertz (1887-1975)
+En 1914 <a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a> (1882-1964) junto con Gustav Ludwig Hertz (1887-1975)
 proporcionaron pruebas experimentales de la existencia de niveles de
 energía electrónica estacionarios, sin considerar ninguna radiación
 incidente como causa del comportamiento cuantizado de los niveles
@@ -579,10 +579,10 @@ corresponde justamente al valor de 2.536 x 10<sup>-10</sup> m = 2.536 Å.
 
 **PREMIO NOBEL DE FÍSICA DE 1925**
 
-**James Franck**
+**<a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a>**
 
 OBRA: “Tras la publicación de la teoría de Niels Bohr sobre la
-estructura del átomo, James Franck y Gustav Hertz realizaron un
+estructura del átomo, <a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a> y Gustav Hertz realizaron un
 experimento en 1913 para verificarla. Se aplicó una diferencia de
 potencial a un tubo que contenía un gas a baja presión. Cuando aumentaba
 la diferencia de potencial, la corriente que circulaba por el tubo
@@ -618,7 +618,7 @@ style="width:5.90556in;height:3.4359in" />
 **Gustav Ludwig Hertz**
 
 OBRA: “Tras la publicación de la teoría de Niels Bohr sobre la
-estructura del átomo, Gustav Hertz y James Franck realizaron un
+estructura del átomo, Gustav Hertz y <a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a> realizaron un
 experimento en 1913 para verificarla. Se aplicó una diferencia de
 potencial a un tubo que contenía un gas a baja presión. Cuando aumentaba
 la diferencia de potencial, la corriente que circulaba por el tubo
@@ -1054,7 +1054,7 @@ Los experimentos de Robert A. Millikan (1909–1913) determinaron la carga
 elemental $e$. El utilizar este valor en la relación de $e/m\ $obtenida por
 Thomson permitió calcular con precisión la masa del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>.
 
-Los experimentos de James Franck y Gustav Hertz (1914) mostraron
+Los experimentos de <a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a> y Gustav Hertz (1914) mostraron
 directamente que los átomos absorben energía en cantidades discretas,
 proporcionando una confirmación decisiva del modelo de niveles de
 energía estacionarios propuesto por Bohr.
