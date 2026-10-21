@@ -22,7 +22,7 @@ revolucionarios acerca del <a href="https://es.wikipedia.org/wiki/Electrón" tit
 Thomson (1856-1940), la determinación de su carga eléctrica elemental
 por <a href="https://es.wikipedia.org/wiki/Robert_Andrews_Millikan" title="Robert Andrews Millikan: Físico estadounidense (Premio Nobel 1923) que midió la carga elemental con el experimento de la gota de aceite y comprobó el efecto fotoeléctrico.">Robert Andrews Millikan</a> (1868-1953) y la demostración de la
 existencia de niveles electrónicos de energía cuantizada por James
-Franck (1882-1964) y Gustav Ludwig Hertz (1987-1975).
+Franck (1882-1964) y <a href="https://es.wikipedia.org/wiki/Gustav_Hertz" title="Gustav Ludwig Hertz: Físico alemán (Premio Nobel 1925) coautor del experimento de impacto electrónico que confirmó el modelo atómico de Bohr.">Gustav Ludwig Hertz</a> (1987-1975).
 
 En lo que sigue, indicamos el año en que se concedió el Premio Nobel, la
 razón por la cual el Comité Nobel de Física les otorgó tales
@@ -486,7 +486,7 @@ bien porque dicha cuantización es un requisito teórico para explicar la
 existencia de espectros que manifiestan una propiedad cuantizada de los
 electrones.
 
-En 1914 <a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a> (1882-1964) junto con Gustav Ludwig Hertz (1887-1975)
+En 1914 <a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a> (1882-1964) junto con <a href="https://es.wikipedia.org/wiki/Gustav_Hertz" title="Gustav Ludwig Hertz: Físico alemán (Premio Nobel 1925) coautor del experimento de impacto electrónico que confirmó el modelo atómico de Bohr.">Gustav Ludwig Hertz</a> (1887-1975)
 proporcionaron pruebas experimentales de la existencia de niveles de
 energía electrónica estacionarios, sin considerar ninguna radiación
 incidente como causa del comportamiento cuantizado de los niveles
@@ -615,7 +615,7 @@ style="width:5.90556in;height:3.47436in" />
 <img src="../media/ch2/image71.png"
 style="width:5.90556in;height:3.4359in" />
 
-**Gustav Ludwig Hertz**
+**<a href="https://es.wikipedia.org/wiki/Gustav_Hertz" title="Gustav Ludwig Hertz: Físico alemán (Premio Nobel 1925) coautor del experimento de impacto electrónico que confirmó el modelo atómico de Bohr.">Gustav Ludwig Hertz</a>**
 
 OBRA: “Tras la publicación de la teoría de Niels Bohr sobre la
 estructura del átomo, Gustav Hertz y <a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a> realizaron un
