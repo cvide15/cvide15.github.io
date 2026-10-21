@@ -540,7 +540,7 @@ reciben energía adicional. Franck y Hertz lograron este efecto generando
 <a href="https://es.wikipedia.org/wiki/Choque_inelástico" title="Colisión inelástica: Choque en el que parte de la energía cinética incidente se transforma en energía de excitación interna de los átomos.">colisiones inelásticas</a> entre dos tipos de electrones: los electrones
 externos producidos por el filamento FC que han sido acelerados por el
 potencial V y los electrones internos pertenecientes a los átomos de
-mercurio contenidos dentro del tríodo. El experimento consistió en
+mercurio contenidos dentro del <a href="https://es.wikipedia.org/wiki/Triodo" title="Tríodo: Válvula de vacío que incluye un cátodo, una rejilla de control y un ánodo para manipular y regular el paso de corriente de electrones.">tríodo</a>. El experimento consistió en
 cambiar el voltaje de aceleración (V) y luego medir en el <a href="https://es.wikipedia.org/wiki/Galvanómetro" title="Galvanómetro: Instrumento de medición electromecánico de alta sensibilidad empleado para detectar corriente eléctrica débil en circuitos.">galvanómetro</a>
 (GALV) la intensidad de la corriente (I) producida por los electrones
 generados en FC que llegan al ánodo AC (Figura 2.4b).
