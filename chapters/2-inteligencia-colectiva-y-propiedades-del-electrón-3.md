@@ -177,7 +177,7 @@ style="width:5.90405in;height:3.39103in" />
 
 El término <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> proviene del griego ἤλεκτρον (ēlektron), que significa <a href="https://es.wikipedia.org/wiki/Ámbar" title="Ámbar: Resina fósil cuyo nombre en griego dio origen histórico al término electrón debido a sus propiedades electrostáticas al frotarse.">ámbar</a>. Durante siglos, el término *ēlektron* se usó para
 describir fenómenos eléctricos, pero fue hasta 1891 cuando el físico
-George Johnstone Stoney (1826 - 1911) propuso el nombre “<a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>” para
+<a href="https://es.wikipedia.org/wiki/George_Johnstone_Stoney" title="George Johnstone Stoney: Físico que propuso en 1891 el nombre electrón para la unidad fundamental de carga.">George Johnstone Stoney</a> (1826 - 1911) propuso el nombre “<a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>” para
 referirse a la unidad fundamental de carga eléctrica. Tres experimentos
 pioneros permitieron obtener los conocimientos básicos de sus
 principales características: su descubrimiento como partícula elemental
