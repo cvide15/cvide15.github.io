@@ -481,7 +481,7 @@ producido transiciones entre niveles electrónicos discretos. Al
 respecto, a principios del siglo pasado se presentaba la siguiente
 cuestión: tales líneas espectrales existen porque los niveles
 electrónicos están cuantizados y se observan transiciones que
-corresponden efectivamente a la emisión o a la absorción de fotones, o
+corresponden efectivamente a la emisión o a la absorción de <a href="https://es.wikipedia.org/wiki/Fotón" title="Fotón: Cuanto discreto de energía de la radiación electromagnética.">fotones</a>, o
 bien porque dicha cuantización es un requisito teórico para explicar la
 existencia de espectros que manifiestan una propiedad cuantizada de los
 electrones.
@@ -573,7 +573,7 @@ observaciones pueden interpretarse de la siguiente manera:
 Es interesante señalar que en el átomo de mercurio la diferencia entre
 el nivel de energía más bajo y el primer nivel de energía excitada
 corresponde a una <a href="https://es.wikipedia.org/wiki/Línea_espectral" title="Línea espectral: Fenómeno de absorción o emisión de luz en longitudes de onda específicas que revela la estructura de los niveles de energía atómicos.">línea espectral</a> cuya longitud de onda es λ = 2536 Å.
-Se sabe que para los fotones *E = hν = hc/λ*, si ahora hacemos *E = qVc*
+Se sabe que para los <a href="https://es.wikipedia.org/wiki/Fotón" title="Fotón: Cuanto discreto de energía de la radiación electromagnética.">fotones</a> *E = hν = hc/λ*, si ahora hacemos *E = qVc*
 donde *q* es la carga del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>, se obtiene *λ = (hc)/(qVc*) que
 corresponde justamente al valor de 2.536 x 10<sup>-10</sup> m = 2.536 Å.
 
