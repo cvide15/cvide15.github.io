@@ -527,11 +527,11 @@ provocando múltiples colisiones con otros electrones pertenecientes a
 los átomos de mercurio. Además, un pequeño potencial de retardación (VR)
 se aplica entre G y AC.
 
-Las regiones de <u>Detección y Medición</u> comprenden un galvanómetro
+Las regiones de <u>Detección y Medición</u> comprenden un <a href="https://es.wikipedia.org/wiki/Galvanómetro" title="Galvanómetro: Instrumento de medición electromecánico de alta sensibilidad empleado para detectar corriente eléctrica débil en circuitos.">galvanómetro</a>
 externo (GALV) para registrar las variaciones de la intensidad de la
 corriente I generada por aquellos electrones que llegan a AC tras
 colisionar con los electrones dentro de los átomos. Para ser detectados
-por el galvanómetro, los electrones excitados deben tener una energía
+por el <a href="https://es.wikipedia.org/wiki/Galvanómetro" title="Galvanómetro: Instrumento de medición electromecánico de alta sensibilidad empleado para detectar corriente eléctrica débil en circuitos.">galvanómetro</a>, los electrones excitados deben tener una energía
 cinética superior a VR.
 
 En condiciones normales, los electrones de un átomo se encuentran en su
@@ -541,7 +541,7 @@ reciben energía adicional. Franck y Hertz lograron este efecto generando
 externos producidos por el filamento FC que han sido acelerados por el
 potencial V y los electrones internos pertenecientes a los átomos de
 mercurio contenidos dentro del tríodo. El experimento consistió en
-cambiar el voltaje de aceleración (V) y luego medir en el galvanómetro
+cambiar el voltaje de aceleración (V) y luego medir en el <a href="https://es.wikipedia.org/wiki/Galvanómetro" title="Galvanómetro: Instrumento de medición electromecánico de alta sensibilidad empleado para detectar corriente eléctrica débil en circuitos.">galvanómetro</a>
 (GALV) la intensidad de la corriente (I) producida por los electrones
 generados en FC que llegan al ánodo AC (Figura 2.4b).
 
