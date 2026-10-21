@@ -537,7 +537,7 @@ cinética superior a VR.
 En condiciones normales, los electrones de un átomo se encuentran en su
 estado de energía más bajo; alcanzan un nivel de energía más alto cuando
 reciben energía adicional. Franck y Hertz lograron este efecto generando
-colisiones inelásticas entre dos tipos de electrones: los electrones
+<a href="https://es.wikipedia.org/wiki/Choque_inelástico" title="Colisión inelástica: Choque en el que parte de la energía cinética incidente se transforma en energía de excitación interna de los átomos.">colisiones inelásticas</a> entre dos tipos de electrones: los electrones
 externos producidos por el filamento FC que han sido acelerados por el
 potencial V y los electrones internos pertenecientes a los átomos de
 mercurio contenidos dentro del tríodo. El experimento consistió en
