@@ -581,7 +581,7 @@ corresponde justamente al valor de 2.536 x 10<sup>-10</sup> m = 2.536 Å.
 
 **<a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a>**
 
-OBRA: “Tras la publicación de la teoría de Niels Bohr sobre la
+OBRA: “Tras la publicación de la teoría de <a href="https://es.wikipedia.org/wiki/Niels_Bohr" title="Niels Bohr: Físico danés creador del modelo atómico cuantizado basado en órbitas discretas para los electrones.">Niels Bohr</a> sobre la
 estructura del átomo, <a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a> y Gustav Hertz realizaron un
 experimento en 1913 para verificarla. Se aplicó una diferencia de
 potencial a un tubo que contenía un gas a baja presión. Cuando aumentaba
@@ -617,7 +617,7 @@ style="width:5.90556in;height:3.4359in" />
 
 **<a href="https://es.wikipedia.org/wiki/Gustav_Hertz" title="Gustav Ludwig Hertz: Físico alemán (Premio Nobel 1925) coautor del experimento de impacto electrónico que confirmó el modelo atómico de Bohr.">Gustav Ludwig Hertz</a>**
 
-OBRA: “Tras la publicación de la teoría de Niels Bohr sobre la
+OBRA: “Tras la publicación de la teoría de <a href="https://es.wikipedia.org/wiki/Niels_Bohr" title="Niels Bohr: Físico danés creador del modelo atómico cuantizado basado en órbitas discretas para los electrones.">Niels Bohr</a> sobre la
 estructura del átomo, Gustav Hertz y <a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a> realizaron un
 experimento en 1913 para verificarla. Se aplicó una diferencia de
 potencial a un tubo que contenía un gas a baja presión. Cuando aumentaba
