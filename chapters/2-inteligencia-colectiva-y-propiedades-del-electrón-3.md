@@ -40,7 +40,7 @@ electricidad y sobre el <a href="https://es.wikipedia.org/wiki/Efecto_fotoeléct
 
 J. Franck y G.L. Hertz en 1925 "por su descubrimiento de las leyes que
 rigen el impacto de un <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> sobre un átomo". Conferencia Nobel de
-Franck*: Transformación de la energía cinética de electrones libres en
+Franck*: Transformación de la <a href="https://es.wikipedia.org/wiki/Energía_cinética" title="Energía cinética: Energía asociada al movimiento de una partícula u objeto masivo.">energía cinética</a> de electrones libres en
 energía de excitación de átomos por impactos.* Conferencia Nobel de
 Hertz*: Los resultados de las pruebas de impacto electrónico a la luz de
 la teoría de los átomos de Bohr.*
@@ -392,7 +392,7 @@ arrastre viscosa (*F<sub>viscosidad</sub>*) producida por la fricción
 con el aire dentro de la cámara, y la fuerza eléctrica *F<sub>campo
 eléctrico</sub> = qE* ejercida por el campo externo *E*.
 
-Según la <a href="https://es.wikipedia.org/wiki/Ley_de_Stokes" title="9.	Ley de Stokes: Ecuación que calcula la fuerza de arrastre o fricción viscosa ejercida sobre un cuerpo esférico en un fluido.">ley de Stokes</a>, la fuerza de fricción del fluido corresponde a
+Según la <a href="https://es.wikipedia.org/wiki/Ley_de_Stokes" title="Ley de Stokes: Ecuación que calcula la fuerza de arrastre o fricción viscosa ejercida sobre un cuerpo esférico en un fluido.">ley de Stokes</a>, la fuerza de fricción del fluido corresponde a
 *F<sub>viscosidad</sub> = κηv<sub>t</sub>*, donde: *v<sub>t </sub>*es la
 velocidad terminal, *η* es la viscosidad del aire, κ = 6πr es un
 coeficiente de resistencia y *r* es la radio de una gota esférica*.* En
@@ -554,7 +554,7 @@ voltios, se observa la misma disminución abrupta de la corriente. Estas
 observaciones pueden interpretarse de la siguiente manera:
 
 - Cuando V \< Vc = 4.9 volts, los electrones acelerados que salen de FC
-  tienen baja energía cinética y sus colisiones con los átomos de
+  tienen baja <a href="https://es.wikipedia.org/wiki/Energía_cinética" title="Energía cinética: Energía asociada al movimiento de una partícula u objeto masivo.">energía cinética</a> y sus colisiones con los átomos de
   mercurio son elásticas porque la masa del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> es mucho menor que
   la del átomo y el <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> incidente rebota sin ceder energía a los
   electrones del átomo.
@@ -597,7 +597,7 @@ James Franck – Hechos. NobelPrize.org. Alcance del Premio Nobel AB 2023.
 Jueves 2 de marzo de 2023.
 <https://www.nobelprize.org/prizes/physics/1925/franck/facts/>
 
-### *Conferencia Nobel*: Transformación de la energía cinética de electrones libres en energía de excitación de átomos por impactos.
+### *Conferencia Nobel*: Transformación de la <a href="https://es.wikipedia.org/wiki/Energía_cinética" title="Energía cinética: Energía asociada al movimiento de una partícula u objeto masivo.">energía cinética</a> de electrones libres en energía de excitación de átomos por impactos.
 
 James Franck – Conferencia Nobel. NobelPrize.org. Alcance del Premio
 Nobel AB 2023. Viernes 3 de marzo de 2023.
