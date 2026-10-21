@@ -200,13 +200,13 @@ style="width:6.1375in;height:3.42292in" />
 <table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
   <tbody>
     <tr>
-      <td style="width: 65%; border: 1px solid black; padding: 8px; vertical-align: middle;">
+      <td style="width: 77%; border: 1px solid black; padding: 8px; vertical-align: middle;">
         <p style="text-align: center; margin: 0 0 10px 0;"><strong>George Wald (1906 – 1997)</strong></p>
         <p style="text-align: justify; margin: 0;">
           Explicó cómo la luz interactúa con moléculas visuales; descubrió los pigmentos visuales que son moléculas fotosensibles que absorben luz y desencadenan cambios químicos que luego producen señales nerviosas. También demostró que la vitamina A es esencial para la visión porque su deficiencia altera la formación de rodopsina y produce ceguera nocturna.
         </p>
       </td>
-      <td style="width: 55%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: middle;">
+      <td style="width: 23%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: middle;">
         <img src="../media/ch3/image24.png" style="width: 100%; height: auto; max-width: 250px; display: inline-block; vertical-align: middle;" />
       </td>
     </tr>
