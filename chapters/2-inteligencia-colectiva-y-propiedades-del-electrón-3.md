@@ -196,7 +196,7 @@ La descripción de las contribuciones de Thomson, Millikan, Franck y Hertz compr
 
 <u>Experimentos para descubrir el <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> por Thomson</u>
 
-A partir de 1897 Joseph John Thomson (1856-1940) realizó una secuencia de tres tipos de experimentos: el primero para describir cuándo salía del átomo una partícula cargada desconocida; el segundo para determinar que esas partículas tenían carga eléctrica negativa y el tercero para calcular el valor de su <a href="https://es.wikipedia.org/wiki/Relación_carga-masa" title="Relación carga/masa (q/m o e/m): Cociente entre la carga eléctrica y la masa de una partícula, calculado originalmente por J. J. Thomson.">relación carga/masa</a>. 
+A partir de 1897 <a href="https://es.wikipedia.org/wiki/Joseph_John_Thomson" title="Joseph John Thomson: Físico británico (Premio Nobel 1906) descubridor del electrón e investigador de la conducción eléctrica en gases.">Joseph John Thomson</a> (1856-1940) realizó una secuencia de tres tipos de experimentos: el primero para describir cuándo salía del átomo una partícula cargada desconocida; el segundo para determinar que esas partículas tenían carga eléctrica negativa y el tercero para calcular el valor de su <a href="https://es.wikipedia.org/wiki/Relación_carga-masa" title="Relación carga/masa (q/m o e/m): Cociente entre la carga eléctrica y la masa de una partícula, calculado originalmente por J. J. Thomson.">relación carga/masa</a>. 
 
 Thomson publicó sus resultados en el artículo titulado *[Cathode Rays](http://web.lemoyne.edu/~GIUNTA/archemc.html#cathoderay) de* la revista *Philosophical Magazine*, 44, 293 (1897). La siguiente Figura 2.1 es una adaptación de la original tomada del artículo de Thomson y describe las regiones de realización de las correspondientes actividades experimentales.
 
@@ -300,7 +300,7 @@ procedimiento factible y relevante.
 
 <u>PREMIO NOBEL DE FÍSICA DE 1906</u>
 
-**Joseph John Thomson**
+**<a href="https://es.wikipedia.org/wiki/Joseph_John_Thomson" title="Joseph John Thomson: Físico británico (Premio Nobel 1906) descubridor del electrón e investigador de la conducción eléctrica en gases.">Joseph John Thomson</a>**
 
 OBRA: “La idea de que la electricidad se transmite por una diminuta
 partícula relacionada con el átomo se propuso por primera vez en la
