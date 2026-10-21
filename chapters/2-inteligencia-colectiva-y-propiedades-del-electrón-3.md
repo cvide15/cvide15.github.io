@@ -20,7 +20,7 @@ En esta sección describimos el contenido de las Conferencias Nobel
 presentadas por quienes fueron los autores de tres experimentos
 revolucionarios acerca del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>: su descubrimiento por Joseph John
 Thomson (1856-1940), la determinación de su carga eléctrica elemental
-por Robert Andrews Millikan (1868-1953) y la demostración de la
+por <a href="https://es.wikipedia.org/wiki/Robert_Andrews_Millikan" title="Robert Andrews Millikan: Físico estadounidense (Premio Nobel 1923) que midió la carga elemental con el experimento de la gota de aceite y comprobó el efecto fotoeléctrico.">Robert Andrews Millikan</a> (1868-1953) y la demostración de la
 existencia de niveles electrónicos de energía cuantizada por James
 Franck (1882-1964) y Gustav Ludwig Hertz (1987-1975).
 
@@ -347,7 +347,7 @@ style="width:5.90335in;height:3.11538in" />
 <u>Experimentos para medir la carga eléctrica elemental del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> por
 Millikan</u>
 
-A partir de 1907, Robert Andrews Millikan (1868 -1953) y su alumno Harvey
+A partir de 1907, <a href="https://es.wikipedia.org/wiki/Robert_Andrews_Millikan" title="Robert Andrews Millikan: Físico estadounidense (Premio Nobel 1923) que midió la carga elemental con el experimento de la gota de aceite y comprobó el efecto fotoeléctrico.">Robert Andrews Millikan</a> (1868 -1953) y su alumno Harvey
 Fletcher (1884 – 1981) buscaron un procedimiento para determinar el valor de la
 carga de un <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>. Primero experimentaron con gotas de agua y después
 con gotas de aceite. Su dispositivo experimental se describe a
@@ -431,7 +431,7 @@ v<sub>a</sub> *= mg/(κη),* con *κ = 6πr;* entonces *r<sup>2</sup> =
 
 **PREMIO NOBEL DE FÍSICA DE 1923**
 
-**Robert Andrews Millikan**
+**<a href="https://es.wikipedia.org/wiki/Robert_Andrews_Millikan" title="Robert Andrews Millikan: Físico estadounidense (Premio Nobel 1923) que midió la carga elemental con el experimento de la gota de aceite y comprobó el efecto fotoeléctrico.">Robert Andrews Millikan</a>**
 
 OBRA: “Durante la década de 1890 se aceptó la teoría de que la
 electricidad se transmitía mediante una unidad minúscula, el <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>.
