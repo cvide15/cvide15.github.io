@@ -347,8 +347,8 @@ style="width:5.90335in;height:3.11538in" />
 <u>Experimentos para medir la carga eléctrica elemental del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> por
 Millikan</u>
 
-A partir de 1907, <a href="https://es.wikipedia.org/wiki/Robert_Andrews_Millikan" title="Robert Andrews Millikan: Físico estadounidense (Premio Nobel 1923) que midió la carga elemental con el experimento de la gota de aceite y comprobó el efecto fotoeléctrico.">Robert Andrews Millikan</a> (1868 -1953) y su alumno Harvey
-Fletcher (1884 – 1981) buscaron un procedimiento para determinar el valor de la
+A partir de 1907, <a href="https://es.wikipedia.org/wiki/Robert_Andrews_Millikan" title="Robert Andrews Millikan: Físico estadounidense (Premio Nobel 1923) que midió la carga elemental con el experimento de la gota de aceite y comprobó el efecto fotoeléctrico.">Robert Andrews Millikan</a> (1868 -1953) y su alumno <a href="https://es.wikipedia.org/wiki/Harvey_Fletcher" title="Harvey Fletcher: Físico estadounidense colaborador clave de Millikan en el diseño del experimento de la gota de aceite.">Harvey
+Fletcher</a> (1884 – 1981) buscaron un procedimiento para determinar el valor de la
 carga de un <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>. Primero experimentaron con gotas de agua y después
 con gotas de aceite. Su dispositivo experimental se describe a
 continuación e ilustra en las Figuras 2.3a y 2.3b.
