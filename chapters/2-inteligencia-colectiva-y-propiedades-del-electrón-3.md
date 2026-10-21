@@ -35,7 +35,7 @@ y experimentales sobre la conducción de la electricidad por gases".
 Conferencia Nobel: *Portadores de la electricidad negativa.*
 
 R. A. Millikan en 1923 "por su trabajo sobre la <a href="https://es.wikipedia.org/wiki/Carga_elemental" title="Carga elemental: Unidad fundamental de carga eléctrica correspondiente a un solo electrón, determinada por Robert Millikan.">carga elemental</a> de la
-electricidad y sobre el efecto fotoeléctrico". Conferencia Nobel*: El
+electricidad y sobre el <a href="https://es.wikipedia.org/wiki/Efecto_fotoeléctrico" title="Efecto fotoeléctrico: Emisión de electrones por un material cuando absorbe radiación electromagnética (luz).">efecto fotoeléctrico</a>". Conferencia Nobel*: El
 <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> y la luz-cuantitativo desde el punto de vista experimental.*
 
 J. Franck y G.L. Hertz en 1925 "por su descubrimiento de las leyes que
@@ -192,7 +192,7 @@ La descripción de los experimentos antes mencionados comprende dos partes:
 
 La discusión del experimento: explicación de la estructura del dispositivo experimental y de las etapas de su operación en términos de su paso por las cuatro regiones de realización de las actividades experimentales de Preparación, Transformación, Detección y Medición. Cada experimento incluye un dibujo o esquema ilustrativo.
 
-La descripción de las contribuciones de Thomson, Millikan, Franck y Hertz comprende dos partes: la primera parte es la traducción de un documento llamado *WORK* (OBRA) que explica muy brevemente las razones por las cuales se le ha otorgado el Premio Nobel de Física; la segunda parte contiene diapositivas de una presentación obtenida con ayuda del programa NotebookLM, a partir de la traducción de lo que cada uno de los premiados ha escrito en su Conferencia Nobel. En el caso de Millikan, al final de su Conferencia comenta los diez años en que sometió a prueba la validez de la ecuación de Einstein acerca del efecto fotoeléctrico.
+La descripción de las contribuciones de Thomson, Millikan, Franck y Hertz comprende dos partes: la primera parte es la traducción de un documento llamado *WORK* (OBRA) que explica muy brevemente las razones por las cuales se le ha otorgado el Premio Nobel de Física; la segunda parte contiene diapositivas de una presentación obtenida con ayuda del programa NotebookLM, a partir de la traducción de lo que cada uno de los premiados ha escrito en su Conferencia Nobel. En el caso de Millikan, al final de su Conferencia comenta los diez años en que sometió a prueba la validez de la ecuación de Einstein acerca del <a href="https://es.wikipedia.org/wiki/Efecto_fotoeléctrico" title="Efecto fotoeléctrico: Emisión de electrones por un material cuando absorbe radiación electromagnética (luz).">efecto fotoeléctrico</a>.
 
 <u>Experimentos para descubrir el <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> por Thomson</u>
 
@@ -465,7 +465,7 @@ style="width:5.90556in;height:3.35897in" />
 
 Además de explicar en qué consiste su experimento, en su Conferencia
 Nobel Millikan comenta acerca de las pruebas que realizó para verificar
-si era correcta la ecuación de Einstein acerca del efecto fotoeléctrico.
+si era correcta la ecuación de Einstein acerca del <a href="https://es.wikipedia.org/wiki/Efecto_fotoeléctrico" title="Efecto fotoeléctrico: Emisión de electrones por un material cuando absorbe radiación electromagnética (luz).">efecto fotoeléctrico</a>.
 
 <img src="../media/ch2/image64.png"
 style="width:5.90556in;height:3.29514in" />
