@@ -24,7 +24,7 @@ comprometerse para cumplir con otros paradigmas.
 <img src="../media/ch2/image7.png"
 style="width:6.1375in;height:3.42292in" />
 
-Pierre Lévy considera que la inteligencia colectiva surge cuando el
+<a href="https://en.wikipedia.org/wiki/Pierre_Lévy" title="Pierre Lévy: Filósofo y teórico francés de la cibercultura y pionero del concepto de inteligencia colectiva.">Pierre Lévy</a> considera que la inteligencia colectiva surge cuando el
 conocimiento está distribuido, las personas se conectan en red, existe
 reconocimiento mutuo y las tecnologías facilitan la colaboración.
 Obtener resultados entre todos que superen la simple suma de
