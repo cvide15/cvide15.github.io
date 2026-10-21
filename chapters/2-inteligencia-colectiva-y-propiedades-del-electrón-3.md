@@ -392,7 +392,7 @@ arrastre viscosa (*F<sub>viscosidad</sub>*) producida por la fricción
 con el aire dentro de la cámara, y la fuerza eléctrica *F<sub>campo
 eléctrico</sub> = qE* ejercida por el campo externo *E*.
 
-Según la ley de Stokes, la fuerza de fricción del fluido corresponde a
+Según la <a href="https://es.wikipedia.org/wiki/Ley_de_Stokes" title="9.	Ley de Stokes: Ecuación que calcula la fuerza de arrastre o fricción viscosa ejercida sobre un cuerpo esférico en un fluido.">ley de Stokes</a>, la fuerza de fricción del fluido corresponde a
 *F<sub>viscosidad</sub> = κηv<sub>t</sub>*, donde: *v<sub>t </sub>*es la
 velocidad terminal, *η* es la viscosidad del aire, κ = 6πr es un
 coeficiente de resistencia y *r* es la radio de una gota esférica*.* En
