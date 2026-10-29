@@ -82,12 +82,17 @@ Explicar qué ocurre en cada una de las regiones de realización de las activida
 
 Describir el contenido de las Conferencias Nobel dictadas por los autores de los experimentos considerados. Analizar cómo en la descripción de las regiones de realización de cada una de las correspondientes actividades experimentales se expresan las fases del desarrollo de la inteligencia colectiva en tanto elementos de las etapas de producción del conocimiento.
 
-* Regiones de realización de las actividades experimentales
-* Tres experimentos revolucionarios acerca del electrón
-  * Experimentos para descubrir el electrón por Thomson
-  * Experimentos para medir la carga eléctrica elemental del electrón por Millikan
-  * Experimentos para demostrar la existencia de niveles de energía electrónica estacionaria por Franck y Hertz
-* Relaciones entre las regiones de realización de las actividades experimentales y las fases de desarrollo de la inteligencia colectiva.
+<ul>
+  <li>Regiones de realización de las actividades experimentales</li>
+  <li>Tres experimentos revolucionarios acerca del electrón</li>
+    <ul style="list-style-type: none; padding-left: 30px;">
+      <li>Experimentos para descubrir el electrón por Thomson</li>
+      <li>Experimentos para medir la carga eléctrica elemental del electrón por Millikan</li>
+      <li>Experimentos para demostrar la existencia de niveles de energía electrónica estacionaria por Franck y Hertz</li>
+  </li>
+ </ul>
+  <li>Relaciones entre las regiones de realización de las actividades experimentales y las fases de desarrollo de la inteligencia colectiva.</li> 
+</ul>
 
 </div>
 
