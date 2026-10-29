@@ -2,7 +2,7 @@
 
 Esta sección 4.1 se refiere a dos trayectorias del conocimiento
 conectadas con las condiciones iniciales que describen dos
-características de los cuatro físicos considerados: las preguntas que se
+características de los cuatro físicos considerados considerados (Johannes Kepler, Galileo Galilei, Isaac Newton y Albert Einstein): las preguntas que se
 hicieron y las premisas en las cuales confiaron. En la siguiente sección
 4.2 tratamos acerca de las condiciones en la frontera de la disciplina
 que conciernen a la relación teoría – experimento y el papel de las
@@ -318,7 +318,7 @@ style="width:6.1375in;height:3.42431in" />
 </div>
 
 En lo que sigue comentamos algunas consideraciones individuales respecto
-de lo que cada uno pudo haber supuesto.
+de lo que cada uno de los científicos en consideración pudo haber supuesto.
 
 **Kepler** supuso la existencia de una naturaleza organizada
 racionalmente y de unas relaciones matemáticas que revelaban el plan del
