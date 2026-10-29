@@ -501,11 +501,8 @@ continuación en términos de las regiones de Preparación (en azul),
 Transformación (en verde) y Detección y Medición (en rojo). (Figura
 2.4a).
 
-<img src="../media/ch2/image66.png"
-style="width:2.41667in;height:1.93482in"
-alt="Diagrama, Dibujo de ingeniería Descripción generada automáticamente" />
 <img src="../media/ch2/image67.png"
-style="width:2.58085in;height:1.95347in"
+style="width:5.90405in;height:3.39103in"
 alt="Diagrama Descripción generada automáticamente" />
 
 Figure 2.4. Aparato utilizado por Franck y Hertz (a) y gráfica de
