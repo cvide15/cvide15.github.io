@@ -76,16 +76,16 @@ style="width:6.1375in;height:3.42569in" />
 
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
-## 2.3. Experimentos acerca del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>
+## 2.3. Experimentos acerca del electrón
 
-Explicar qué ocurre en cada una de las regiones de realización de las actividades experimentales en los siguientes casos: el descubrimiento del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> y el cálculo de los valores de su <a href=" https://es.wikipedia.org/wiki/Relación_carga-masa" title="	Relación carga/masa (q/m o e/m): Cociente entre la carga eléctrica y la masa de una partícula, calculado originalmente por J. J. Thomson.">relación carga/masa</a>, el cálculo de su carga eléctrica y la demostración de la existencia de niveles energéticos discretos.
+Explicar qué ocurre en cada una de las regiones de realización de las actividades experimentales en los siguientes casos: el descubrimiento del electrón y el cálculo de los valores de su <a href=" https://es.wikipedia.org/wiki/Relación_carga-masa" title="	Relación carga/masa (q/m o e/m): Cociente entre la carga eléctrica y la masa de una partícula, calculado originalmente por J. J. Thomson.">relación carga/masa</a>, el cálculo de su carga eléctrica y la demostración de la existencia de niveles energéticos discretos.
 
 Describir el contenido de las Conferencias Nobel dictadas por los autores de los experimentos considerados. Analizar cómo en la descripción de las regiones de realización de cada una de las correspondientes actividades experimentales se expresan las fases del desarrollo de la inteligencia colectiva en tanto elementos de las etapas de producción del conocimiento.
 
 * Regiones de realización de las actividades experimentales
-* Tres experimentos revolucionarios acerca del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>
-  * Experimentos para descubrir el <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> por Thomson
-  * Experimentos para medir la carga eléctrica elemental del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> por Millikan
+* Tres experimentos revolucionarios acerca del electrón
+  * Experimentos para descubrir el electrón por Thomson
+  * Experimentos para medir la carga eléctrica elemental del electrón por Millikan
   * Experimentos para demostrar la existencia de niveles de energía electrónica estacionaria por Franck y Hertz
 * Relaciones entre las regiones de realización de las actividades experimentales y las fases de desarrollo de la inteligencia colectiva.
 
