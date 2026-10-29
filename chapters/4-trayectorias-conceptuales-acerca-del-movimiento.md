@@ -13,9 +13,7 @@ premisas que plantearon como válidas, así como las condiciones en la
 frontera de la disciplina que cultivan (la física), en conexión con las
 relaciones teoría – experimento y el papel de las matemáticas.
 
-El conocimiento sirve para describir, explicar y predecir; para
-representar e interpretar y para transformar e innovar; es generador de
-nuevas ideas, razonamientos, pruebas y demostraciones. Promueve el
+El conocimiento sirve para describir, explicar y predecir; es una herramienta efectiva para representar e interpretar y para transformar e innovar; es un generador de nuevas ideas, razonamientos, pruebas y demostraciones. Promueve el
 mejoramiento de productos y servicios, transforma estructuras y afina
 procedimientos; es factor de progreso en ciencia, tecnología,
 matemáticas, educación y cultura.
