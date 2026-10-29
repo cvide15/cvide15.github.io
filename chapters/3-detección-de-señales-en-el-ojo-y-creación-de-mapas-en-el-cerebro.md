@@ -47,13 +47,15 @@ Explicar cómo la comprensión del fenómeno de la visión ha resultado ser en g
 
 Premio de 1911 a Allvar Gullstrand "por su trabajo sobre la dióptrica del ojo". 
 
-Premio de 1967a Ragnar Granit, Haldan Keffer Hartline y George Wald "por sus descubrimientos sobre los procesos visuales fisiológicos y químicos primarios en el ojo". 
+Premio de 1967 a Ragnar Granit, Haldan Keffer Hartline y George Wald "por sus descubrimientos sobre los procesos visuales fisiológicos y químicos primarios en el ojo". 
 
 Premio de 1981 a David H. Hubel y Torsten N. Wiesel en 1981 "por sus descubrimientos sobre el procesamiento de información en el sistema visual". 
 
 <ul>
   <li>Componentes de la visión</li>
+  <br>
   <li>Desarrollo de la Oftalmología
+  <br>  
     <ul style="list-style-type: none; padding-left: 30px;">
       <li>Premio Nobel de Fisiología o Medicina de 1911</li>
       <li>Premio Nobel de Fisiología o Medicina de 1967</li>
@@ -89,13 +91,15 @@ Explicar cómo las funciones de cada una de las células neuronales que constitu
 
 <ul>
   <li>Descripción de un instrumento de navegación cognitiva
+  <br>  
     <ul style="list-style-type: none; padding-left: 30px;">
       <li>Procedimiento de Indagación</li>
       <li>Procedimiento de Entrenamiento</li>
       <li>Procedimiento de Comprensión (Capacitación)</li>
       <li>Procedimiento de Metacognición</li>
     </ul>
-  </li>  
+  </li>
+  <br>
   <li>Funcionamiento de un sistema de comunicación global
     <ul style="list-style-type: none; padding-left: 30px;">
       <li>Factores que afectan el funcionamiento del GPS</li>
