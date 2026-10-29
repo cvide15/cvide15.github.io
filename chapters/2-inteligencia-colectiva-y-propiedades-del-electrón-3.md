@@ -1,7 +1,7 @@
  
-## 2.3. Experimentos acerca del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>
+## 2.3. Experimentos acerca del electrón
 
-El <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> es uno de los más importantes componentes de la materia:
+El electrón es uno de los más importantes componentes de la materia:
 forma parte de átomos y moléculas, interviene en los enlaces químicos,
 es responsable de la corriente eléctrica e interacciona constantemente
 con otras partículas elementales. Además, participa en múltiples
@@ -18,7 +18,7 @@ inteligencia colectiva que se han considerado previamente en la sección
 
 En esta sección describimos el contenido de las Conferencias Nobel
 presentadas por quienes fueron los autores de tres experimentos
-revolucionarios acerca del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>: su descubrimiento por Joseph John
+revolucionarios acerca del electrón: su descubrimiento por Joseph John
 Thomson (1856-1940), la determinación de su carga eléctrica elemental
 por <a href="https://es.wikipedia.org/wiki/Robert_Andrews_Millikan" title="Robert Andrews Millikan: Físico estadounidense (Premio Nobel 1923) que midió la carga elemental con el experimento de la gota de aceite y comprobó el efecto fotoeléctrico.">Robert Andrews Millikan</a> (1868-1953) y la demostración de la
 existencia de niveles electrónicos de energía cuantizada por James
@@ -36,10 +36,10 @@ Conferencia Nobel: *Portadores de la electricidad negativa.*
 
 R. A. Millikan en 1923 "por su trabajo sobre la <a href="https://es.wikipedia.org/wiki/Carga_elemental" title="Carga elemental: Unidad fundamental de carga eléctrica correspondiente a un solo electrón, determinada por Robert Millikan.">carga elemental</a> de la
 electricidad y sobre el <a href="https://es.wikipedia.org/wiki/Efecto_fotoeléctrico" title="Efecto fotoeléctrico: Emisión de electrones por un material cuando absorbe radiación electromagnética (luz).">efecto fotoeléctrico</a>". Conferencia Nobel*: El
-<a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> y la luz-cuantitativo desde el punto de vista experimental.*
+electrón y la luz-cuantitativo desde el punto de vista experimental.*
 
 J. Franck y G.L. Hertz en 1925 "por su descubrimiento de las leyes que
-rigen el impacto de un <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> sobre un átomo". Conferencia Nobel de
+rigen el impacto de un electrón sobre un átomo". Conferencia Nobel de
 Franck*: Transformación de la <a href="https://es.wikipedia.org/wiki/Energía_cinética" title="Energía cinética: Energía asociada al movimiento de una partícula u objeto masivo.">energía cinética</a> de electrones libres en
 energía de excitación de átomos por impactos.* Conferencia Nobel de
 Hertz*: Los resultados de las pruebas de impacto electrónico a la luz de
@@ -173,11 +173,11 @@ significados.
 <img src="../media/ch2/image49.png"
 style="width:5.90405in;height:3.39103in" />
 
-**Tres experimentos revolucionarios acerca del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>**
+**Tres experimentos revolucionarios acerca del electrón**
 
-El término <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> proviene del griego ἤλεκτρον (ēlektron), que significa <a href="https://es.wikipedia.org/wiki/Ámbar" title="Ámbar: Resina fósil cuyo nombre en griego dio origen histórico al término electrón debido a sus propiedades electrostáticas al frotarse.">ámbar</a>. Durante siglos, el término *ēlektron* se usó para
+El término electrón proviene del griego ἤλεκτρον (ēlektron), que significa <a href="https://es.wikipedia.org/wiki/Ámbar" title="Ámbar: Resina fósil cuyo nombre en griego dio origen histórico al término electrón debido a sus propiedades electrostáticas al frotarse.">ámbar</a>. Durante siglos, el término *ēlektron* se usó para
 describir fenómenos eléctricos, pero fue hasta 1891 cuando el físico
-<a href="https://es.wikipedia.org/wiki/George_Johnstone_Stoney" title="George Johnstone Stoney: Físico que propuso en 1891 el nombre electrón para la unidad fundamental de carga.">George Johnstone Stoney</a> (1826 - 1911) propuso el nombre “<a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>” para
+<a href="https://es.wikipedia.org/wiki/George_Johnstone_Stoney" title="George Johnstone Stoney: Físico que propuso en 1891 el nombre electrón para la unidad fundamental de carga.">George Johnstone Stoney</a> (1826 - 1911) propuso el nombre “electrón” para
 referirse a la unidad fundamental de carga eléctrica. Tres experimentos
 pioneros permitieron obtener los conocimientos básicos de sus
 principales características: su descubrimiento como partícula elemental
@@ -194,7 +194,7 @@ La discusión del experimento: explicación de la estructura del dispositivo exp
 
 La descripción de las contribuciones de Thomson, Millikan, Franck y Hertz comprende dos partes: la primera parte es la traducción de un documento llamado *WORK* (OBRA) que explica muy brevemente las razones por las cuales se le ha otorgado el Premio Nobel de Física; la segunda parte contiene diapositivas de una presentación obtenida con ayuda del programa NotebookLM, a partir de la traducción de lo que cada uno de los premiados ha escrito en su Conferencia Nobel. En el caso de Millikan, al final de su Conferencia comenta los diez años en que sometió a prueba la validez de la ecuación de Einstein acerca del <a href="https://es.wikipedia.org/wiki/Efecto_fotoeléctrico" title="Efecto fotoeléctrico: Emisión de electrones por un material cuando absorbe radiación electromagnética (luz).">efecto fotoeléctrico</a>.
 
-<u>Experimentos para descubrir el <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> por Thomson</u>
+<u>Experimentos para descubrir el electrón por Thomson</u>
 
 A partir de 1897 <a href="https://es.wikipedia.org/wiki/Joseph_John_Thomson" title="Joseph John Thomson: Físico británico (Premio Nobel 1906) descubridor del electrón e investigador de la conducción eléctrica en gases.">Joseph John Thomson</a> (1856-1940) realizó una secuencia de tres tipos de experimentos: el primero para describir cuándo salía del átomo una partícula cargada desconocida; el segundo para determinar que esas partículas tenían carga eléctrica negativa y el tercero para calcular el valor de su <a href="https://es.wikipedia.org/wiki/Relación_carga-masa" title="Relación carga/masa (q/m o e/m): Cociente entre la carga eléctrica y la masa de una partícula, calculado originalmente por J. J. Thomson.">relación carga/masa</a>. 
 
@@ -213,22 +213,22 @@ Fuente: adaptación del autor de la imagen tomada de
 
 En la Figura anterior las letras indican las siguientes variables:
 
-(*d*) es la distancia recorrida por el <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> dentro de las placas del
+(*d*) es la distancia recorrida por el electrón dentro de las placas del
 condensador donde se aplica un campo eléctrico externo (***E***). Es en
 esta región donde se aplicará un campo magnético externo (***B)*** en el
 tercer tipo de experimentos.
 
-(*s*) es la distancia recorrida por el <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> cuando sale del
+(*s*) es la distancia recorrida por el electrón cuando sale del
 condensador y choca con una pantalla fosforescente al final del tubo.
 Cuando no se aplican campos externos, no hay desviación de la
 trayectoria.
 
 *(l*) es la distancia en la pantalla entre la posición de llegada del
-<a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> cuando no se aplican campos externos y la posición de llegada
+electrón cuando no se aplican campos externos y la posición de llegada
 cuando se aplica un campo eléctrico (***E***).
 
 (*θ*) es el ángulo que indica la separación entre la posición de llegada
-del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> a la pantalla cuando no hay campo externo y la posición
+del electrón a la pantalla cuando no hay campo externo y la posición
 correspondiente cuando si se aplica el campo el campo eléctrico. Este
 ángulo de deflexión *θ* es tal que *tan(θ) = l/s*.
 
@@ -263,7 +263,7 @@ de la trayectoria dentro del condensador es una parábola de la forma *y
 $$y = \ ½\left( a_{t} \right)t^{2} = \ ½\left( \frac{qE}{m} \right)\left\lbrack \left( \frac{x}{v_{0}} \right)^{2} \right\rbrack = \ ½\left( \frac{qE}{m{v_{0}}^{2}} \right)\left( x^{2} \right)$$
 
 Las regiones de <u>Detección y Medición</u> están activas cuando el
-<a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> sale del condensador y llega a la pantalla. 
+electrón sale del condensador y llega a la pantalla. 
 
 Para calcular el ángulo de deflexión cuando la partícula sale del condensador en
 $\lbrack\theta\rbrack$*<sub>x = d</sub>* debemos calcular la derivada de
@@ -334,8 +334,8 @@ style="width:5.90256in;height:3.58929in" />
 style="width:5.90462in;height:2.76282in" />
 
 La diapositiva anterior contiene la nomenclatura utilizada originalmente
-por Thomson: *m* es la masa del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>, *e* corresponde a la carga del
-<a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> *q*, *X* a la intensidad del campo eléctrico *E* e *I* a la
+por Thomson: *m* es la masa del electrón, *e* corresponde a la carga del
+electrón *q*, *X* a la intensidad del campo eléctrico *E* e *I* a la
 intensidad del campo magnético *B*.
 
 <img src="../media/ch2/image56.png"
@@ -344,12 +344,12 @@ style="width:5.90464in;height:3.20513in" />
 <img src="../media/ch2/image57.png"
 style="width:5.90335in;height:3.11538in" />
 
-<u>Experimentos para medir la carga eléctrica elemental del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> por
+<u>Experimentos para medir la carga eléctrica elemental del electrón por
 Millikan</u>
 
 A partir de 1907, <a href="https://es.wikipedia.org/wiki/Robert_Andrews_Millikan" title="Robert Andrews Millikan: Físico estadounidense (Premio Nobel 1923) que midió la carga elemental con el experimento de la gota de aceite y comprobó el efecto fotoeléctrico.">Robert Andrews Millikan</a> (1868 -1953) y su alumno <a href="https://es.wikipedia.org/wiki/Harvey_Fletcher" title="Harvey Fletcher: Físico estadounidense colaborador clave de Millikan en el diseño del experimento de la gota de aceite.">Harvey
 Fletcher</a> (1884 – 1981) buscaron un procedimiento para determinar el valor de la
-carga de un <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>. Primero experimentaron con gotas de agua y después
+carga de un electrón. Primero experimentaron con gotas de agua y después
 con gotas de aceite. Su dispositivo experimental se describe a
 continuación e ilustra en las Figuras 2.3a y 2.3b.
 
@@ -434,20 +434,20 @@ v<sub>a</sub> *= mg/(κη),* con *κ = 6πr;* entonces *r<sup>2</sup> =
 **<a href="https://es.wikipedia.org/wiki/Robert_Andrews_Millikan" title="Robert Andrews Millikan: Físico estadounidense (Premio Nobel 1923) que midió la carga elemental con el experimento de la gota de aceite y comprobó el efecto fotoeléctrico.">Robert Andrews Millikan</a>**
 
 OBRA: “Durante la década de 1890 se aceptó la teoría de que la
-electricidad se transmitía mediante una unidad minúscula, el <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>.
+electricidad se transmitía mediante una unidad minúscula, el electrón.
 En 1910, Robert Millikan logró determinar con precisión la magnitud de
-la carga del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>. Pequeñas gotas de aceite cargadas eléctricamente
+la carga del electrón. Pequeñas gotas de aceite cargadas eléctricamente
 se suspendían entre dos placas metálicas, donde eran sometidas a la
 fuerza descendente de la gravedad y a la atracción hacia arriba de un
 campo eléctrico. Al medir cómo se movían las distintas gotas de aceite,
 Millikan demostró que su carga siempre era múltiplo de una carga
-determinada: la carga del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>.”
+determinada: la carga del electrón.”
 
 Robert A. Millikan – Hechos. NobelPrize.org. Alcance del Premio Nobel AB
 2023. Jueves. 2 de marzo de 2023.
 <https://www.nobelprize.org/prizes/physics/1923/millikan/facts/>
 
-**Conferencia Nobel*: El <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> y el cuanto de luz desde el punto de
+**Conferencia Nobel*: El electrón y el cuanto de luz desde el punto de
 vista experimental***
 
 Robert A. Millikan – Conferencia Nobel. NobelPrize.org. Alcance del
@@ -490,7 +490,7 @@ En 1914 <a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck
 proporcionaron pruebas experimentales de la existencia de niveles de
 energía electrónica estacionarios, sin considerar ninguna radiación
 incidente como causa del comportamiento cuantizado de los niveles
-energéticos del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>. Las separaciones medidas entre los niveles de
+energéticos del electrón. Las separaciones medidas entre los niveles de
 energía electrónica concordaron con los valores de tales niveles
 obtenidos por medios espectroscópicos, confirmando las predicciones del
 modelo de Bohr. Sin embargo, según este modelo los niveles de energía
@@ -555,13 +555,13 @@ observaciones pueden interpretarse de la siguiente manera:
 
 - Cuando V \< Vc = 4.9 volts, los electrones acelerados que salen de FC
   tienen baja <a href="https://es.wikipedia.org/wiki/Energía_cinética" title="Energía cinética: Energía asociada al movimiento de una partícula u objeto masivo.">energía cinética</a> y sus colisiones con los átomos de
-  mercurio son elásticas porque la masa del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> es mucho menor que
-  la del átomo y el <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> incidente rebota sin ceder energía a los
+  mercurio son elásticas porque la masa del electrón es mucho menor que
+  la del átomo y el electrón incidente rebota sin ceder energía a los
   electrones del átomo.
 
 - Cuando V = Vc, el átomo de mercurio recibe la cantidad exacta de
   energía necesaria para excitar sus electrones a niveles de energía más
-  altos. La colisión es inelástica porque el <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> entrante perdió la
+  altos. La colisión es inelástica porque el electrón entrante perdió la
   energía que ha cedido a los electrones del átomo de mercurio y la
   corriente disminuye.
 
@@ -574,7 +574,7 @@ Es interesante señalar que en el átomo de mercurio la diferencia entre
 el nivel de energía más bajo y el primer nivel de energía excitada
 corresponde a una <a href="https://es.wikipedia.org/wiki/Línea_espectral" title="Línea espectral: Fenómeno de absorción o emisión de luz en longitudes de onda específicas que revela la estructura de los niveles de energía atómicos.">línea espectral</a> cuya longitud de onda es λ = 2536 Å.
 Se sabe que para los <a href="https://es.wikipedia.org/wiki/Fotón" title="Fotón: Cuanto discreto de energía de la radiación electromagnética.">fotones</a> *E = hν = hc/λ*, si ahora hacemos *E = qVc*
-donde *q* es la carga del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>, se obtiene *λ = (hc)/(qVc*) que
+donde *q* es la carga del electrón, se obtiene *λ = (hc)/(qVc*) que
 corresponde justamente al valor de 2.536 x 10<sup>-10</sup> m = 2.536 Å.
 
 **PREMIO NOBEL DE FÍSICA DE 1925**
@@ -667,7 +667,7 @@ y sentido (fases de Conectar, Evaluar y Mostrar Visión).
 style="width:5.90556in;height:3.29514in" />
 
 Posteriormente, en esta misma sección 2.3 hemos descrito tres
-experimentos acerca del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> en término de las correspondientes
+experimentos acerca del electrón en término de las correspondientes
 regiones de realización de las actividades experimentales que describen
 los escenarios físicos y operativos donde el conocimiento puede
 producirse, transformarse y aplicarse. Estas son las regiones de
@@ -988,7 +988,7 @@ producción del conocimiento.
           Integrar los datos obtenidos a la teoría electromagnética y explicar naturaleza de la materia.
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          Relacionar directamente la medición de la carga con el cociente e/m obtenido por Thomson para calcular la masa del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>.
+          Relacionar directamente la medición de la carga con el cociente e/m obtenido por Thomson para calcular la masa del electrón.
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4; border-bottom: 2px solid #333333;">
           Vincular las transiciones de energía observadas en espectroscopía con las predicciones del modelo de Bohr.
@@ -1001,7 +1001,7 @@ producción del conocimiento.
           Evaluar
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
-          Comparar con otros resultados alternativos y debatir sobre la universalidad del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>.
+          Comparar con otros resultados alternativos y debatir sobre la universalidad del electrón.
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           Analizar la estadística, la estimación de errores y la identificación del valor constante de la <a href="https://es.wikipedia.org/wiki/Carga_elemental" title="Carga elemental: Unidad fundamental de carga eléctrica correspondiente a un solo electrón, determinada por Robert Millikan.">carga elemental</a>.
@@ -1017,10 +1017,10 @@ producción del conocimiento.
           Mostrar Visión
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
-          Consolidar el hecho de que el <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> es un constituyente universal. Inaugurar una nueva física.
+          Consolidar el hecho de que el electrón es un constituyente universal. Inaugurar una nueva física.
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
-          Establecer una constante universal fundamental. Fortalecer el modelo del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>.
+          Establecer una constante universal fundamental. Fortalecer el modelo del electrón.
         </td>
         <td style="padding: 8px; font-size: 14px; text-align: center; vertical-align: middle; line-height: 1.4;">
           Confirmar que los niveles de energía están cuantizados. Consolidar la física cuántica emergente.
@@ -1046,13 +1046,13 @@ eslabones de una red de colaboración, validación y construcción
 compartida del conocimiento.
 
 Los experimentos de J. J. Thomson (1897) demostraron la existencia del
-<a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> y determinaron la relación $e/m$; además, establecieron que los
+electrón y determinaron la relación $e/m$; además, establecieron que los
 <a href="https://es.wikipedia.org/wiki/Rayos_catódicos" title="Rayos catódicos: Haces de electrones emitidos en tubos de vacío a baja presión cuando se aplica un potencial eléctrico.">rayos catódicos</a> son partículas con una relación de carga/masa muy
 superior a la de los iones conocidos.
 
 Los experimentos de Robert A. Millikan (1909–1913) determinaron la carga
 elemental $e$. El utilizar este valor en la relación de $e/m\ $obtenida por
-Thomson permitió calcular con precisión la masa del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a>.
+Thomson permitió calcular con precisión la masa del electrón.
 
 Los experimentos de <a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a> y Gustav Hertz (1914) mostraron
 directamente que los átomos absorben energía en cantidades discretas,
