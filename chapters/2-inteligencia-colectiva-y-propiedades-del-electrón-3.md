@@ -529,7 +529,7 @@ Las regiones de <u>Detección y Medición</u> comprenden un <a href="https://es.
 externo (GALV) para registrar las variaciones de la intensidad de la
 corriente I generada por aquellos electrones que llegan a AC tras
 colisionar con los electrones dentro de los átomos. Para ser detectados
-por el <a href="https://es.wikipedia.org/wiki/Galvanómetro" title="Galvanómetro: Instrumento de medición electromecánico de alta sensibilidad empleado para detectar corriente eléctrica débil en circuitos.">galvanómetro</a>, los electrones excitados deben tener una energía
+por el galvanómetro, los electrones excitados deben tener una energía
 cinética superior a VR.
 
 En condiciones normales, los electrones de un átomo se encuentran en su
@@ -539,7 +539,7 @@ reciben energía adicional. Franck y Hertz lograron este efecto generando
 externos producidos por el filamento FC que han sido acelerados por el
 potencial V y los electrones internos pertenecientes a los átomos de
 mercurio contenidos dentro del <a href="https://es.wikipedia.org/wiki/Triodo" title="Tríodo: Válvula de vacío que incluye un cátodo, una rejilla de control y un ánodo para manipular y regular el paso de corriente de electrones.">tríodo</a>. El experimento consistió en
-cambiar el voltaje de aceleración (V) y luego medir en el <a href="https://es.wikipedia.org/wiki/Galvanómetro" title="Galvanómetro: Instrumento de medición electromecánico de alta sensibilidad empleado para detectar corriente eléctrica débil en circuitos.">galvanómetro</a>
+cambiar el voltaje de aceleración (V) y luego medir en el galvanómetro
 (GALV) la intensidad de la corriente (I) producida por los electrones
 generados en FC que llegan al ánodo AC (Figura 2.4b).
 
@@ -577,7 +577,7 @@ corresponde justamente al valor de 2.536 x 10<sup>-10</sup> m = 2.536 Å.
 
 **PREMIO NOBEL DE FÍSICA DE 1925**
 
-**<a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a>**
+**James Franck**
 
 OBRA: “Tras la publicación de la teoría de <a href="https://es.wikipedia.org/wiki/Niels_Bohr" title="Niels Bohr: Físico danés creador del modelo atómico cuantizado basado en órbitas discretas para los electrones.">Niels Bohr</a> sobre la
 estructura del átomo, <a href="https://es.wikipedia.org/wiki/James_Franck" title="James Franck: Físico alemán (Premio Nobel 1925) que demostró experimentalmente la cuantización de los niveles de energía atómica.">James Franck</a> y Gustav Hertz realizaron un
