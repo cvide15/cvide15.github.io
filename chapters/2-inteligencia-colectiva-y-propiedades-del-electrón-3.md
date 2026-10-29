@@ -393,7 +393,7 @@ eléctrico</sub> = qE* ejercida por el campo externo *E*.
 Según la <a href="https://es.wikipedia.org/wiki/Ley_de_Stokes" title="Ley de Stokes: Ecuación que calcula la fuerza de arrastre o fricción viscosa ejercida sobre un cuerpo esférico en un fluido.">ley de Stokes</a>, la fuerza de fricción del fluido corresponde a
 *F<sub>viscosidad</sub> = κηv<sub>t</sub>*, donde: *v<sub>t </sub>*es la
 velocidad terminal, *η* es la viscosidad del aire, κ = 6πr es un
-coeficiente de resistencia y *r* es la radio de una gota esférica*.* En
+coeficiente de resistencia y *r* es el radio de una gota esférica*.* En
 consecuencia *v<sub>t</sub> = (F<sub>viscosidad</sub>)/κη.* Si el campo
 externo E es nulo, la fuerza *F<sub>campo eléctrico</sub> = 0*. Para que
 al caer la gota se mantenga estacionaria, la fuerza resultante debe ser
