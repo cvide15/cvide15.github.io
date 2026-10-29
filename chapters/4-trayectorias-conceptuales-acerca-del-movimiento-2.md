@@ -18,8 +18,7 @@ style="width:6.1375in;height:3.42431in" />
 
 La siguiente Tabla 4.4 contiene posibles opiniones de los cuatro
 científicos respecto de la relación teoría – experimento y algunas
-referencias específicas a trabajos propios de cada uno de los cuatro
-científicos considerados. Más adelante trataremos de la trayectoria
+referencias específicas a trabajos propios de cada uno de ellos. Más adelante trataremos de la trayectoria
 conceptual conectada con la importancia de las matemáticas.
 
 <img src="../media/ch4/image35.png"
