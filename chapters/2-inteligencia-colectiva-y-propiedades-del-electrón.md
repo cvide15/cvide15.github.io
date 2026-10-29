@@ -84,7 +84,7 @@ Describir el contenido de las Conferencias Nobel dictadas por los autores de los
 
 <ul>
   <li>Regiones de realización de las actividades experimentales</li>
- 
+ <br>
   <li>Tres experimentos revolucionarios acerca del electrón</li>
     <ul style="list-style-type: none; padding-left: 30px;">
       <li>Experimentos para descubrir el electrón por Thomson</li>
