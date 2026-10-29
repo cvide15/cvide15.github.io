@@ -33,22 +33,26 @@ Analizar las características y funciones de cada fase y su participación en la
 
  Descripción de las fases del desarrollo de la inteligencia colectiva
 
- Etapa de Percepción e Intercambio
-
-1. Escuchar: atención activa para incorporar perspectivas
-2. Expresar: posicionamiento para compartir conocimientos
-
- Etapa de Gestión y Acción
-
-3. Decidir: responsabilidad para seleccionar acciones
-4. Organizar: coordinación para distribuir procesos
-
- Etapa de Evolución y Sentido
-
-5. Conectar: integración de redes cognitivas
-6. Evaluar: calibración para aprender y corregir
-7. Mostrar visión: dar coherencia, dirección y sentido a la perspectiva colectiva
-
+<ul>
+  <li>Etapa de Percepción e Intercambio</li>
+    <ul style="list-style-type: none; padding-left: 30px;">
+      <li>Escuchar: atención activa para incorporar perspectivas</li>
+      <li>Expresar: posicionamiento para compartir conocimientos</li>
+  </li>
+ </ul>
+  <li>Etapa de Gestión y Acción</li> 
+<ul style="list-style-type: none; padding-left: 30px;">
+      <li>Decidir: responsabilidad para seleccionar acciones</li>
+      <li>Organizar: coordinación para distribuir procesos</li>
+  </li>
+ </ul>
+<li>Etapa de Evolución y Sentido</li> 
+<ul style="list-style-type: none; padding-left: 30px;">
+      <li>Conectar: integración de redes cognitivas</li>
+      <li>Evaluar: calibración para aprender y corregir</li>
+      <li>Mostrar visión: dar coherencia, dirección y sentido a la perspectiva colectiva</li>
+  </li>
+</ul>
 </div>
 
 <img src="../media/ch2/image3.png"
