@@ -15,9 +15,9 @@ Como ejemplo de aplicación práctica, aplicamos la descripción de las regiones
 <p style="font-size: 10pt; padding-left: margin: 0;">*Lévy Pierre. <i>L'intelligence collective: Pour une anthropologie du cyberspace.</i> Paris: La <i>Découverte.</i> (1994).</p>
 <p style="font-size: 10pt; padding-left: 2ch; margin: 0;">
   Lévy Pierre. <i>Collective Intelligence: Mankind's Emerging World in Cyberspace</i> (Trad. Robert Bononno). New York: Plenum Trade. (1997).
-</p>
 
-Todas las diapositivas e infografías incluidas en este capítulo han sido generadas por el Programa NotebookLM a partir de textos elaborados por el autor.
+
+<i>Todas las diapositivas e infografías incluidas en este capítulo han sido generadas por el Programa NotebookLM a partir de textos elaborados por el autor.</i></p>
 </div>
 
 <img src="../media/ch2/image2.png"
