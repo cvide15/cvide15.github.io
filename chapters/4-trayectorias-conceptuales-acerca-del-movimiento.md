@@ -41,8 +41,7 @@ style="width:6.1375in;height:3.42569in" />
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
   
-**4.1. Trayectorias conceptuales relacionadas con las condiciones
-iniciales de los autores**
+## 4.1. Trayectorias conceptuales relacionadas con las condiciones iniciales de los autores
 
 Describir las trayectorias conceptuales acerca del movimiento que se
 conectan con las preguntas que se hicieron Kepler, Galileo, Newton y
@@ -61,8 +60,7 @@ style="width:6.1375in;height:3.42569in" />
 
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
   
-**4.2. Trayectorias conceptuales relacionadas con las condiciones en la
-frontera de la disciplina**
+## 4.2. Trayectorias conceptuales relacionadas con las condiciones en la frontera de la disciplina
 
 Describir las trayectorias conceptuales acerca del movimiento que se
 conectan con las interacciones entre la teoría y el experimento y con el
@@ -80,7 +78,7 @@ style="width:6.1375in;height:3.42569in" />
 
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
   
-**4.3. Avance del perihelio de la órbita del planeta Mercurio**
+## 4.3. Avance del perihelio de la órbita del planeta Mercurio
 
 Describir las trayectorias conceptuales recorridas por Newton y por Einstein para explicar la órbita de Mercurio como ilustración de cómo evolucionaron la relación teoría – experimento y la importancia de las matemáticas en el proceso de geometrización de la mecánica planetaria.
 
