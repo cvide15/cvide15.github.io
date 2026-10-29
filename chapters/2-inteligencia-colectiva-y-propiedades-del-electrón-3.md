@@ -243,7 +243,7 @@ paralela a las placas D y E.
 La región de <u>Transformación</u> se ubica en el interior de un
 condensador de placas metálicas cargadas (D y E) donde se aplicarán los
 campos eléctricos y magnéticos externos. Cuando actúa la fuerza
-electrostática *F<sub>electric</sub> = qE* se genera una aceleración
+electrostática *F<sub>electrica</sub> = qE* se genera una aceleración
 transversal en una dirección perpendicular al haz incidente *a
 <sub>transversal </sub>*= *a<sub>t</sub> = qE/m*. 
 
