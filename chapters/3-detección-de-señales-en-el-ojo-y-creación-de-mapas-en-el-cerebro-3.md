@@ -176,7 +176,7 @@ consiste en el desarrollo organizado y orientado de conocimientos,
 habilidades, capacidades y competencias necesarias para desempeñar
 funciones, resolver problemas y actuar eficazmente en contextos reales.
 La capacitación es un proceso formativo orientado a transformar el
-conocimiento en acción competente, sus características son: ser
+conocimiento en acción competente; sus características son: ser
 intencional, poseer objetivos definidos, organizar contenidos y
 experiencias, buscar mejorar el desempeño, desarrollar competencias
 prácticas e intelectuales, así como integrar teoría y práctica.
@@ -241,7 +241,7 @@ style="width:6.1375in;height:3.42292in" />
 
 **Funcionamiento de un sistema de comunicación global**
 
-Con anterioridad hemos descrito la transición del GPS mental al navegador cognitivo conformado por los procedimientos de Indagación, Entrenamiento, Capacitación y Metacognición. Cada procedimiento conforma una navegación cognitiva en distintos espacios. En este contexto conviene considerar que un sistema de comunicación global como el que hace funcionar los teléfonos celulares puede operar como un GPS tecnológico de utilidad para la localización y la orientación de lugares y personal en el cual se desarrollan los mismos procedimientos de navegación del GPS cognitivo. 
+Con anterioridad hemos descrito la transición del GPS mental al navegador cognitivo conformado por los procedimientos de Indagación, Entrenamiento, Capacitación y Metacognición. Cada procedimiento conforma una navegación cognitiva en distintos espacios. En este contexto conviene considerar que un sistema de comunicación global como el que hace funcionar los teléfonos celulares puede operar como un GPS tecnológico de utilidad para la localización y la orientación de lugares y de personal. En dicho espacio se desarrollan los mismos procedimientos de navegación del GPS cognitivo. 
 
 Lo anterior implica que ambos GPS tienen la misma estructura cognitiva: el GPS cognitivo es una herramienta de navegación que funciona en determinadas células neuronales en el cerebro y el GPS tecnológico es una herramienta de navegación que funciona en un sistema que comprende dispositivos tales como satélites, computadoras, radares y celulares. La cuestión es que tales dispositivos cumplen funciones similares a los procedimientos de Indagación, Entrenamiento, Capacitación y Metacognición.
 
@@ -300,7 +300,7 @@ desarrollo del conocimiento científico: introducir conceptos científicos
 (procedimientos de Entrenamiento) y describir estructuras cognitivas
 (procedimientos de Comprensión). La revisión crítica de las tres etapas
 anteriores corresponde al procedimiento de Metacognición. Crear
-conocimiento científico implica buscar aprendizaje inteligente para
+conocimiento científico implica buscar aprendizajes inteligentes para
 plantear preguntas pertinentes, visiones sabias para proponer
 procedimientos efectivos y comprensión práctica para encontrar mejores
 soluciones. A manera de conclusión, retomamos la Tabla 3.1 presentada al
