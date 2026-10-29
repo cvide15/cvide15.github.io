@@ -269,11 +269,12 @@ Para calcular el ángulo de deflexión cuando la partícula sale del condensador
 $\lbrack\theta\rbrack$*<sub>x = d</sub>* debemos calcular la derivada de
 la parábola *(dy/dx)* en ese punto: 
 
-$$\tan(\theta) = \frac{dy}{dx} = \left[ \frac{1}{2} \left( \frac{qE}{m v_0^2} \right) (2x) \right]_{x=d} = \left( \frac{qEd}{m v_0^2} \right)$$
+$$\tan(\theta) = \frac{dy}{dx} = \left[ \frac{1}{2} \left( \frac{qE}{m v_0^2} \right) (2x) \right]_{x=d} = \left( \frac{qEd}{m v_0^2} \right)$$ 
+<br>
 <div style="overflow-x: auto; font-size: 0.9em;">
 además $\tan(\theta) = \frac{l}{s}$. En consecuencia $\left( \frac{qEd}{mv_0^2} \right) = \frac{l}{s}$ de donde $\left( \frac{q}{m} \right) = \frac{(l)[(v_0)^2]}{(Eds)}$
 <div>
-
+<br>
 La ecuación anterior indica que la relación *q/m* podrá calcularse si se
 conocen los valores de las distancias *d, l* y *s*, la intensidad del
 campo eléctrico *E* y la velocidad inicial v<sub>0</sub>. Para calcular
