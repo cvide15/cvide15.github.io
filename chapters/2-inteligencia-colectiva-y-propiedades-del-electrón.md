@@ -11,8 +11,8 @@ En relación con el conocimiento científico, éste avanza cuando las aportacion
 
 Como ejemplo de aplicación práctica, aplicamos la descripción de las regiones de realización de actividades experimentales al análisis de tres experimentos que condujeron al descubrimiento del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> y permitieron calcular los valores de su <a href=" https://es.wikipedia.org/wiki/Relación_carga-masa" title="Relación carga/masa (q/m o e/m): Cociente entre la carga eléctrica y la masa de una partícula, calculado originalmente por J. J. Thomson.">relación carga/masa</a> y de su carga eléctrica, así como demostrar la existencia de niveles energéticos discretos. En este capítulo consideramos la relación entre tales regiones de realización de las actividades experimentales con las etapas de producción de las fases del desarrollo de la inteligencia colectiva. Las fases de Escuchar y Expresar corresponden a la etapa de Percepción e Intercambio, las fases de Decidir y Organizar a la etapa de Gestión y Acción y las fases de Conectar, Evaluar y Mostrar Visión a la etapa de Evolución y Sentido.
 
-<p style="font-size: 10pt; padding-left: margin: 0;">*Lévy Pierre. <i>L'intelligence collective: Pour une anthropologie du cyberspace.</i> Paris: La <i>Découverte.</i> (1994).</p>
-<p style="font-size: 10pt; padding-left: 2ch; margin: 0;">
+<p style="font-size: 10pt; padding-left: margin: 0;">*Lévy Pierre. <i>L'intelligence collective: Pour une anthropologie du cyberspace.</i> Paris: La <i>Découverte.</i> (1994).
+
   Lévy Pierre. <i>Collective Intelligence: Mankind's Emerging World in Cyberspace</i> (Trad. Robert Bononno). New York: Plenum Trade. (1997).
 
 <i>Todas las diapositivas e infografías incluidas en este capítulo han sido generadas por el Programa NotebookLM a partir de textos elaborados por el autor.</i></p>
