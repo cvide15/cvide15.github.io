@@ -17,6 +17,7 @@ Todas las diapositivas e infografías incluidas en este capítulo han sido gener
 style="width:6.22953in;height:3.30882in" />
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
+
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 
 ## 1.1. Espacios sociopolíticos, urbanos y astronómicos en la antigua Grecia
