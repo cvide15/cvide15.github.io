@@ -1,4 +1,3 @@
-<div align="justify">
 
 # Capítulo 2: Inteligencia Colectiva y Propiedades del Electrón
 
