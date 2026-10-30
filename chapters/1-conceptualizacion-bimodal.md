@@ -1,4 +1,3 @@
-<div align="justify">
 
 # Capítulo 1: Conceptualización bimodal de los espacios
 
