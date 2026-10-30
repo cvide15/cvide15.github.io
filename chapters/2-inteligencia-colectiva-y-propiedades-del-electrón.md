@@ -102,19 +102,16 @@ style="width:6.1375in;height:3.42569in" />
 <div align="center">
   <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
-      <!-- Título principal -->
-      <tr style="background-color: #f6f8fa;">
+           <tr style="background-color: #f6f8fa;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>Tabla 2.1. Actividades experimentales en cuatro espacios antropológicos</strong>
         </th>
       </tr>
-      <!-- Subtítulo de sección -->
-      <tr style="background-color: #eaeef2;">
+            <tr style="background-color: #eaeef2;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>La Tierra: Memoria comunitaria - Tradición y mito</strong>
         </th>
       </tr>
-      <!-- Encabezados de columnas -->
       <tr style="background-color: #f0f2f5; text-align: center;">
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>OBSERVACIONES</strong>
@@ -128,7 +125,6 @@ style="width:6.1375in;height:3.42569in" />
       </tr>
     </thead>
     <tbody>
-      <!-- Contenido -->
       <tr>
         <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
@@ -159,13 +155,11 @@ style="width:6.1375in;height:3.42569in" />
 <div align="center">
   <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
-      <!-- Subtítulo / Título de la tabla -->
       <tr style="background-color: #eaeef2;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
           <strong>El Territorio: Organización política - Instituciones y escritura</strong>
         </th>
       </tr>
-      <!-- Encabezados de columnas -->
       <tr style="background-color: #f0f2f5; text-align: center;">
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
           <strong>OBSERVACIONES</strong>
@@ -179,7 +173,6 @@ style="width:6.1375in;height:3.42569in" />
       </tr>
     </thead>
     <tbody>
-      <!-- Contenido -->
       <tr>
         <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
@@ -210,13 +203,11 @@ style="width:6.1375in;height:3.42569in" />
 <div align="center">
   <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
-      <!-- Subtítulo / Título de la tabla -->
       <tr style="background-color: #eaeef2;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>Las Mercancías: Innovación económica - Mercado y producción</strong>
         </th>
       </tr>
-      <!-- Encabezados de columnas -->
       <tr style="background-color: #f0f2f5; text-align: center;">
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>OBSERVACIONES</strong>
@@ -230,7 +221,6 @@ style="width:6.1375in;height:3.42569in" />
       </tr>
     </thead>
     <tbody>
-      <!-- Contenido -->
       <tr>
         <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
@@ -261,13 +251,11 @@ style="width:6.1375in;height:3.42569in" />
 <div align="center">
   <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
     <thead>
-      <!-- Subtítulo / Título de la tabla -->
       <tr style="background-color: #eaeef2;">
         <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>El Conocimiento: Inteligencia distribuida - Redes y colaboración</strong>
         </th>
       </tr>
-      <!-- Encabezados de columnas -->
       <tr style="background-color: #f0f2f5; text-align: center;">
         <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
           <strong>OBSERVACIONES</strong>
@@ -281,7 +269,6 @@ style="width:6.1375in;height:3.42569in" />
       </tr>
     </thead>
     <tbody>
-      <!-- Contenido -->
       <tr>
         <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
           <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
