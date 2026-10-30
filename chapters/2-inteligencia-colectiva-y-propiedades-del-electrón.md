@@ -25,7 +25,7 @@ style="width:6.1375in;height:3.42569in" />
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
 
-<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;"> 
  
 ## 2.1.  Fases del desarrollo de la inteligencia colectiva
 
