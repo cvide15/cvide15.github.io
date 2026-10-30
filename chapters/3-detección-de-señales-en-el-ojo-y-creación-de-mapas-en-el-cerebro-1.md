@@ -18,14 +18,14 @@ style="width:6.1375in;height:3.42222in" />
 style="width:6.1375in;height:3.42222in" />
 
 El ojo, receptor que funciona como ventana de observación que consta de: la
-córnea, que es una capa transparente frontal que protege y por
+<a href="https://es.wikipedia.org/wiki/Córnea" title="Capa transparente frontal del ojo que protege la estructura interna y realiza el enfoque inicial por refracción.">córnea</a>, que es una capa transparente frontal que protege y por
 refracción, enfoca todo lo que entra; la pupila, que es la abertura
 central del iris donde se regula la luz que entra, dilatándose en la
 oscuridad y contrayéndose si por el contrario hay mucha luz; el iris,
 que es la parte coloreada del ojo que controla el tamaño de la pupila;
 el cristalino, que es una lente flexible que por acomodación ajusta el
 enfoque según que los objetos vistos se encuentren cerca o lejos; la
-retina, que es una capa de células sensibles a la luz ubicada en el
+<a href="https://es.wikipedia.org/wiki/Retina" title="Capa fotosensible ubicada en el fondo del ojo donde la luz se convierte en impulsos nerviosos.">retina</a>, que es una capa de células sensibles a la luz ubicada en el
 fondo del ojo. El cristalino descompone y proyecta la luz, la retina la
 transforma en impulsos nerviosos y el nervio óptico los conduce al
 cerebro.
