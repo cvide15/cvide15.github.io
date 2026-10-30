@@ -7,9 +7,9 @@ La construcción y circulación del conocimiento se da en el espacio cognitivo d
 Inteligencia colectiva significa construir la capacidad de un grupo, comunidad o sociedad para pensar, comprender y resolver problemas de manera conjunta. Según <a href="https://en.wikipedia.org/wiki/Pierre_Lévy" title="Pierre Lévy: Filósofo y teórico francés de la cibercultura y pionero del concepto de inteligencia colectiva.">Pierre Lévy</a>*, el desarrollo de la inteligencia colectiva requiere reconocer que el conocimiento humano es un producto social y que las sociedades avanzan cuando logran coordinar creativamente las capacidades de muchos para transformar y fortalecer la cooperación y el compromiso de todos.
 Dos elementos clave en la descripción de la inteligencia colectiva son la puesta en práctica de sus fases de desarrollo (escuchar, expresar, decidir, organizar, conectar, evaluar y mostrar visión) y la comprensión de sus espacios antropológicos (la Tierra, el Territorio, las Mercancías y el Conocimiento).
 
-En relación con el conocimiento científico, éste avanza cuando las aportaciones teóricas y los desarrollos experimentales se enriquecen mutuamente, lo cual implica, para empezar, comprender y hacer funcionar adecuadamente cuatro regiones de realización de las actividades experimentales: Preparación, Transformación, Detección y Medición). 
+En relación con el conocimiento científico, éste avanza cuando las aportaciones teóricas y los desarrollos experimentales se enriquen mutuamente, lo cual implica, para empezar, comprender y hacer funcionar adecuadamente cuatro regiones de realización de las actividades experimentales: Preparación, Transformación, Detección y Medición). 
 
-Como ejemplo de aplicación práctica, aplicamos la descripción de las regiones de realización de actividades experimentales al análisis de tres experimentos que condujeron al descubrimiento del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> y permitieron calcular los valores de su <a href=" https://es.wikipedia.org/wiki/Relación_carga-masa" title="	Relación carga/masa (q/m o e/m): Cociente entre la carga eléctrica y la masa de una partícula, calculated originalmente por J. J. Thomson.">relación carga/masa</a> y de su carga eléctrica, así como demostrar la existencia de niveles energéticos discretos. En este capítulo consideramos la relación entre tales regiones de realización de las actividades experimentales con las etapas de producción de las fases del desarrollo de la inteligencia colectiva. Las fases de Escuchar y Expresar corresponden a la etapa de Percepción e Intercambio, las fases de Decidir y Organizar a la etapa de Gestión y Acción y las fases de Conectar, Evaluar y Mostrar Visión a la etapa de Evolución y Sentido.
+Como ejemplo de aplicación práctica, aplicamos la descripción de las regiones de realización de actividades experimentales al análisis de tres experimentos que condujeron al descubrimiento del <a href="https://es.wikipedia.org/wiki/Electrón" title="Electrón: Partícula subatómica fundamental con carga eléctrica negativa que forma parte de átomos y moléculas.">electrón</a> y permitieron calcular los valores de su <a href=" https://es.wikipedia.org/wiki/Relación_carga-masa" title="Relación carga/masa (q/m o e/m): Cociente entre la carga eléctrica y la masa de una partícula, calculado originalmente por J. J. Thomson.">relación carga/masa</a> y de su carga eléctrica, así como demostrar la existencia de niveles energéticos discretos. En este capítulo consideramos la relación entre tales regiones de realización de las actividades experimentales con las etapas de producción de las fases del desarrollo de la inteligencia colectiva. Las fases de Escuchar y Expresar corresponden a la etapa de Percepción e Intercambio, las fases de Decidir y Organizar a la etapa de Gestión y Acción y las fases de Conectar, Evaluar y Mostrar Visión a la etapa de Evolución y Sentido.
 
 <p style="font-size: 10pt; padding-left: margin: 0;">*Lévy Pierre. <i>L'intelligence collective: Pour une anthropologie du cyberspace.</i> Paris: La <i>Découverte.</i> (1994).</p>
 <p style="font-size: 10pt; padding-left: 2ch; margin: 0;">
@@ -36,12 +36,12 @@ Descripción de las fases del desarrollo de la inteligencia colectiva
       <li>Escuchar: atención activa para incorporar perspectivas</li>
       <li>Expresar: posicionamiento para compartir conocimientos</li>
     </ul>
-  <li>Etapa de Gestión y Acción</li> 
+  <li>Etapa de Gestión y Acción</li>
     <ul style="list-style-type: none; padding-left: 30px;">
       <li>Decidir: responsabilidad para seleccionar acciones</li>
       <li>Organizar: coordinación para distribuir procesos</li>
     </ul>
-  <li>Etapa de Evolución y Sentido</li> 
+  <li>Etapa de Evolución y Sentido</li>
     <ul style="list-style-type: none; padding-left: 30px;">
       <li>Conectar: integración de redes cognitivas</li>
       <li>Evaluar: calibración para aprender y corregir</li>
@@ -56,7 +56,7 @@ Descripción de las fases del desarrollo de la inteligencia colectiva
 
 ## 2.2. Espacios antropológicos de la inteligencia colectiva
 
-Describir las siguientes características de cada espacio antropológico: el espacio de la Tierra crea cosmovisiones y construye códigos; el espacio del Territorio requiere para su funcionamiento de infraestructura, gobernanza y mentalidad cultural; el espacio de las Mercancías funciona como estructura global que contiene motores, aceleradores y sistemas operativos y el espacio del Conocimiento se apoya en tres pilares que son la interconexión, la colaboración y la transformación.  
+Describir las siguientes características de cada espacio antropológico: el espacio de la Tierra crea cosmovisiones y construye códigos; el espacio del Territorio requiere para su funcionamiento de infraestructura, gobernanza y mentalidad cultural; el espacio de las Mercancías funciona como estructura global que contiene motores, aceleradores y sistemas operativos y el espacio del Conocimiento se apoya en tres pilares que son la interconexión, la colaboración y la transformación.
 
 - La Tierra: Memoria comunitaria - Tradición y mito<br>
 - El Territorio: Organización política - Instituciones y escritura<br>
@@ -84,7 +84,208 @@ Describir el contenido de las Conferencias Nobel dictadas por los autores de los
       <li>Experimentos para medir la carga eléctrica elemental del electrón por Millikan</li>
       <li>Experimentos para demostrar la existencia de niveles de energía electrónica estacionaria por Franck y Hertz</li>
     </ul>
-  <li>Relaciones entre las regiones de realización de las actividades experimentales y las fases de desarrollo de la inteligencia colectiva.</li> 
+  <li>Relaciones entre las regiones de realización de las actividades experimentales y las fases de desarrollo de la inteligencia colectiva.</li>
 </ul>
 
 </div>
+
+<img src="../media/ch2/image5.png" style="width:6.1375in;height:3.42569in" />
+
+<div align="center">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+    <thead>
+      <tr style="background-color: #f6f8fa;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>Tabla 2.1. Actividades experimentales en cuatro espacios antropológicos</strong>
+        </th>
+      </tr>
+      <tr style="background-color: #eaeef2;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>La Tierra: Memoria comunitaria - Tradición y mito</strong>
+        </th>
+      </tr>
+      <tr style="background-color: #f0f2f5; text-align: center;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>OBSERVACIONES</strong>
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>MEDICIONES</strong>
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>EXPERIMENTOS</strong>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">estaciones del año</li>
+            <li style="margin-bottom: 6px;">comportamiento del clima</li>
+            <li style="margin-bottom: 0;">ciclos agrícolas</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">terrenos agrícolas</li>
+            <li style="margin-bottom: 6px;">tiempo mediante ciclos lunares</li>
+            <li style="margin-bottom: 0;">distancias y tamaños usando partes del cuerpo humano</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">efectos del fuego</li>
+            <li style="margin-bottom: 6px;">fermentación de bebidas y alimentos</li>
+            <li style="margin-bottom: 0;">materiales de construcción</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div align="center">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+    <thead>
+      <tr style="background-color: #eaeef2;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
+          <strong>El Territorio: Organización política - Instituciones y escritura</strong>
+        </th>
+      </tr>
+      <tr style="background-color: #f0f2f5; text-align: center;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          <strong>OBSERVACIONES</strong>
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333;">
+          <strong>MEDICIONES</strong>
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333;">
+          <strong>EXPERIMENTOS</strong>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">geometría de terrenos</li>
+            <li style="margin-bottom: 6px;">evolución de enfermedades</li>
+            <li style="margin-bottom: 0;">sistemas de irrigación</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; border-right: 2px solid #333333; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">tiempo con relojes solares</li>
+            <li style="margin-bottom: 6px;">masas con balanzas</li>
+            <li style="margin-bottom: 0;">pulsos y respiraciones</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: top; line-height: 1.4; height: 100%;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">con poleas y palancas</li>
+            <li style="margin-bottom: 6px;">reacciones químicas artesanales</li>
+            <li style="margin-bottom: 0;">características de suelos y cultivos</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div align="center">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+    <thead>
+      <tr style="background-color: #eaeef2;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>Las Mercancías: Innovación económica - Mercado y producción</strong>
+        </th>
+      </tr>
+      <tr style="background-color: #f0f2f5; text-align: center;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>OBSERVACIONES</strong>
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>MEDICIONES</strong>
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>EXPERIMENTOS</strong>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">registro digital con telescopios</li>
+            <li style="margin-bottom: 6px;">imágenes diagnósticas en medicina</li>
+            <li style="margin-bottom: 0;">procesos industriales automatizados</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">composición química con espectroscopios</li>
+            <li style="margin-bottom: 6px;">tamaños y distancias con instrumentos de alta precisión</li>
+            <li style="margin-bottom: 0;">posicionamientos y orientaciones con satélites</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">en física nuclear</li>
+            <li style="margin-bottom: 6px;">en manipulación genética y molecular</li>
+            <li style="margin-bottom: 0;">en computación e inteligencia artificial</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div align="center">
+  <table style="font-family: 'Times New Roman', Times, serif; font-size: 14px; max-width: 800px; width: 100%; border-collapse: collapse; margin: 20px 0; border: 2px solid #333333; font-weight: normal;">
+    <thead>
+      <tr style="background-color: #eaeef2;">
+        <th colspan="3" style="text-align: center; padding: 10px; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>El Conocimiento: Inteligencia distribuida - Redes y colaboración</strong>
+        </th>
+      </tr>
+      <tr style="background-color: #f0f2f5; text-align: center;">
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>OBSERVACIONES</strong>
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-right: 2px solid #333333; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>MEDICIONES</strong>
+        </th>
+        <th style="padding: 10px; width: 33.33%; text-align: center; font-size: 14px; font-weight: normal; border-bottom: 2px solid #333333; vertical-align: middle;">
+          <strong>EXPERIMENTOS</strong>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">en astronomía colaborativa global</li>
+            <li style="margin-bottom: 6px;">en tratamientos médicos</li>
+            <li style="margin-bottom: 0;">en contaminación ambiental</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4; border-right: 2px solid #333333;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">cambio climático</li>
+            <li style="margin-bottom: 6px;">secuencias genéticas</li>
+            <li style="margin-bottom: 0;">comunicaciones en tiempo real</li>
+          </ul>
+        </td>
+        <td style="padding: 12px; vertical-align: middle; line-height: 1.4;">
+          <ul style="margin: 0; padding-left: 18px; list-style-type: disc;">
+            <li style="margin-bottom: 6px;">en genética colaborativa</li>
+            <li style="margin-bottom: 6px;">en estudios computacionales del clima</li>
+            <li style="margin-bottom: 0;">en ambientes virtuales y comunidades de aprendizaje</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<img src="../media/ch2/image6.png" style="width:6.13693in;height:3.60417in" />
