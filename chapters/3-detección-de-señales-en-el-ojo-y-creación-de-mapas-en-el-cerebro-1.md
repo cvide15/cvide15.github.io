@@ -37,7 +37,7 @@ El nervio óptico es el transmisor que funciona como canal de comunicación de s
 movimientos y perciben formas generales y los conos que si están bien
 iluminados permiten ver detalles finos y percibir colores; hay conos
 sensibles al rojo, al verde y al azul. Cuando la luz llega a los
-fotorreceptores: los pigmentos visuales absorben los fotones incidentes
+<a href="https://es.wikipedia.org/wiki/Fotorreceptor" title="Células de la retina especializadas en la visión nocturna/de movimiento (bastones) y visión en color/de detalle (conos).">fotorreceptores</a>: los pigmentos visuales absorben los fotones incidentes
 y se producen reacciones químicas que generan impulsos eléctricos. El
 viaje de estos impulsos por las neuronas de la retina hasta llegar al
 nervio óptico es lo que se llama fototransducción.
