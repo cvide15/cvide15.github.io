@@ -40,7 +40,7 @@ sensibles al rojo, al verde y al azul. Cuando la luz llega a los
 <a href="https://es.wikipedia.org/wiki/Fotorreceptor" title="Células de la retina especializadas en la visión nocturna/de movimiento (bastones) y visión en color/de detalle (conos).">fotorreceptores</a>: los pigmentos visuales absorben los fotones incidentes
 y se producen reacciones químicas que generan impulsos eléctricos. El
 viaje de estos impulsos por las neuronas de la retina hasta llegar al
-nervio óptico es lo que se llama fototransducción.
+nervio óptico es lo que se llama <a href="https://es.wikipedia.org/wiki/Fototransducción_visual" title="Proceso químico y eléctrico mediante el cual los pigmentos visuales absorben fotones y generan señales nerviosas hacia el nervio óptico.">fototransducción</a>.
 
 <img src="../media/ch3/image12.png"
 style="width:6.1375in;height:3.42222in" />
@@ -167,7 +167,8 @@ style="width:6.1375in;height:3.42222in" />
       <td style="width: 77%; border: 1px solid black; padding: 8px; vertical-align: middle;">
         <p style="text-align: center; margin: 0 0 10px 0;"><strong>Haldan Keffer Hartline (1903 – 1983)</strong></p>
         <p style="text-align: justify; margin: 0;">
-          Mostró que la retina analiza información, compara señales, inhibe respuestas y extrae contrastes visuales. Descubrió los campos receptivos retinales que significan que cada neurona visual responde solamente a estímulos luminosos provenientes de una región específica del campo visual. Además, demostró la existencia de la inhibición lateral según la cual cuando una neurona retinal es estimulada por la luz puede inhibir la actividad de neuronas vecinas.
+          Mostró que la retina analiza información, compara señales, inhibe respuestas y extrae contrastes visuales. Descubrió los campos receptivos retinales que significan que cada neurona visual responde solamente a estímulos luminosos provenientes de una región específica del campo visual. Además, demostró la existencia de la <a href="https://es.wikipedia.org/wiki/Inhibición_lateral" title="Mecanismo retinal por el cual una neurona estimulada suprime la actividad de sus vecinas para resaltar contrastes visuales.">inhibición lateral</a>
+ según la cual cuando una neurona retinal es estimulada por la luz puede inhibir la actividad de neuronas vecinas.
         </p>
       </td>
       <td style="max-width: 23%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: middle;">
@@ -203,7 +204,7 @@ style="width:6.1375in;height:3.42292in" />
       <td style="width: 77%; border: 1px solid black; padding: 8px; vertical-align: middle;">
         <p style="text-align: center; margin: 0 0 10px 0;"><strong>George Wald (1906 – 1997)</strong></p>
         <p style="text-align: justify; margin: 0;">
-          Explicó cómo la luz interactúa con moléculas visuales; descubrió los pigmentos visuales que son moléculas fotosensibles que absorben luz y desencadenan cambios químicos que luego producen señales nerviosas. También demostró que la vitamina A es esencial para la visión porque su deficiencia altera la formación de rodopsina y produce ceguera nocturna.
+          Explicó cómo la luz interactúa con moléculas visuales; descubrió los pigmentos visuales que son moléculas fotosensibles que absorben luz y desencadenan cambios químicos que luego producen señales nerviosas. También demostró que la vitamina A es esencial para la visión porque su deficiencia altera la formación de <a href="https://es.wikipedia.org/wiki/Rodopsina" title="Pigmento fotosensible de los bastones esencial para la visión, cuya alteración provoca ceguera nocturna.">rodopsina</a> y produce ceguera nocturna.
         </p>
       </td>
       <td style="width: 23%; border: 1px solid black; padding: 8px; text-align: center; vertical-align: middle;">
