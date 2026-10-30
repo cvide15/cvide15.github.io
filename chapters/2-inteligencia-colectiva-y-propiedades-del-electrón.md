@@ -1,4 +1,4 @@
-
+ 
 # Capítulo 2: Inteligencia Colectiva y Propiedades del Electrón
 
 <div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
