@@ -49,21 +49,18 @@ style="width:6.1375in;height:3.42569in" />
 Describir la duración en segundos de algunos fenómenos físicos y
 explicar el funcionamiento de algunos relojes.
 
-Medición del tiempo y definición del segundo
-
-Tipos de relojes
-
-> Relojes primitivos
->
-> Relojes mecánicos
->
-> Relojes digitales
->
-> Relojes atómicos
->
-> Semejanzas y diferencias en los relojes modernos
-
-Participación del láser en el funcionamiento de los relojes atómicos
+<ul>
+  <li>Medición del tiempo y definición del segundo</li>
+  <li>Tipos de relojes</li>
+    <ul style="list-style-type: none; padding-left: 30px;">
+      <li>Relojes primitivos</li>
+      <li>Relojes mecánicos</li>
+      <li>Relojes digitales</li>
+      <li>Relojes atómicos</li>
+      <li>Semejanzas y diferencias en los relojes modernos</li>
+    </ul>
+  <li>Participación del láser en el funcionamiento de los relojes atómicos</li>
+</ul>
 
 <img src="../media/ch5/image2.png"
 style="width:6.1375in;height:3.42569in" />
