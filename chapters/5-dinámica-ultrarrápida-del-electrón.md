@@ -113,6 +113,126 @@ Aplicaciones en Física fundamental
 <img src="../media/ch5/image4.png"
 style="width:6.1375in;height:3.42569in" />
 
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <td colspan="2" style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Tabla 5.1. Fenómenos físicos descritos con diferentes unidades de tiempo
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 38%; border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Unidad
+      </td>
+      <td style="width: 62%; border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Fenómeno
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Segundo (1 s)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Duración de un latido humano.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Decisegundo (1 ds = 10<sup>-1</sup> s)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Duración de un solo parpadeo: (1 – 4) s.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Centisegundo (1 cs = 10<sup>-2</sup> s)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Reflejo humano a estímulos visuales: (10 – 20) cs.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Milisegundo (1 ms = 10<sup>-3</sup> s)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Tiempo de disparo de una neurona: 1 ms.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Microsegundo (1 μs = 10<sup>-6</sup> s)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Vida útil de un muón: 2.2 μs.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Nanosegundo (1 ns = 10<sup>-9</sup> s)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Tiempo que tarda la luz en recorrer 30 cm: 1 ns.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Picosegundo (1 ps = 10<sup>-12</sup> s)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Vida media de un quark bottom: 1 ps.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Femtosegundo (1 fs = 10<sup>-15</sup> s)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Periodo de vibración de una molécula de hidrógeno: 7.58 fs.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Attosegundo (1 as = 10<sup>-18</sup> s)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Pulso más corto de un láser de electrones: 53 as.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Zeptosegundo (1 zs = 10<sup>-21</sup> s)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Tiempo que tarda un fotón en atravesar una molécula de hidrógeno: 247 zs.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Octosegundo (1 ys = 10<sup>-24</sup> s)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Vida media de un bosón de Higgs: 156 ys.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Rontosegundo (1 rs = 10<sup>-27</sup> s)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Vida útil media de los bosones W y Z: 300 rs.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Notas sobre la transcripción:
+* **Superíndices:** Se utilizó la etiqueta `<sup>...</sup>` para los exponentes negativos (`-1`, `-2`, `-3`, etc.).
+* **Fidelidad al texto original:** Se transcribió tal cual aparece en la imagen (incluyendo detalles como *"Octosegundo (1 ys...)"* —que en el Sistema Internacional suele llamarse *yoctosegundo*— y *"(1 – 4) s"* en el decisegundo), por si necesitas conservar el texto exacto de tu documento fuente. Si deseas corregir esos dos datos científicos antes de usarlo, avísame y los ajusto.
+
+
+
 | Tabla 5.1. Fenómenos físicos descritos con diferentes unidades de tiempo |                                                                           |
 |--------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | Unidad                                                                   | Fenómeno                                                                  |
