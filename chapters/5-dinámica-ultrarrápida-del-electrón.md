@@ -1,7 +1,7 @@
----
-title: "Capítulo 5: Dinámica ultrarrápida del electrón"
----
 
+# Capítulo 5: Dinámica ultrarrápida del electrón
+
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
 Los átomos y los núcleos son grandes y pesados, sus movimientos se miden
 en femtosegundos (1 fs = 10<sup>-15</sup> s), mientras que los
 electrones son ligeros y ágiles; se mueven tan rápido que sus cambios
@@ -37,6 +37,7 @@ electrones.
 
 Todas las imágenes incluidas en este capítulo han sido generadas por el
 Programa NotebookLM basadas en fuentes generadas por el autor.
+</div>
 
 <img src="../media/ch5/image1.png"
 style="width:6.1375in;height:3.42569in" />
