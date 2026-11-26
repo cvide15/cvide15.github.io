@@ -44,6 +44,8 @@ style="width:6.1375in;height:3.42569in" />
 
 **OBJETIVOS Y CONTENIDOS DE LAS SECCIONES**
 
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+
 **5.1. Movimientos en diferentes escalas de tiempo**
 
 Describir la duración en segundos de algunos fenómenos físicos y
@@ -61,10 +63,12 @@ explicar el funcionamiento de algunos relojes.
     </ul>
   <li>Participación del láser en el funcionamiento de los relojes atómicos</li>
 </ul>
-
+</div>
 <img src="../media/ch5/image2.png"
 style="width:6.1375in;height:3.42569in" />
 
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+  
 **5.2. Nacimiento de la Física de attosegundos**
 
 Explicar los experimentos realizadas por quienes obtuvieron el Premio
@@ -77,10 +81,13 @@ Contribuciones de Pierre Agostini y colaboradores
 Contribuciones de Ferenc Krausz y colaboradores
 
 Metodología Experimental de la Física de Attosegundos
+</div>
 
 <img src="../media/ch5/image3.png"
 style="width:6.1375in;height:3.42569in" />
 
+<div style="border: 5px solid #d0d7de; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+  
 **5.3. Aplicaciones de la física de attosegundos**
 
 Describir algunos casos que muestran cómo la física de attosegundos ha
@@ -117,6 +124,7 @@ Aplicaciones en Diagnósticos médicos
 > Identificación de moléculas en muestras biológicas
 >
 > Realización de diagnósticos de enfermedades
+</div>
 
 <img src="../media/ch5/image4.png"
 style="width:6.1375in;height:3.42569in" />
