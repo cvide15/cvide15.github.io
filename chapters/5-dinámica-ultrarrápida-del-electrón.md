@@ -227,10 +227,6 @@ style="width:6.1375in;height:3.42569in" />
   </tbody>
 </table>
 
-### Notas sobre la transcripción:
-* **Superíndices:** Se utilizó la etiqueta `<sup>...</sup>` para los exponentes negativos (`-1`, `-2`, `-3`, etc.).
-* **Fidelidad al texto original:** Se transcribió tal cual aparece en la imagen (incluyendo detalles como *"Octosegundo (1 ys...)"* —que en el Sistema Internacional suele llamarse *yoctosegundo*— y *"(1 – 4) s"* en el decisegundo), por si necesitas conservar el texto exacto de tu documento fuente. Si deseas corregir esos dos datos científicos antes de usarlo, avísame y los ajusto.
-
 
 
 | Tabla 5.1. Fenómenos físicos descritos con diferentes unidades de tiempo |                                                                           |
