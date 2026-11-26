@@ -74,13 +74,12 @@ style="width:6.1375in;height:3.42569in" />
 Explicar los experimentos realizadas por quienes obtuvieron el Premio
 Nobel de Física 2023: Anne L'Huillier, Pierre Agostini y Ferenc Krausz.
 
-Contribuciones de Anne L´Huillier y colaboradores
-
-Contribuciones de Pierre Agostini y colaboradores
-
-Contribuciones de Ferenc Krausz y colaboradores
-
-Metodología Experimental de la Física de Attosegundos
+<ul>
+<li>Contribuciones de Anne L´Huillier y colaboradores</li>
+<li>Contribuciones de Pierre Agostini y colaboradores</li>
+<li>Contribuciones de Ferenc Krausz y colaboradores</li>
+<li>Metodología Experimental de la Física de Attosegundos</li>
+</ul>
 </div>
 
 <img src="../media/ch5/image3.png"
@@ -97,33 +96,18 @@ de la mera observación teórica a la nueva ingeniería cuántica.
 
 Aplicaciones en Física fundamental
 
-> Determinación del tiempo de tunelización
->
-> Sondeo de la correlación y el entrelazamiento de electrones
-
-Aplicaciones en Ciencia de materiales
-
-> Transporte de electrones en sólidos
->
-> Efectos ambientales en la dinámica electrónica
-
-Aplicaciones en Electrónica
-
-> Electrónica de ondas de luz
->
-> Estados cuánticos en materiales y nanoestructuras
-
-Aplicaciones en Química
-
-> Migración de cargas en átomos y moléculas
->
-> Control de reacciones químicas
-
-Aplicaciones en Diagnósticos médicos
-
-> Identificación de moléculas en muestras biológicas
->
-> Realización de diagnósticos de enfermedades
+<ul>
+<li>Determinación del tiempo de tunelización</li>
+<li>Sondeo de la correlación y el entrelazamiento de electrones</li>
+<li>Transporte de electrones en sólidos </li>
+<li>Efectos ambientales en la dinámica electrónica</li>
+<li>Electrónica de ondas de luz</li>
+<li>Estados cuánticos en materiales y nanoestructuras</li>
+<li>Migración de cargas en átomos y moléculas</li>
+<li>Control de reacciones químicas</li>
+<li>Identificación de moléculas en muestras biológicas</li>
+<li>Realización de diagnósticos de enfermedades</li>
+</ul>
 </div>
 
 <img src="../media/ch5/image4.png"
