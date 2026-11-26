@@ -116,8 +116,8 @@ style="width:6.1375in;height:3.42569in" />
 <table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
   <tbody>
     <tr>
-      <td colspan="2" style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
-        Tabla 5.1. Fenómenos físicos descritos con diferentes unidades de tiempo
+      <td colspan="2" style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle; color: black;">
+        <strong>Tabla 5.1. Fenómenos físicos descritos con diferentes unidades de tiempo</strong>
       </td>
     </tr>
     <tr>
@@ -226,24 +226,6 @@ style="width:6.1375in;height:3.42569in" />
     </tr>
   </tbody>
 </table>
-
-
-
-| Tabla 5.1. Fenómenos físicos descritos con diferentes unidades de tiempo |                                                                           |
-|--------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Unidad                                                                   | Fenómeno                                                                  |
-| Segundo (1 s)                                                            | Duración de un latido humano.                                             |
-| Decisegundo (1 ds = 10<sup>-1</sup> s)                                   | Duración de un solo parpadeo: (1 – 4) s.                                  |
-| Centisegundo (1 cs = 10<sup>-2</sup> s)                                  | Reflejo humano a estímulos visuales: (10 – 20) cs.                        |
-| Milisegundo (1 ms = 10<sup>-3</sup> s)                                   | Tiempo de disparo de una neurona: 1 ms.                                   |
-| Microsegundo (1 μs = 10<sup>-6</sup> s)                                  | Vida útil de un muón: 2.2 μs.                                             |
-| Nanosegundo (1 ns = 10<sup>-9</sup> s)                                   | Tiempo que tarda la luz en recorrer 30 cm: 1 ns.                          |
-| Picosegundo (1 ps = 10<sup>-12</sup> s)                                  | Vida media de un quark bottom: 1 ps.                                      |
-| Femtosegundo (1 fs = 10<sup>-15</sup> s)                                 | Periodo de vibración de una molécula de hidrógeno: 7.58 fs.               |
-| Attosegundo (1 as = 10<sup>-18</sup> s)                                  | Pulso más corto de un láser de electrones: 53 as.                         |
-| Zeptosegundo (1 zs = 10<sup>-21</sup> s)                                 | Tiempo que tarda un fotón en atravesar una molécula de hidrógeno: 247 zs. |
-| Octosegundo (1 ys = 10<sup>-24</sup> s)                                  | Vida media de un bosón de Higgs: 156 ys.                                  |
-| Rontosegundo (1 rs = 10<sup>-27</sup> s)                                 | Vida útil media de los bosones W y Z: 300 rs.                             |
 
 <img src="../media/ch5/image5.png"
 style="width:6.1375in;height:3.42292in" />
