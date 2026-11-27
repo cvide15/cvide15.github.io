@@ -43,6 +43,124 @@ describen la estructura y el funcionamiento de los procedimientos usados
 para medir tiempos: las arquitecturas informacionales (A) y los
 mecanismos de medición (M).
 
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <td colspan="4" style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle; color: black;">
+        <strong>Tabla 5.2. Arquitectura del sistema (A) y Mecanismo de medición (M)</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 5%; border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;"></td>
+      <td style="width: 22%; border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Componente
+      </td>
+      <td style="width: 43%; border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Navegación antigua
+      </td>
+      <td style="width: 30%; border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Relojes modernos
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="4" style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        A
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Fuente del fenómeno
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Flujo de arena, rotación terrestre (Sol/estrellas)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Oscilador físico estable (cuarzo o átomo)
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Regularidad
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Aproximada, dependiente del entorno
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Altamente estable y controlada
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Referencia
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Natural (ciclos astronómicos)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Física universal (frecuencia atómica)
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Control del proceso
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Manual (reloj de arena)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Automático (circuitos electrónicos o lásers)
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="4" style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        M
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Dispositivo base
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Reloj de arena
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Cuarzo / reloj atómico
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Principio físico
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Flujo gravitacional de arena
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Oscilación mecánica o transición cuántica
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Unidad de medida
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Intervalos prácticos (30 min, 4 h)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Segundo definido físicamente
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Reinicio
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Necesario (voltear el reloj para iniciar otro ciclo)
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Continuo
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 | Tabla 5.2. Arquitectura del sistema (A) y Mecanismo de medición (M) |                     |                                                      |                                              |
 |---------------------------------------------------------------------|---------------------|------------------------------------------------------|----------------------------------------------|
 |                                                                     | Componente          | Navegación antigua                                   | Relojes modernos                             |
