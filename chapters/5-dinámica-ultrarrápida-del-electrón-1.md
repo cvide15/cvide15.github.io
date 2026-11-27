@@ -1,4 +1,4 @@
-**5.1. Movimientos en diferentes escalas de tiempo**
+## 5.1. Movimientos en diferentes escalas de tiempo
 
 En esta sección describimos la necesidad de definir distintas unidades
 de tiempo para cuantificar duraciones de eventos ultrarrápidos, para
