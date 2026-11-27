@@ -159,20 +159,6 @@ mecanismos de medición (M).
   </tbody>
 </table>
 
-
-
-| Tabla 5.2. Arquitectura del sistema (A) y Mecanismo de medición (M) |                     |                                                      |                                              |
-|---------------------------------------------------------------------|---------------------|------------------------------------------------------|----------------------------------------------|
-|                                                                     | Componente          | Navegación antigua                                   | Relojes modernos                             |
-| A                                                                   | Fuente del fenómeno | Flujo de arena, rotación terrestre (Sol/estrellas)   | Oscilador físico estable (cuarzo o átomo)    |
-|                                                                     | Regularidad         | Aproximada, dependiente del entorno                  | Altamente estable y controlada               |
-|                                                                     | Referencia          | Natural (ciclos astronómicos)                        | Física universal (frecuencia atómica)        |
-|                                                                     | Control del proceso | Manual (reloj de arena)                              | Automático (circuitos electrónicos o lásers) |
-| M                                                                   | Dispositivo base    | Reloj de arena                                       | Cuarzo / reloj atómico                       |
-|                                                                     | Principio físico    | Flujo gravitacional de arena                         | Oscilación mecánica o transición cuántica    |
-|                                                                     | Unidad de medida    | Intervalos prácticos (30 min, 4 h)                   | Segundo definido físicamente                 |
-|                                                                     | Reinicio            | Necesario (voltear el reloj para iniciar otro ciclo) | Continuo                                     |
-
 Los marinos antiguos utilizaron los relojes de arena para cuantificar el
 paso del tiempo cuando navegaban en mar abierto, condiciones en las
 cuales el barco vibraba y cambiaba de posición constantemente. En
@@ -543,18 +529,6 @@ modernos.
     </tr>
   </tbody>
 </table>
-
-| Tabla 5.3. Comparación estructural de componentes |                      |                       |                                |
-|---------------------------------------------------|----------------------|-----------------------|--------------------------------|
-| Componente                                        | Reloj mecánico       | Reloj de cuarzo       | Reloj atómico                  |
-| Oscilador                                         | Péndulo o volante    | Cristal de cuarzo     | Transición atómica             |
-| Principio físico                                  | Mecánica clásica     | Efecto piezoeléctrico | Mecánica cuántica              |
-| Frecuencia típica                                 | ~1 Hz                | ~ 32,768 Hz           | ~ 9.19 GHz                     |
-| Fuente de energía                                 | Pesas o resorte      | Batería               | Campos electromagnéticos       |
-| Regulación                                        | Escape mecánico      | Circuito electrónico  | Resonancia y retroalimentación |
-| Señal generada                                    | Movimiento periódico | Señal eléctrica       | Transición cuántica            |
-| Dispositivo para contar el tiempo                 | Engranajes           | Divisor digital       | Contador de frecuencias        |
-| Precisión                                         | Segundo/día          | Segundo/mes           | Segundo/millones de años       |
 
 **Participación del láser en el funcionamiento de los relojes atómicos**
 
