@@ -408,6 +408,142 @@ funcionamiento.
 La siguiente Tabla 5.3 compara diversas características de los relojes
 modernos.
 
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+  <tbody>
+    <tr>
+      <td colspan="4" style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle; color: black;">
+        <strong>Tabla 5.3. Comparación estructural de componentes</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 25%; border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Componente
+      </td>
+      <td style="width: 24%; border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Reloj mecánico
+      </td>
+      <td style="width: 26%; border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Reloj de cuarzo
+      </td>
+      <td style="width: 25%; border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Reloj atómico
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Oscilador
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Péndulo o volante
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Cristal de cuarzo
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Transición atómica
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Principio físico
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Mecánica clásica
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Efecto piezoeléctrico
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Mecánica cuántica
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Frecuencia típica
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        ~1 Hz
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        ~ 32,768 Hz
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        ~ 9.19 GHz
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Fuente de energía
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Pesas o resorte
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Batería
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Campos electromagnéticos
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Regulación
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Escape mecánico
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Circuito electrónico
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Resonancia y retroalimentación
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Señal generada
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Movimiento periódico
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Señal eléctrica
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Transición cuántica
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Dispositivo para contar el tiempo
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Engranajes
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Divisor digital
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Contador de frecuencias
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 6px; text-align: center; vertical-align: middle;">
+        Precisión
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Segundo/día
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Segundo/mes
+      </td>
+      <td style="border: 1px solid black; padding: 6px; text-align: left; vertical-align: middle;">
+        Segundo/millones de años
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 | Tabla 5.3. Comparación estructural de componentes |                      |                       |                                |
 |---------------------------------------------------|----------------------|-----------------------|--------------------------------|
 | Componente                                        | Reloj mecánico       | Reloj de cuarzo       | Reloj atómico                  |
